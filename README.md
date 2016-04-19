@@ -1,2 +1,0 @@
-# PyCharm
-Personal PyCharm Config
