@@ -1,0 +1,89 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1461106391363">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461106428439">
+        <mark key="'" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1461077332511">
+        <mark key="[" line="100" column="27" />
+        <mark key="]" line="100" column="27" />
+        <mark key="." line="100" column="27" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461106154613">
+        <mark key="'" line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
+        <mark key="'" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="21" column="41" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="18" column="69" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" />
+      <jump line="16" column="6" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="97" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>i</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">c2VsZiwg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgcHJpdmF0ZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fZXhwcmVzc2lvbiA9ICcnCgogICAgICAgIHNlbGYuc2NyZWVuID0gImNzcz0uY2Fsc2NyZWVuIgogICAgICAgIHNlbGYubG9jYXRvciA9ICJjc3M9LmNhbGN1bGF0b3JfY29udGFpbmVyIgogICAgICAgIHNlbGYubWVudSA9ICJpZD1jYWxjdWxhdG9yTWVudSIKICAgICAgICBzZWxmLmhpc3Rvcnlfc2NyZWVuID0gImNzcz0uY2FsaGlzdG9yeSIKICAgICAgICBzZWxmLnJlc3VsdF9zY3JlZW4gPSAiY3NzPS5jYWxyZXN1bHQiCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>i</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>vs</entry>
+        <entry>w</entry>
+        <entry>NERDTreeToggle</entry>
+        <entry>NERDTreeMirror</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
