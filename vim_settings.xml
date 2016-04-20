@@ -9,7 +9,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461106428439">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461110086004">
         <mark key="'" line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1461077332511">
@@ -53,7 +53,7 @@
         <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fZXhwcmVzc2lvbiA9ICcnCgogICAgICAgIHNlbGYuc2NyZWVuID0gImNzcz0uY2Fsc2NyZWVuIgogICAgICAgIHNlbGYubG9jYXRvciA9ICJjc3M9LmNhbGN1bGF0b3JfY29udGFpbmVyIgogICAgICAgIHNlbGYubWVudSA9ICJpZD1jYWxjdWxhdG9yTWVudSIKICAgICAgICBzZWxmLmhpc3Rvcnlfc2NyZWVuID0gImNzcz0uY2FsaGlzdG9yeSIKICAgICAgICBzZWxmLnJlc3VsdF9zY3JlZW4gPSAiY3NzPS5jYWxyZXN1bHQiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -66,10 +66,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>vs</entry>
         <entry>w</entry>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -83,6 +83,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
