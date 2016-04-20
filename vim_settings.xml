@@ -9,14 +9,13 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1461194648169" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461106154613">
-        <mark key="'" line="16" column="6" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461194820052">
+        <mark key="'" line="48" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1461119099386">
         <mark key="[" line="13" column="0" />
@@ -37,9 +36,6 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461121039939">
-        <mark key="'" line="59" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="21" column="41" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
@@ -51,6 +47,8 @@
       <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="51" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="59" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="20" column="6" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="48" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
