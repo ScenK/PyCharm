@@ -9,6 +9,14 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking.robot" timestamp="1461118269356" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1461120048756">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="65" column="2" />
+        <mark key="^" line="64" column="37" />
+        <mark key="." line="65" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461110086004">
         <mark key="'" line="93" column="0" />
       </file>
@@ -20,9 +28,20 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461106154613">
         <mark key="'" line="16" column="6" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1461119099386">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="57" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461118199005" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/pager.robot" timestamp="1461118507505" />
     </filemarks>
     <jumps>
       <jump line="21" column="41" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
@@ -32,31 +51,44 @@
       <jump line="42" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="97" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="51" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICBbQXJndW1lbnRzXSAgICAke251bWJlcn0K</text>
+      </register>
       <register name="1" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+        <text>'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>Verify whether this question has masking tool</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpdmF0ZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBNb3VzZSBEb3duCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fZXhwcmVzc2lvbiA9ICcnCgogICAgICAgIHNlbGYuc2NyZWVuID0gImNzcz0uY2Fsc2NyZWVuIgogICAgICAgIHNlbGYubG9jYXRvciA9ICJjc3M9LmNhbGN1bGF0b3JfY29udGFpbmVyIgogICAgICAgIHNlbGYubWVudSA9ICJpZD1jYWxjdWxhdG9yTWVudSIKICAgICAgICBzZWxmLmhpc3Rvcnlfc2NyZWVuID0gImNzcz0uY2FsaGlzdG9yeSIKICAgICAgICBzZWxmLnJlc3VsdF9zY3JlZW4gPSAiY3NzPS5jYWxyZXN1bHQiCg==</text>
+      <register name="6" type="4">
+        <text>p</text>
+      </register>
+      <register name="7" type="4">
+        <text>x</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzEuIE9wZW4gMSBHZW5lcmFsIE1hc2tpbmcgYm94LCB2ZXJpZnkgaXQgaXMgb3BhcXVlIHdoaXRlLg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBBZGQgTWFza2luZwogIE1hc2tpbmcgU2hvdWxkIEJlIE9wYXF1ZSBXaGl0ZSAgICAxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
@@ -66,10 +98,11 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
         <entry>vs</entry>
+        <entry>:CtrlPBuffer</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -86,6 +119,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
