@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1461281526307">
+        <mark key="[" line="58" column="30" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" timestamp="1461219554884">
         <mark key="'" line="0" column="0" />
       </file>
@@ -96,7 +99,7 @@
         <text encoding="base64">ICBBZGQgTWFza2luZwogIE1hc2tpbmcgU2hvdWxkIEJlIE9wYXF1ZSBXaGl0ZSAgICAxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -112,8 +115,8 @@
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
         <entry>:CtrlPBuffer</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
