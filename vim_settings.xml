@@ -57,12 +57,12 @@
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461301527291">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461302291759">
         <mark key="'" line="115" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="31" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="117" column="16" />
+        <mark key="[" line="123" column="102" />
+        <mark key="]" line="124" column="1" />
+        <mark key="." line="124" column="1" />
+        <mark key="^" line="124" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461301545506">
         <mark key="'" line="23" column="21" />
@@ -136,8 +136,8 @@
       <register name="/" type="4">
         <text>kiosk</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">R2V0IFN0b3JlZCBSZXNwb25zZXMgU3RhdHVzIEZsYWcK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICR7RU1QVFl9</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
@@ -145,26 +145,26 @@
       <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBbQXJndW1lbnRzXSAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVjb3JkIFN0b3JlZCBSZXNwb25zZXMgU3RhdHVzCiAgW0RvY3VtZW50YXRpb25dICAgIFJlY29yZCBTdG9yZWQgUmVzcG9uc2VzIFRpbWVzdGFtcFtLaW9za10gb3IgSGFzaFtCcm93c2VyXS4K</text>
+        <text encoding="base64">ICAke3ZhcjF9JHt2YXIyfSA9CVNldCBWYXJpYWJsZQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">R2V0IFN0b3JlZCBSZXNwb25zZXMgU3RhdHVzIEZsYWcKICBbRG9jdW1lbnRhdGlvbl0gICAgR2V0IFN0b3JlZCBSZXNwb25zZXMgVGltZXN0YW1wW0tpb3NrXSBvciBIYXNoW0Jyb3dzZXJdLgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBbRG9jdW1lbnRhdGlvbl0gICAgR2V0IFN0b3JlZCBSZXNwb25zZXMgVGltZXN0YW1wW0tpb3NrXSBvciBIYXNoW0Jyb3dzZXJdLgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBbQXJndW1lbnRzXSAgICAke30K</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -184,10 +184,10 @@
       <history-cmd>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
-        <entry>:CtrlPBuffer</entry>
         <entry>bn!</entry>
         <entry>vs</entry>
         <entry>bp!</entry>
+        <entry>:CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
