@@ -57,20 +57,25 @@
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461298122664">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461301527291">
         <mark key="'" line="115" column="0" />
-        <mark key="[" line="161" column="9" />
-        <mark key="]" line="161" column="45" />
-        <mark key="." line="161" column="24" />
-        <mark key="^" line="161" column="24" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="31" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="117" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461297412074">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461301545506">
         <mark key="'" line="23" column="21" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="39" column="2" />
+        <mark key="." line="39" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1461293201339" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461299314948">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="27" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -120,44 +125,46 @@
       <jump line="5" column="14" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" />
       <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="23" column="21" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" />
+      <jump line="62" column="55" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="116" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="115" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>kiosk</text>
       </register>
-      <register name="0" type="4">
-        <text>${HB_TIMESTAMP}=    Get Modified Time</text>
+      <register name="0" type="2">
+        <text encoding="base64">R2V0IFN0b3JlZCBSZXNwb25zZXMgU3RhdHVzIEZsYWcK</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
-      </register>
-      <register name="2" type="4">
-        <text>d</text>
-      </register>
-      <register name="3" type="4">
-        <text>o</text>
-      </register>
-      <register name="4" type="4">
-        <text>m</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IEhhc2g=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
-        <text>Check local storage is updated</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBbQXJndW1lbnRzXSAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>k</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IFNob3VsZCBCZSBVcGRhdGVk</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">UmVjb3JkIFN0b3JlZCBSZXNwb25zZXMgU3RhdHVzCiAgW0RvY3VtZW50YXRpb25dICAgIFJlY29yZCBTdG9yZWQgUmVzcG9uc2VzIFRpbWVzdGFtcFtLaW9za10gb3IgSGFzaFtCcm93c2VyXS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">R2V0IFN0b3JlZCBSZXNwb25zZXMgU3RhdHVzIEZsYWcKICBbRG9jdW1lbnRhdGlvbl0gICAgR2V0IFN0b3JlZCBSZXNwb25zZXMgVGltZXN0YW1wW0tpb3NrXSBvciBIYXNoW0Jyb3dzZXJdLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBbRG9jdW1lbnRhdGlvbl0gICAgR2V0IFN0b3JlZCBSZXNwb25zZXMgVGltZXN0YW1wW0tpb3NrXSBvciBIYXNoW0Jyb3dzZXJdLgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBbQXJndW1lbnRzXSAgICAke30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
