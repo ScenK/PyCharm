@@ -45,10 +45,10 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" timestamp="1461219554884">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461297429059">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461311087273">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1461294283845">
         <mark key="'" line="60" column="0" />
@@ -62,19 +62,19 @@
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461310424024">
-        <mark key="'" line="170" column="2" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="166" column="21" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461315081077">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="115" column="30" />
+        <mark key="]" line="115" column="30" />
+        <mark key="." line="115" column="30" />
+        <mark key="^" line="115" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461309808643">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461315088853">
         <mark key="'" line="23" column="21" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="45" column="39" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1461293201339" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461299314948">
@@ -142,52 +142,54 @@
       <jump line="154" column="37" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="103" column="66" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="170" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="143" column="16" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="8" column="16" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</text>
+        <text encoding="base64">XDxpdF9oYXNoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAke2FjdGl2ZV9zZXNzaW9uX2lkfT0gICBHZXQgQWN0aXZlIFNlc3Npb24gSWQK</text>
+        <text encoding="base64">ICBTbGVlcCAgICA5MAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAke2FjdGl2ZV9zZXNzaW9uX2lkfT0gICAgRXhlY3V0ZSBKYXZhc2NyaXB0ICAgIHJldHVybiBUZXN0ZXIuVXNlci5nZXRTZXNzaW9uKCkuYWN0aXZlc2Vzc2lvbmlkCg==</text>
+        <text encoding="base64">ICBSZWNvcmQgU3RvcmVkIFJlc3BvbnNlcyBDaGFuZ2VkIFJlY29yZHMK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAke2FjdGl2ZV9zZXNzaW9uX2lkfT0gICAgRXhlY3V0ZSBKYXZhc2NyaXB0ICAgIHJldHVybiBUZXN0ZXIuVXNlci5nZXRTZXNzaW9uKCkuYWN0aXZlc2Vzc2lvbmlkCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text>Changed Records</text>
       </register>
       <register name="4" type="4">
-        <text>x</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>timestamp</text>
+        <text>,</text>
       </register>
-      <register name="7" type="4">
-        <text>Timestamp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBTbGVlcCAgICA5MAogIFN0b3JlZCBSZXNwb25zZXMgU2hvdWxkIEJlIFVwZGF0ZWQK</text>
       </register>
       <register name="8" type="4">
-        <text>timestamp</text>
+        <text>, verify the reposes are stored with updated timestamp.</text>
       </register>
       <register name="9" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</last-search>
+      <last-search encoding="base64">XDxpdF9oYXNoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpdF9oYXNoXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -195,6 +197,7 @@
       <history-search>
         <entry>kiosk</entry>
         <entry encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</entry>
+        <entry encoding="base64">XDxpdF9oYXNoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
@@ -202,8 +205,8 @@
         <entry>bn!</entry>
         <entry>:CtrlPBuffer</entry>
         <entry>v</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
