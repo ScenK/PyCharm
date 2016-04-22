@@ -13,6 +13,11 @@
         <mark key="^" line="64" column="37" />
         <mark key="." line="65" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461295519557">
         <mark key="'" line="32" column="35" />
       </file>
@@ -33,6 +38,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="57" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" timestamp="1461316223861" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
@@ -155,32 +161,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBTbGVlcCAgICA5MAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBSZWNvcmQgU3RvcmVkIFJlc3BvbnNlcyBDaGFuZ2VkIFJlY29yZHMK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
-      <register name="3" type="4">
-        <text>Changed Records</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBSZWNvcmQgU3RvcmVkIFJlc3BvbnNlcyBDaGFuZ2VkIFJlY29yZHMK</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Changed Records</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICA5MAogIFN0b3JlZCBSZXNwb25zZXMgU2hvdWxkIEJlIFVwZGF0ZWQK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>, verify the reposes are stored with updated timestamp.</text>
+        <text>,</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBTbGVlcCAgICA5MAogIFN0b3JlZCBSZXNwb25zZXMgU2hvdWxkIEJlIFVwZGF0ZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -205,8 +211,8 @@
         <entry>bn!</entry>
         <entry>:CtrlPBuffer</entry>
         <entry>v</entry>
-        <entry>bp!</entry>
         <entry>vs</entry>
+        <entry>bp!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
