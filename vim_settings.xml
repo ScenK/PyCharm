@@ -57,12 +57,12 @@
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461302291759">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="123" column="102" />
-        <mark key="]" line="124" column="1" />
-        <mark key="." line="124" column="1" />
-        <mark key="^" line="124" column="1" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461304195392">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="134" column="19" />
+        <mark key="]" line="134" column="20" />
+        <mark key="." line="134" column="20" />
+        <mark key="^" line="134" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461301545506">
         <mark key="'" line="23" column="21" />
@@ -128,43 +128,46 @@
       <jump line="62" column="55" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="116" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="115" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="132" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="118" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="152" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Timestamp</text>
       </register>
       <register name="/" type="4">
         <text>kiosk</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICR7RU1QVFl9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAuLi4gICAgUmV0dXJuIE1hYyBTdG9yZWQgUmVzcG9uc2VzIFRpbWVzdGFtcAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAuLi4gICAgUnVuIEtleXdvcmRzCiAgLi4uICAgIEdldCBNb2RpZmllZCBUaW1lICAgICR7T0ZGTElORS5NQUNfSEJfU1RPUkFHRX0ke2FjdGl2ZV9zZXNzaW9uX2lkfQogIC4uLiAgICBBTkQgICAgR2V0IE1vZGlmaWVkIFRpbWUgICAgJHtPRkZMSU5FLk1BQ19JVF9TVE9SQUdFfSR7YWN0aXZlX3Nlc3Npb25faWR9CiAgLi4uICAgIEFORCAgICBHZXQgTW9kaWZpZWQgVGltZSAgICAke09GRkxJTkUuTUFDX1RVSURfU1RPUkFHRX0ke2FjdGl2ZV9zZXNzaW9uX2lkfQogIC4uLiAgICBBTkQgICAgUmV0dXJuIEZyb20gS2V5d29yZCAgICAke2hiX3RpbWVzdGFtcH0gICAgJHtpdF90aW1lc3RhbXB9ICAgICR7dHVpZF90aW1lc3RhbXB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAuLi4gICAgUnVuIEtleXdvcmRzCiAgLi4uICAgICR7aGJfdGltZXN0YW1wfT0gICAgR2V0IE1vZGlmaWVkIFRpbWUgICAgJHtPRkZMSU5FLkxJTlVYX0hCX1NUT1JBR0V9JHthY3RpdmVfc2Vzc2lvbl9pZH0KICAuLi4gICAgQU5EICAgICR7aXRfdGltZXN0YW1wfT0gICAgR2V0IE1vZGlmaWVkIFRpbWUgICAgJHtPRkZMSU5FLkxJTlVYX0lUX1NUT1JBR0V9JHthY3RpdmVfc2Vzc2lvbl9pZH0KICAuLi4gICAgQU5EICAgICR7dHVpZF90aW1lc3RhbXB9PSAgICBHZXQgTW9kaWZpZWQgVGltZSAgICAke09GRkxJTkUuTElOVVhfVFVJRF9TVE9SQUdFfSR7YWN0aXZlX3Nlc3Npb25faWR9CiAgLi4uICAgIEFORCAgICBSZXR1cm4gRnJvbSBLZXl3b3JkICAgICR7aGJfdGltZXN0YW1wfSAgICAke2l0X3RpbWVzdGFtcH0gICAgJHt0dWlkX3RpbWVzdGFtcH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAuLi4gICAgU2hvdWxkIEJlIFRydWUgICAgIiR7dGVzdF91c2VyX2lkfSIgIT0gIiR7Tm9uZX0iCiAgLi4uICAgIEFORCAgICBTaG91bGQgQmUgVHJ1ZSAgICAiJHtoYl9pdGVzdGVyX3N5bmN9IiAhPSAiJHtOb25lfSIKICAuLi4gICAgQU5EICAgIFNob3VsZCBCZSBUcnVlICAgICIke2l0ZXN0ZXJfc3luY30iICE9ICIke05vbmV9Igo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAuLi4gICAgUnVuIEtleXdvcmRzCiAgLi4uICAgICR7aGJfdGltZXN0YW1wfT0gICAgR2V0IE1vZGlmaWVkIFRpbWUgICAgJHtPRkZMSU5FLldJTl9IQl9TVE9SQUdFfSR7YWN0aXZlX3Nlc3Npb25faWR9CiAgLi4uICAgIEFORCAgICR7aXRfdGltZXN0YW1wfT0gICAgR2V0IE1vZGlmaWVkIFRpbWUgICAgJHtPRkZMSU5FLldJTl9JVF9TVE9SQUdFfSR7YWN0aXZlX3Nlc3Npb25faWR9CiAgLi4uICAgIEFORCAgICR7dHVpZF90aW1lc3RhbXB9ICAgIEdldCBNb2RpZmllZCBUaW1lICAgICR7T0ZGTElORS5XSU5fVFVJRF9TVE9SQUdFfSR7YWN0aXZlX3Nlc3Npb25faWR9CiAgLi4uICAgIEFORCAgICBSZXR1cm4gRnJvbSBLZXl3b3JkICAgICR7aGJfdGltZXN0YW1wfSAgICAke2l0X3RpbWVzdGFtcH0gICAgJHt0dWlkX3RpbWVzdGFtcH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>Timestamp</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAke3ZhcjF9JHt2YXIyfSA9CVNldCBWYXJpYWJsZQo=</text>
+      <register name="6" type="4">
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>=    Set Variable    ${EMPTY}  ${EMPTY}  ${EMPTY}</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Execute Javascript    return Tester.User.getSession().activesessionid</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>D</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -185,9 +188,10 @@
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
         <entry>bn!</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
         <entry>:CtrlPBuffer</entry>
+        <entry>v</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
