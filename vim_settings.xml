@@ -6,12 +6,6 @@
       <file name="/Dummy.txt" timestamp="1461293680267">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1461106391363">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1461120048756">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="65" column="1" />
@@ -19,7 +13,9 @@
         <mark key="^" line="64" column="37" />
         <mark key="." line="65" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461293853657" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461295519557">
+        <mark key="'" line="32" column="35" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1461077332511">
         <mark key="[" line="100" column="27" />
         <mark key="]" line="100" column="27" />
@@ -44,6 +40,11 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" timestamp="1461219554884">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461297429059">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1461294283845">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="1" column="53" />
@@ -55,6 +56,19 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461298122664">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="161" column="9" />
+        <mark key="]" line="161" column="45" />
+        <mark key="." line="161" column="24" />
+        <mark key="^" line="161" column="24" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461297412074">
+        <mark key="'" line="23" column="21" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1461293201339" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
@@ -100,43 +114,50 @@
       <jump line="39" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
       <jump line="60" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
+      <jump line="32" column="35" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="111" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="84" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="5" column="14" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" />
+      <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="23" column="21" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" />
+      <jump line="115" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>kiosk</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBNb3ZlIE5vdGVwYWQgVG9vbCAgICAtMjAwMCAgICAyMDAwCg==</text>
+      <register name="0" type="4">
+        <text>${HB_TIMESTAMP}=    Get Modified Time</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">RHJhZyBOb3RlcGFkIEFuZCBSZXNpemUgTm90ZXBhZCBXaXRoIENvcm5lcgogIFtEb2N1bWVudGF0aW9uXSAgICBEcmFnIG5vdGVwYWQgYW5kIHJlc2l6ZSBub3RlcGFkIHdpdGggZ2l2ZW4gY29ybmVyLgogIFtBcmd1bWVudHNdICAgICR7Y29ybmVyfQogIFJ1biBLZXl3b3JkIElmICAgICIke2Nvcm5lcn0iID09ICJsZWZ0LXRvcCIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgLTIwMDAKICAuLi4gICAgRWxzZSBJZiAgICAiJHtjb3JuZXJ9IiA9PSAicmlnaHQtdG9wIiAgICBNb3ZlIE5vdGVwYWQgVG9vbCAgICAyMDAwICAgIC0yMDAwCiAgLi4uICAgIEVsc2UgSWYgICAgIiR7Y29ybmVyfSIgPT0gInJpZ2h0LWJvdHRvbSIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgMjAwMAogIC4uLiAgICBFbHNlIElmICAgICIke2Nvcm5lcn0iID09ICJsZWZ0LWJvdHRvbSIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgMjAwMAoK</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">RHJhZyBOb3RlcGFkIEFuZCBSZXNpemUgTm90ZXBhZCBXaXRoIENvcm5lcgogIFtEb2N1bWVudGF0aW9uXSAgICBEcmFnIG5vdGVwYWQgYW5kIHJlc2l6ZSBub3RlcGFkIHdpdGggZ2l2ZW4gY29ybmVyLgogIFtBcmd1bWVudHNdICAgICR7Y29ybmVyfQogIFJ1biBLZXl3b3JkIElmICAgICIke2Nvcm5lcn0iID09ICJsZWZ0LXRvcCIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgLTIwMDAKICAuLi4gICAgRWxzZSBJZiAgICAiJHtjb3JuZXJ9IiA9PSAicmlnaHQtdG9wIiAgICBNb3ZlIE5vdGVwYWQgVG9vbCAgICAyMDAwICAgIC0yMDAwCiAgLi4uICAgIEVsc2UgSWYgICAgIiR7Y29ybmVyfSIgPT0gInJpZ2h0LWJvdHRvbSIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgMjAwMAogIC4uLiAgICBFbHNlIElmICAgICIke2Nvcm5lcn0iID09ICJsZWZ0LWJvdHRvbSIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgMjAwMAo=</text>
+      <register name="2" type="4">
+        <text>d</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+      <register name="3" type="4">
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>-20</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IEhhc2g=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzIuIERyYWcgdGhlIG5vdGVwYWQgYXJvdW5kIHRoZSBzY3JlZW4uIFRoZSBub3RlcGFkIHNob3VsZCBub3QgZ28gYWNyb3NzIHRoZSBib3JkZXIuIgo=</text>
+      <register name="7" type="4">
+        <text>Check local storage is updated</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>k</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBNb3ZlIE5vdGVwYWQgVG9vbCAgICAtMjAwMCAgICAtMjAwMAogIE5vdGVwYWQgVG9vbCBTaG91bGQgQmUgSW4gU2NyZWVuCgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IFNob3VsZCBCZSBVcGRhdGVk</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -159,6 +180,7 @@
         <entry>:CtrlPBuffer</entry>
         <entry>bn!</entry>
         <entry>vs</entry>
+        <entry>bp!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
