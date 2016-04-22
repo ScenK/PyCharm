@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461290910506">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461310542404">
         <mark key="'" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1461281526307">
@@ -62,18 +62,19 @@
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461306621512">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="31" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="160" column="8" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461310424024">
+        <mark key="'" line="170" column="2" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="166" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461306633109">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461309808643">
         <mark key="'" line="23" column="21" />
-        <mark key="[" line="39" column="2" />
-        <mark key="]" line="39" column="2" />
-        <mark key="." line="39" column="2" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1461293201339" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461299314948">
@@ -137,67 +138,72 @@
       <jump line="118" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="152" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="117" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="125" column="31" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="154" column="37" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="103" column="66" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="170" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>kiosk</text>
+        <text encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R2V0IFN0b3JlZCBSZXNwb25zZXMgU3RhdHVzIEZsYWcK</text>
+        <text encoding="base64">ICAke2FjdGl2ZV9zZXNzaW9uX2lkfT0gICBHZXQgQWN0aXZlIFNlc3Npb24gSWQK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAke2FjdGl2ZV9zZXNzaW9uX2lkfT0gICAgRXhlY3V0ZSBKYXZhc2NyaXB0ICAgIHJldHVybiBUZXN0ZXIuVXNlci5nZXRTZXNzaW9uKCkuYWN0aXZlc2Vzc2lvbmlkCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAke2FjdGl2ZV9zZXNzaW9uX2lkfT0gICAgRXhlY3V0ZSBKYXZhc2NyaXB0ICAgIHJldHVybiBUZXN0ZXIuVXNlci5nZXRTZXNzaW9uKCkuYWN0aXZlc2Vzc2lvbmlkCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjICAgQ2hlY2sgTWFjIExvY2FsIFN0b3JlZAo=</text>
+      <register name="3" type="4">
+        <text>_</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAuLi4gICAgRUxTRSBJRiAgICAiJHttb2RlfSI9PSJraW9zayIgYW5kICIke3BsYXRmb3JtfSI9PSJMaW51eCIK</text>
+      <register name="4" type="4">
+        <text>x</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGFuZCAiJHtwbGF0Zm9ybX0iPT0iRGFyd2luIgogIC4uLiAgICBSZWNvcmQgU3RvcmVkIFJlc3BvbnNlcyBUaW1lc3RhbXAKICAjICAgQ2hlY2sgV2luZG93cyBMb2NhbCBTdG9yZWQKICAuLi4gICAgRUxTRSBJRiAgICAiJHttb2RlfSI9PSJraW9zayIgYW5kICIke3BsYXRmb3JtfSI9PSJXaW5kb3dzIgogIC4uLiAgICBSZWNvcmQgU3RvcmVkIFJlc3BvbnNlcyBUaW1lc3RhbXAKICAjICAgQ2hlY2sgTGludXggTG9jYWwgU3RvcmVk</text>
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>timestamp</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Timestamp</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IiR7bW9kZX0iPT0ia2lvc2siIGFuZCA=</text>
+        <text>timestamp</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;${mode}&quot;==&quot;kiosk&quot; and</text>
+        <text>j</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kiosk</last-search>
+      <last-search encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</last-search>
       <last-offset />
-      <last-pattern>kiosk</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>kiosk</entry>
+        <entry encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
         <entry>bn!</entry>
-        <entry>bp!</entry>
         <entry>:CtrlPBuffer</entry>
         <entry>v</entry>
         <entry>vs</entry>
+        <entry>bp!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
