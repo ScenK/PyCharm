@@ -22,6 +22,12 @@
         <mark key="^" line="64" column="37" />
         <mark key="." line="65" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1461283516579">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1461077332511">
         <mark key="[" line="100" column="27" />
         <mark key="]" line="100" column="27" />
@@ -72,37 +78,37 @@
         <text encoding="base64">ICBbQXJndW1lbnRzXSAgICAke251bWJlcn0K</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1c2VybmFtZSAgICAgcGFzc3dvcmQgICAgc2Vzc2lvbl9uYW1lICAgICAgc2Vzc2lvbl9hY2Nlc3NfY29kZSAgICBpdGVtX251bWJlcg==</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>Verify whether this question has masking tool</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
+        <text>Verify whether this question has masking tool</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICAgIA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBNb3VzZSBEb3duCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>p</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>x</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzEuIE9wZW4gMSBHZW5lcmFsIE1hc2tpbmcgYm94LCB2ZXJpZnkgaXQgaXMgb3BhcXVlIHdoaXRlLg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBBZGQgTWFza2luZwogIE1hc2tpbmcgU2hvdWxkIEJlIE9wYXF1ZSBXaGl0ZSAgICAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1c2VybmFtZSAgICAgcGFzc3dvcmQgICAgc2Vzc2lvbl9uYW1lICAgICAgc2Vzc2lvbl9hY2Nlc3NfY29kZSAgICBpdGVtX251bWJlcg==</text>
       </register>
     </registers>
     <search>
@@ -139,6 +145,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
