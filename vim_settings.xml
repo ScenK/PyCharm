@@ -48,6 +48,9 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461290910506">
+        <mark key="'" line="74" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="21" column="41" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
@@ -72,6 +75,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
       <jump line="28" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
+      <jump line="74" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
