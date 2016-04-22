@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1461281526307">
-        <mark key="[" line="58" column="30" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" timestamp="1461219554884">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1461106391363">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="10" />
@@ -22,12 +16,7 @@
         <mark key="^" line="64" column="37" />
         <mark key="." line="65" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1461283516579">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="15" />
-        <mark key="^" line="29" column="15" />
-      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461293059587" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1461077332511">
         <mark key="[" line="100" column="27" />
         <mark key="]" line="100" column="27" />
@@ -35,11 +24,6 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461194820052">
         <mark key="'" line="48" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1461119099386">
         <mark key="[" line="13" column="0" />
@@ -50,6 +34,37 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461290910506">
         <mark key="'" line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1461281526307">
+        <mark key="[" line="58" column="30" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" timestamp="1461219554884">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1461293571616">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="60" />
+        <mark key="." line="1" column="60" />
+        <mark key="^" line="1" column="60" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1461291823277">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1461293201339" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1461291952409">
+        <mark key="'" line="29" column="14" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -76,55 +91,70 @@
       <jump line="28" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
       <jump line="74" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="30" column="14" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" />
+      <jump line="12" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
+      <jump line="39" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
+      <jump line="60" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+      <register name="/" type="4">
+        <text>kiosk</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBbQXJndW1lbnRzXSAgICAke251bWJlcn0K</text>
+        <text encoding="base64">ICBNb3ZlIE5vdGVwYWQgVG9vbCAgICAtMjAwMCAgICAyMDAwCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICB1c2VybmFtZSAgICAgcGFzc3dvcmQgICAgc2Vzc2lvbl9uYW1lICAgICAgc2Vzc2lvbl9hY2Nlc3NfY29kZSAgICBpdGVtX251bWJlcg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">RHJhZyBOb3RlcGFkIEFuZCBSZXNpemUgTm90ZXBhZCBXaXRoIENvcm5lcgogIFtEb2N1bWVudGF0aW9uXSAgICBEcmFnIG5vdGVwYWQgYW5kIHJlc2l6ZSBub3RlcGFkIHdpdGggZ2l2ZW4gY29ybmVyLgogIFtBcmd1bWVudHNdICAgICR7Y29ybmVyfQogIFJ1biBLZXl3b3JkIElmICAgICIke2Nvcm5lcn0iID09ICJsZWZ0LXRvcCIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgLTIwMDAKICAuLi4gICAgRWxzZSBJZiAgICAiJHtjb3JuZXJ9IiA9PSAicmlnaHQtdG9wIiAgICBNb3ZlIE5vdGVwYWQgVG9vbCAgICAyMDAwICAgIC0yMDAwCiAgLi4uICAgIEVsc2UgSWYgICAgIiR7Y29ybmVyfSIgPT0gInJpZ2h0LWJvdHRvbSIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgMjAwMAogIC4uLiAgICBFbHNlIElmICAgICIke2Nvcm5lcn0iID09ICJsZWZ0LWJvdHRvbSIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgMjAwMAoK</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">RHJhZyBOb3RlcGFkIEFuZCBSZXNpemUgTm90ZXBhZCBXaXRoIENvcm5lcgogIFtEb2N1bWVudGF0aW9uXSAgICBEcmFnIG5vdGVwYWQgYW5kIHJlc2l6ZSBub3RlcGFkIHdpdGggZ2l2ZW4gY29ybmVyLgogIFtBcmd1bWVudHNdICAgICR7Y29ybmVyfQogIFJ1biBLZXl3b3JkIElmICAgICIke2Nvcm5lcn0iID09ICJsZWZ0LXRvcCIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgLTIwMDAKICAuLi4gICAgRWxzZSBJZiAgICAiJHtjb3JuZXJ9IiA9PSAicmlnaHQtdG9wIiAgICBNb3ZlIE5vdGVwYWQgVG9vbCAgICAyMDAwICAgIC0yMDAwCiAgLi4uICAgIEVsc2UgSWYgICAgIiR7Y29ybmVyfSIgPT0gInJpZ2h0LWJvdHRvbSIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgMjAwMAogIC4uLiAgICBFbHNlIElmICAgICIke2Nvcm5lcn0iID09ICJsZWZ0LWJvdHRvbSIgICAgTW92ZSBOb3RlcGFkIFRvb2wgICAgLTIwMDAgICAgMjAwMAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>'</text>
+      <register name="3" type="2">
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="4" type="4">
-        <text>Verify whether this question has masking tool</text>
+        <text>2</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>-20</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBNb3VzZSBEb3duCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>p</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzIuIERyYWcgdGhlIG5vdGVwYWQgYXJvdW5kIHRoZSBzY3JlZW4uIFRoZSBub3RlcGFkIHNob3VsZCBub3QgZ28gYWNyb3NzIHRoZSBib3JkZXIuIgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>x</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzEuIE9wZW4gMSBHZW5lcmFsIE1hc2tpbmcgYm94LCB2ZXJpZnkgaXQgaXMgb3BhcXVlIHdoaXRlLg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBNb3ZlIE5vdGVwYWQgVG9vbCAgICAtMjAwMCAgICAtMjAwMAogIE5vdGVwYWQgVG9vbCBTaG91bGQgQmUgSW4gU2NyZWVuCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICB1c2VybmFtZSAgICAgcGFzc3dvcmQgICAgc2Vzc2lvbl9uYW1lICAgICAgc2Vzc2lvbl9hY2Nlc3NfY29kZSAgICBpdGVtX251bWJlcg==</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>kiosk</last-search>
+      <last-offset />
+      <last-pattern>kiosk</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>kiosk</entry>
+      </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
         <entry>:CtrlPBuffer</entry>
+        <entry>bn!</entry>
         <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
