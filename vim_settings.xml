@@ -61,7 +61,7 @@
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461377373150">
+      <file name="/Dummy.txt" timestamp="1461380412827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/reset_general_masking.robot" timestamp="1461316864448">
@@ -88,6 +88,12 @@
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/model/models.py" timestamp="1461380464419">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="52" />
+        <mark key="^" line="11" column="66" />
+        <mark key="." line="29" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/read_aloud.robot" timestamp="1461377314809">
         <mark key="[" line="8" column="14" />
@@ -206,8 +212,8 @@
       <register name="/" type="4">
         <text>position</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBbQXJndW1lbnRzXSAgICAke251bWJlcn0K</text>
+      <register name="0" type="4">
+        <text>, unique=True</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
