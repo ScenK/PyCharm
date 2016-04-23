@@ -35,7 +35,7 @@
     <option name="SELECTION_BACKGROUND" value="4f5b66" />
     <option name="SELECTION_FOREGROUND" value="eff1f5" />
     <option name="TEARLINE_COLOR" value="343d46" />
-    <option name="WHITESPACES" value="838689" />
+    <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -58,11 +58,6 @@
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="ebcb8b" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="8fa1b3" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -494,7 +489,7 @@
     </option>
     <option name="IMPORT">
       <value>
-        <option name="FOREGROUND" value="ab7967" />
+        <option name="FOREGROUND" value="8d3a64" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -518,11 +513,6 @@
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
-      </value>
-    </option>
-    <option name="KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="cfe6f8" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -600,8 +590,6 @@
         <option name="FOREGROUND" value="f9fbff" />
         <option name="BACKGROUND" value="2b303b" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="32424a" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
