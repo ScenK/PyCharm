@@ -3,11 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1461106391363">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" timestamp="1461219554884">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1461294283845">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="60" />
+        <mark key="." line="1" column="60" />
+        <mark key="^" line="1" column="60" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1461304523670">
+        <mark key="'" line="29" column="14" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1461077332511">
+        <mark key="[" line="100" column="27" />
+        <mark key="]" line="100" column="27" />
+        <mark key="." line="100" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1461120048756">
         <mark key="'" line="51" column="0" />
@@ -16,32 +37,77 @@
         <mark key="^" line="64" column="37" />
         <mark key="." line="65" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461121039939">
-        <mark key="'" line="59" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_practice_test.robot" timestamp="1461376054092" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461118199005">
+        <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1461077332511">
-        <mark key="[" line="100" column="27" />
-        <mark key="]" line="100" column="27" />
-        <mark key="." line="100" column="27" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461106154613">
-        <mark key="'" line="16" column="6" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1461119099386">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="57" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline.robot" timestamp="1461376107683">
+        <mark key="'" line="2" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461118199005" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/pager.robot" timestamp="1461118507505" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking.robot" timestamp="1461118269356" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/README.md" timestamp="1461121109142" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461121039939">
+        <mark key="'" line="59" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1461293680267">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/reset_general_masking.robot" timestamp="1461316864448">
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461106154613">
+        <mark key="'" line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1461376098290">
+        <mark key="'" line="4" column="2" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461315088853">
+        <mark key="'" line="23" column="21" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="43" column="31" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1461281526307">
+        <mark key="[" line="58" column="30" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1461376242920">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="115" column="30" />
+        <mark key="]" line="115" column="30" />
+        <mark key="." line="115" column="30" />
+        <mark key="^" line="115" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461319596166">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1461291823277">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461299314948">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="27" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1461316577993">
+        <mark key="'" line="93" column="21" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1461304551770">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -54,8 +120,19 @@
       <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="51" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="59" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="46" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
+      <jump line="89" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
+      <jump line="104" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
+      <jump line="2" column="54" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline.robot" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="/" type="4">
+        <text>position</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICBbQXJndW1lbnRzXSAgICAke251bWJlcn0K</text>
       </register>
@@ -89,21 +166,26 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>.</text>
-      </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>kiosk</entry>
+        <entry encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</entry>
+        <entry encoding="base64">XDxpdF9oYXNoXD4=</entry>
+        <entry>position</entry>
+      </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
-        <entry>vs</entry>
+        <entry>bn!</entry>
         <entry>:CtrlPBuffer</entry>
+        <entry>v</entry>
+        <entry>vs</entry>
+        <entry>bp!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -127,6 +209,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
