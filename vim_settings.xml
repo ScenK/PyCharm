@@ -55,12 +55,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/reset_general_masking.robot" timestamp="1461550736335">
-        <mark key="[" line="52" column="111" />
-        <mark key="]" line="52" column="111" />
-        <mark key="." line="52" column="111" />
-        <mark key="^" line="52" column="111" />
-      </file>
       <file name="/Dummy.txt" timestamp="1461579266090">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,12 +87,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/reset.robot" timestamp="1461551067209">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="6" />
-        <mark key="." line="28" column="6" />
-        <mark key="^" line="28" column="6" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
@@ -129,6 +117,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1461590248421" />
       <file name="/Library/Python/2.7/site-packages/robot/libraries/String.py" timestamp="1461554789213">
         <mark key="'" line="668" column="0" />
       </file>
