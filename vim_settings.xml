@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" timestamp="1461559679798">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" timestamp="1461561981109">
+        <mark key="'" line="67" column="8" />
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
         <mark key="[" line="9" column="15" />
@@ -89,8 +90,8 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461556446016">
-        <mark key="'" line="74" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461561495946">
+        <mark key="'" line="95" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_pause.robot" timestamp="1461552734513">
         <mark key="[" line="23" column="23" />
@@ -221,43 +222,46 @@
       <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
+      <jump line="95" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>+</text>
+        <text>num_to_select</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c3BsaXQg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b25zX2xpc3QgPSBbJzEnLCAnMicsICczJywgJzQnLCAnNScsICc2JywgJzcnLCAnOCcsICc5JywgJzAnXQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiJEb2Mgc3RyaW5nLiIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b25zX2xpc3QgPSBbXQo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>+</text>
-      </register>
-      <register name="3" type="4">
-        <text>self.available_numbers + self.available_symbols + self.available_latex</text>
-      </register>
-      <register name="4" type="4">
-        <text>'1', '2', '3', '4', '5', '6', '7', '8', '9', '0'</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>\</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>num_to_select</text>
+      </register>
+      <register name="4" type="4">
+        <text>group_of_items</text>
+      </register>
+      <register name="5" type="4">
+        <text>list_of_</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="4">
-        <text>$</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>$</text>
+        <text>select</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">XFxkaXYnLCAnXFxwbScsICdcXGFuZ2xlJywgJ1xcRGVsdGEnLCAnKScsICc8JywgJ3gnLCAneScsICctJywgJz4=</text>
+        <text>_list</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
