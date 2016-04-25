@@ -17,6 +17,13 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1461281526307">
         <mark key="[" line="58" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461552934108">
+        <mark key="'" line="83" column="2" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="38" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -37,6 +44,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1461293680267">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1461552685376">
+        <mark key="'" line="91" column="5" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461295519557">
         <mark key="'" line="32" column="35" />
@@ -65,6 +77,9 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461310542404">
         <mark key="'" line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_pause.robot" timestamp="1461552734513">
+        <mark key="[" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" timestamp="1461219554884">
         <mark key="'" line="0" column="0" />
@@ -100,6 +115,12 @@
         <mark key="[" line="37" column="26" />
         <mark key="]" line="37" column="27" />
         <mark key="." line="37" column="27" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/pause.robot" timestamp="1461552914796">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -159,52 +180,64 @@
       <jump line="40" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="148" column="58" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
+      <jump line="84" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
+      <jump line="75" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
+      <jump line="122" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
+      <jump line="91" column="5" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
+      <jump line="7" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
+      <jump line="76" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
+      <jump line="39" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
+      <jump line="75" column="35" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
+      <jump line="87" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
+      <jump line="88" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
+      <jump line="3" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/pause.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>position</text>
+        <text>direct</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICA5MAo=</text>
+        <text encoding="base64">ICBKdW1wIERpcmVjdGx5IFRvIFF1ZXN0aW9uICAgIDEK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBDaG9vc2UgUGF1c2UgQnV0dG9uCiAgQ29uZmlybSBQYXVzZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>Stored Responses Should Be Saved</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Choose Reset Button And Confirm</text>
+      <register name="3" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vaGVscGVycy91dGlscy5yb2JvdAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDQK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDIK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDQK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDEK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBTdG9yZWQgUmVzcG9uc2VzIFNob3VsZCBCZSBSaWdodGx5IFNlbnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>position</last-search>
+      <last-search>direct</last-search>
       <last-offset />
-      <last-pattern>position</last-pattern>
+      <last-pattern>direct</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -214,6 +247,7 @@
         <entry encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</entry>
         <entry encoding="base64">XDxpdF9oYXNoXD4=</entry>
         <entry>position</entry>
+        <entry>direct</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
@@ -221,10 +255,10 @@
         <entry>bn!</entry>
         <entry>:CtrlPBuffer</entry>
         <entry>v</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4h</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
