@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" timestamp="1461561981109">
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="15" column="70" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" timestamp="1461563746979">
+        <mark key="'" line="73" column="8" />
+        <mark key="[" line="36" column="68" />
+        <mark key="]" line="36" column="65" />
+        <mark key="." line="36" column="65" />
+        <mark key="^" line="36" column="65" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
         <mark key="[" line="9" column="15" />
@@ -18,11 +18,18 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1461550059179">
         <mark key="'" line="148" column="58" />
       </file>
-      <file name="/a.dummy" timestamp="1461550984547">
+      <file name="/a.dummy" timestamp="1461563781815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1461281526307">
         <mark key="[" line="58" column="30" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461563907159">
+        <mark key="'" line="56" column="29" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461554477193">
         <mark key="'" line="83" column="2" />
@@ -30,6 +37,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="^" line="55" column="38" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" timestamp="1461563852713">
+        <mark key="'" line="292" column="8" />
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="322" column="60" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
         <mark key="[" line="3" column="0" />
@@ -90,7 +102,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461561495946">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461562997534">
         <mark key="'" line="95" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_pause.robot" timestamp="1461552734513">
@@ -225,52 +237,63 @@
       <jump line="95" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="28" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
       <jump line="66" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
+      <jump line="680" column="22" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+      <jump line="892" column="15" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+      <jump line="2" column="11" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+      <jump line="9" column="23" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+      <jump line="67" column="56" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+      <jump line="424" column="0" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+      <jump line="301" column="58" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+      <jump line="293" column="21" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+      <jump line="56" column="29" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="182" column="57" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+      <jump line="292" column="8" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>num_to_select</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">c3BsaXQg</text>
+        <text>sample</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJEb2Mgc3RyaW5nLiIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBuID0gbGVuKHBvcHVsYXRpb24pCiAgICAgICAgaWYgbm90IDAgPD0gayA8PSBuOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJzYW1wbGUgbGFyZ2VyIHRoYW4gcG9wdWxhdGlvbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBuID0gbGVuKHBvcHVsYXRpb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuczIgPSBCdWlsdEluKCkuZ2V0X2xpYnJhcnlfaW5zdGFuY2UoJ1NlbGVuaXVtMkxpYnJhcnknKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>num_to_select</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>group_of_items</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSByb2JvdC5saWJyYXJpZXMuQnVpbHRJbiBpbXBvcnQgQnVpbHRJbgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>list_of_</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByYW5kb21faXRlbXMgPSByYW5kb20uc2FtcGxlKHNlbGYuYXZhaWxhYmxlX2xhdGV4LCBsZW5ndGgpCiAgICAgICAgcmV0dXJuIHJhbmRvbV9pdGVtcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICByYW5kb21faXRlbXMgPSByYW5kb20uc2FtcGxlKHNlbGYuYXZhaWxhYmxlX3N5bWJvbHMsIGxlbmd0aCkKICAgICAgICByZXR1cm4gcmFuZG9tX2l0ZW1zCg==</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>select</text>
+        <text>, length</text>
       </register>
-      <register name="9" type="4">
-        <text>_list</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByYW5kb21faXRlbXMgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">c3BsaXQg</last-search>
+      <last-search>sample</last-search>
       <last-offset />
-      <last-pattern encoding="base64">c3BsaXQg</last-pattern>
+      <last-pattern>sample</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -282,6 +305,8 @@
         <entry>position</entry>
         <entry>direct</entry>
         <entry encoding="base64">c3BsaXQg</entry>
+        <entry>unique</entry>
+        <entry>sample</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
@@ -293,8 +318,8 @@
         <entry>vs</entry>
         <entry>bn!</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
-        <entry>CtrlPBuffer</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
+        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
