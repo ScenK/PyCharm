@@ -39,11 +39,11 @@
         <mark key="[" line="320" column="0" />
         <mark key="]" line="322" column="60" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461570389347">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="43" />
-        <mark key="." line="29" column="43" />
-        <mark key="^" line="29" column="42" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461577438418">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="29" />
+        <mark key="^" line="32" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/reset_general_masking.robot" timestamp="1461550736335">
         <mark key="[" line="52" column="111" />
@@ -109,12 +109,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461576147834">
-        <mark key="'" line="126" column="16" />
-        <mark key="[" line="104" column="3" />
-        <mark key="]" line="104" column="4" />
-        <mark key="." line="104" column="4" />
-        <mark key="^" line="104" column="4" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461578781283">
+        <mark key="'" line="111" column="56" />
+        <mark key="[" line="103" column="7" />
+        <mark key="]" line="103" column="7" />
+        <mark key="." line="103" column="7" />
+        <mark key="^" line="102" column="76" />
       </file>
       <file name="/Library/Python/2.7/site-packages/robot/libraries/String.py" timestamp="1461554789213">
         <mark key="'" line="668" column="0" />
@@ -127,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="41" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="18" column="69" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" />
       <jump line="16" column="6" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
@@ -224,52 +223,56 @@
       <jump line="292" column="8" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
       <jump line="82" column="27" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="120" column="16" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="101" column="49" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="103" column="71" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="110" column="44" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="111" column="56" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text>sample</text>
-      </register>
-      <register name="0" type="4">
-        <text>${tmp_expression}</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAuLi4gICAgJHt0bXBfZXhwcmVzc2lvbn0gICAgRUxTRSAgICBSdW4gS2V5d29yZHMK</text>
-      </register>
-      <register name="3" type="4">
-        <text>{</text>
-      </register>
-      <register name="4" type="4">
-        <text>$</text>
-      </register>
-      <register name="5" type="4">
-        <text>}</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">JHt0bXBfZXhwcmVzc2lvbn09ICAgIA==</text>
       </register>
+      <register name="/" type="4">
+        <text>none</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIEV4aXQgRm9yIExvb3A=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">JHt0bXBfZXhwcmVzc2lvbn09ICAgIA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAuLi4gICAgQ2F0ZW5hdGUgICAgICAgQU5ECg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="7" type="4">
-        <text>${tmp_expression}=</text>
+        <text>${tmp_expression}    ${i}</text>
       </register>
       <register name="8" type="4">
-        <text>new_word</text>
+        <text>${tmp_expression}</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAke0VNUFRZfSAg</text>
+        <text>Exit</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sample</last-search>
+      <last-search>none</last-search>
       <last-offset />
-      <last-pattern>sample</last-pattern>
+      <last-pattern>none</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -283,6 +286,8 @@
         <entry encoding="base64">c3BsaXQg</entry>
         <entry>unique</entry>
         <entry>sample</entry>
+        <entry>nonw</entry>
+        <entry>none</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
