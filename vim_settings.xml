@@ -15,15 +15,25 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/.gitignore" timestamp="1461590392521">
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="66" column="5" />
+        <mark key="^" line="66" column="5" />
+        <mark key="." line="66" column="5" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1461550059179">
         <mark key="'" line="148" column="58" />
       </file>
       <file name="/a.dummy" timestamp="1461563781815">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/model/models.py" timestamp="1461591278838" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/120269359/itertools.py" timestamp="1461566514592" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1461281526307">
         <mark key="[" line="58" column="30" />
+      </file>
+      <file name="/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py" timestamp="1461590489919">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461568846660">
         <mark key="'" line="56" column="29" />
@@ -54,6 +64,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/reset_general_masking.robot" timestamp="1461550736335">
+        <mark key="[" line="52" column="111" />
+        <mark key="]" line="52" column="111" />
+        <mark key="." line="52" column="111" />
+        <mark key="^" line="52" column="111" />
       </file>
       <file name="/Dummy.txt" timestamp="1461579266090">
         <mark key="[" line="0" column="0" />
@@ -87,6 +103,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/reset.robot" timestamp="1461551067209">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+        <mark key="^" line="28" column="6" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
@@ -117,7 +139,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1461590248421" />
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1461591918821">
+        <mark key="'" line="6" column="21" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/Library/Python/2.7/site-packages/robot/libraries/String.py" timestamp="1461554789213">
         <mark key="'" line="668" column="0" />
       </file>
@@ -129,18 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="69" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" />
-      <jump line="16" column="6" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
-      <jump line="97" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
-      <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
-      <jump line="51" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
-      <jump line="59" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
-      <jump line="20" column="6" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
-      <jump line="48" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
-      <jump line="21" column="36" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
       <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
       <jump line="30" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
@@ -229,52 +244,64 @@
       <jump line="103" column="71" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="110" column="44" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="111" column="56" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="26" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="111" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="119" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="69" column="10" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="0" column="0" filename="/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="105" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="52" column="38" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="72" column="24" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="6" column="21" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">JHt0bXBfZXhwcmVzc2lvbn09ICAgIA==</text>
+        <text>comment</text>
       </register>
       <register name="/" type="4">
-        <text>none</text>
+        <text>secure</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIEV4aXQgRm9yIExvb3A=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IHNlc3Npb25bJ3VzZXJuYW1lJ10KICAgICAgICBhdXRob3IgPSBVc2VyLm9iamVjdHMobmFtZT11c2VybmFtZSkuZmlyc3QoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q2xlYXIgVGV4dCBSZXNwb25zCg==</text>
+        <text encoding="base64">YXBwLmNvbmZpZy51cGRhdGUoZGljdCgK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JHt0bXBfZXhwcmVzc2lvbn09ICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAuLi4gICAgQ2F0ZW5hdGUgICAgICAgQU5ECg==</text>
+      <register name="3" type="4">
+        <text>comment</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>db.StringField(required=True, unique=True)</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5wZGZzCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>username</text>
       </register>
       <register name="8" type="4">
-        <text>${tmp_expression}    ${i}</text>
+        <text>username</text>
       </register>
       <register name="9" type="4">
-        <text>${tmp_expression}</text>
+        <text>tuzii</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>none</last-search>
+      <last-search>secure</last-search>
       <last-offset />
-      <last-pattern>none</last-pattern>
+      <last-pattern>secure</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -290,6 +317,7 @@
         <entry>sample</entry>
         <entry>nonw</entry>
         <entry>none</entry>
+        <entry>secure</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
@@ -297,14 +325,14 @@
         <entry>:CtrlPBuffer</entry>
         <entry>v</entry>
         <entry encoding="base64">JzwsJz4h</entry>
-        <entry>bn!</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>CtrlPBuffer</entry>
         <entry>sp</entry>
         <entry>q</entry>
         <entry>bp!</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
+        <entry>vs</entry>
+        <entry>bn!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
