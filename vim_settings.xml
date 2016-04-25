@@ -10,6 +10,11 @@
         <mark key="." line="36" column="65" />
         <mark key="^" line="36" column="65" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1461550059179">
         <mark key="'" line="148" column="58" />
       </file>
@@ -45,6 +50,11 @@
         <mark key="." line="32" column="29" />
         <mark key="^" line="32" column="29" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/reset_general_masking.robot" timestamp="1461550736335">
         <mark key="[" line="52" column="111" />
         <mark key="]" line="52" column="111" />
@@ -69,6 +79,11 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461295519557">
         <mark key="'" line="32" column="35" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1461077332511">
+        <mark key="[" line="100" column="27" />
+        <mark key="]" line="100" column="27" />
+        <mark key="." line="100" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461194820052">
         <mark key="'" line="48" column="12" />
@@ -109,12 +124,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461578781283">
-        <mark key="'" line="111" column="56" />
-        <mark key="[" line="103" column="7" />
-        <mark key="]" line="103" column="7" />
-        <mark key="." line="103" column="7" />
-        <mark key="^" line="102" column="76" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461579133586">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/Library/Python/2.7/site-packages/robot/libraries/String.py" timestamp="1461554789213">
         <mark key="'" line="668" column="0" />
@@ -238,14 +251,14 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIEV4aXQgRm9yIExvb3A=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Q2xlYXIgVGV4dCBSZXNwb25zCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">JHt0bXBfZXhwcmVzc2lvbn09ICAgIA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAuLi4gICAgQ2F0ZW5hdGUgICAgICAgQU5ECg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
@@ -257,13 +270,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>${tmp_expression}    ${i}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>${tmp_expression}</text>
+        <text>${tmp_expression}    ${i}</text>
       </register>
       <register name="9" type="4">
-        <text>Exit</text>
+        <text>${tmp_expression}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
