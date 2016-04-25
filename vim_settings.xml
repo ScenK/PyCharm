@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" timestamp="1461557599431">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="21" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -17,7 +23,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1461281526307">
         <mark key="[" line="58" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461552934108">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461554477193">
         <mark key="'" line="83" column="2" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -44,6 +50,14 @@
       </file>
       <file name="/Dummy.txt" timestamp="1461293680267">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/jedi/parser/tree.py" timestamp="1461554682077">
+        <mark key="'" line="969" column="8" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons_latex.robot" timestamp="1461555527439">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1461552685376">
         <mark key="'" line="91" column="5" />
@@ -75,13 +89,13 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461310542404">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461556446016">
         <mark key="'" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_pause.robot" timestamp="1461552734513">
         <mark key="[" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" timestamp="1461219554884">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" timestamp="1461556368755">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461550002848">
@@ -111,10 +125,12 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461299314948">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="27" />
-        <mark key="." line="37" column="27" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461555164919">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="43" column="48" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/robot/libraries/String.py" timestamp="1461554789213">
+        <mark key="'" line="668" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/pause.robot" timestamp="1461552914796">
         <mark key="'" line="3" column="0" />
@@ -192,52 +208,65 @@
       <jump line="1" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
       <jump line="88" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/pause.robot" />
+      <jump line="104" column="20" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="8" column="16" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="353" column="0" filename="/Library/Python/2.7/site-packages/jedi/parser/tree.py" />
+      <jump line="969" column="8" filename="/Library/Python/2.7/site-packages/jedi/parser/tree.py" />
+      <jump line="171" column="0" filename="/Library/Python/2.7/site-packages/robot/libraries/String.py" />
+      <jump line="668" column="0" filename="/Library/Python/2.7/site-packages/robot/libraries/String.py" />
+      <jump line="6" column="19" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="186" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>direct</text>
+        <text encoding="base64">c3BsaXQg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBKdW1wIERpcmVjdGx5IFRvIFF1ZXN0aW9uICAgIDEK</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25zX2xpc3QgPSBbJzEnLCAnMicsICczJywgJzQnLCAnNScsICc2JywgJzcnLCAnOCcsICc5JywgJzAnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDaG9vc2UgUGF1c2UgQnV0dG9uCiAgQ29uZmlybSBQYXVzZQo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25zX2xpc3QgPSBbXQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vaGVscGVycy91dGlscy5yb2JvdAo=</text>
+      <register name="3" type="4">
+        <text>self.available_numbers + self.available_symbols + self.available_latex</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDQK</text>
+      <register name="4" type="4">
+        <text>'1', '2', '3', '4', '5', '6', '7', '8', '9', '0'</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDIK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDQK</text>
+      <register name="6" type="4">
+        <text>\</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDIK</text>
+      <register name="7" type="4">
+        <text>$</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBPcGVuIFJldmlldyBTY3JlZW4KICBKdW1wIHRvIFF1ZXN0aW9uICAgIDEK</text>
+      <register name="8" type="4">
+        <text>$</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBTdG9yZWQgUmVzcG9uc2VzIFNob3VsZCBCZSBSaWdodGx5IFNlbnQK</text>
+      <register name="9" type="4">
+        <text encoding="base64">XFxkaXYnLCAnXFxwbScsICdcXGFuZ2xlJywgJ1xcRGVsdGEnLCAnKScsICc8JywgJ3gnLCAneScsICctJywgJz4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>direct</last-search>
+      <last-search encoding="base64">c3BsaXQg</last-search>
       <last-offset />
-      <last-pattern>direct</last-pattern>
+      <last-pattern encoding="base64">c3BsaXQg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -248,16 +277,20 @@
         <entry encoding="base64">XDxpdF9oYXNoXD4=</entry>
         <entry>position</entry>
         <entry>direct</entry>
+        <entry encoding="base64">c3BsaXQg</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
-        <entry>bn!</entry>
         <entry>:CtrlPBuffer</entry>
         <entry>v</entry>
         <entry>bp!</entry>
         <entry encoding="base64">JzwsJz4h</entry>
         <entry>vs</entry>
+        <entry>bn!</entry>
+        <entry encoding="base64">JzwsJz5icCE=</entry>
+        <entry>CtrlPBuffer</entry>
+        <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
