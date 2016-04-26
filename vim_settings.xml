@@ -50,12 +50,12 @@
       <file name="/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py" timestamp="1461590489919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461568846660">
-        <mark key="'" line="56" column="29" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461641712787">
+        <mark key="'" line="1" column="16" />
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+        <mark key="^" line="36" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461554477193">
         <mark key="'" line="83" column="2" />
@@ -173,12 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="14" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" />
-      <jump line="12" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
-      <jump line="39" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
-      <jump line="60" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
-      <jump line="32" column="35" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="111" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="84" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="5" column="14" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" />
@@ -273,10 +267,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
       <jump line="70" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
       <jump line="14" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
+      <jump line="7" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="74" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="1" column="16" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
@@ -284,14 +284,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KHVybF9mb3IoJ3Byb2plY3QnLCBwcm9qZWN0X2lkPXByb2plY3RfaWQpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmV2aWV3LnJvYm90Cg==</text>
+      <register name="1" type="4">
+        <text>length</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmV2aWV3LnJvYm90Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmV2aWV3LnJvYm90Cg==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
