@@ -37,7 +37,7 @@
         <mark key="." line="39" column="70" />
         <mark key="^" line="39" column="70" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1461655807373">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1461656884424">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="98" />
         <mark key="." line="2" column="0" />
@@ -68,6 +68,12 @@
         <mark key="]" line="37" column="134" />
         <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1461657003023">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
         <mark key="[" line="3" column="0" />
@@ -258,34 +264,34 @@
         <text>secure</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiMTIuMSBWZXJpZnkgUXVlc3Rpb24gMSBSZXNwb25zZSBTaG91bGQgU2hvdyBVcCIK</text>
+        <text encoding="base64">T2ZmbGluZSBUZXN0IEFuc3dlciBTYXZlZCBXaXRoIEZ4IEV4cHJlc3Npb25zCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VmVyaWZ5IFF1ZXN0aW9uIDQgUmVzcG9uc2UgU2hvdWxkIFNob3cgVXAK</text>
+        <text encoding="base64">T2ZmbGluZSBPcGVyYXRpb25hbCBUZXN0IEFuc3dlciBTYXZlZAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">VmVyaWZ5IFF1ZXN0aW9uIDQgUmVzcG9uc2UgU2hvdWxkIFNob3cgVXAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">VmVyaWZ5IFF1ZXN0aW9uIDIgUmVzcG9uc2UgU2hvdWxkIFNob3cgVXAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>1</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>.</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBMYXVuY2ggaVRlc3RlciBBbmQgU2V0IEJhc2ljIEVudmlyb25tZW50CiAgTG9naW4gICAgbmV0d29yawogIEVudGVyIFNlc3Npb24gICAgIk1hdGggU2Vzc2lvbiIKICBFbnRlciBTZXNzaW9uIEFjY2VzcyBDb2RlICAgIDE0NjQzMjU4MDcKICBDb250aW51ZSBGcm9tIE9wdGlvbnMKICBDb250aW51ZSBGcm9tIERpcmVjdGlvbnMKICBMb2dpbiBXaXRoIENyZWRlbnRpYWxzIEFuZCBKdW1wIFRvIEl0ZW0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">UnVuIEtleXdvcmQgSWYgICIke21vZGV9Ij09Imtpb3NrIiAgICA=</text>
       </register>
-      <register name="8" type="4">
-        <text>l</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
