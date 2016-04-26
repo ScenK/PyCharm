@@ -68,11 +68,11 @@
         <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1461662292560">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1461663539285">
         <mark key="'" line="96" column="0" />
-        <mark key="[" line="93" column="46" />
-        <mark key="]" line="93" column="47" />
-        <mark key="." line="93" column="47" />
+        <mark key="[" line="91" column="21" />
+        <mark key="]" line="91" column="22" />
+        <mark key="." line="91" column="21" />
         <mark key="^" line="64" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
@@ -90,6 +90,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="50" column="111" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1461664070338">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons_latex.robot" timestamp="1461555527439">
         <mark key="[" line="11" column="44" />
@@ -134,7 +139,7 @@
         <mark key="]" line="86" column="41" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461656298261">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461663778296">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="106" />
@@ -268,8 +273,8 @@
       <register name="/" type="4">
         <text>secure</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBQcmVzcyBLZXlzICAgIE9QVElPTitQCg==</text>
+      <register name="0" type="4">
+        <text>#</text>
       </register>
       <register name="1" type="4">
         <text>1</text>
