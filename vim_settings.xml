@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" timestamp="1461635903653">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" timestamp="1461563746979">
         <mark key="'" line="73" column="8" />
         <mark key="[" line="36" column="68" />
@@ -159,13 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
-      <jump line="37" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
-      <jump line="6" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
-      <jump line="28" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons.robot" />
-      <jump line="74" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
       <jump line="30" column="14" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" />
       <jump line="12" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
       <jump line="39" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
@@ -259,10 +258,17 @@
       <jump line="71" column="20" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="139" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="43" column="57" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
+      <jump line="53" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
+      <jump line="4" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
+      <jump line="65" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
+      <jump line="70" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
+      <jump line="14" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.first()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
@@ -271,31 +277,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KHVybF9mb3IoJ3Byb2plY3QnLCBwcm9qZWN0X2lkPXByb2plY3RfaWQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGF0IGFyZSB5b3UgZG9pbmc/CiAgICAgICAgbyBgZCBkYXMgZXJlcgo=</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL211bHRpcGxlX2Nob2ljZS5yb2JvdAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.first()</text>
+      <register name="2" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmV2aWV3LnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy9uYXZpZ2F0aW9uL3Jlc2V0LnJvYm90Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>.first()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>.first()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
