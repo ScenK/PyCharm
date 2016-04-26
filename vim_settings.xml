@@ -33,10 +33,10 @@
       <file name="/a.dummy" timestamp="1461563781815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/pause_and_login_back.robot" timestamp="1461638575949">
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="15" />
-        <mark key="." line="58" column="15" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/pause_and_login_back.robot" timestamp="1461638872788">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/project.html" timestamp="1461595092438">
         <mark key="[" line="39" column="61" />
@@ -85,13 +85,13 @@
         <mark key="]" line="30" column="172" />
         <mark key="." line="30" column="173" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/reset_general_masking.robot" timestamp="1461550736335">
-        <mark key="[" line="52" column="111" />
-        <mark key="]" line="52" column="111" />
-        <mark key="." line="52" column="111" />
-        <mark key="^" line="52" column="111" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/reset_general_masking.robot" timestamp="1461638898735">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="50" column="111" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461638619496">
+      <file name="/Dummy.txt" timestamp="1461638903827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
@@ -284,11 +284,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KHVybF9mb3IoJ3Byb2plY3QnLCBwcm9qZWN0X2lkPXByb2plY3RfaWQpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmV2aWV3LnJvYm90Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmV2aWV3LnJvYm90Cg==</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
@@ -312,7 +312,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -349,8 +349,8 @@
         <entry>bp!</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>bn!</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
