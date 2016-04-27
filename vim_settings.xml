@@ -154,12 +154,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461742325868">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461745838790">
         <mark key="'" line="115" column="2" />
-        <mark key="[" line="118" column="80" />
-        <mark key="]" line="118" column="108" />
-        <mark key="." line="118" column="108" />
-        <mark key="^" line="118" column="108" />
+        <mark key="[" line="119" column="26" />
+        <mark key="]" line="119" column="34" />
+        <mark key="." line="119" column="34" />
+        <mark key="^" line="119" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1461626897115">
         <mark key="'" line="0" column="0" />
@@ -278,7 +278,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>$('.mathquill-rendered-math')</text>
+        <text encoding="base64">VXJsIA==</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
@@ -286,32 +286,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBVbnNlbGVjdCBGcmFtZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">VXJsIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>$('.mathquill-rendered-math')</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>; return a</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>var a =</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBTZWxlY3QgRnJhbWUgICAgJHtPRS5USU5ZX01DRV9GUkFNRX0K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>.getAttribute('data-latex')</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAke3B1cmVfZXhwcmVzc2lvbn09ICAgIEJ1dHRvbnMgTGlzdCBUbyBTdHJpbmcgICAgJHtleHByZXNzaW9ufQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
