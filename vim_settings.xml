@@ -63,12 +63,11 @@
         <mark key="." line="68" column="63" />
         <mark key="^" line="76" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461659658880">
-        <mark key="'" line="85" column="24" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="41" />
-        <mark key="." line="64" column="2" />
-        <mark key="^" line="64" column="1" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461734713258">
+        <mark key="'" line="81" column="24" />
+        <mark key="[" line="63" column="2" />
+        <mark key="]" line="63" column="2" />
+        <mark key="." line="63" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461657990171">
         <mark key="[" line="21" column="0" />
@@ -83,7 +82,6 @@
         <mark key="." line="91" column="21" />
         <mark key="^" line="64" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/multiple_choice_by_interaction.robot" timestamp="1461727794707" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -278,7 +276,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">UnVuIEtleXdvcmQgSWYgICIke21vZGV9Ij09Imtpb3NrIiAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
@@ -287,31 +285,31 @@
         <text>#</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">UnVuIEtleXdvcmQgSWYgICIke21vZGV9Ij09Imtpb3NrIiAgICA=</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">VGVzdCBUZW1wbGF0ZSAgICBPZmZsaW5lIE9wZXJhdGlvbmFsIFRlc3QgQW5zd2VyIFNhdmVkCgpUZXN0IFNldHVwICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQKVGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>#</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
+        <text>#</text>
+      </register>
+      <register name="7" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAi</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICBcbiAiIzAuIExvZ2luIHdpdGggY3JlZGVudGlhbHMgYW5kIGp1bXAgdG8gaXRlbSIKICBMb2dpbiBXaXRoIENyZWRlbnRpYWxzIEFuZCBKdW1wIFRvIEl0ZW0KICAuLi4gICAgJHt1c2VybmFtZX0gICAgJHtwYXNzd29yZH0gICAgJHtzZXNzaW9uX25hbWV9ICAgICR7c2Vzc2lvbl9hY2Nlc3NfY29kZX0gICAgJHtpdGVtX251bWJlcn0gICAgZmFsc2UKCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">T2ZmbGluZSBQcmFjdGljZSBUZXN0IEFuc3dlciBTYXZlZAogIFtEb2N1bWVudGF0aW9uXSAgICBWZXJpZnkgb2ZmbGluZSBzdG9yZWQgcGVyZm9ybSByaWdodGx5IHdpdGggcHJhY3RpY2UgbG9naW4uCiAgW0FyZ3VtZW50c10gICAgJHt1c2VybmFtZX0gICAgJHtwYXNzd29yZH0gICAgJHtzZXNzaW9uX25hbWV9ICAgICR7c2Vzc2lvbl9hY2Nlc3NfY29kZX0gICAgJHtpdGVtX251bWJlcn0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">I1Rlc3QgVGVtcGxhdGUgICAgT2ZmbGluZSBQcmFjdGljZSBUZXN0IEFuc3dlciBTYXZlZAojCiNUZXN0IFNldHVwICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQKI1Rlc3QgVGVhcmRvd24gICAgQ2xvc2UgaVRlc3RlciBBbmQgQ2xlYXIgU2Vzc2lvbgo=</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICBcbiAiIzAuIExvZ2luIHdpdGggY3JlZGVudGlhbHMgYW5kIGp1bXAgdG8gaXRlbSIKICBMb2dpbiBXaXRoIENyZWRlbnRpYWxzIEFuZCBKdW1wIFRvIEl0ZW0KICAuLi4gICAgJHt1c2VybmFtZX0gICAgJHtwYXNzd29yZH0gICAgJHtzZXNzaW9uX25hbWV9ICAgICR7c2Vzc2lvbl9hY2Nlc3NfY29kZX0gICAgJHtpdGVtX251bWJlcn0gICAgZmFsc2UKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
