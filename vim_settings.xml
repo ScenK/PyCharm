@@ -148,10 +148,12 @@
         <mark key="]" line="86" column="41" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461664643672">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461734209956">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="106" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="9" column="64" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461660520097">
         <mark key="[" line="109" column="62" />
@@ -276,7 +278,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
@@ -284,32 +286,32 @@
       <register name="0" type="4">
         <text>#</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
+        <text>.</text>
+      </register>
+      <register name="3" type="4">
         <text>1</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
+      <register name="4" type="4">
+        <text>#</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzguMihNYWMgT25seSkgVHlwaW5nIGluIGFuIHNvbWUgZXhwcmVzc2lvbnMgbWFkZSBvZiBtdWx0aWJ5dGUgY2hhcmFjdGVycyB3aXRoIGtleWJvYXJkIgogIFByZXNzIEtleSAgICBPUFRJT04rUAogIFByZXNzIEtleXMgICAgT1BUSU9OK1cK</text>
+      <register name="5" type="4">
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAi</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICBcbiAiIzAuIExvZ2luIHdpdGggY3JlZGVudGlhbHMgYW5kIGp1bXAgdG8gaXRlbSIKICBMb2dpbiBXaXRoIENyZWRlbnRpYWxzIEFuZCBKdW1wIFRvIEl0ZW0KICAuLi4gICAgJHt1c2VybmFtZX0gICAgJHtwYXNzd29yZH0gICAgJHtzZXNzaW9uX25hbWV9ICAgICR7c2Vzc2lvbl9hY2Nlc3NfY29kZX0gICAgJHtpdGVtX251bWJlcn0gICAgZmFsc2UKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T2ZmbGluZSBQcmFjdGljZSBUZXN0IEFuc3dlciBTYXZlZAogIFtEb2N1bWVudGF0aW9uXSAgICBWZXJpZnkgb2ZmbGluZSBzdG9yZWQgcGVyZm9ybSByaWdodGx5IHdpdGggcHJhY3RpY2UgbG9naW4uCiAgW0FyZ3VtZW50c10gICAgJHt1c2VybmFtZX0gICAgJHtwYXNzd29yZH0gICAgJHtzZXNzaW9uX25hbWV9ICAgICR7c2Vzc2lvbl9hY2Nlc3NfY29kZX0gICAgJHtpdGVtX251bWJlcn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I1Rlc3QgVGVtcGxhdGUgICAgT2ZmbGluZSBQcmFjdGljZSBUZXN0IEFuc3dlciBTYXZlZAojCiNUZXN0IFNldHVwICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQKI1Rlc3QgVGVhcmRvd24gICAgQ2xvc2UgaVRlc3RlciBBbmQgQ2xlYXIgU2Vzc2lvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -350,8 +352,8 @@
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>e</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>bn!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
