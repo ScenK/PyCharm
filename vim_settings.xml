@@ -33,6 +33,9 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1461723576780">
         <mark key="'" line="148" column="58" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/MsSqlLibrary.py" timestamp="1461732957597">
+        <mark key="'" line="38" column="6" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/pause_and_login_back.robot" timestamp="1461638872788">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -170,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="132" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="118" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="152" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
@@ -270,6 +272,7 @@
       <jump line="95" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
       <jump line="96" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
+      <jump line="38" column="6" filename="$USER_HOME$/Develop/eMetricRobot/libraries/MsSqlLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -345,10 +348,10 @@
         <entry>q</entry>
         <entry>bp!</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
-        <entry>bn!</entry>
         <entry>e</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>bn!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
