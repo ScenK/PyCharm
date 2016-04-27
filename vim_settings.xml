@@ -9,6 +9,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1461728190719">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1461662177095">
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -276,32 +281,32 @@
       <register name="0" type="4">
         <text>#</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>1</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzguMihNYWMgT25seSkgVHlwaW5nIGluIGFuIHNvbWUgZXhwcmVzc2lvbnMgbWFkZSBvZiBtdWx0aWJ5dGUgY2hhcmFjdGVycyB3aXRoIGtleWJvYXJkIgogIFByZXNzIEtleSAgICBPUFRJT04rUAogIFByZXNzIEtleXMgICAgT1BUSU9OK1cK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>s</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpb25DaGFpbnMoc2VsZi5zMi5fY3VycmVudF9icm93c2VyKCkpLm1vdmVfdG9fZWxlbWVudF93aXRoX29mZnNldCgKICAgICAgICAgICAgZWxlbWVudCwgMSwgMSkubW92ZV9ieV9vZmZzZXQoeG9mZnNldCwgeW9mZnNldCkuY2xpY2soKS5wZXJmb3JtKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
