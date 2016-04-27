@@ -25,7 +25,7 @@
         <mark key="^" line="66" column="5" />
         <mark key="." line="66" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1461550059179">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1461723576780">
         <mark key="'" line="148" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/pause_and_login_back.robot" timestamp="1461638872788">
@@ -144,7 +144,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="106" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1461638279114" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461660520097">
         <mark key="[" line="109" column="62" />
         <mark key="]" line="109" column="61" />
