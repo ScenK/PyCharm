@@ -93,6 +93,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="50" column="111" />
       </file>
+      <file name="/Dummy.txt" timestamp="1461746532312">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons_latex.robot" timestamp="1461555527439">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="11" column="44" />
