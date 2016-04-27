@@ -52,12 +52,12 @@
       <file name="/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py" timestamp="1461590489919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461744532813">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461746771603">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="7" column="56" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="7" column="56" />
+        <mark key="[" line="148" column="45" />
+        <mark key="]" line="148" column="45" />
+        <mark key="^" line="148" column="48" />
+        <mark key="." line="148" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461735018695">
         <mark key="'" line="81" column="24" />
@@ -93,7 +93,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="50" column="111" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461746532312">
+      <file name="/Dummy.txt" timestamp="1461746790505">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons_latex.robot" timestamp="1461555527439">
@@ -281,7 +281,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">VXJsIA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
@@ -290,31 +290,31 @@
         <text encoding="base64">ICBVbnNlbGVjdCBGcmFtZQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">VXJsIA==</text>
+        <text>d</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+      <register name="4" type="4">
+        <text>b</text>
       </register>
       <register name="5" type="4">
-        <text>$('.mathquill-rendered-math')</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>; return a</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>var a =</text>
+        <text encoding="base64">VXJsIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTZWxlY3QgRnJhbWUgICAgJHtPRS5USU5ZX01DRV9GUkFNRX0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.getAttribute('data-latex')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
