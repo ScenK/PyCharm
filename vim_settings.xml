@@ -41,6 +41,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_response.robot" timestamp="1461835292420">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/project.html" timestamp="1461595092438">
         <mark key="[" line="39" column="61" />
         <mark key="]" line="39" column="70" />
@@ -103,7 +108,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="50" column="111" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461834219461">
+      <file name="/Dummy.txt" timestamp="1461834414958">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -130,13 +135,6 @@
         <mark key="]" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461744372412">
-        <mark key="'" line="103" column="27" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="8" />
-        <mark key="." line="103" column="8" />
-        <mark key="^" line="104" column="82" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1461822880555">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -154,13 +152,8 @@
         <mark key="]" line="86" column="41" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1461734209956">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="9" column="64" />
-        <mark key="." line="12" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/multiple_choice.robot" timestamp="1461834611735" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/answer_masking/reset_answer_masking.robot" timestamp="1461835219287" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461808389310">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -285,7 +278,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
@@ -294,31 +287,31 @@
         <text encoding="base64">ICBDbGVhciBUZXh0IFJlc3BvbnNlCg==</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
+        <text>1</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgIGZhbHNl</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiMgIExvZyBUbyBDb25zb2xlICAgICIjNS4gQ2xpY2sgZngsIHR5cGUgZXhwcmVzc2lvbnMgd2l0aCBgJGAgYXQgdGhlIGJlZ2lubmluZywgbWlkZGxlIGFuZCB0aGUgZW5kIGludG8gdGhlIGJveCBhbmQgc2F2ZSBpdCB0byBPRSBib3giCiMgIE9wZW4gT2UgSXRlbSBGeCBUb29sCiMgIE9lIEl0ZW0gRnggVG9vbCBTaG91bGQgQmUgRGlzcGxheWVkCiMgIElucHV0IFRleHQgSW50byBGeCBCb3ggICAgXCQxMjNcJDQ1NlwkCiMgIENob29zZSBVc2UgRXhwcmVzc2lvbiBCdXR0b24KIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzYuIFZlcmlmeSB0aGUgZXhwcmVzc2lvbiBpcyBjb3JyZWN0bHkgZW50ZXJlZCBpbiB0aGUgT0UgYm94IgojICBPZSBCb3ggQ29udGVudCBTaG91bGQgQ29udGFpbiAgICBcJDEyM1wkNDU2XCQK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGZhbHNl</text>
-      </register>
       <register name="5" type="4">
-        <text>$123$456$</text>
+        <text encoding="base64">ICAgIGZhbHNl</text>
       </register>
       <register name="6" type="4">
         <text>$123$456$</text>
       </register>
       <register name="7" type="4">
+        <text>$123$456$</text>
+      </register>
+      <register name="8" type="4">
         <text>at the beginning, middle and the end</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
