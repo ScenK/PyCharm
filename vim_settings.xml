@@ -51,12 +51,12 @@
       <file name="/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py" timestamp="1461590489919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461746771603">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="148" column="45" />
-        <mark key="]" line="148" column="45" />
-        <mark key="^" line="148" column="48" />
-        <mark key="." line="148" column="45" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461813529474">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="193" column="71" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461735018695">
         <mark key="'" line="81" column="24" />
@@ -64,10 +64,11 @@
         <mark key="]" line="63" column="2" />
         <mark key="." line="63" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461740450291">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461813801751">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="38" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1461735732284">
         <mark key="'" line="46" column="29" />
@@ -76,7 +77,7 @@
         <mark key="^" line="54" column="32" />
         <mark key="." line="87" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/multiple_choice_by_interaction.robot" timestamp="1461811850969" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/multiple_choice_by_interaction.robot" timestamp="1461813116314" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -118,7 +119,7 @@
         <mark key="." line="103" column="8" />
         <mark key="^" line="104" column="82" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1461568115275">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1461813779787">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -135,7 +136,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461741523814">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461813699821">
         <mark key="'" line="95" column="12" />
         <mark key="[" line="86" column="21" />
         <mark key="]" line="86" column="41" />
@@ -175,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="16" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="93" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="15" column="26" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
@@ -255,9 +255,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="61" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="76" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
-      <jump line="0" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="74" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
-      <jump line="1" column="16" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
       <jump line="85" column="24" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" />
       <jump line="242" column="69" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" />
@@ -275,48 +273,46 @@
       <jump line="103" column="27" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="9" column="22" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="175" column="24" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="1" column="16" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Numberic</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
       </register>
       <register name="0" type="4">
-        <text>Login With Credentials And Jump To Item
-...    555599992    CD6E997E    &quot;Math Session&quot;    1464325807    1</text>
+        <text>u</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">VHlwbyBmaXgK</text>
+      <register name="1" type="4">
+        <text>Numberic</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">U3VpdGUgU2V0dXAgICAgUnVuIEtleXdvcmRzICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Li4uICAgIEFORCAgICBMb2dpbiBXaXRoIENyZWRlbnRpYWxzIEFuZCBKdW1wIFRvIEl0ZW0KLi4uICAgIDU1NTU5OTk5MiAgICBDRDZFOTk3RSAgICAiTWF0aCBTZXNzaW9uIiAgICAxNDY0MzI1ODA3ICAgIDEK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>Login    network
-  Enter Session    &quot;Math Session&quot;
-  Enter Session Access Code    1464325807
-  Continue From Options
-  Continue From Di</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>b</text>
+        <text encoding="base64">ICAgIGZhbHNl</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>Practice-19035</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
