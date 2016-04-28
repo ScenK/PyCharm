@@ -53,12 +53,12 @@
       <file name="/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py" timestamp="1461590489919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461824332705">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461827475898">
         <mark key="'" line="0" column="15" />
-        <mark key="[" line="144" column="47" />
-        <mark key="]" line="144" column="51" />
-        <mark key="^" line="143" column="47" />
-        <mark key="." line="144" column="47" />
+        <mark key="[" line="145" column="49" />
+        <mark key="]" line="145" column="49" />
+        <mark key="^" line="145" column="49" />
+        <mark key="." line="145" column="49" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461819981292">
         <mark key="'" line="81" column="24" />
@@ -66,11 +66,11 @@
         <mark key="]" line="63" column="2" />
         <mark key="." line="63" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461823631013">
-        <mark key="[" line="17" column="97" />
-        <mark key="]" line="17" column="106" />
-        <mark key="." line="17" column="106" />
-        <mark key="^" line="17" column="106" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461827506611">
+        <mark key="[" line="38" column="133" />
+        <mark key="]" line="38" column="133" />
+        <mark key="." line="38" column="133" />
+        <mark key="^" line="38" column="133" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1461735732284">
         <mark key="'" line="46" column="29" />
@@ -95,6 +95,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="50" column="111" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1461827528827">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons_latex.robot" timestamp="1461555527439">
         <mark key="[" line="11" column="44" />
@@ -157,12 +160,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461823859969">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461826737650">
         <mark key="'" line="114" column="2" />
-        <mark key="[" line="117" column="98" />
-        <mark key="]" line="117" column="106" />
-        <mark key="." line="117" column="106" />
-        <mark key="^" line="117" column="106" />
+        <mark key="[" line="121" column="9" />
+        <mark key="]" line="121" column="17" />
+        <mark key="." line="121" column="17" />
+        <mark key="^" line="121" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1461626897115">
         <mark key="'" line="0" column="0" />
@@ -275,40 +278,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>left</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
       </register>
-      <register name="0" type="4">
-        <text>|\)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJlbW92ZSAiJHtzcGFjZX0sIFxcLCBbXSwge30gKSIK</text>
       </register>
       <register name="1" type="4">
-        <text>left</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>|\$</text>
+        <text>remove &quot;${space}, \\, [], {} )&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>getAttribute('data-latex')</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="4" type="4">
-        <text>selected</text>
+        <text>, ')'</text>
       </register>
       <register name="5" type="4">
-        <text>mathquill-rendered-math</text>
+        <text>, '/'</text>
       </register>
       <register name="6" type="4">
-        <text>q</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>\</text>
+        <text>replace()</text>
       </register>
       <register name="8" type="4">
-        <text>.replace('isin', 'in')</text>
+        <text>|frac</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBcICAgIExvZyAgICAke3RtcF9leHByZXNzaW9ufQo=</text>
+      <register name="9" type="4">
+        <text>Be Equal As Strings</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -345,11 +348,11 @@
         <entry>q</entry>
         <entry>bp!</entry>
         <entry>e</entry>
-        <entry>bn!</entry>
         <entry>:CtrlPBuffer</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>CtrlPBuffer</entry>
+        <entry>bn!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
