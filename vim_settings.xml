@@ -53,12 +53,12 @@
       <file name="/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py" timestamp="1461590489919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461823087158">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461824332705">
         <mark key="'" line="0" column="15" />
-        <mark key="[" line="145" column="37" />
-        <mark key="]" line="145" column="56" />
-        <mark key="^" line="145" column="56" />
-        <mark key="." line="145" column="56" />
+        <mark key="[" line="144" column="47" />
+        <mark key="]" line="144" column="51" />
+        <mark key="^" line="143" column="47" />
+        <mark key="." line="144" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461819981292">
         <mark key="'" line="81" column="24" />
@@ -66,7 +66,7 @@
         <mark key="]" line="63" column="2" />
         <mark key="." line="63" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461821004051">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461823631013">
         <mark key="[" line="17" column="97" />
         <mark key="]" line="17" column="106" />
         <mark key="." line="17" column="106" />
@@ -157,12 +157,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461821715431">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461823859969">
         <mark key="'" line="114" column="2" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="71" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="118" column="34" />
+        <mark key="[" line="117" column="98" />
+        <mark key="]" line="117" column="106" />
+        <mark key="." line="117" column="106" />
+        <mark key="^" line="117" column="106" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1461626897115">
         <mark key="'" line="0" column="0" />
@@ -275,7 +275,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>q</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
@@ -284,31 +284,31 @@
         <text>|\)</text>
       </register>
       <register name="1" type="4">
-        <text>q</text>
+        <text>left</text>
       </register>
       <register name="2" type="4">
-        <text>\</text>
+        <text>|\$</text>
       </register>
       <register name="3" type="4">
-        <text>.replace('isin', 'in')</text>
+        <text>getAttribute('data-latex')</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBcICAgIExvZyAgICAke3RtcF9leHByZXNzaW9ufQo=</text>
+      <register name="4" type="4">
+        <text>selected</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjVE9ETyBTaG91bGQgYmUgc3VwcG9ydGVkIGZvciBmdXR1cmUuCg==</text>
+      <register name="5" type="4">
+        <text>mathquill-rendered-math</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>q</text>
       </register>
       <register name="7" type="4">
-        <text>Numberic</text>
+        <text>\</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.replace('isin', 'in')</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBcICAgIExvZyAgICAke3RtcF9leHByZXNzaW9ufQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
