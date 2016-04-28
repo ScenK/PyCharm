@@ -76,6 +76,7 @@
         <mark key="^" line="54" column="32" />
         <mark key="." line="87" column="47" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/multiple_choice_by_interaction.robot" timestamp="1461811850969" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -91,9 +92,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="50" column="111" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1461747000608">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons_latex.robot" timestamp="1461555527439">
         <mark key="[" line="11" column="44" />
@@ -290,35 +288,35 @@
 ...    555599992    CD6E997E    &quot;Math Session&quot;    1464325807    1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U3VpdGUgU2V0dXAgICAgUnVuIEtleXdvcmRzICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQK</text>
+        <text encoding="base64">VHlwbyBmaXgK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">U3VpdGUgU2V0dXAgICAgUnVuIEtleXdvcmRzICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Li4uICAgIEFORCAgICBMb2dpbiBXaXRoIENyZWRlbnRpYWxzIEFuZCBKdW1wIFRvIEl0ZW0KLi4uICAgIDU1NTU5OTk5MiAgICBDRDZFOTk3RSAgICAiTWF0aCBTZXNzaW9uIiAgICAxNDY0MzI1ODA3ICAgIDEK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>Login    network
   Enter Session    &quot;Math Session&quot;
   Enter Session Access Code    1464325807
   Continue From Options
   Continue From Di</text>
       </register>
-      <register name="4" type="4">
-        <text>d</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>b</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>b</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
