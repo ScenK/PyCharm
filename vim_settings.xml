@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/drag_and_resize_general_masking_tool.robot" timestamp="1461635903653">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1461728190719">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -67,12 +73,12 @@
         <mark key="." line="38" column="133" />
         <mark key="^" line="38" column="133" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1461735732284">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1461829554363">
         <mark key="'" line="46" column="29" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="64" />
-        <mark key="^" line="54" column="32" />
-        <mark key="." line="87" column="47" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="68" />
+        <mark key="^" line="55" column="67" />
+        <mark key="." line="54" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/multiple_choice_by_interaction.robot" timestamp="1461813116314" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1461118067360">
@@ -91,18 +97,21 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="50" column="111" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461827612782">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1461829623483">
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons_latex.robot" timestamp="1461555527439">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="11" column="44" />
         <mark key="." line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461295519557">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1461829593223">
         <mark key="'" line="32" column="35" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1461077332511">
         <mark key="[" line="100" column="27" />
@@ -170,9 +179,14 @@
       <file name="/Library/Python/2.7/site-packages/robot/libraries/String.py" timestamp="1461554789213">
         <mark key="'" line="668" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/pause.robot" timestamp="1461552914796">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="26" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="16" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="33" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
@@ -272,6 +286,7 @@
       <jump line="1" column="16" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="0" column="77" filename="/Python Console" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -281,34 +296,34 @@
         <text>secure</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlbW92ZSAiJHtzcGFjZX0sIFxcLCBbXSwge30gKSIK</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiVHlwZSBpbnRvIE9FIGJveCB3aXRoIHNwZWNpYWwgY2hhcmFjdGVyczog5Lit5paHz4DiiJHiiIIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiVHlwZSBpbnRvIE9FIGJveCB3aXRoIHNwZWNpYWwgY2hhcmFjdGVyczog5Lit5paHz4DiiJHiiIIiCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">VHlwbyBmaXgK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtwdXJlX2RhdGFfbGF0ZXh9ICAgICR7cHVyZV9leHByZXNzaW9ufQo=</text>
-      </register>
-      <register name="4" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="4">
-        <text>remove &quot;${space}, \\, [], {} )&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>${SPACE}</text>
       </register>
       <register name="7" type="4">
-        <text>, ')'</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>, '/'</text>
+        <text>Append Text Response</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">aQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
