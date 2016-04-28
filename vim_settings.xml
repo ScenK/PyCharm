@@ -14,7 +14,6 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1461737645348" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -151,11 +150,11 @@
         <mark key="^" line="9" column="64" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461735562568">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461808389310">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461745838790">
         <mark key="'" line="115" column="2" />
@@ -286,35 +285,40 @@
       <register name="/" type="4">
         <text>secure</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBVbnNlbGVjdCBGcmFtZQo=</text>
+      <register name="0" type="4">
+        <text>Login With Credentials And Jump To Item
+...    555599992    CD6E997E    &quot;Math Session&quot;    1464325807    1</text>
       </register>
-      <register name="1" type="4">
-        <text>d</text>
+      <register name="1" type="2">
+        <text encoding="base64">U3VpdGUgU2V0dXAgICAgUnVuIEtleXdvcmRzICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Li4uICAgIEFORCAgICBMb2dpbiBXaXRoIENyZWRlbnRpYWxzIEFuZCBKdW1wIFRvIEl0ZW0KLi4uICAgIDU1NTU5OTk5MiAgICBDRDZFOTk3RSAgICAiTWF0aCBTZXNzaW9uIiAgICAxNDY0MzI1ODA3ICAgIDEK</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>Login    network
+  Enter Session    &quot;Math Session&quot;
+  Enter Session Access Code    1464325807
+  Continue From Options
+  Continue From Di</text>
       </register>
       <register name="4" type="4">
-        <text>b</text>
-      </register>
-      <register name="5" type="4">
         <text>d</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">VXJsIA==</text>
+        <text>b</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>d</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
