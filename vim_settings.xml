@@ -14,6 +14,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1461815544593">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -28,8 +33,11 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1461723576780">
         <mark key="'" line="148" column="58" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/MsSqlLibrary.py" timestamp="1461732957597">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/MsSqlLibrary.py" timestamp="1461815148160">
         <mark key="'" line="38" column="6" />
+        <mark key="[" line="64" column="51" />
+        <mark key="]" line="64" column="52" />
+        <mark key="." line="64" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/pause_and_login_back.robot" timestamp="1461638872788">
         <mark key="[" line="3" column="0" />
@@ -51,12 +59,12 @@
       <file name="/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py" timestamp="1461590489919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461813529474">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461814444033">
         <mark key="'" line="0" column="15" />
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="193" column="71" />
-        <mark key="." line="0" column="16" />
+        <mark key="[" line="192" column="9" />
+        <mark key="]" line="192" column="9" />
+        <mark key="^" line="192" column="9" />
+        <mark key="." line="192" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1461735018695">
         <mark key="'" line="81" column="24" />
@@ -64,7 +72,7 @@
         <mark key="]" line="63" column="2" />
         <mark key="." line="63" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461813801751">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461815159992">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="12" />
         <mark key="." line="38" column="12" />
@@ -107,7 +115,7 @@
         <mark key="]" line="100" column="27" />
         <mark key="." line="100" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1461740091014">
+      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1461815082124">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="14" column="34" />
         <mark key="." line="14" column="34" />
@@ -136,7 +144,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461813699821">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461815978518">
         <mark key="'" line="95" column="12" />
         <mark key="[" line="86" column="21" />
         <mark key="]" line="86" column="41" />
@@ -176,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="15" column="26" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="16" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
@@ -276,10 +283,11 @@
       <jump line="175" column="24" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="1" column="16" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="0" column="77" filename="/Python Console" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Numberic</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>secure</text>
@@ -287,14 +295,14 @@
       <register name="0" type="4">
         <text>u</text>
       </register>
-      <register name="1" type="4">
-        <text>Numberic</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjVE9ETyBTaG91bGQgYmUgc3VwcG9ydGVkIGZvciBmdXR1cmUuCg==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Numberic</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
@@ -309,10 +317,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIGZhbHNl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>Practice-19035</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -345,16 +353,16 @@
         <entry>v</entry>
         <entry encoding="base64">JzwsJz4h</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
-        <entry>CtrlPBuffer</entry>
         <entry>sp</entry>
         <entry>q</entry>
         <entry>bp!</entry>
-        <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>e</entry>
         <entry>bn!</entry>
         <entry>:CtrlPBuffer</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5ibiE=</entry>
+        <entry>CtrlPBuffer</entry>
       </history-cmd>
       <history-expr />
       <history-input />
