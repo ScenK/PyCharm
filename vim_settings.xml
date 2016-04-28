@@ -72,7 +72,7 @@
         <mark key="]" line="63" column="2" />
         <mark key="." line="63" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461815159992">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461818661032">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="12" />
         <mark key="." line="38" column="12" />
@@ -144,7 +144,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/calculator.py" timestamp="1461076846470">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461816922817">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461819084012">
         <mark key="'" line="95" column="12" />
         <mark key="[" line="86" column="21" />
         <mark key="]" line="86" column="41" />
@@ -360,9 +360,9 @@
         <entry>bn!</entry>
         <entry>:CtrlPBuffer</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>CtrlPBuffer</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
