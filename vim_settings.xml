@@ -157,11 +157,11 @@
         <mark key="." line="167" column="23" />
         <mark key="^" line="167" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/long_expressions.robot" timestamp="1461837595346">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="12" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="20" column="12" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/long_expressions.robot" timestamp="1461838544655">
+        <mark key="[" line="18" column="97" />
+        <mark key="]" line="18" column="106" />
+        <mark key="^" line="18" column="106" />
+        <mark key="." line="18" column="106" />
       </file>
     </filemarks>
     <jumps>
@@ -280,28 +280,28 @@
         <text>0</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIGZhbHNl</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>Expression With Special Characters</text>
+        <text encoding="base64">ICAgIGZhbHNl</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Expression With Special Characters</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAke2NvbnRlbnR9PSAgICBHZXQgVGV4dCAgICAke09FLlRJTllfTUNFX0NPTlRFTlR9CiAgJHtjb250ZW50fT0gICAgU3RyaXAgU3RyaW5nICAgICR7Y29udGVudH0KICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgICAke2NvbnRlbnR9ICAgICR7dGV4dH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBDbGljayBFbGVtZW50ICAK</text>
-      </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAke2NvbnRlbnR9PSAgICBHZXQgVGV4dCAgICAke09FLlRJTllfTUNFX0NPTlRFTlR9CiAgJHtjb250ZW50fT0gICAgU3RyaXAgU3RyaW5nICAgICR7Y29udGVudH0KICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgICAke2NvbnRlbnR9ICAgICR7dGV4dH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBDbGljayBFbGVtZW50ICAK</text>
+      </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
