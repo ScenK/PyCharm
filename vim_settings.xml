@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1461895542742">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1461912932829">
+      <file name="/Python Console" timestamp="1461913547858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
@@ -146,11 +146,15 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="28" column="6" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461913569835" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461896071144">
         <mark key="'" line="95" column="12" />
         <mark key="[" line="86" column="21" />
         <mark key="]" line="86" column="41" />
         <mark key="." line="168" column="0" />
+      </file>
+      <file name="/usr/local/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py" timestamp="1461913451839">
+        <mark key="'" line="265" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461808389310">
         <mark key="[" line="10" column="0" />
@@ -173,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
@@ -273,6 +276,7 @@
       <jump line="86" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="87" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
+      <jump line="265" column="11" filename="/usr/local/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
