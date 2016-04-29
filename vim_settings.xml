@@ -11,8 +11,11 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1461895542742">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1461913547858">
+      <file name="/Python Console" timestamp="1461914477353">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
         <mark key="[" line="9" column="15" />
@@ -45,7 +48,7 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/project.html" timestamp="1461595092438">
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/project.html" timestamp="1461914367338">
         <mark key="[" line="39" column="61" />
         <mark key="]" line="39" column="70" />
         <mark key="." line="39" column="70" />
@@ -146,7 +149,7 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="28" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461913569835" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1461913866769" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461896071144">
         <mark key="'" line="95" column="12" />
         <mark key="[" line="86" column="21" />
@@ -168,6 +171,12 @@
         <mark key="]" line="164" column="26" />
         <mark key="." line="167" column="23" />
         <mark key="^" line="167" column="23" />
+      </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1461914336993">
+        <mark key="[" line="95" column="62" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/long_expressions.robot" timestamp="1461897211923">
         <mark key="[" line="24" column="42" />
@@ -280,40 +289,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGZhbHNl</text>
+        <text encoding="base64">ZmlsZXN5c3RlbSBpbXBvcnQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">bWFza2luZyBzaG91bGQg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBPcGVuIE9lIEl0ZW0gRnggVG9vbAo=</text>
+      <register name="0" type="4">
+        <text>current_</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ZmlsZXN5c3RlbSBpbXBvcnQg</text>
+      </register>
+      <register name="2" type="4">
+        <text>)</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">VHlwbyBmaXgK</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBDaG9vc2UgRXhwcmVzc2lvbiBJbiBPZSBCb3gK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGZhbHNl</text>
-      </register>
-      <register name="4" type="4">
-        <text>0</text>
-      </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text encoding="base64">ICAgIGZhbHNl</text>
       </register>
       <register name="6" type="4">
         <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIGZhbHNl</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>Expression With Special Characters</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -353,13 +362,13 @@
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>bp!</entry>
         <entry>:CtrlPBuffer</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
-        <entry>bn!</entry>
         <entry>CtrlPBuffer</entry>
         <entry>e</entry>
         <entry>vs</entry>
+        <entry>bn!</entry>
+        <entry>bp!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
