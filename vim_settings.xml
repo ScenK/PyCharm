@@ -11,6 +11,9 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1461895542742">
         <mark key="'" line="93" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1461912932829">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/ruler.robot" timestamp="1461316250989">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -54,14 +57,14 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461898219751">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461912760568">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="145" column="49" />
         <mark key="]" line="145" column="49" />
         <mark key="^" line="145" column="49" />
         <mark key="." line="145" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" timestamp="1461898218573">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" timestamp="1461912760975">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="12" />
