@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1461895542742">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1461914477353">
+      <file name="/Python Console" timestamp="1461915184977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="31" />
@@ -38,6 +38,12 @@
         <mark key="]" line="64" column="52" />
         <mark key="." line="64" column="52" />
       </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/pdf_detail.html" timestamp="1461915965656">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="64" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/pause_and_login_back.robot" timestamp="1461638872788">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -48,11 +54,11 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/project.html" timestamp="1461914367338">
-        <mark key="[" line="39" column="61" />
-        <mark key="]" line="39" column="70" />
-        <mark key="." line="39" column="70" />
-        <mark key="^" line="39" column="70" />
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/project.html" timestamp="1461915266217">
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="54" />
+        <mark key="^" line="27" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1461658547959">
         <mark key="[" line="33" column="0" />
@@ -172,11 +178,12 @@
         <mark key="." line="167" column="23" />
         <mark key="^" line="167" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1461914336993">
-        <mark key="[" line="95" column="62" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1461916097568">
+        <mark key="'" line="32" column="37" />
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/long_expressions.robot" timestamp="1461897211923">
         <mark key="[" line="24" column="42" />
@@ -186,10 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
       <jump line="95" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="28" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/Fx_Library.py" />
@@ -286,43 +289,47 @@
       <jump line="87" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="265" column="11" filename="/usr/local/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py" />
+      <jump line="107" column="15" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="74" column="25" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="32" column="37" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="0" column="14" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/pdf_detail.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsZXN5c3RlbSBpbXBvcnQg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">bWFza2luZyBzaG91bGQg</text>
       </register>
       <register name="0" type="4">
-        <text>current_</text>
+        <text encoding="base64">PGEgY2xhc3M9ImJ1dHRvbi1lcnJvciBwdXJlLWJ1dHRvbiIgc3R5bGU9ImJhY2tncm91bmQ6IHJnYigyMDIsIDYwLCA2MCk7IiBocmVmPSJ7eyB1cmxfZm9yKCdwZGZfZGVsJywgcGRmX25hbWU9cGRmLm5hbWUgKSB9fSI+</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZmlsZXN5c3RlbSBpbXBvcnQg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>file_name.pdf</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">VHlwbyBmaXgK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHdpZHRoPSI4MDBweCIgaGVpZ2h0PSIyMTAwcHgi</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBDaG9vc2UgRXhwcmVzc2lvbiBJbiBPZSBCb3gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGZhbHNl</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRhYmxlIGNsYXNzPSJwdXJlLXRhYmxlIHB1cmUtdGFibGUtaG9yaXpvbnRhbCIgc3R5bGU9IndpZHRoOiAxMDAlIj4KICAgICAgICAgICAgPHRoZWFkPgogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0aD4jPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+UHJvamVjdDwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoPlB1Ymxpc2ggRGF0ZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoPk1vZGlmeSBEYXRlPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+T3BlcmF0aW9uPC90aD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgIDwvdGhlYWQ+CiAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgIHslIGZvciBwZGYgaW4gcHJvamVjdC5wZGZzICV9CiAgICAgICAgICAgICAgICB7JSBzZXQgcm93bG9vcCA9IGxvb3AgJX0KICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcm93bG9vcC5pbmRleCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPjxhIGhyZWY9Int7IHVybF9mb3IoJ3BkZl9kZXRhaWwnLCBwZGZfbmFtZT1wZGYubmFtZSApIH19Ij57eyBwZGYubmFtZSB9fTwvYT48L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD57eyBwZGYuY3JlYXRlZF9hdC5zdHJmdGltZSgnJVktJW0tJWQgJUg6JU0nKSB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPnt7IHBkZi5jcmVhdGVkX2F0LnN0cmZ0aW1lKCclWS0lbS0lZCAlSDolTScpIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQ+PGEgY2xhc3M9ImJ1dHRvbi1lcnJvciBwdXJlLWJ1dHRvbiIgc3R5bGU9ImJhY2tncm91bmQ6IHJnYigyMDIsIDYwLCA2MCk7IiBocmVmPSJ7eyB1cmxfZm9yKCdwZGZfZGVsJywgcGRmX25hbWU9cGRmLm5hbWUgKSB9fSI+ZGVsZXRlPC9hPjwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgeyUgZW5kZm9yICV9CiAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgPC90YWJsZT4K</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8Zm9ybSBjbGFzcz0icHVyZS1mb3JtIHB1cmUtZm9ybS1zdGFja2VkIiBzdHlsZT0id2lkdGg6IDEwJTttYXJnaW4tbGVmdDogMjBweDsiIGFjdGlvbj0ie3sgdXJsX2ZvcigncHJvamVjdF91cGxvYWQnKSB9fSIgbWV0aG9kPSJwb3N0IiBlbmN0eXBlPSJtdWx0aXBhcnQvZm9ybS1kYXRhIj4KICAgICAgICA8ZmllbGRzZXQ+CiAgICAgICAgICAgIDxsYWJlbCBmb3I9InBkZiI+VXBsb2FkIGEgbmV3IFBERjwvbGFiZWw+CiAgICAgICAgICAgIDxpbnB1dCBpZD0icGRmIiB0eXBlPSJmaWxlIiBuYW1lPSJwZGZmaWxlIj4KICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0icHJvamVjdF9pZCIgdmFsdWU9Int7IHByb2plY3QucGsgfX0iPgogICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9InB1cmUtYnV0dG9uIHB1cmUtYnV0dG9uLXByaW1hcnkiPlN1Ym1pdDwvYnV0dG9uPgogICAgICAgIDwvZmllbGRzZXQ+CiAgICA8L2Zvcm0+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>1</text>
+      <register name="7" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+eyUgZXh0ZW5kcyAiYmFzZS5odG1sIiAlfQp7JSBibG9jayBib2R5ICV9CiAgeyUgaWYgc2Vzc2lvbi5sb2dnZWRfaW4gJX0KICAgIDxkaXYgY2xhc3M9ImhvbWUtbWVudSBwdXJlLW1lbnUgcHVyZS1tZW51LWhvcml6b250YWwgcHVyZS1tZW51LWZpeGVkIj4KICAgICAgICA8YSBjbGFzcz0icHVyZS1tZW51LWhlYWRpbmciIGhyZWY9Ii8iPlBERk1pbmVyPC9hPgogICAgICAgIDx1bCBjbGFzcz0icHVyZS1tZW51LWxpc3QiPgogICAgICAgICAgICA8bGkgY2xhc3M9InB1cmUtbWVudS1pdGVtIj48YSBocmVmPSJ7eyB1cmxfZm9yKCdzaWdudXAnKSB9fSIgY2xhc3M9InB1cmUtbWVudS1saW5rIj57JSBpZiBzZXNzaW9uLmxvZ2dlZF9pbiAlfVNpZ24gT3V0eyUgZW5kaWYgJX08L2E+PC9saT4KICAgICAgICA8L3VsPgogICAgPC9kaXY+CgogICAgPGRpdiBjbGFzcz0iY29udGVudC13cmFwcGVyIiBzdHlsZT0idG9wOiAyMCUiPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbnRlbnQiIHN0eWxlPSJwYWRkaW5nOiAwIj4KICAgICAgICAgICAgPHRhYmxlIGNsYXNzPSJwdXJlLXRhYmxlIHB1cmUtdGFibGUtaG9yaXpvbnRhbCIgc3R5bGU9IndpZHRoOiAxMDAlIj4KICAgICAgICAgICAgPHRoZWFkPgogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0aD4jPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+UHJvamVjdDwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoPlB1Ymxpc2ggRGF0ZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoPk1vZGlmeSBEYXRlPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+T3BlcmF0aW9uPC90aD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgIDwvdGhlYWQ+CiAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgIHslIGZvciBwZGYgaW4gcHJvamVjdC5wZGZzICV9CiAgICAgICAgICAgICAgICB7JSBzZXQgcm93bG9vcCA9IGxvb3AgJX0KICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcm93bG9vcC5pbmRleCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPjxhIGhyZWY9Int7IHVybF9mb3IoJ3BkZl9kZXRhaWwnLCBwZGZfbmFtZT1wZGYubmFtZSApIH19Ij57eyBwZGYubmFtZSB9fTwvYT48L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD57eyBwZGYuY3JlYXRlZF9hdC5zdHJmdGltZSgnJVktJW0tJWQgJUg6JU0nKSB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPnt7IHBkZi5jcmVhdGVkX2F0LnN0cmZ0aW1lKCclWS0lbS0lZCAlSDolTScpIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQ+PGEgY2xhc3M9ImJ1dHRvbi1lcnJvciBwdXJlLWJ1dHRvbiIgc3R5bGU9ImJhY2tncm91bmQ6IHJnYigyMDIsIDYwLCA2MCk7IiBocmVmPSJ7eyB1cmxfZm9yKCdwZGZfZGVsJywgcGRmX25hbWU9cGRmLm5hbWUgKSB9fSI+ZGVsZXRlPC9hPjwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgeyUgZW5kZm9yICV9CiAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgPC90YWJsZT4KICAgICAgICA8Zm9ybSBjbGFzcz0icHVyZS1mb3JtIHB1cmUtZm9ybS1zdGFja2VkIiBzdHlsZT0id2lkdGg6IDEwJTttYXJnaW4tbGVmdDogMjBweDsiIGFjdGlvbj0ie3sgdXJsX2ZvcigncHJvamVjdF91cGxvYWQnKSB9fSIgbWV0aG9kPSJwb3N0IiBlbmN0eXBlPSJtdWx0aXBhcnQvZm9ybS1kYXRhIj4KICAgICAgICA8ZmllbGRzZXQ+CiAgICAgICAgICAgIDxsYWJlbCBmb3I9InBkZiI+VXBsb2FkIGEgbmV3IFBERjwvbGFiZWw+CiAgICAgICAgICAgIDxpbnB1dCBpZD0icGRmIiB0eXBlPSJmaWxlIiBuYW1lPSJwZGZmaWxlIj4KICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0icHJvamVjdF9pZCIgdmFsdWU9Int7IHByb2plY3QucGsgfX0iPgogICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9InB1cmUtYnV0dG9uIHB1cmUtYnV0dG9uLXByaW1hcnkiPlN1Ym1pdDwvYnV0dG9uPgogICAgICAgIDwvZmllbGRzZXQ+CiAgICA8L2Zvcm0+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICB7JSBlbmRpZiAlfQp7JSBlbmRibG9jayAlfQo8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -366,9 +373,9 @@
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>CtrlPBuffer</entry>
         <entry>e</entry>
-        <entry>vs</entry>
         <entry>bn!</entry>
         <entry>bp!</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
