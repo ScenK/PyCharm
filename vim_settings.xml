@@ -84,6 +84,12 @@
         <mark key="]" line="63" column="2" />
         <mark key="." line="63" column="2" />
       </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pdfs/.gitignore" timestamp="1462061884913">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461895821831">
         <mark key="[" line="38" column="108" />
         <mark key="]" line="38" column="109" />
@@ -116,7 +122,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="50" column="111" />
       </file>
-      <file name="/Dummy.txt" timestamp="1462023431140">
+      <file name="/Dummy.txt" timestamp="1462061902686">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons_latex.robot" timestamp="1461555527439">
@@ -296,34 +302,34 @@
         <text encoding="base64">ICAgIGN1cnJlbnRfcHJvamVjdC51cGRhdGVfb25lKHB1bGxfX3BkZnM9cGRmX2VtKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmcmFtZSBzcmM9Imh0dHA6Ly9pZWVleHBsb3JlLmllZWUub3JnL1hwbG9yZS9ob21lLmpzcCI+CiAgICAgICAgICAgIDwvaWZyYW1lPgo=</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlmcmFtZSBzcmM9Imh0dHA6Ly9pZWVleHBsb3JlLmllZWUub3JnL1hwbG9yZS9ob21lLmpzcCI+CiAgICAgICAgICAgIDwvaWZyYW1lPgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>http://ieeexplore.ieee.org/Xplore/home.jsp</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGF1dG9jb21wbGV0ZT0ib2ZmIiBpZD0iaW5wdXQtYmFzaWMiIG5hbWU9InF1ZXJ5VGV4dCIgdmFsdWU9IiIgcGxhY2Vob2xkZXI9IkVudGVyIFNlYXJjaCBUZXJtIiBjbGFzcz0idWktYXV0b2NvbXBsZXRlLWlucHV0IiB0YXJnZXQ9Imh0dHA6Ly9pZWVleHBsb3JlLmllZWUub3JnL1hwbG9yZS9ob21lLmpzcCI+Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHVzZXJuYW1lID0gc2Vzc2lvblsndXNlcm5hbWUnXQogICAgYXV0aG9yID0gVXNlci5vYmplY3RzKG5hbWU9dXNlcm5hbWUpLmZpcnN0KCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHBkZl9lbSA9IFBkZkVtKAogICAgICAgIG5hbWU9cGRmX25hbWUsCiAgICAgICAgYXV0aG9yPWF1dGhvcgogICAgKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICMgY3VycmVudF9wcm9qZWN0LnVwZGF0ZV9vbmUocHVsbF9fcGRmcz1wZGZfZW0pCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">bm90IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpLmNyZWF0ZWRfdGltZQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -368,6 +374,7 @@
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
