@@ -65,6 +65,9 @@
         <mark key="." line="30" column="145" />
         <mark key="^" line="30" column="148" />
       </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pure/base.css" timestamp="1462179962573">
+        <mark key="'" line="99" column="2" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1461658547959">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="98" />
@@ -204,7 +207,7 @@
         <mark key="." line="167" column="23" />
         <mark key="^" line="167" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1462154447399">
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1462180743498">
         <mark key="'" line="15" column="16" />
         <mark key="[" line="140" column="67" />
         <mark key="]" line="140" column="67" />
@@ -219,10 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="892" column="15" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
-      <jump line="2" column="11" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
-      <jump line="9" column="23" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
-      <jump line="67" column="56" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
       <jump line="424" column="0" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
       <jump line="301" column="58" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
       <jump line="293" column="21" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
@@ -319,13 +318,17 @@
       <jump line="145" column="22" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/base.html" />
       <jump line="15" column="16" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="388" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pure/base.css" />
+      <jump line="154" column="2" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pure/base.css" />
+      <jump line="95" column="19" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pure/base.css" />
+      <jump line="99" column="2" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pure/base.css" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>.find('a')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">bWFza2luZyBzaG91bGQg</text>
+        <text>background</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJChyWzBdKQo=</text>
@@ -362,9 +365,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">bWFza2luZyBzaG91bGQg</last-search>
+      <last-search>background</last-search>
       <last-offset />
-      <last-pattern encoding="base64">bWFza2luZyBzaG91bGQg</last-pattern>
+      <last-pattern>background</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -386,6 +389,7 @@
         <entry>masking</entry>
         <entry>masking should be</entry>
         <entry encoding="base64">bWFza2luZyBzaG91bGQg</entry>
+        <entry>background</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
