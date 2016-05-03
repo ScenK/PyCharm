@@ -31,10 +31,10 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" timestamp="1462239899842">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" timestamp="1462244295490">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/MsSqlLibrary.py" timestamp="1461815148160">
         <mark key="'" line="38" column="6" />
@@ -184,7 +184,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1462239714812" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1462244319074">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461896071144">
         <mark key="'" line="95" column="12" />
         <mark key="[" line="86" column="21" />
@@ -228,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="57" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
-      <jump line="292" column="8" filename="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
       <jump line="82" column="27" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="120" column="16" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="101" column="49" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
@@ -328,10 +331,12 @@
       <jump line="101" column="26" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="175" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.find('a')</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>background</text>
@@ -339,32 +344,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJChyWzBdKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL211bHRpcGxlX2Nob2ljZS5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi9yZXNvdXJjZXMvaXRlbXMvb3Blbl9lbmRlZC5yb2JvdAo=</text>
+      <register name="1" type="4">
+        <text>#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vYm9va21hcmsucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmVlZGJhY2sucm9ib3QK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL211bHRpcGxlX2Nob2ljZS5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi9yZXNvdXJjZXMvaXRlbXMvb3Blbl9lbmRlZC5yb2JvdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmVzZXQucm9ib3QK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vYm9va21hcmsucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmVlZGJhY2sucm9ib3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXBsb2FkIGZvbGRlcgo=</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmVzZXQucm9ib3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHIgPSAkKHNlYXJjaF90cGwpLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">dXBsb2FkIGZvbGRlcgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHIgPSAkKHNlYXJjaF90cGwpLmNsb25lKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgciA9ICQoc2VhcmNoX3RwbCkuY2xvbmUoKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.find('a')</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>data.root.document[i].pubtitle</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmF0dHIoJ2hyZWYnLCBkYXRhLnJvb3QuZG9jdW1lbnRbaV0ubWR1cmwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
