@@ -80,7 +80,7 @@
       <file name="/usr/local/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py" timestamp="1461913451839">
         <mark key="'" line="265" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462253146891" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462263316112" />
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/static/site.js" timestamp="1462155897669">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -131,12 +131,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462261667244">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="35" />
-        <mark key="." line="41" column="35" />
-        <mark key="^" line="41" column="35" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462266112434">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="45" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/pdf_detail.html" timestamp="1462153991323">
         <mark key="[" line="13" column="123" />
@@ -221,11 +221,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462262040915">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="31" column="18" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462264041011">
+        <mark key="'" line="35" column="121" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="34" column="103" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462261627217">
         <mark key="'" line="167" column="16" />
@@ -247,12 +248,14 @@
         <mark key="^" line="10" column="84" />
         <mark key="." line="10" column="84" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462261355292">
-        <mark key="[" line="42" column="55" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462266580491">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="111" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="119" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
@@ -352,43 +355,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_android_utils.py" />
       <jump line="53" column="8" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="186" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
+      <jump line="36" column="121" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="/" type="4">
         <text>background</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q2xlYXIgUmVjb3JkZWQgRXhwcmVzc2lvbgogIFtEb2N1bWVudGF0aW9uXSAgICBDbGVhciByZWNvcmRlZCBlbnRlcmVkIGV4cHJlc3Npb24uCiAgJHt0bXBfZXhwcmVzc2lvbn09ICAgIEdldCBWYXJpYWJsZSBWYWx1ZSAgICAke09FLlRNUF9FWFBSRVNTSU9OfQogIFJ1biBLZXl3b3JkIElmICAgICcke3RtcF9leHByZXNzaW9ufScgIT0gJ05vbmUnCiAgLi4uICAgIFNldCBUZXN0IFZhcmlhYmxlICAgICR7T0UuVE1QX0VYUFJFU1NJT059ICAgICR7Tm9uZX0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAiL3IiIGluIGw6CiAgICAgICAgICAgIGwucmVtb3ZlKCIvciIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>`</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsID0gc2VsZi5fcG9wX2ludmFsaWRhdGVfY2hhcmFjdGVycyhsKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>m</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIHR5cGU6IChvYmplY3QsIG9iamVjdCkgLT4gb2JqZWN0Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>return</text>
       </register>
-      <register name="7" type="4">
-        <text>a</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsID0gcmFuZG9tLnNhbXBsZShzZWxmLmV4dGVuZF9hc2NpaV9jb2RlLCBsZW5ndGgpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>r</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>OE.TMP_EXPRESSION</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
