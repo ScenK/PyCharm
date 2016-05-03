@@ -36,13 +36,20 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462255116107">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/pdf_detail.html" timestamp="1462153991323">
         <mark key="[" line="13" column="123" />
         <mark key="]" line="13" column="143" />
         <mark key="^" line="13" column="143" />
         <mark key="." line="13" column="143" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462252672677">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462253150015">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="51" />
         <mark key="." line="6" column="51" />
@@ -102,9 +109,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1461895821831">
-        <mark key="[" line="38" column="108" />
-        <mark key="]" line="38" column="109" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462253770512">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="80" />
         <mark key="." line="38" column="109" />
         <mark key="^" line="20" column="11" />
       </file>
@@ -128,7 +135,6 @@
         <mark key="]" line="30" column="172" />
         <mark key="." line="30" column="173" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/doc/AppiumLibrary.html" timestamp="1462247801372" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/reset_general_masking.robot" timestamp="1461638898735">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -185,18 +191,18 @@
       <file name="/usr/local/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py" timestamp="1461913451839">
         <mark key="'" line="265" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/setup.py" timestamp="1462247715277" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462253146891" />
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/static/site.js" timestamp="1462155897669">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462252717103">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="34" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="6" column="34" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462254726635">
+        <mark key="[" line="14" column="112" />
+        <mark key="]" line="14" column="115" />
+        <mark key="^" line="14" column="115" />
+        <mark key="." line="14" column="115" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461808389310">
         <mark key="[" line="10" column="0" />
@@ -204,10 +210,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1461897747965">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462254224160">
         <mark key="'" line="167" column="16" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="26" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="19" />
         <mark key="." line="167" column="23" />
         <mark key="^" line="167" column="23" />
       </file>
@@ -217,6 +223,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1462254843013">
+        <mark key="[" line="10" column="84" />
+        <mark key="]" line="10" column="84" />
+        <mark key="^" line="10" column="84" />
+        <mark key="." line="10" column="84" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1462231992452">
         <mark key="'" line="175" column="4" />
@@ -233,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="44" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="111" column="56" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="26" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
@@ -333,43 +344,44 @@
       <jump line="78" column="4" filename="$USER_HOME$/Develop/robotframework-appiumlibrary/README.rst" />
       <jump line="49" column="45" filename="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_android_utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_android_utils.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Vertial Scroll Bar With Long Notes</text>
+        <text>expression</text>
       </register>
       <register name="/" type="4">
         <text>background</text>
       </register>
       <register name="0" type="4">
-        <text>Random Text Input</text>
+        <text>${index}</text>
       </register>
       <register name="1" type="4">
-        <text>Vertial Scroll Bar With Long Notes</text>
+        <text>expression</text>
       </register>
       <register name="2" type="4">
-        <text>Vertial Scroll Bar With Long Notes</text>
+        <text>with random keyboard input</text>
       </register>
       <register name="3" type="4">
-        <text>Spelling Check Is Blocked</text>
+        <text encoding="base64">RW50ZXIgcmFuZG9tIA==</text>
       </register>
-      <register name="4" type="4">
-        <text>Spelling Check Is Blocked</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TGlicmFyeSAgICBBcHBpdW1MaWJyYXJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzMuIEVudGVyIDQwMDAgd29yZHMgdG8gbm90ZXBhZCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL211bHRpcGxlX2Nob2ljZS5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi9yZXNvdXJjZXMvaXRlbXMvb3Blbl9lbmRlZC5yb2JvdAo=</text>
+        <text encoding="base64">ICBcICAgIEFwcGVuZCBUZXh0IFJlc3BvbnNlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vYm9va21hcmsucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmVlZGJhY2sucm9ib3QK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICR7d29yZHN9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmVzZXQucm9ib3QK</text>
+        <text encoding="base64">ICBcICAgIFNsZWVwICAgIDAuNQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -416,8 +428,8 @@
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>wq</entry>
-        <entry>vs</entry>
         <entry>CtrlPBuffer</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
