@@ -158,7 +158,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1461912760568">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462269069397">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="145" column="49" />
         <mark key="]" line="145" column="49" />
@@ -248,11 +248,11 @@
         <mark key="^" line="10" column="84" />
         <mark key="." line="10" column="84" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462266580491">
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="15" />
-        <mark key="." line="35" column="15" />
-        <mark key="^" line="35" column="9" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462269573662">
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+        <mark key="^" line="34" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -359,40 +359,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>background</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAiL3IiIGluIGw6CiAgICAgICAgICAgIGwucmVtb3ZlKCIvciIpCg==</text>
+      <register name="0" type="4">
+        <text>new_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gc2VsZi5fcG9wX2ludmFsaWRhdGVfY2hhcmFjdGVycyhsKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBsIC0gcG9wX2wK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR5cGU6IChvYmplY3QsIG9iamVjdCkgLT4gb2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbCAtIHBvcF9sCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdfbCA9IGwKICAgICAgICBpZiAiXHIiIGluIG5ld19sOgogICAgICAgICAgICBuZXdfbC5yZW1vdmUoIlxyIikKICAgICAgICBlbGlmICJcdCIgaW4gbmV3X2w6CiAgICAgICAgICAgIHByaW50IDEKICAgICAgICAgICAgbmV3X2wucmVtb3ZlKCJcdCIpCiAgICAgICAgZWxpZiAiXHgwYiIgaW4gbmV3X2w6CiAgICAgICAgICAgIHByaW50IDEKICAgICAgICAgICAgbmV3X2wucmVtb3ZlKCJceDBiIikKICAgICAgICBlbGlmICJceDBjIiBpbiBuZXdfbDoKICAgICAgICAgICAgcHJpbnQgMQogICAgICAgICAgICBuZXdfbC5yZW1vdmUoIlx4MGMiKQogICAgICAgIGVsaWYgIiAiIGluIG5ld19sOgogICAgICAgICAgICBwcmludCAxCiAgICAgICAgICAgIG5ld19sLnJlbW92ZSgiICIpCiAgICAgICAgcmV0dXJuIG5ld19sCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>return</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gcmFuZG9tLnNhbXBsZShzZWxmLmV4dGVuZF9hc2NpaV9jb2RlLCBsZW5ndGgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="4">
+        <text>b</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\x0b</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
