@@ -42,6 +42,12 @@
         <mark key="^" line="13" column="143" />
         <mark key="." line="13" column="143" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462252672677">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_response.robot" timestamp="1461835292420">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -186,6 +192,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462252717103">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="6" column="34" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_responses.robot" timestamp="1461808389310">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -324,40 +336,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>#</text>
+        <text>Vertial Scroll Bar With Long Notes</text>
       </register>
       <register name="/" type="4">
         <text>background</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJChyWzBdKQo=</text>
+      <register name="0" type="4">
+        <text>Random Text Input</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">TGlicmFyeSAgICBBcHBpdW1MaWJyYXJ5Cg==</text>
+      <register name="1" type="4">
+        <text>Vertial Scroll Bar With Long Notes</text>
       </register>
       <register name="2" type="4">
-        <text>#</text>
+        <text>Vertial Scroll Bar With Long Notes</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL211bHRpcGxlX2Nob2ljZS5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi9yZXNvdXJjZXMvaXRlbXMvb3Blbl9lbmRlZC5yb2JvdAo=</text>
+      <register name="3" type="4">
+        <text>Spelling Check Is Blocked</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vYm9va21hcmsucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmVlZGJhY2sucm9ib3QK</text>
+      <register name="4" type="4">
+        <text>Spelling Check Is Blocked</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmVzZXQucm9ib3QK</text>
+        <text encoding="base64">TGlicmFyeSAgICBBcHBpdW1MaWJyYXJ5Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXBsb2FkIGZvbGRlcgo=</text>
+      <register name="6" type="4">
+        <text>#</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHIgPSAkKHNlYXJjaF90cGwpLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL211bHRpcGxlX2Nob2ljZS5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi9yZXNvdXJjZXMvaXRlbXMvb3Blbl9lbmRlZC5yb2JvdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgciA9ICQoc2VhcmNoX3RwbCkuY2xvbmUoKTsK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vYm9va21hcmsucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmVlZGJhY2sucm9ib3QK</text>
       </register>
-      <register name="9" type="4">
-        <text>.find('a')</text>
+      <register name="9" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmVzZXQucm9ib3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
