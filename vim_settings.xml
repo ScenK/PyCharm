@@ -14,7 +14,7 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1462155805446">
+      <file name="/Python Console" timestamp="1462239703868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1461895542742">
@@ -30,6 +30,11 @@
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" timestamp="1462239899842">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/MsSqlLibrary.py" timestamp="1461815148160">
         <mark key="'" line="38" column="6" />
@@ -179,6 +184,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1462239714812" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1461896071144">
         <mark key="'" line="95" column="12" />
         <mark key="[" line="86" column="21" />
@@ -334,31 +340,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJChyWzBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXBsb2FkIGZvbGRlcgo=</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL211bHRpcGxlX2Nob2ljZS5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi9yZXNvdXJjZXMvaXRlbXMvb3Blbl9lbmRlZC5yb2JvdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHIgPSAkKHNlYXJjaF90cGwpLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vYm9va21hcmsucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmVlZGJhY2sucm9ib3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgciA9ICQoc2VhcmNoX3RwbCkuY2xvbmUoKTsK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGFnZXIucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmVzZXQucm9ib3QK</text>
       </register>
-      <register name="4" type="4">
-        <text>.find('a')</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXBsb2FkIGZvbGRlcgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>data.root.document[i].pubtitle</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHIgPSAkKHNlYXJjaF90cGwpLmNsb25lKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmF0dHIoJ2hyZWYnLCBkYXRhLnJvb3QuZG9jdW1lbnRbaV0ubWR1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgciA9ICQoc2VhcmNoX3RwbCkuY2xvbmUoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>.find('a')</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>data.root.document[i].pubtitle</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgZGF0YS5yb290LmRvY3VtZW50Lmxlbmd0aDsgaSArKykgewogICAgICAgICAgICAgICAgICAgIHZhciByID0gJChzZWFyY2hfdHBsKS5jbG9uZSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmF0dHIoJ2hyZWYnLCBkYXRhLnJvb3QuZG9jdW1lbnRbaV0ubWR1cmwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRleHQoZGF0YS5yb290LmRvY3VtZW50W2ldLnB1YnRpdGxlKTsKICAgICAgICAgICAgICAgICAgICByLmFwcGVuZFRvKCcjc2VhcmNoX3Jlc3VsdCcpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmF0dHIoJ2hyZWYnLCBkYXRhLnJvb3QuZG9jdW1lbnRbaV0ubWR1cmwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
