@@ -33,12 +33,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462331019853">
-        <mark key="'" line="138" column="30" />
-        <mark key="[" line="179" column="57" />
-        <mark key="]" line="179" column="75" />
-        <mark key="." line="179" column="75" />
-        <mark key="^" line="179" column="75" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462333651284">
+        <mark key="'" line="188" column="53" />
+        <mark key="[" line="188" column="53" />
+        <mark key="]" line="188" column="53" />
+        <mark key="." line="188" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/pdf_detail.html" timestamp="1462153991323">
         <mark key="[" line="13" column="123" />
@@ -46,12 +45,7 @@
         <mark key="^" line="13" column="143" />
         <mark key="." line="13" column="143" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462330963796">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="76" />
-        <mark key="." line="13" column="76" />
-        <mark key="^" line="13" column="76" />
-      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462333298370" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/pause_and_login_back.robot" timestamp="1461638872788">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -198,7 +192,7 @@
       <file name="/usr/local/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py" timestamp="1461913451839">
         <mark key="'" line="265" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462331059696" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462332206256" />
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/static/site.js" timestamp="1462155897669">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -259,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="52" column="38" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="72" column="24" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="6" column="21" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
@@ -359,43 +352,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="14" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="138" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
+      <jump line="188" column="53" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IG5vdGVwYWQ=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>background</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U3RpbXVsdXMgU2hvdWxkIEhhdmUgU2Nyb2xsIEJhcgogIFtEb2N1bWVudGF0aW9uXSAgICBWZXJpZnkgdGhhdCBzdGltdWx1cyB3aGljaCBjb250YWlucyBzY3JvbGwgYmFyLgogIEV4ZWN1dGUgSmF2YXNjcmlwdCAgICByZXR1cm4gJCgnI3N0aW11bGlfc2Nyb2xsZXI+ZGl2JykuaGVpZ2h0KCdhdXRvJyk7CiAgJHtwYXJlbnRfaGVpZ2h0fT0gICAgRXhlY3V0ZSBKYXZhc2NyaXB0ICAgIHJldHVybiAkKCcjc3RpbXVsaScpLmhlaWdodCgpCiAgJHtjaGlsZHJlbl9oZWlnaHR9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJyNzdGltdWxpX3Njcm9sbGVyJykuaGVpZ2h0KCkKICBTaG91bGQgQmUgVHJ1ZSAgICAke2NoaWxkcmVuX2hlaWdodH0+JHtwYXJlbnRfaGVpZ2h0fQo=</text>
+        <text encoding="base64">Tm90ZXBhZCBTaG91bGQgSGF2ZSBTY3JvbGwgQmFyCiAgW0RvY3VtZW50YXRpb25dICAgIFZlcmlmeSB0aGUgc2Nyb2xsIGJhciBvZiB0aGUgbm90ZXBhZCBzaG91bGQgYmUgdmlzaWFibGUuCiAgJHtvdXRlcl9oZWlnaHR9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuIGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ25vdGVUZXh0JylbMF0uY2xpZW50SGVpZ2h0CiAgJHtpbm5lcl9oZWlnaHR9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuIGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ25vdGVUZXh0JylbMF0uc2Nyb2xsSGVpZ2h0CiAgU2hvdWxkIEJlIFRydWUgICAgJHtpbm5lcl9oZWlnaHR9ID4gJHtvdXRlcl9oZWlnaHR9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IG5vdGVwYWQ=</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dGhlIG5vdGVwYWQg</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>the notepad s</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGNvbnRhaW5z</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICA6Rm9yICAgICR7aW5kZXh9ICAgIElOIFJBTkdFICAgIDEgICAgJHtyZXBlYXRfdGltZXN9ICsgMQogIFwgICAgJHt3b3Jkc30gICAgQXBwZW5kIFJhbmRvbSBUZXh0IE9uIE5vdGVwYWQgV2l0aCBTcGVjaWFsIENoYXJhY3RlcnMgICAgbGVuZ3RoPSR7d29yZF9sZW5ndGh9CiAgXCAgICBMb2cgVG8gQ29uc29sZSAgICAiIzIuJHtpbmRleH0gRW50ZXIgWyR7d29yZHN9XSB3aXRoIHJhbmRvbSBrZXlib2FyZCBpbnB1dCIKICBcICAgIExvZyBUbyBDb25zb2xlICAgICIjMy4ke2luZGV4fSBWYWxpZGF0ZSBbJHt3b3Jkc31dIHNob3VsZCBiZSBjb3JyZWN0bHkgZW50ZXJlZCBpbiBub3RlcGFkLiIKICBcICAgIE5vdGVwYWQgVGV4dCBTaG91bGQgQ29udGFpbiAgICAke3dvcmRzfQogIFwgICAgQ2xlYXIgVGV4dCBvbiBOb3RlcGFkCiAgXCAgICBDbGVhciBSZWNvcmRlZCBXb3JkCiAgXCAgICBTbGVlcCAgICAxCg==</text>
       </register>
       <register name="5" type="4">
-        <text>which</text>
+        <text>$('#stimuli_scroller').height()</text>
       </register>
       <register name="6" type="4">
-        <text>that stimulus</text>
+        <text>var a =</text>
       </register>
       <register name="7" type="4">
-        <text>Stimulus</text>
+        <text>return $(document.getElementsByClassName('noteText')[0]).</text>
       </register>
       <register name="8" type="4">
-        <text>input box prompts misspelled words are disabled</text>
+        <text>$('#stimuli').height()</text>
       </register>
       <register name="9" type="4">
-        <text>Random-Input</text>
+        <text>parent_height</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
