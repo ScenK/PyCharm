@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1462436526626">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="6" />
-        <mark key="." line="40" column="6" />
-        <mark key="^" line="40" column="6" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1462436648036">
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="47" column="39" />
+        <mark key="." line="47" column="39" />
+        <mark key="^" line="47" column="39" />
       </file>
       <file name="/a.dummy" timestamp="1462435678187">
         <mark key="[" line="0" column="0" />
@@ -197,8 +197,8 @@
       <register name="/" type="4">
         <text>Log To Console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBQcmVzcyBLZXkgVG8gTm90ZXBhZCAgICBcXDEzCg==</text>
+      <register name="0" type="4">
+        <text>d</text>
       </register>
       <register name="1" type="4">
         <text>item_length</text>
