@@ -8,9 +8,6 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1462347881691">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462434017743">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="55" column="24" />
@@ -120,10 +117,11 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1462432986742">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1462342445481">
+      <file name="/Dummy.txt" timestamp="1462435244039">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_buttons_latex.robot" timestamp="1461555527439">
         <mark key="[" line="11" column="44" />
@@ -272,7 +270,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>#Sample MC No Stimulus           555599998    E7F8FD38    &quot;Math Session&quot;    1464325807             A               MC</text>
+        <text>fi</text>
       </register>
       <register name="/" type="4">
         <text>Log To Console</text>
@@ -280,14 +278,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICBQcmVzcyBLZXkgVG8gTm90ZXBhZCAgICBcXDEzCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>#Sample MC No Stimulus           555599998    E7F8FD38    &quot;Math Session&quot;    1464325807             A               MC</text>
+      <register name="1" type="2">
+        <text encoding="base64">VHlwbyBkeAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fi</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#Sample MC No Stimulus           555599998    E7F8FD38    &quot;Math Session&quot;    1464325807             A               MC</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
@@ -299,13 +297,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
