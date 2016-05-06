@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_reset.robot" timestamp="1462434504884">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462348303201">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462512199714">
         <mark key="'" line="177" column="16" />
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="16" />
@@ -106,6 +106,9 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462511487604">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="95" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462511628363">
+        <mark key="[" line="46" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" timestamp="1462434499035">
         <mark key="'" line="58" column="98" />
@@ -257,7 +260,7 @@
         <text>9</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -304,8 +307,8 @@
         <entry>CtrlPBuffer</entry>
         <entry>bp!</entry>
         <entry>bn!</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
