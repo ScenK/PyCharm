@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1462436664000">
+      <file name="/Dummy.txt" timestamp="1462504622963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1462500050670">
@@ -12,15 +12,22 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462435942006">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="63" column="13" />
-        <mark key="]" line="63" column="13" />
-        <mark key="^" line="63" column="13" />
-        <mark key="." line="63" column="13" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1462502114177">
+        <mark key="'" line="28" column="25" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="153" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1462435678187">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462504091249">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="171" column="79" />
+        <mark key="]" line="172" column="34" />
+        <mark key="^" line="172" column="34" />
+        <mark key="." line="172" column="34" />
+      </file>
+      <file name="/a.dummy" timestamp="1462502537011">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462434017743">
         <mark key="'" line="42" column="0" />
@@ -29,11 +36,20 @@
         <mark key="^" line="66" column="34" />
         <mark key="." line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462432993312">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/answer_masking/answer_masking_basic.robot" timestamp="1462501770126" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="71" column="23" />
+        <mark key="^" line="71" column="23" />
+        <mark key="." line="71" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1462432998386">
         <mark key="[" line="33" column="0" />
@@ -41,6 +57,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462502656819" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
         <mark key="'" line="74" column="0" />
       </file>
@@ -90,12 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
-      <jump line="0" column="77" filename="/Python Console" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
-      <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
-      <jump line="32" column="22" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" />
-      <jump line="26" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" />
       <jump line="52" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/long_expressions.robot" />
       <jump line="28" column="23" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="59" column="40" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
@@ -174,7 +185,6 @@
       <jump line="57" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
       <jump line="70" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
       <jump line="11" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" />
       <jump line="77" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
@@ -190,43 +200,50 @@
       <jump line="58" column="98" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" />
       <jump line="47" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" />
       <jump line="74" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" />
+      <jump line="55" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
+      <jump line="74" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
+      <jump line="40" column="34" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
+      <jump line="28" column="25" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
+      <jump line="25" column="39" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
+      <jump line="24" column="31" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>item_length</text>
+        <text>-4</text>
       </register>
       <register name="/" type="4">
         <text>Log To Console</text>
       </register>
-      <register name="0" type="4">
-        <text>d</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICR7eF9vZmZzZXR9IDw9IDUgCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>item_length</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBTbGVlcCAgICA1Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
       </register>
       <register name="3" type="4">
-        <text>, flags=0</text>
+        <text>-4</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBTaG91bGQgQmUgRXF1YWwgQXMgTnVtYmVycyAgICAke2Nvb3JkeH0gICAgJHtjb29yZHhfMX0KICBTaG91bGQgQmUgRXF1YWwgQXMgTnVtYmVycyAgICAke2Nvb3JkeX0gICAgJHtjb29yZHlfMX0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZS5tYXRjaChwYXR0ZXJuLCBzdHJpbmcsIGZsYWdzPTApOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+      <register name="5" type="4">
+        <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">VHlwbyBkeAo=</text>
+      <register name="6" type="4">
+        <text>9</text>
       </register>
       <register name="7" type="4">
-        <text>fi</text>
+        <text>9</text>
       </register>
       <register name="8" type="4">
-        <text>#Sample MC No Stimulus           555599998    E7F8FD38    &quot;Math Session&quot;    1464325807             A               MC</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -273,10 +290,10 @@
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
+        <entry>CtrlPBuffer</entry>
+        <entry>bp!</entry>
         <entry>bn!</entry>
         <entry>vs</entry>
-        <entry>bp!</entry>
-        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
