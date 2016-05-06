@@ -65,7 +65,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462506729697" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462511305046" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
         <mark key="'" line="74" column="0" />
       </file>
@@ -102,6 +102,10 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462511487604">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="95" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" timestamp="1462434499035">
         <mark key="'" line="58" column="98" />
@@ -222,8 +226,8 @@
       <register name="/" type="4">
         <text>Log To Console</text>
       </register>
-      <register name="0" type="4">
-        <text>1000</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBcICAgIExvZyBUbyBDb25zb2xlICAgICIjMy4ke2luZGV4fSBWZXJpZnkgdGhlIGV4cHJlc3Npb24gaXMgY29ycmVjdGx5IGVudGVyZWQgaW4gdGhlIE9FIGJveC4iCg==</text>
       </register>
       <register name="1" type="4">
         <text>2</text>
