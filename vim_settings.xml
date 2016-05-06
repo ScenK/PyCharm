@@ -69,12 +69,12 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462513150083">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462513346510">
         <mark key="'" line="145" column="15" />
-        <mark key="[" line="182" column="31" />
-        <mark key="]" line="182" column="70" />
-        <mark key="^" line="182" column="70" />
-        <mark key="." line="182" column="70" />
+        <mark key="[" line="185" column="44" />
+        <mark key="]" line="185" column="67" />
+        <mark key="." line="185" column="67" />
+        <mark key="^" line="185" column="67" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
@@ -107,7 +107,7 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="95" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462512932178">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462513293138">
         <mark key="'" line="8" column="6" />
         <mark key="^" line="74" column="20" />
       </file>
@@ -234,28 +234,28 @@
         <text encoding="base64">ICAgICAgICAiIiJBdmFpbGFibGUgYnV0dG9ucy4KCiAgICAgICAgQWxsIG9mIHRoZSBhdmFpbGFibGUgZW50ZXJlZCBhbmQgYWJsZSB0byB2YWxpZGF0ZSBidXR0b25zIG9uCiAgICAgICAgbWF0aHF1aWxsIGtleWJvYXJkLgogICAgICAgICIiIgogICAgICAgIGJ1dHRvbnNfbGlzdCA9IChzZWxmLmF2YWlsYWJsZV9udW1iZXJzICsgc2VsZi5hdmFpbGFibGVfc3ltYm9scyArCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXZhaWxhYmxlX2xhdGV4KQogICAgICAgIHJldHVybiBidXR0b25zX2xpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgQHByb3BlcnR5CiAgICBkZWYgYXZhaWxhYmxlX2J1dHRvbnNfYW5kX2FzY2lpX2NvZGVzKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAogICAgQHByb3BlcnR5CiAgICBkZWYgYXZhaWxhYmxlX2J1dHRvbnNfYW5kX2FzY2lpX2NvZGVzKHNlbGYpOgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>ascii_table</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ascii_table</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBcICAgIExvZyBUbyBDb25zb2xlICAgICIjMy4ke2luZGV4fSBbTG9vcDogJHtpbmRleH1dIEVudGVyIEB7YnV0dG9uc30gYnkgcmFuZG9tbHkgY2hvb3NpbmcgYnV0dG9ucyBhbmQgc2F2ZSBpdCB0byBPRSBib3guIgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>2</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBcICAgIExvZyBUbyBDb25zb2xlICAgICIjMy4ke2luZGV4fSBbTG9vcDogJHtpbmRleH1dIEVudGVyIEB7YnV0dG9uc30gYnkgcmFuZG9tbHkgY2hvb3NpbmcgYnV0dG9ucyBhbmQgc2F2ZSBpdCB0byBPRSBib3guIgo=</text>
       </register>
       <register name="9" type="4">
         <text>2</text>
