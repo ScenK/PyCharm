@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1462504662318">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1462506374440">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -39,7 +39,6 @@
         <mark key="^" line="66" column="34" />
         <mark key="." line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/answer_masking/answer_masking_basic.robot" timestamp="1462501770126" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="0" />
@@ -54,13 +53,19 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462506635856">
+        <mark key="[" line="39" column="138" />
+        <mark key="]" line="39" column="138" />
+        <mark key="^" line="38" column="137" />
+        <mark key="." line="39" column="138" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1462432998386">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="98" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462502656819" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462506729697" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
         <mark key="'" line="74" column="0" />
       </file>
@@ -98,7 +103,6 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1462500219573" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" timestamp="1462434499035">
         <mark key="'" line="58" column="98" />
         <mark key="[" line="41" column="25" />
@@ -213,40 +217,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>-4</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>Log To Console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICR7eF9vZmZzZXR9IDw9IDUgCg==</text>
+      <register name="0" type="4">
+        <text>1000</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICA1Cg==</text>
+      <register name="1" type="4">
+        <text>2</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
+      <register name="2" type="4">
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>-4</text>
+        <text>Entering expression with randomly chosen buttons</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTaG91bGQgQmUgRXF1YWwgQXMgTnVtYmVycyAgICAke2Nvb3JkeH0gICAgJHtjb29yZHhfMX0KICBTaG91bGQgQmUgRXF1YWwgQXMgTnVtYmVycyAgICAke2Nvb3JkeX0gICAgJHtjb29yZHlfMX0K</text>
+        <text encoding="base64">ICBTbGVlcCAgICA1Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
       </register>
       <register name="6" type="4">
-        <text>9</text>
+        <text>-4</text>
       </register>
-      <register name="7" type="4">
-        <text>9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBTaG91bGQgQmUgRXF1YWwgQXMgTnVtYmVycyAgICAke2Nvb3JkeH0gICAgJHtjb29yZHhfMX0KICBTaG91bGQgQmUgRXF1YWwgQXMgTnVtYmVycyAgICAke2Nvb3JkeX0gICAgJHtjb29yZHlfMX0K</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
