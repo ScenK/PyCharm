@@ -3,69 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1462596798395">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1462500050670">
-        <mark key="[" line="47" column="38" />
-        <mark key="]" line="47" column="39" />
-        <mark key="." line="47" column="39" />
-        <mark key="^" line="47" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1462502114177">
-        <mark key="'" line="28" column="25" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="153" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462514244937">
+      <file name="$USER_HOME$/Develop/Dev_Blog2/blog/frontend/frontend.py" timestamp="1462678312911">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="213" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1462502537011">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462434017743">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="55" column="25" />
-        <mark key="^" line="66" column="34" />
-        <mark key="." line="55" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462511487604">
         <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="11" />
+        <mark key="]" line="27" column="95" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
+      <file name="$USER_HOME$/Develop/Dev_Blog2/blog/admin/admin.py" timestamp="1462678450007" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_reset.robot" timestamp="1462434504884">
+        <mark key="'" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1462505049115">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="23" />
-        <mark key="]" line="71" column="23" />
-        <mark key="^" line="71" column="23" />
-        <mark key="." line="71" column="23" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462596447663">
-        <mark key="'" line="24" column="32" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1462432998386">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="98" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
-        <mark key="'" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462596457094">
         <mark key="'" line="164" column="8" />
@@ -74,6 +24,41 @@
         <mark key="^" line="179" column="68" />
         <mark key="." line="179" column="68" />
       </file>
+      <file name="$USER_HOME$/Desktop/Dev_Blog2/utils/email_util.py" timestamp="1462677094814">
+        <mark key="'" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Dev_Blog2/blog/config.py" timestamp="1462678119946" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462434017743">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="25" />
+        <mark key="^" line="66" column="34" />
+        <mark key="." line="55" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" timestamp="1462434499035">
+        <mark key="'" line="58" column="98" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="25" />
+        <mark key="." line="41" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" timestamp="1462677013337">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" timestamp="1462434512545">
+        <mark key="'" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1462432998386">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="98" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1462596798395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
         <mark key="[" line="34" column="120" />
@@ -81,33 +66,27 @@
         <mark key="^" line="78" column="103" />
         <mark key="." line="34" column="120" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462348547978">
-        <mark key="'" line="45" column="29" />
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="20" />
-        <mark key="^" line="45" column="20" />
-        <mark key="." line="45" column="20" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1462500050670">
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="47" column="39" />
+        <mark key="." line="47" column="39" />
+        <mark key="^" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" timestamp="1462434512545">
-        <mark key="'" line="47" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="71" column="23" />
+        <mark key="^" line="71" column="23" />
+        <mark key="." line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_reset.robot" timestamp="1462434504884">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
+        <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462515699345">
-        <mark key="'" line="193" column="16" />
-        <mark key="[" line="127" column="47" />
-        <mark key="]" line="127" column="48" />
-        <mark key="^" line="127" column="51" />
-        <mark key="." line="127" column="48" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462511487604">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="95" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462513293138">
-        <mark key="'" line="8" column="6" />
-        <mark key="^" line="74" column="20" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462596447663">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1462596691860">
         <mark key="'" line="0" column="6" />
@@ -116,29 +95,44 @@
         <mark key="." line="140" column="23" />
         <mark key="^" line="140" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" timestamp="1462434499035">
-        <mark key="'" line="58" column="98" />
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462348547978">
+        <mark key="'" line="45" column="29" />
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="45" column="20" />
+        <mark key="^" line="45" column="20" />
+        <mark key="." line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1462505049115">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462515699345">
+        <mark key="'" line="193" column="16" />
+        <mark key="[" line="127" column="47" />
+        <mark key="]" line="127" column="48" />
+        <mark key="." line="127" column="48" />
+        <mark key="^" line="127" column="51" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462514244937">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="34" />
+        <mark key="^" line="63" column="13" />
+        <mark key="." line="213" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/Dev_Blog2/LICENSE" timestamp="1462678329557" />
+      <file name="$USER_HOME$/Develop/Dev_Blog2/README.MD" timestamp="1462678344832">
+        <mark key="'" line="143" column="2" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462513293138">
+        <mark key="'" line="8" column="6" />
+        <mark key="^" line="74" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="489" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="536" column="39" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="537" column="6" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="538" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="539" column="9" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="540" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="584" column="39" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="38" column="26" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
-      <jump line="48" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
-      <jump line="79" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
-      <jump line="80" column="19" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="86" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="87" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
@@ -227,6 +221,18 @@
       <jump line="164" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="26" column="13" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="0" column="6" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="52" column="25" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
+      <jump line="448" column="27" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
+      <jump line="457" column="27" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Desktop/Dev_Blog2/utils/email_util.py" />
+      <jump line="213" column="0" filename="$USER_HOME$/Develop/Dev_Blog2/blog/frontend/frontend.py" />
+      <jump line="222" column="27" filename="$USER_HOME$/Develop/Dev_Blog2/blog/frontend/frontend.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Dev_Blog2/blog/frontend/frontend.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/Develop/Dev_Blog2/README.MD" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Dev_Blog2/README.MD" />
+      <jump line="143" column="2" filename="$USER_HOME$/Develop/Dev_Blog2/README.MD" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -310,10 +316,10 @@
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
-        <entry>CtrlPBuffer</entry>
-        <entry>bp!</entry>
         <entry>bn!</entry>
         <entry>vs</entry>
+        <entry>bp!</entry>
+        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

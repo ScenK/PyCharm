@@ -51,18 +51,21 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="true" />
+        <entry key="/usr/bin/python" value="true" />
         <entry key="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="true" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="true" />
-        <entry key="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="true" />
+        <entry key="/usr/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="/usr/bin/python" value="false" />
         <entry key="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
       </map>
     </option>
