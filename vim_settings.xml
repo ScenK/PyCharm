@@ -42,7 +42,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462596457094">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462760668812">
         <mark key="'" line="164" column="8" />
         <mark key="[" line="179" column="57" />
         <mark key="]" line="179" column="68" />
@@ -75,6 +75,13 @@
       <file name="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" timestamp="1462677013337">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462762321375">
+        <mark key="'" line="21" column="56" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="0" />
@@ -87,6 +94,15 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_pause.robot" timestamp="1462761323712" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462761631918" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1462761922327">
+        <mark key="'" line="8" column="47" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="52" column="1" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
@@ -101,10 +117,10 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" timestamp="1462434512545">
         <mark key="'" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462515699345">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462761709707">
         <mark key="'" line="193" column="16" />
-        <mark key="[" line="127" column="47" />
-        <mark key="]" line="127" column="48" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="30" />
         <mark key="." line="127" column="48" />
         <mark key="^" line="127" column="51" />
       </file>
@@ -130,8 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
-      <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="265" column="11" filename="/usr/local/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py" />
       <jump line="107" column="15" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="74" column="25" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
@@ -230,43 +244,45 @@
       <jump line="32" column="39" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="176" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="8" column="47" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
+      <jump line="21" column="56" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>querytext</text>
+        <text>proctor_confirm</text>
       </register>
       <register name="/" type="4">
         <text>Log To Console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvblsndXNlcm5hbWUnXSA9IHVzZXJuYW1lCg==</text>
+        <text encoding="base64">JHtSRVZJRVcuUFJPQ1RPUl9DT05GSVJNX0NIRUNLX0JPWH0gICAgaWQ9cHJvY3Rvcl9jb25maXJtCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">anMgbWlub3IgZml4Cg==</text>
+      <register name="1" type="4">
+        <text>proctor_confirm</text>
       </register>
       <register name="2" type="4">
-        <text>querytext</text>
+        <text>CHECK_BOX</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ID0gdXNlcm5hbWU=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Q29uZmlybSBUdXJuIEluCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBHZXQgTGVuZ3RoICAK</text>
+      <register name="4" type="4">
+        <text>}</text>
       </register>
-      <register name="5" type="4">
-        <text>buttons on</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBDbGljayBFbGVtZW50ICAgICR7UkVWSUVXLkNPTkZJUk1fVFVSTl9JTl9CVE59Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRocXVpbGwga2V5Ym9hcmQuCg==</text>
+      <register name="6" type="4">
+        <text>}</text>
       </register>
       <register name="7" type="4">
-        <text>buttons_and_</text>
+        <text>CONFIRM_TURN_IN_BTN</text>
       </register>
       <register name="8" type="4">
-        <text>Random Select Available Buttons</text>
+        <text>Confirm finish</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>Select Checkbox</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -314,10 +330,10 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>bn!</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
-        <entry>w</entry>
         <entry>CtrlPBuffer</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
