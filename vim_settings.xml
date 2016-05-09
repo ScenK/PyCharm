@@ -111,12 +111,11 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_pause.robot" timestamp="1462761323712" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462761631918" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1462766333656">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="75" column="32" />
-        <mark key="]" line="76" column="11" />
-        <mark key="." line="76" column="11" />
-        <mark key="^" line="76" column="11" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1462767593655">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
@@ -135,7 +134,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" timestamp="1462434512545">
         <mark key="'" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462766325342">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462767995917">
         <mark key="'" line="193" column="16" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="19" />
@@ -164,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="135" column="44" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="145" column="22" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/base.html" />
@@ -264,10 +262,11 @@
       <jump line="62" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="72" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
+      <jump line="23" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">UnVuIEtleXdvcmRzICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>Log To Console</text>
@@ -275,32 +274,32 @@
       <register name="0" type="2">
         <text encoding="base64">VGV4dCBTaG91bGQgQmUgRW1wdHkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBUZXh0IFNob3VsZCBCZSBFbXB0eQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">UnVuIEtleXdvcmRzICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTbGVlcCAgICAzCiAgVGV4dCBTaG91bGQgQmUgRW1wdHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V2FpdCBGb3IgSGVhcnRiZWF0LCBWZXJpZnkgVGhlIFN0b3JhZ2UgRm9sZGVyIEJlY29tZXMgRW1wdHkKICBTbGVlcCAgICAyMAogIFN0b3JlZCBSZXNwb25zZXMgU2hvdWxkIEJlIENsZWFyZWQKCg==</text>
+        <text encoding="base64">ICBUZXh0IFNob3VsZCBCZSBFbXB0eQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBMYXVuY2ggaVRlc3RlciBBbmQgU2V0IEJhc2ljIEVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">V2FpdCBGb3IgSGVhcnRiZWF0LCBWZXJpZnkgVGhlIFN0b3JhZ2UgRm9sZGVyIEJlY29tZXMgRW1wdHkKICBTbGVlcCAgICAyMAogIFN0b3JlZCBSZXNwb25zZXMgU2hvdWxkIEJlIENsZWFyZWQKCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBbVGFnc10gICAgS2lvc2tPbmx5Cg==</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBbVGFnc10gICAgS2lvc2tPbmx5CiAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">ICBMYXVuY2ggaVRlc3RlciBBbmQgU2V0IEJhc2ljIEVudmlyb25tZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJraXNvayIgICAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">ICBbVGFnc10gICAgS2lvc2tPbmx5Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBbVGFnc10gICAgS2lvc2tPbmx5CiAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
