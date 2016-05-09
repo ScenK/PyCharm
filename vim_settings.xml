@@ -19,6 +19,9 @@
         <mark key="^" line="63" column="13" />
         <mark key="." line="213" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1462783069145">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462434017743">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="55" column="24" />
@@ -79,6 +82,7 @@
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="38" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1462783901459" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1462505049115">
         <mark key="'" line="0" column="0" />
       </file>
