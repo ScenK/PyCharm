@@ -55,12 +55,12 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462780651366">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462781605646">
         <mark key="'" line="164" column="8" />
-        <mark key="[" line="179" column="57" />
-        <mark key="]" line="179" column="68" />
-        <mark key="^" line="179" column="68" />
-        <mark key="." line="179" column="68" />
+        <mark key="[" line="216" column="11" />
+        <mark key="]" line="216" column="20" />
+        <mark key="^" line="216" column="20" />
+        <mark key="." line="216" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog2/README.MD" timestamp="1462678344832">
         <mark key="'" line="143" column="2" />
@@ -264,7 +264,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb3JlXD4=</text>
@@ -273,31 +273,31 @@
         <text encoding="base64">IyAgXCAgICBSZWNvcmQgRXhwcmVzc2lvbiAgICBAe2FsbF9idXR0b25zfQo=</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>i</text>
       </register>
       <register name="2" type="4">
-        <text>2</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
-        <text>all_</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>buttons</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text>2</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBUb3RhbCBOdW1iZXIgT2YgV29yZHMgRW50ZXJlZCBTaG91bGQgQmUgICAgNAo=</text>
+      <register name="7" type="4">
+        <text>all_</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -347,8 +347,8 @@
         <entry>bn!</entry>
         <entry>e</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>bp!</entry>
         <entry>vs</entry>
+        <entry>bp!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
