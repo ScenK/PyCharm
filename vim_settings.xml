@@ -134,12 +134,12 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" timestamp="1462434512545">
         <mark key="'" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462767995917">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462771245332">
         <mark key="'" line="193" column="16" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="19" />
-        <mark key="." line="127" column="48" />
-        <mark key="^" line="127" column="51" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="9" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462513293138">
         <mark key="'" line="8" column="6" />
@@ -266,7 +266,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">UnVuIEtleXdvcmRzICAgIA==</text>
+        <text>id=mce_0_ifr</text>
       </register>
       <register name="/" type="4">
         <text>Log To Console</text>
@@ -275,31 +275,31 @@
         <text encoding="base64">VGV4dCBTaG91bGQgQmUgRW1wdHkK</text>
       </register>
       <register name="1" type="4">
+        <text>id=mce_0_ifr</text>
+      </register>
+      <register name="2" type="4">
+        <text>mce_0_ifr</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">UnVuIEtleXdvcmRzICAgIA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBTbGVlcCAgICAzCiAgVGV4dCBTaG91bGQgQmUgRW1wdHkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBUZXh0IFNob3VsZCBCZSBFbXB0eQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">V2FpdCBGb3IgSGVhcnRiZWF0LCBWZXJpZnkgVGhlIFN0b3JhZ2UgRm9sZGVyIEJlY29tZXMgRW1wdHkKICBTbGVlcCAgICAyMAogIFN0b3JlZCBSZXNwb25zZXMgU2hvdWxkIEJlIENsZWFyZWQKCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBMYXVuY2ggaVRlc3RlciBBbmQgU2V0IEJhc2ljIEVudmlyb25tZW50Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBbVGFnc10gICAgS2lvc2tPbmx5Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBbVGFnc10gICAgS2lvc2tPbmx5CiAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">ICBMYXVuY2ggaVRlc3RlciBBbmQgU2V0IEJhc2ljIEVudmlyb25tZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
