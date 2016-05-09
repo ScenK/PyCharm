@@ -3,29 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Dev_Blog2/blog/frontend/frontend.py" timestamp="1462678312911">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462514244937">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="34" />
+        <mark key="^" line="63" column="13" />
+        <mark key="." line="213" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462511487604">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="95" />
-      </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog2/blog/admin/admin.py" timestamp="1462799979781" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_reset.robot" timestamp="1462434504884">
-        <mark key="'" line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1462505049115">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462596457094">
-        <mark key="'" line="164" column="8" />
-        <mark key="[" line="179" column="57" />
-        <mark key="]" line="179" column="68" />
-        <mark key="^" line="179" column="68" />
-        <mark key="." line="179" column="68" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Dev_Blog2/utils/email_util.py" timestamp="1462677094814">
-        <mark key="'" line="35" column="0" />
+      <file name="/a.dummy" timestamp="1462783069145">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462434017743">
         <mark key="'" line="42" column="0" />
@@ -34,42 +20,18 @@
         <mark key="^" line="66" column="34" />
         <mark key="." line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" timestamp="1462434499035">
-        <mark key="'" line="58" column="98" />
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_multibyte_characters.robot" timestamp="1462776327392">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="74" column="25" />
+        <mark key="]" line="74" column="25" />
+        <mark key="." line="74" column="25" />
+        <mark key="^" line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" timestamp="1462677013337">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" timestamp="1462434512545">
-        <mark key="'" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1462432998386">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="98" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1462596798395">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
-        <mark key="'" line="11" column="15" />
-        <mark key="[" line="34" column="120" />
-        <mark key="]" line="34" column="120" />
-        <mark key="^" line="78" column="103" />
-        <mark key="." line="34" column="120" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1462500050670">
-        <mark key="[" line="47" column="38" />
-        <mark key="]" line="47" column="39" />
-        <mark key="." line="47" column="39" />
-        <mark key="^" line="47" column="39" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1462774022605">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="16" />
+        <mark key="^" line="45" column="1" />
+        <mark key="." line="45" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
         <mark key="'" line="0" column="0" />
@@ -78,42 +40,40 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
-        <mark key="'" line="74" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462785421813">
+        <mark key="'" line="167" column="8" />
+        <mark key="[" line="44" column="70" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462596447663">
-        <mark key="'" line="24" column="32" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
+        <mark key="[" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1462596691860">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="140" column="15" />
-        <mark key="]" line="140" column="23" />
-        <mark key="." line="140" column="23" />
-        <mark key="^" line="140" column="23" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462776002747">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462348547978">
-        <mark key="'" line="45" column="29" />
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="20" />
-        <mark key="^" line="45" column="20" />
-        <mark key="." line="45" column="20" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" timestamp="1462774260569">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462515699345">
-        <mark key="'" line="193" column="16" />
-        <mark key="[" line="127" column="47" />
-        <mark key="]" line="127" column="48" />
-        <mark key="." line="127" column="48" />
-        <mark key="^" line="127" column="51" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1462784793381" />
+      <file name="/Dummy.txt" timestamp="1462786376684">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462514244937">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="34" />
-        <mark key="^" line="63" column="13" />
-        <mark key="." line="213" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
+        <mark key="'" line="28" column="49" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="83" column="47" />
+        <mark key="." line="83" column="47" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1462763335698">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="66" column="71" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
         <mark key="'" line="0" column="0" />
@@ -122,37 +82,53 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog2/README.MD" timestamp="1462678344832">
-        <mark key="'" line="143" column="2" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462786348051">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="42" column="137" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462513293138">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_pause.robot" timestamp="1462761323712" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462761631918" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" timestamp="1462775112102" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1462772979141">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="53" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
+        <mark key="'" line="11" column="15" />
+        <mark key="[" line="34" column="120" />
+        <mark key="]" line="34" column="120" />
+        <mark key="^" line="78" column="103" />
+        <mark key="." line="34" column="120" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1462774837826">
+        <mark key="'" line="267" column="31" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462785770208">
+        <mark key="'" line="199" column="16" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="52" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462785377707">
         <mark key="'" line="8" column="6" />
         <mark key="^" line="74" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1462682572736">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="140" column="15" />
+        <mark key="]" line="140" column="23" />
+        <mark key="." line="140" column="23" />
+        <mark key="^" line="140" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
-      <jump line="87" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
-      <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
-      <jump line="265" column="11" filename="/usr/local/lib/python2.7/site-packages/selenium/webdriver/common/action_chains.py" />
-      <jump line="107" column="15" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="74" column="25" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="32" column="37" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="0" column="14" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/pdf_detail.html" />
-      <jump line="140" column="35" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="154" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="135" column="44" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="145" column="22" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/templates/base.html" />
-      <jump line="15" column="16" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="388" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pure/base.css" />
-      <jump line="154" column="2" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pure/base.css" />
-      <jump line="95" column="19" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pure/base.css" />
-      <jump line="99" column="2" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/static/pure/base.css" />
-      <jump line="1" column="8" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="101" column="26" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="175" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Develop/robotframework-appiumlibrary/README.rst" />
@@ -218,7 +194,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="164" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="26" column="13" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
-      <jump line="0" column="6" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="52" column="25" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
       <jump line="448" column="27" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
@@ -231,53 +206,76 @@
       <jump line="110" column="0" filename="$USER_HOME$/Develop/Dev_Blog2/README.MD" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Dev_Blog2/README.MD" />
       <jump line="143" column="2" filename="$USER_HOME$/Develop/Dev_Blog2/README.MD" />
+      <jump line="32" column="39" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="176" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
+      <jump line="8" column="47" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
+      <jump line="21" column="56" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
+      <jump line="28" column="49" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
+      <jump line="14" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
+      <jump line="62" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
+      <jump line="72" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
+      <jump line="23" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
+      <jump line="78" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_multibyte_characters.robot" />
+      <jump line="56" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
+      <jump line="8" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
+      <jump line="78" column="43" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
+      <jump line="74" column="46" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
+      <jump line="12" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
+      <jump line="461" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="263" column="51" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="267" column="31" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="18" column="33" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
+      <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
+      <jump line="12" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_multibyte_characters.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>querytext</text>
+        <text>generate_random_all_ascii_code()</text>
       </register>
       <register name="/" type="4">
-        <text>Log To Console</text>
+        <text encoding="base64">XDxNb3JlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvblsndXNlcm5hbWUnXSA9IHVzZXJuYW1lCg==</text>
+        <text encoding="base64">IyAgXCAgICBSZWNvcmQgRXhwcmVzc2lvbiAgICBAe2FsbF9idXR0b25zfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">anMgbWlub3IgZml4Cg==</text>
+        <text encoding="base64">VHlwbyBmaXgK</text>
       </register>
-      <register name="2" type="4">
-        <text>querytext</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBcICAgIFJlY29yZCBFeHByZXNzaW9uICAgIEB7a2V5X2J1dHRvbnN9Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ID0gdXNlcm5hbWU=</text>
+        <text>generate_random_all_ascii_code()</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBHZXQgTGVuZ3RoICAK</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>buttons on</text>
+        <text>(</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRocXVpbGwga2V5Ym9hcmQuCg==</text>
+      <register name="6" type="4">
+        <text>generate_random_all_ascii_code()</text>
       </register>
       <register name="7" type="4">
-        <text>buttons_and_</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text>Random Select Available Buttons</text>
+        <text>i</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Log To Console</last-search>
+      <last-search encoding="base64">XDxNb3JlXD4=</last-search>
       <last-offset />
-      <last-pattern>Log To Console</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxNb3JlXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -301,6 +299,7 @@
         <entry>background</entry>
         <entry>string.</entry>
         <entry>Log To Console</entry>
+        <entry encoding="base64">XDxNb3JlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
@@ -309,15 +308,15 @@
         <entry encoding="base64">JzwsJz4h</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>:CtrlPBuffer</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>bn!</entry>
-        <entry>vs</entry>
-        <entry>bp!</entry>
+        <entry>e</entry>
         <entry>CtrlPBuffer</entry>
+        <entry>bp!</entry>
+        <entry>vs</entry>
+        <entry>:CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

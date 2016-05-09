@@ -1,0 +1,10 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FILTER_LEGALS" value="true" />
+  </component>
+  <component name="UISettings">
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+    <option name="DISABLE_MNEMONICS" value="false" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+  </component>
+</application>
