@@ -55,7 +55,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" timestamp="1462434517991">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462760668812">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462780651366">
         <mark key="'" line="164" column="8" />
         <mark key="[" line="179" column="57" />
         <mark key="]" line="179" column="68" />
@@ -109,11 +109,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462777423959">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462780283898">
         <mark key="'" line="24" column="32" />
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="30" />
-        <mark key="." line="30" column="30" />
+        <mark key="[" line="43" column="108" />
+        <mark key="]" line="43" column="109" />
+        <mark key="." line="43" column="109" />
+        <mark key="^" line="43" column="137" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_pause.robot" timestamp="1462761323712" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462761631918" />
@@ -263,7 +264,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>all_</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb3JlXD4=</text>
@@ -272,31 +273,31 @@
         <text encoding="base64">IyAgXCAgICBSZWNvcmQgRXhwcmVzc2lvbiAgICBAe2FsbF9idXR0b25zfQo=</text>
       </register>
       <register name="1" type="4">
-        <text>all_</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
+        <text>all_</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBUb3RhbCBOdW1iZXIgT2YgV29yZHMgRW50ZXJlZCBTaG91bGQgQmUgICAgNAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>1</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">VmVyaWZ5IFF1ZXN0aW9uIEIgUmVzcG9uc2UgU2hvdWxkIFNob3cgVXAKICBKdW1wIERpcmVjdGx5IFRvIFF1ZXN0aW9uICAgIEIKICBBbnN3ZXIgQnViYmxlIFNob3VsZCBCZSBTZWxlY3RlZCAgICBCCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiVHlwZSBpbnRvIE9FIGJveCB3aXRoIHNwZWNpYWwgY2hhcmFjdGVyczogJHt3b3Jkc30iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
