@@ -67,7 +67,6 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
         <mark key="[" line="66" column="27" />
       </file>
-      <file name="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/string.py" timestamp="1462866571711" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462511487604">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="95" />
@@ -117,7 +116,6 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462859775199" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1462772979141">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="53" />
@@ -142,10 +140,12 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462861800686">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1462871271580">
         <mark key="'" line="8" column="6" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="54" column="49" />
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="78" column="63" />
+        <mark key="." line="78" column="63" />
+        <mark key="^" line="78" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1462682572736">
         <mark key="'" line="0" column="0" />
@@ -265,7 +265,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ascii table</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb3JlXD4=</text>
@@ -274,31 +274,31 @@
         <text>, &quot;|&quot;</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ascii table</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>european</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGFuZCB1bmFibGUgaW5wdXQgYnkga2V5Ym9hcmQ=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmFuZG9tX2l0ZW1zCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;\r&quot;, &quot;\t&quot;, &quot;\n&quot;, &quot;\x0b&quot;, &quot;\x0c&quot;, &quot; &quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
