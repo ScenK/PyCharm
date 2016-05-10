@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" timestamp="1462858818973">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" timestamp="1462858966001">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1462500050670">
         <mark key="[" line="47" column="38" />
@@ -272,31 +272,31 @@
         <text encoding="base64">IyAgXCAgICBSZWNvcmQgRXhwcmVzc2lvbiAgICBAe2FsbF9idXR0b25zfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDbGljayBFbWVsZW10Cg==</text>
+        <text encoding="base64">ICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VHlwbyBmaXgK</text>
+        <text encoding="base64">ICBDbGljayBFbWVsZW10Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">VHlwbyBmaXgK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBcICAgIFJlY29yZCBFeHByZXNzaW9uICAgIEB7a2V5X2J1dHRvbnN9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>generate_random_all_ascii_code()</text>
-      </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>generate_random_all_ascii_code()</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>generate_random_all_ascii_code()</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>generate_random_all_ascii_code()</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
