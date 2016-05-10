@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" timestamp="1462858966001">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" timestamp="1462859434040">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -110,13 +110,14 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462786348051">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462859230454">
         <mark key="'" line="24" column="32" />
         <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+        <mark key="]" line="30" column="42" />
         <mark key="." line="30" column="0" />
-        <mark key="^" line="42" column="137" />
+        <mark key="^" line="43" column="137" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1462859775199" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1462772979141">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="53" />
@@ -269,7 +270,7 @@
         <text encoding="base64">XDxNb3JlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgXCAgICBSZWNvcmQgRXhwcmVzc2lvbiAgICBAe2FsbF9idXR0b25zfQo=</text>
+        <text encoding="base64">ICBcICAgIFJlY29yZCBFeHByZXNzaW9uICAgIEB7YWxsX2J1dHRvbnN9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgCg==</text>
@@ -299,7 +300,7 @@
         <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -344,10 +345,10 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>bn!</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
         <entry>CtrlPBuffer</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
