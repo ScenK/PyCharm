@@ -1,0 +1,5 @@
+<application>
+  <component name="activate-power-mode">
+    <option name="IS_SPARK" value="true" />
+  </component>
+</application>
