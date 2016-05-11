@@ -17,6 +17,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1463008351396">
+        <mark key="'" line="98" column="35" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1462774022605">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="16" />
@@ -72,11 +75,14 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1462974684674">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/MsSqlLibrary.py" timestamp="1463008427067">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="40" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1463008438429">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" timestamp="1462955111191">
         <mark key="[" line="68" column="93" />
@@ -107,8 +113,8 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1462976479610">
-        <mark key="'" line="104" column="26" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1463008334019">
+        <mark key="'" line="116" column="12" />
         <mark key="[" line="104" column="48" />
         <mark key="]" line="104" column="48" />
         <mark key="." line="104" column="48" />
@@ -120,7 +126,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1462976143924" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462959797014">
         <mark key="'" line="24" column="32" />
         <mark key="[" line="28" column="88" />
@@ -182,9 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="42" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" />
@@ -259,7 +261,6 @@
       <jump line="76" column="60" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="23" column="27" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
-      <jump line="0" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="56" column="10" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="35" column="36" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="57" column="26" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
@@ -282,10 +283,14 @@
       <jump line="409" column="13" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
       <jump line="413" column="13" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
       <jump line="507" column="13" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="93" column="46" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="116" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="98" column="35" filename="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, True, False</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>_current_browser</text>
@@ -294,31 +299,31 @@
         <text>get_webelement</text>
       </register>
       <register name="1" type="4">
-        <text>, True, False</text>
+        <text>&quot;</text>
       </register>
-      <register name="2" type="4">
-        <text>, True, False</text>
+      <register name="2" type="2">
+        <text encoding="base64">cmV2ZXJ0IGNoYW5nZXMK</text>
       </register>
       <register name="3" type="4">
         <text>, True, False</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnMyLmdldF93ZWJlbGVtZW50KCkK</text>
+      <register name="4" type="4">
+        <text>, True, False</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsdEluKCkuZ2V0X3dlYmVsZW1lbnQoKQo=</text>
+      <register name="5" type="4">
+        <text>, True, False</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmpra2oK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnMyLmdldF93ZWJlbGVtZW50KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnMyLmprawo=</text>
+        <text encoding="base64">ICAgICAgICBCdWlsdEluKCkuZ2V0X3dlYmVsZW1lbnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShzZWxmLnMyLl9lbGVtZW50X2ZpbmQsIG9iamVjdCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmpra2oK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnMyLmprawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -333,7 +338,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kiosk</entry>
         <entry encoding="base64">XDx0dWlkX3RpbWVzdGFtcFw+</entry>
         <entry encoding="base64">XDxpdF9oYXNoXD4=</entry>
         <entry>direct</entry>
