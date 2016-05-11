@@ -9,7 +9,7 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="/a.dummy" timestamp="1462973834073">
+      <file name="/a.dummy" timestamp="1462975017928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1462959086903">
@@ -50,6 +50,9 @@
         <mark key="]" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" timestamp="1462976585428">
+        <mark key="'" line="507" column="13" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
         <mark key="'" line="28" column="49" />
         <mark key="[" line="25" column="0" />
@@ -69,7 +72,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1462786376684">
+      <file name="/Dummy.txt" timestamp="1462974684674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -104,9 +107,12 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1462974343482">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="87" column="50" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1462976479610">
+        <mark key="'" line="104" column="26" />
+        <mark key="[" line="104" column="48" />
+        <mark key="]" line="104" column="48" />
+        <mark key="." line="104" column="48" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" timestamp="1462859434040">
         <mark key="'" line="0" column="0" />
@@ -114,6 +120,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1462976143924" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462959797014">
         <mark key="'" line="24" column="32" />
         <mark key="[" line="28" column="88" />
@@ -175,32 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="14" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="138" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="188" column="53" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="41" column="12" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="19" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
-      <jump line="108" column="47" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="80" column="13" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="132" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="137" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="171" column="25" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="178" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="50" column="20" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="57" column="19" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="46" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="78" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="51" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="70" column="65" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="14" column="23" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
-      <jump line="57" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" />
-      <jump line="70" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
-      <jump line="11" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" />
       <jump line="77" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
       <jump line="42" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
@@ -275,53 +256,79 @@
       <jump line="76" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
       <jump line="162" column="65" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="55" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="76" column="60" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="23" column="27" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="56" column="10" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="35" column="36" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="57" column="26" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="88" column="26" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="104" column="26" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
+      <jump line="239" column="28" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="247" column="20" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="259" column="20" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="267" column="24" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="279" column="20" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="289" column="13" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="326" column="24" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="330" column="45" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="334" column="20" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="338" column="13" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="344" column="20" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="348" column="20" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="352" column="20" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="404" column="13" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="409" column="13" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="413" column="13" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
+      <jump line="507" column="13" filename="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">Y2hvb3NpbmcgYnV0dG9ucyA=</text>
+        <text>, True, False</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNb3JlXD4=</text>
+        <text>_current_browser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UmVjb3JkIFN0aW11bHVzIFdpdGggSWYgRXhpc3QKICAke2hhc19zdGltdWx1c309ICAgIEl0ZW0gTWF5IGhhcyBTdGltdWx1cwogICR7d2lkdGh9PSAgIFJ1biBLZXl3b3JkIElmICAgIiR7aGFzX3N0aW11bHVzfSI9PSJUcnVlIiAgICBHZXQgU3RpbXVsdXMgV2lkdGgKICAuLi4gICAgRUxTRSAgICBSZXR1cm4gRnJvbSBLZXl3b3JkICAgIDAKICBTZXQgVGVzdCBWYXJpYWJsZSAgICAke1NUSU1VTFVTX1dJRFRIfSAgICAke3dpZHRofQo=</text>
+      <register name="0" type="4">
+        <text>get_webelement</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9icm93c2VyID0gc2VsZi5zMi5fY3VycmVudF9icm93c2VyKCkK</text>
+      <register name="1" type="4">
+        <text>, True, False</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmEgPSBzZWxmLnMyLgo=</text>
+      <register name="2" type="4">
+        <text>, True, False</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Y2hvb3NpbmcgYnV0dG9ucyA=</text>
+        <text>, True, False</text>
       </register>
-      <register name="4" type="4">
-        <text>]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnMyLmdldF93ZWJlbGVtZW50KCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>[</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBCdWlsdEluKCkuZ2V0X3dlYmVsZW1lbnQoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>2</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmpra2oK</text>
       </register>
-      <register name="7" type="4">
-        <text>2</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnMyLmprawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KioqIFRlcwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShzZWxmLnMyLl9lbGVtZW50X2ZpbmQsIG9iamVjdCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNb3JlXD4=</last-search>
+      <last-search>_current_browser</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNb3JlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>_current_browser</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -345,6 +352,8 @@
         <entry>background</entry>
         <entry>string.</entry>
         <entry>Log To Console</entry>
+        <entry>get_webelement</entry>
+        <entry>_current_browser</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
