@@ -64,11 +64,11 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462862425065">
         <mark key="'" line="166" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" timestamp="1462954207584">
-        <mark key="[" line="57" column="79" />
-        <mark key="]" line="57" column="61" />
-        <mark key="^" line="57" column="61" />
-        <mark key="." line="57" column="61" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" timestamp="1462955111191">
+        <mark key="[" line="68" column="93" />
+        <mark key="]" line="68" column="94" />
+        <mark key="^" line="68" column="94" />
+        <mark key="." line="68" column="94" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
         <mark key="[" line="66" column="27" />
@@ -154,6 +154,12 @@
         <mark key="]" line="78" column="63" />
         <mark key="." line="78" column="63" />
         <mark key="^" line="78" column="63" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1462955043384">
+        <mark key="[" line="10" column="84" />
+        <mark key="]" line="10" column="84" />
+        <mark key="^" line="10" column="84" />
+        <mark key="." line="10" column="84" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1462682572736">
         <mark key="'" line="0" column="0" />
@@ -273,7 +279,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, middle and the end into the box and save it to OE bo</text>
+        <text>expressions with `$` at the beginning, middle and the end into the box and save it to OE box&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb3JlXD4=</text>
@@ -282,31 +288,31 @@
         <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzcuIENsaWNrIGZ4LCB0eXBlIGV4cHJlc3Npb25zIHdpdGggYCRgIGF0IHRoZSBiZWdpbm5pbmcsIG1pZGRsZSBhbmQgdGhlIGVuZCBpbnRvIHRoZSBib3ggYW5kIHNhdmUgaXQgdG8gT0UgYm94IgogIE9wZW4gT2UgSXRlbSBGeCBUb29sCiAgT2UgSXRlbSBGeCBUb29sIFNob3VsZCBCZSBEaXNwbGF5ZWQKICBJbnB1dCBUZXh0IEludG8gRnggQm94ICAgIFwkMTIzXCQ0NTZcJAogIENob29zZSBVc2UgRXhwcmVzc2lvbiBCdXR0b24KCiAgTG9nIFRvIENvbnNvbGUgICAgIiM4LiBWZXJpZnkgdGhlIGV4cHJlc3Npb24gaXMgY29ycmVjdGx5IGVudGVyZWQgaW4gdGhlIE9FIGJveCIKICBPZSBCb3ggQ29udGVudCBTaG91bGQgQ29udGFpbiAgICBcJDEyM1wkNDU2XCQK</text>
       </register>
       <register name="1" type="4">
-        <text>, middle and the end into the box and save it to OE bo</text>
+        <text>expressions with `$` at the beginning, middle and the end into the box and save it to OE box&quot;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIEZ4</text>
+        <text>$123\$456\$</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIEZ4</text>
+        <text>\$456\$</text>
       </register>
       <register name="4" type="4">
-        <text>ascii table</text>
+        <text encoding="base64">IGluIHRoZSBleHByZXNzaW9u</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>european</text>
+        <text encoding="base64">IGludG8gdGhlIGJveCBhbmQgVXNlIEV4cHJlc3Npb24gdA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, middle and the end into the box and save it to OE bo</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIEZ4</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIEZ4</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
