@@ -9,7 +9,7 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="/a.dummy" timestamp="1462783069145">
+      <file name="/a.dummy" timestamp="1462973834073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1462959086903">
@@ -104,8 +104,9 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1462973199763">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1462974343482">
         <mark key="'" line="55" column="0" />
+        <mark key="[" line="87" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" timestamp="1462859434040">
         <mark key="'" line="0" column="0" />
@@ -285,32 +286,32 @@
       <register name="0" type="2">
         <text encoding="base64">UmVjb3JkIFN0aW11bHVzIFdpdGggSWYgRXhpc3QKICAke2hhc19zdGltdWx1c309ICAgIEl0ZW0gTWF5IGhhcyBTdGltdWx1cwogICR7d2lkdGh9PSAgIFJ1biBLZXl3b3JkIElmICAgIiR7aGFzX3N0aW11bHVzfSI9PSJUcnVlIiAgICBHZXQgU3RpbXVsdXMgV2lkdGgKICAuLi4gICAgRUxTRSAgICBSZXR1cm4gRnJvbSBLZXl3b3JkICAgIDAKICBTZXQgVGVzdCBWYXJpYWJsZSAgICAke1NUSU1VTFVTX1dJRFRIfSAgICAke3dpZHRofQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y2hvb3NpbmcgYnV0dG9ucyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9icm93c2VyID0gc2VsZi5zMi5fY3VycmVudF9icm93c2VyKCkK</text>
       </register>
-      <register name="2" type="4">
-        <text>]</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmEgPSBzZWxmLnMyLgo=</text>
       </register>
       <register name="3" type="4">
-        <text>[</text>
+        <text encoding="base64">Y2hvb3NpbmcgYnV0dG9ucyA=</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text>]</text>
       </register>
       <register name="5" type="4">
+        <text>[</text>
+      </register>
+      <register name="6" type="4">
         <text>2</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">KioqIFRlcwo=</text>
-      </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAke3dpZHRofT0gICBSdW4gS2V5d29yZCBJZiAgICIke2hhc19zdGltdWx1c30iPT0iVHJ1ZSIgICAgR2V0IFN0aW11bHVzIFdpZHRoCiAgLi4uICAgIEVMU0UgICAgUmV0dXJuIEZyb20gS2V5d29yZCAgICAwCg==</text>
+        <text encoding="base64">KioqIFRlcwo=</text>
       </register>
       <register name="9" type="4">
-        <text>If Exist</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -358,9 +359,9 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>bn!</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
         <entry>CtrlPBuffer</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
