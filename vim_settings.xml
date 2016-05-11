@@ -73,7 +73,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
         <mark key="[" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462954072861">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462955718732">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="1" column="53" />
         <mark key="^" line="1" column="52" />
@@ -118,11 +118,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462862773148">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="46" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462955753002">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="66" />
+        <mark key="^" line="12" column="66" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1462772979141">
         <mark key="[" line="8" column="0" />
@@ -284,8 +284,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxNb3JlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzcuIENsaWNrIGZ4LCB0eXBlIGV4cHJlc3Npb25zIHdpdGggYCRgIGF0IHRoZSBiZWdpbm5pbmcsIG1pZGRsZSBhbmQgdGhlIGVuZCBpbnRvIHRoZSBib3ggYW5kIHNhdmUgaXQgdG8gT0UgYm94IgogIE9wZW4gT2UgSXRlbSBGeCBUb29sCiAgT2UgSXRlbSBGeCBUb29sIFNob3VsZCBCZSBEaXNwbGF5ZWQKICBJbnB1dCBUZXh0IEludG8gRnggQm94ICAgIFwkMTIzXCQ0NTZcJAogIENob29zZSBVc2UgRXhwcmVzc2lvbiBCdXR0b24KCiAgTG9nIFRvIENvbnNvbGUgICAgIiM4LiBWZXJpZnkgdGhlIGV4cHJlc3Npb24gaXMgY29ycmVjdGx5IGVudGVyZWQgaW4gdGhlIE9FIGJveCIKICBPZSBCb3ggQ29udGVudCBTaG91bGQgQ29udGFpbiAgICBcJDEyM1wkNDU2XCQK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEFuZCBLZXlib2FyZCBJbnB1dA==</text>
       </register>
       <register name="1" type="4">
         <text>expressions with `$` at the beginning, middle and the end into the box and save it to OE box&quot;</text>
