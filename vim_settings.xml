@@ -15,7 +15,6 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/sketch_highlight/sketch_highlight_pause_relogin.robot" timestamp="1462959348910" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462800157813">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="39" column="0" />
@@ -74,7 +73,6 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
         <mark key="[" line="66" column="27" />
       </file>
-      <file name="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/string.py" timestamp="1462957129246" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462955718732">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="1" column="53" />
@@ -117,7 +115,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1462959797014">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463017643572">
         <mark key="[" line="28" column="88" />
         <mark key="]" line="28" column="102" />
         <mark key="^" line="28" column="102" />
