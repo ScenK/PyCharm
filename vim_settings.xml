@@ -15,7 +15,7 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1463045102930">
+      <file name="/Python Console" timestamp="1463054310157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463041024999">
@@ -24,7 +24,7 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="/fragment.py" timestamp="1463047292078">
+      <file name="/fragment.py" timestamp="1463054235973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462800157813">
@@ -116,6 +116,9 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1463054405369">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
         <mark key="'" line="28" column="49" />
         <mark key="[" line="25" column="0" />
@@ -149,7 +152,6 @@
         <mark key="^" line="28" column="102" />
         <mark key="." line="28" column="102" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463037529431" />
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" timestamp="1463044891928">
         <mark key="[" line="42" column="102" />
         <mark key="]" line="42" column="102" />
@@ -172,11 +174,10 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463021191647">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463046574388">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="28" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463054277821">
+        <mark key="[" line="30" column="62" />
+        <mark key="]" line="30" column="62" />
+        <mark key="." line="30" column="62" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1463043071348">
         <mark key="[" line="7" column="6" />
@@ -217,11 +218,11 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/js/site.js" timestamp="1463047277072">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="15" column="15" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/js/site.js" timestamp="1463053666309">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="35" column="21" />
+        <mark key="." line="35" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" timestamp="1462434499035">
         <mark key="'" line="58" column="98" />
@@ -334,7 +335,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>options</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
@@ -342,34 +343,32 @@
       <register name="0" type="2">
         <text encoding="base64">LmlkZWEvCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">eAo=</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>options</text>
+        <text>n</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dHlwZShvcHRpb25zKQo=</text>
+      <register name="3" type="4">
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>request.form['options']</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>{
-                options: options
-            }</text>
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">b3B0aW9ucwo=</text>
+      <register name="6" type="4">
+        <text>p</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dHlwZShvcHRpb25zKQo=</text>
+      <register name="7" type="4">
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">b3B0aW9ucywg</text>
+        <text>json.loads(options)</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKG9wdGlvbnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
