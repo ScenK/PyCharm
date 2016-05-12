@@ -18,6 +18,12 @@
       <file name="/Python Console" timestamp="1463030156752">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463036882376">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="6" column="56" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462800157813">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="39" column="0" />
@@ -103,10 +109,6 @@
       <file name="/Dummy.txt" timestamp="1463031089899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1462868479125">
-        <mark key="'" line="10" column="5" />
-        <mark key="[" line="37" column="8" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
         <mark key="'" line="28" column="49" />
         <mark key="[" line="25" column="0" />
@@ -127,11 +129,24 @@
         <mark key="]" line="38" column="48" />
         <mark key="." line="38" column="48" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" timestamp="1463038781872">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463017883903">
         <mark key="[" line="28" column="88" />
         <mark key="]" line="28" column="102" />
         <mark key="^" line="28" column="102" />
         <mark key="." line="28" column="102" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463037529431" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" timestamp="1463038790577">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
@@ -149,11 +164,17 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463021191647">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463035285959">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="1" column="53" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463038665229">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1463035877782">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462785770208">
         <mark key="'" line="199" column="16" />
@@ -293,40 +314,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, flash, make_response</text>
+        <text>accommodations_form</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UmVjb3JkIFN0aW11bHVzIFdpdGggSWYgRXhpc3QKICAke2hhc19zdGltdWx1c309ICAgIEl0ZW0gTWF5IGhhcyBTdGltdWx1cwogICR7d2lkdGh9PSAgIFJ1biBLZXl3b3JkIElmICAgIiR7aGFzX3N0aW11bHVzfSI9PSJUcnVlIiAgICBHZXQgU3RpbXVsdXMgV2lkdGgKICAuLi4gICAgRUxTRSAgICBSZXR1cm4gRnJvbSBLZXl3b3JkICAgIDAKICBTZXQgVGVzdCBWYXJpYWJsZSAgICAke1NUSU1VTFVTX1dJRFRIfSAgICAke3dpZHRofQo=</text>
+      <register name="0" type="4">
+        <text>accommodations_form</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>accommodations_form</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGIuaW5pdF9hcHAoYXBwKQo=</text>
+      <register name="2" type="4">
+        <text>;</text>
       </register>
-      <register name="3" type="4">
-        <text>, flash, make_response</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgc2VsZiA9ICQodGhpcyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">c2Vzc2lvbiwg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByID0gJChzZWFyY2hfdHBsKS5jbG9uZSgpOwogICAgICAgICAgICAgICAgaWYgKCFkYXRhLnJvb3QpIHsKICAgICAgICAgICAgICAgICAgICAkKHJbMF0pCiAgICAgICAgICAgICAgICAgICAgICAgIC50ZXh0KGRhdGEuRXJyb3IpOwogICAgICAgICAgICAgICAgICAgIHIuYXBwZW5kVG8oJyNzZWFyY2hfcmVzdWx0Jyk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgZGF0YS5yb290LmRvY3VtZW50Lmxlbmd0aDsgaSArKykgewogICAgICAgICAgICAgICAgICAgICAgICAkKHJbMF0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYXR0cignaHJlZicsIGRhdGEucm9vdC5kb2N1bWVudFtpXS5tZHVybCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50ZXh0KGRhdGEucm9vdC5kb2N1bWVudFtpXS5wdWJ0aXRsZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHIuYXBwZW5kVG8oJyNzZWFyY2hfcmVzdWx0Jyk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCB0aW1lCmltcG9ydCB1cmxsaWIKaW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudGV4dCgnU2VhcmNoJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>,</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleXdvcmRzOiBrZXl3b3Jkcwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFVQTE9BRF9GT0xERVI9VVBMT0FEX0ZPTERFUiwK</text>
+      <register name="7" type="4">
+        <text>pdf/search</text>
       </register>
-      <register name="8" type="4">
-        <text>, projects=projects</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICJQT1NUIiBpbiByZXF1ZXN0LmZvcm06CgogICAgICAgIHJldHVybiByZWRpcmVjdCh1cmxfZm9yKCdob21lJykpCiAgICBlbHNlOgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>, methods=['GET', 'POST']</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
