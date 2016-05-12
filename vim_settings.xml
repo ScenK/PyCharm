@@ -122,7 +122,7 @@
         <mark key="^" line="28" column="102" />
         <mark key="." line="28" column="102" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463020034989" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463021395249" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
         <mark key="[" line="34" column="120" />
@@ -135,6 +135,9 @@
         <mark key="[" line="273" column="0" />
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463021191647">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462785770208">
         <mark key="'" line="199" column="16" />
@@ -171,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="12" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
       <jump line="19" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
       <jump line="108" column="47" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
@@ -271,6 +273,7 @@
       <jump line="104" column="26" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="41" column="43" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
       <jump line="0" column="22" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
