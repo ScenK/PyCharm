@@ -18,11 +18,10 @@
       <file name="/Python Console" timestamp="1463054310157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463054761085">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="31" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1463054235973">
         <mark key="[" line="0" column="0" />
@@ -149,11 +148,16 @@
         <mark key="^" line="28" column="102" />
         <mark key="." line="28" column="102" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" timestamp="1463044891928">
-        <mark key="[" line="42" column="102" />
-        <mark key="]" line="42" column="102" />
-        <mark key="." line="42" column="102" />
-        <mark key="^" line="32" column="104" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463056305680">
+        <mark key="[" line="84" column="21" />
+        <mark key="]" line="84" column="41" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" timestamp="1463056707989">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="71" column="89" />
+        <mark key="]" line="71" column="89" />
+        <mark key="." line="71" column="89" />
+        <mark key="^" line="67" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
@@ -229,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="13" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="132" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="137" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="171" column="25" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="178" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
@@ -329,43 +331,45 @@
       <jump line="17" column="40" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" />
       <jump line="5" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" />
       <jump line="106" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
+      <jump line="19" column="56" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" />
+      <jump line="35" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>page</text>
+        <text>PASS</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9InJlZHdpbmciPjU1NTU5OTk5MSwgMjc0OURBNUU8L29wdGlvbj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHslIGJsb2NrIGJvZHkgJX17JSBlbmRibG9jayAlfQo=</text>
+      <register name="1" type="4">
+        <text>PASS</text>
       </register>
-      <register name="2" type="4">
-        <text>page</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIDwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Im5hcmNobyI+TmFyY2hvPC9vcHRpb24+CiAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJoYXJkYmFsbCI+SGFyZGJhbGw8L29wdGlvbj4K</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
