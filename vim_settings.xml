@@ -109,9 +109,6 @@
         <mark key="^" line="65" column="41" />
         <mark key="." line="65" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463043775658">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
         <mark key="[" line="56" column="0" />
@@ -345,31 +342,31 @@
       <register name="0" type="2">
         <text encoding="base64">LmlkZWEvCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">eAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>options</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dHlwZShvcHRpb25zKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>request.form['options']</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
                 options: options
             }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">b3B0aW9ucwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dHlwZShvcHRpb25zKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">b3B0aW9ucywg</text>
-      </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text encoding="base64">b3B0aW9ucywg</text>
       </register>
       <register name="9" type="4">
         <text>)</text>
