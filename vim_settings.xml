@@ -106,8 +106,15 @@
         <mark key="^" line="65" column="41" />
         <mark key="." line="65" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463031089899">
+      <file name="/Dummy.txt" timestamp="1463043775658">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463043826292">
+        <mark key="'" line="10" column="5" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="66" column="10" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
         <mark key="'" line="28" column="49" />
@@ -324,40 +331,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>idea/</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICsg</text>
+      <register name="0" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zmxhc2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ki5wbmcKKi54bWwK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>idea/</text>
       </register>
-      <register name="4" type="4">
-        <text>+</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ki5odG1sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucyA9IHJlcXVlc3QuZm9ybVsnb3B0aW9ucyddCg==</text>
+        <text encoding="base64">Zmxhc2sK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>Operational</text>
+        <text>+</text>
       </register>
-      <register name="9" type="4">
-        <text>kiosk</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucyA9IHJlcXVlc3QuZm9ybVsnb3B0aW9ucyddCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
