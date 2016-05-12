@@ -149,11 +149,11 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463021191647">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463032505461">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="53" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463035285959">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="1" column="53" />
-        <mark key="." line="1" column="53" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462785770208">
         <mark key="'" line="199" column="16" />
@@ -301,29 +301,29 @@
       <register name="0" type="2">
         <text encoding="base64">UmVjb3JkIFN0aW11bHVzIFdpdGggSWYgRXhpc3QKICAke2hhc19zdGltdWx1c309ICAgIEl0ZW0gTWF5IGhhcyBTdGltdWx1cwogICR7d2lkdGh9PSAgIFJ1biBLZXl3b3JkIElmICAgIiR7aGFzX3N0aW11bHVzfSI9PSJUcnVlIiAgICBHZXQgU3RpbXVsdXMgV2lkdGgKICAuLi4gICAgRUxTRSAgICBSZXR1cm4gRnJvbSBLZXl3b3JkICAgIDAKICBTZXQgVGVzdCBWYXJpYWJsZSAgICAke1NUSU1VTFVTX1dJRFRIfSAgICAke3dpZHRofQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>, flash, make_response</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">c2Vzc2lvbiwg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCB0aW1lCmltcG9ydCB1cmxsaWIKaW1wb3J0IGpzb24K</text>
-      </register>
-      <register name="4" type="4">
-        <text>,</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFVQTE9BRF9GT0xERVI9VVBMT0FEX0ZPTERFUiwK</text>
-      </register>
-      <register name="6" type="4">
-        <text>, projects=projects</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHVzZXJuYW1lID0gc2Vzc2lvblsndXNlcm5hbWUnXQogICAgICAgICAgICBhdXRob3IgPSBVc2VyLm9iamVjdHMobmFtZT11c2VybmFtZSkuZmlyc3QoKQogICAgICAgICAgICBwcm9qZWN0cyA9IFByb2plY3Qub2JqZWN0cyhhdXRob3I9YXV0aG9yKS5vcmRlcl9ieSgnLWNyZWF0ZWRfYXQnKQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgcHJvamVjdHMgPSBbXQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZGIuaW5pdF9hcHAoYXBwKQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>, flash, make_response</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">c2Vzc2lvbiwg</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCB0aW1lCmltcG9ydCB1cmxsaWIKaW1wb3J0IGpzb24K</text>
+      </register>
+      <register name="6" type="4">
+        <text>,</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFVQTE9BRF9GT0xERVI9VVBMT0FEX0ZPTERFUiwK</text>
+      </register>
+      <register name="8" type="4">
+        <text>, projects=projects</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
