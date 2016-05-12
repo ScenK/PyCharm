@@ -86,10 +86,13 @@
         <mark key="^" line="62" column="54" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1462959086903">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1463028824058">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1463028587385">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1462868479125">
         <mark key="'" line="10" column="5" />
@@ -111,10 +114,10 @@
         <mark key="^" line="27" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1463018381493">
-        <mark key="'" line="41" column="43" />
-        <mark key="[" line="57" column="48" />
-        <mark key="]" line="57" column="48" />
-        <mark key="." line="57" column="48" />
+        <mark key="'" line="22" column="43" />
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463017883903">
         <mark key="[" line="28" column="88" />
@@ -285,32 +288,32 @@
       <register name="0" type="2">
         <text encoding="base64">UmVjb3JkIFN0aW11bHVzIFdpdGggSWYgRXhpc3QKICAke2hhc19zdGltdWx1c309ICAgIEl0ZW0gTWF5IGhhcyBTdGltdWx1cwogICR7d2lkdGh9PSAgIFJ1biBLZXl3b3JkIElmICAgIiR7aGFzX3N0aW11bHVzfSI9PSJUcnVlIiAgICBHZXQgU3RpbXVsdXMgV2lkdGgKICAuLi4gICAgRUxTRSAgICBSZXR1cm4gRnJvbSBLZXl3b3JkICAgIDAKICBTZXQgVGVzdCBWYXJpYWJsZSAgICAke1NUSU1VTFVTX1dJRFRIfSAgICAke3dpZHRofQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>, True, False</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Y2hvb3NpbmcgYnV0dG9ucyA=</text>
+        <text>, True, False</text>
       </register>
       <register name="3" type="4">
-        <text>]</text>
+        <text encoding="base64">Y2hvb3NpbmcgYnV0dG9ucyA=</text>
       </register>
       <register name="4" type="4">
-        <text>[</text>
+        <text>]</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>[</text>
       </register>
       <register name="6" type="4">
         <text>2</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text>2</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">KioqIFRlcwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>s</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAke3dpZHRofT0gICBSdW4gS2V5d29yZCBJZiAgICIke2hhc19zdGltdWx1c30iPT0iVHJ1ZSIgICAgR2V0IFN0aW11bHVzIFdpZHRoCiAgLi4uICAgIEVMU0UgICAgUmV0dXJuIEZyb20gS2V5d29yZCAgICAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
