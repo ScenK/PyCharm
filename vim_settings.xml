@@ -15,7 +15,7 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1463030156752">
+      <file name="/Python Console" timestamp="1463045102930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463041024999">
@@ -23,6 +23,9 @@
         <mark key="]" line="8" column="49" />
         <mark key="." line="8" column="46" />
         <mark key="^" line="12" column="50" />
+      </file>
+      <file name="/fragment.py" timestamp="1463047292078">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462800157813">
         <mark key="'" line="0" column="0" />
@@ -150,7 +153,7 @@
         <mark key="." line="28" column="102" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463037529431" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" timestamp="1463043004920">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" timestamp="1463044891928">
         <mark key="[" line="42" column="102" />
         <mark key="]" line="42" column="102" />
         <mark key="." line="42" column="102" />
@@ -172,8 +175,11 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463021191647">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463042904015">
-        <mark key="[" line="27" column="41" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463046574388">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1463043071348">
         <mark key="[" line="7" column="6" />
@@ -201,10 +207,10 @@
         <mark key="^" line="10" column="84" />
         <mark key="." line="10" column="84" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runner/robot_runner.py" timestamp="1463044494010">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runner/robot_runner.py" timestamp="1463045017293">
+        <mark key="[" line="29" column="102" />
+        <mark key="]" line="29" column="103" />
+        <mark key="." line="29" column="103" />
         <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1463030980858">
@@ -214,11 +220,11 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/js/site.js" timestamp="1463041477668">
-        <mark key="[" line="43" column="32" />
-        <mark key="]" line="43" column="30" />
-        <mark key="." line="43" column="30" />
-        <mark key="^" line="43" column="30" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/js/site.js" timestamp="1463047277072">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" timestamp="1462434499035">
         <mark key="'" line="58" column="98" />
@@ -331,7 +337,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>idea/</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
@@ -339,32 +345,34 @@
       <register name="0" type="2">
         <text encoding="base64">LmlkZWEvCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>options</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ki5wbmcKKi54bWwK</text>
+        <text encoding="base64">dHlwZShvcHRpb25zKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>idea/</text>
+        <text>request.form['options']</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ki5odG1sCg==</text>
+      <register name="4" type="4">
+        <text>{
+                options: options
+            }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zmxhc2sK</text>
+        <text encoding="base64">b3B0aW9ucwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">dHlwZShvcHRpb25zKQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">b3B0aW9ucywg</text>
       </register>
       <register name="8" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucyA9IHJlcXVlc3QuZm9ybVsnb3B0aW9ucyddCg==</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -414,8 +422,8 @@
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>bn!</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
