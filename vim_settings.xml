@@ -102,6 +102,7 @@
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463020435515" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="0" />
@@ -121,6 +122,7 @@
         <mark key="^" line="28" column="102" />
         <mark key="." line="28" column="102" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463020034989" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
         <mark key="[" line="34" column="120" />
