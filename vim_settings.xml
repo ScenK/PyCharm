@@ -14,7 +14,7 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1463117660976">
+      <file name="/Python Console" timestamp="1463124504935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
@@ -47,11 +47,11 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463122736048">
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="26" column="38" />
-        <mark key="." line="26" column="38" />
-        <mark key="^" line="26" column="38" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463125129765">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="18" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1462774022605">
         <mark key="[" line="30" column="0" />
@@ -146,7 +146,7 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463121978520">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463124907265">
         <mark key="'" line="7" column="29" />
         <mark key="[" line="5" column="61" />
         <mark key="]" line="5" column="76" />
@@ -182,7 +182,7 @@
         <mark key="]" line="30" column="62" />
         <mark key="." line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1463115866047">
+      <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1463124265821">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
@@ -227,7 +227,7 @@
         <mark key="^" line="35" column="21" />
         <mark key="." line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463122538585">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463124912567">
         <mark key="[" line="48" column="14" />
         <mark key="]" line="49" column="13" />
         <mark key="." line="49" column="13" />
@@ -338,7 +338,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1464325807</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
@@ -347,31 +347,31 @@
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ3VzZXJuYW1lJzogJ1ByYWN0aWNlLTE5MDMnLCAKICAgICAgICAgICAgICAgICdwYXNzd29yZCc6ICdSSkhVS0FRMicsCiAgICAgICAgICAgICAgICAnc2Vzc2lvbl9uYW1lJzogJ01hdGggU2Vzc2lvbicsCiAgICAgICAgICAgICAgICAnc2Vzc2lvbl9hY2Nlc3NfY29kZSc6ICcxNDY0MzI1ODA3JywKICAgICAgICAgICAgICAgICdpdGVtX251bWJlcic6ICcxJwogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="4">
-        <text>1464325807</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text encoding="base64">IHNlbGVjdA==</text>
       </register>
       <register name="3" type="4">
-        <text>RJHUKAQ2</text>
+        <text>1464325807</text>
       </register>
       <register name="4" type="4">
-        <text>password</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>+</text>
+        <text>RJHUKAQ2</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>password</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>+</text>
       </register>
       <register name="8" type="4">
-        <text>'success'</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>result</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
