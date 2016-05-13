@@ -3,13 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/base.html" timestamp="1463116506836">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="81" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1462500050670">
         <mark key="[" line="47" column="38" />
         <mark key="]" line="47" column="39" />
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1463109409027">
+      <file name="/Python Console" timestamp="1463117660976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
@@ -41,6 +46,12 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463117749246">
+        <mark key="[" line="47" column="19" />
+        <mark key="]" line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="47" column="22" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1462774022605">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="16" />
@@ -64,6 +75,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Flask-SocketIO/example/app.py" timestamp="1463115773764" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" timestamp="1462955111191">
         <mark key="[" line="68" column="93" />
         <mark key="]" line="68" column="94" />
@@ -130,7 +142,7 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463106780696">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463117807642">
         <mark key="[" line="48" column="23" />
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="23" />
@@ -165,11 +177,11 @@
         <mark key="]" line="30" column="62" />
         <mark key="." line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1463043071348">
+      <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1463115866047">
         <mark key="[" line="7" column="6" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462785770208">
         <mark key="'" line="199" column="16" />
@@ -210,11 +222,8 @@
         <mark key="^" line="35" column="21" />
         <mark key="." line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463110406363">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="50" />
-        <mark key="." line="20" column="50" />
-        <mark key="^" line="20" column="50" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463117741343">
+        <mark key="[" line="49" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -321,41 +330,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgb3MuZ2V0Y3dkKCksIGZpbGVzLCAxMTEK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyB1cmxfZm9yKCdzdGF0aWMnLCBmaWxlbmFtZT0nanMvc2l0ZS5qcycpIH19Ij48L3NjcmlwdD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBvcy5nZXRjd2QoKSwgMTExCg==</text>
+      <register name="1" type="4">
+        <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgb3MuZ2V0Y3dkKCksIGZpbGVzLCAxMTEK</text>
+      <register name="2" type="4">
+        <text>connect</text>
       </register>
-      <register name="3" type="4">
-        <text>os.getcwd() + '%s' %
-                                           self.folder_symbol</text>
+      <register name="3" type="2">
+        <text encoding="base64">CkBzb2NrZXRpby5vbignbWVzc2FnZScpCmRlZiBoYW5kbGVfbWVzc2FnZShtZXNzYWdlKToKICAgIHByaW50KCdyZWNlaXZlZCBtZXNzYWdlOiAnICsgbWVzc2FnZSkK</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>message</text>
       </register>
-      <register name="5" type="4">
-        <text>os.walk(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0LmVtaXQoJ215IGV2ZW50Jywge2RhdGE6ICdjb25uZWN0ZWQhJ30pOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>/../tests</text>
+        <text encoding="base64">SSdtIA==</text>
       </register>
       <register name="7" type="4">
-        <text>, files</text>
+        <text>\</text>
       </register>
-      <register name="8" type="4">
-        <text>h</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyB1cmxfZm9yKCdzdGF0aWMnLCBmaWxlbmFtZT0nanMvc29ja2V0LmlvLm1pbi5qcycpIH19Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>site.js</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
