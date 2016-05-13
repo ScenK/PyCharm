@@ -117,12 +117,12 @@
         <mark key="^" line="65" column="41" />
         <mark key="." line="65" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463122074575">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="43" column="22" />
-        <mark key="^" line="43" column="22" />
-        <mark key="." line="43" column="22" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463129401184">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -217,7 +217,7 @@
         <mark key="^" line="108" column="7" />
         <mark key="." line="108" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1463128738347">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1463128769176">
         <mark key="[" line="10" column="84" />
         <mark key="]" line="10" column="84" />
         <mark key="^" line="10" column="84" />
@@ -353,7 +353,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>0</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
@@ -362,34 +362,34 @@
         <text encoding="base64">IG5hbWU9Im1vZGUi</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>(</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">JHt1c2VybmFtZX0gICAgJHtFTVBUWX0K</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>os, sys</text>
       </register>
-      <register name="4" type="4">
-        <text>+</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>HOME_DIR</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgdmFsdWU9Imd1aWRlbGluZSIgaWQ9Imd1aWRlbGluZSIgLz48bGFiZWwgZm9yPSJndWlkZWxpbmUiPkd1aWRlbGluZSArIDwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIHZhbHVlPSJyZXZlcnNlX2NvbnRyYWN0IiBpZD0icmV2ZXJzZV9jb250cmFjdCIgLz48bGFiZWwgZm9yPSJyZXZlcnNlX2NvbnRyYWN0Ij5SZXZlcnNlIENvbnRyYWN0ICsgPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgdmFsdWU9ImNvbG9yX2Nob29zZXIiIGlkPSJjb2xvcl9jaG9vc2VyIiAvPjxsYWJlbCBmb3I9ImNvbG9yX2Nob29zZXIiPkNvbG9yIENob29zZXIgKyA8L2xhYmVsPgo=</text>
+      <register name="6" type="4">
+        <text>.io</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.replace('shell', 'tests')</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
-      <register name="9" type="4">
-        <text>000</text>
+      <register name="9" type="2">
+        <text encoding="base64">JHt1c2VybmFtZX0gICAgJHtFTVBUWX0K</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -437,8 +437,8 @@
         <entry>bn!</entry>
         <entry>CtrlPBuffer</entry>
         <entry>bp!</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
