@@ -3,19 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" timestamp="1462859434040">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1462500050670">
         <mark key="[" line="47" column="38" />
         <mark key="]" line="47" column="39" />
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1463054310157">
+      <file name="/Python Console" timestamp="1463105515266">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
@@ -56,6 +50,10 @@
         <mark key="^" line="45" column="1" />
         <mark key="." line="45" column="24" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1463105724739">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="71" column="23" />
@@ -69,12 +67,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1462956551322">
-        <mark key="'" line="48" column="47" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" timestamp="1462955111191">
         <mark key="[" line="68" column="93" />
         <mark key="]" line="68" column="94" />
@@ -84,6 +76,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
         <mark key="[" line="66" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell1/shell/runserver.py" timestamp="1463105189757" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1462955718732">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="1" column="53" />
@@ -108,6 +101,12 @@
         <mark key="^" line="65" column="41" />
         <mark key="." line="65" column="41" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463105733793">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="19" column="57" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
         <mark key="[" line="56" column="0" />
@@ -115,7 +114,7 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463059369936">
+      <file name="/Dummy.txt" timestamp="1463105213694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
@@ -131,12 +130,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="11" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1463018381493">
-        <mark key="'" line="22" column="43" />
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="38" column="48" />
-        <mark key="." line="38" column="48" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" timestamp="1463040930236">
         <mark key="'" line="5" column="4" />
@@ -168,15 +161,6 @@
         <mark key="]" line="34" column="120" />
         <mark key="^" line="78" column="103" />
         <mark key="." line="34" column="120" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1462774837826">
-        <mark key="'" line="267" column="31" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463021191647">
-        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463054277821">
         <mark key="[" line="30" column="62" />
@@ -228,11 +212,11 @@
         <mark key="^" line="35" column="21" />
         <mark key="." line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" timestamp="1462434499035">
-        <mark key="'" line="58" column="98" />
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463105610923">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -339,40 +323,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>PASS</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9InJlZHdpbmciPjU1NTU5OTk5MSwgMjc0OURBNUU8L29wdGlvbj4K</text>
+        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text />
+      </register>
+      <register name="3" type="4">
         <text>PASS</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Im5hcmNobyI+TmFyY2hvPC9vcHRpb24+CiAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJoYXJkYmFsbCI+SGFyZGJhbGw8L29wdGlvbj4K</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
