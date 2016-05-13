@@ -39,6 +39,7 @@
         <mark key="^" line="66" column="34" />
         <mark key="." line="55" column="25" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/answer_masking/answer_masking_basic.robot" timestamp="1463122689371" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_multibyte_characters.robot" timestamp="1462776327392">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="74" column="25" />
@@ -46,11 +47,11 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463117749246">
-        <mark key="[" line="47" column="19" />
-        <mark key="]" line="47" column="22" />
-        <mark key="^" line="47" column="22" />
-        <mark key="." line="47" column="22" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463122736048">
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+        <mark key="^" line="26" column="38" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1462774022605">
         <mark key="[" line="30" column="0" />
@@ -109,9 +110,12 @@
         <mark key="^" line="65" column="41" />
         <mark key="." line="65" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463109241007">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="27" column="60" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463122074575">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="43" column="22" />
+        <mark key="^" line="43" column="22" />
+        <mark key="." line="43" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -142,11 +146,12 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463117807642">
-        <mark key="[" line="48" column="23" />
-        <mark key="]" line="48" column="23" />
-        <mark key="." line="48" column="23" />
-        <mark key="^" line="49" column="34" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463121978520">
+        <mark key="'" line="7" column="29" />
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="76" />
+        <mark key="." line="5" column="76" />
+        <mark key="^" line="5" column="76" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463017883903">
         <mark key="[" line="28" column="88" />
@@ -222,13 +227,14 @@
         <mark key="^" line="35" column="21" />
         <mark key="." line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463117741343">
-        <mark key="[" line="49" column="40" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463122538585">
+        <mark key="[" line="48" column="14" />
+        <mark key="]" line="49" column="13" />
+        <mark key="." line="49" column="13" />
+        <mark key="^" line="49" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="19" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="46" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
       <jump line="78" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
       <jump line="51" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="70" column="65" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
@@ -327,43 +333,45 @@
       <jump line="111" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="34" column="18" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="12" column="25" filename="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" />
+      <jump line="7" column="29" filename="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text />
+        <text>1464325807</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyB1cmxfZm9yKCdzdGF0aWMnLCBmaWxlbmFtZT0nanMvc2l0ZS5qcycpIH19Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ3VzZXJuYW1lJzogJ1ByYWN0aWNlLTE5MDMnLCAKICAgICAgICAgICAgICAgICdwYXNzd29yZCc6ICdSSkhVS0FRMicsCiAgICAgICAgICAgICAgICAnc2Vzc2lvbl9uYW1lJzogJ01hdGggU2Vzc2lvbicsCiAgICAgICAgICAgICAgICAnc2Vzc2lvbl9hY2Nlc3NfY29kZSc6ICcxNDY0MzI1ODA3JywKICAgICAgICAgICAgICAgICdpdGVtX251bWJlcic6ICcxJwogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="4">
-        <text />
+        <text>1464325807</text>
       </register>
       <register name="2" type="4">
-        <text>connect</text>
+        <text>,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CkBzb2NrZXRpby5vbignbWVzc2FnZScpCmRlZiBoYW5kbGVfbWVzc2FnZShtZXNzYWdlKToKICAgIHByaW50KCdyZWNlaXZlZCBtZXNzYWdlOiAnICsgbWVzc2FnZSkK</text>
+      <register name="3" type="4">
+        <text>RJHUKAQ2</text>
       </register>
       <register name="4" type="4">
-        <text>message</text>
+        <text>password</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0LmVtaXQoJ215IGV2ZW50Jywge2RhdGE6ICdjb25uZWN0ZWQhJ30pOwo=</text>
+      <register name="5" type="4">
+        <text>+</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">SSdtIA==</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>\</text>
+        <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyB1cmxfZm9yKCdzdGF0aWMnLCBmaWxlbmFtZT0nanMvc29ja2V0LmlvLm1pbi5qcycpIH19Ij48L3NjcmlwdD4K</text>
+      <register name="8" type="4">
+        <text>'success'</text>
       </register>
       <register name="9" type="4">
-        <text>site.js</text>
+        <text>result</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
