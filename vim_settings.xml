@@ -9,16 +9,13 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1463105515266">
+      <file name="/Python Console" timestamp="1463106810961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1463054235973">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462800157813">
         <mark key="'" line="0" column="0" />
@@ -50,9 +47,9 @@
         <mark key="^" line="45" column="1" />
         <mark key="." line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1463105724739">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="14" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1463105967075">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
         <mark key="'" line="0" column="0" />
@@ -101,11 +98,9 @@
         <mark key="^" line="65" column="41" />
         <mark key="." line="65" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463105733793">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="19" column="57" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463106897726">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="30" column="48" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -137,6 +132,12 @@
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463106780696">
+        <mark key="[" line="48" column="23" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
+        <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463017883903">
         <mark key="[" line="28" column="88" />
@@ -212,18 +213,14 @@
         <mark key="^" line="35" column="21" />
         <mark key="." line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463105610923">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463106826363">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="171" column="25" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="178" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="50" column="20" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="57" column="19" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="46" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
       <jump line="78" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
@@ -320,37 +317,41 @@
       <jump line="106" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
       <jump line="19" column="56" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" />
       <jump line="35" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" />
+      <jump line="32" column="16" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="111" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="34" column="18" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text />
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtCg==</text>
+      <register name="0" type="4">
+        <text>{{ t }}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="1" type="4">
+        <text>h</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>PASS</text>
+        <text>a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>/tests/regression/tools/notepad/notepad_drag_resize.robot</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Im5hcmNobyI+TmFyY2hvPC9vcHRpb24+CiAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJoYXJkYmFsbCI+SGFyZGJhbGw8L29wdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Imh1c2tlciI+L3Rlc3RzL3JlZ3Jlc3Npb24vdG9vbHMvbm90ZXBhZC9ub3RlcGFkX2RyYWdfcmVzaXplLnJvYm90PC9vcHRpb24+Cg==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>
