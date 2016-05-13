@@ -9,6 +9,9 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
+      <file name="/Python Console" timestamp="1463109409027">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -94,12 +97,9 @@
         <mark key="^" line="65" column="41" />
         <mark key="." line="65" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463107684605">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="28" column="60" />
-        <mark key="^" line="28" column="60" />
-        <mark key="." line="28" column="60" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463109241007">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="27" column="60" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -108,9 +108,7 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463105213694">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1463109550144" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
         <mark key="'" line="28" column="49" />
         <mark key="[" line="25" column="0" />
@@ -323,7 +321,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, files</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
@@ -331,32 +329,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgb3MuZ2V0Y3dkKCksIGZpbGVzLCAxMTEK</text>
       </register>
-      <register name="1" type="4">
-        <text>, files</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBvcy5nZXRjd2QoKSwgMTExCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>h</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgb3MuZ2V0Y3dkKCksIGZpbGVzLCAxMTEK</text>
       </register>
       <register name="3" type="4">
-        <text>c</text>
+        <text>os.getcwd() + '%s' %
+                                           self.folder_symbol</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>os.walk(</text>
       </register>
       <register name="6" type="4">
-        <text>/tests/regression/tools/notepad/notepad_drag_resize.robot</text>
+        <text>/../tests</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gIAo=</text>
+      <register name="7" type="4">
+        <text>, files</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Imh1c2tlciI+L3Rlc3RzL3JlZ3Jlc3Npb24vdG9vbHMvbm90ZXBhZC9ub3RlcGFkX2RyYWdfcmVzaXplLnJvYm90PC9vcHRpb24+Cg==</text>
+      <register name="8" type="4">
+        <text>h</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
