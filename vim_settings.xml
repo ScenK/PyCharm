@@ -131,7 +131,7 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463125797593">
+      <file name="/Dummy.txt" timestamp="1463128745828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
@@ -141,11 +141,11 @@
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463127144707">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463128587443">
+        <mark key="[" line="83" column="73" />
+        <mark key="]" line="83" column="73" />
         <mark key="^" line="17" column="14" />
-        <mark key="." line="17" column="0" />
+        <mark key="." line="83" column="73" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
         <mark key="'" line="0" column="0" />
@@ -217,7 +217,7 @@
         <mark key="^" line="108" column="7" />
         <mark key="." line="108" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1462955043384">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1463128738347">
         <mark key="[" line="10" column="84" />
         <mark key="]" line="10" column="84" />
         <mark key="^" line="10" column="84" />
@@ -353,7 +353,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>get_webelement</text>
@@ -361,32 +361,32 @@
       <register name="0" type="4">
         <text encoding="base64">IG5hbWU9Im1vZGUi</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>0</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">JHt1c2VybmFtZX0gICAgJHtFTVBUWX0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="3" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
+        <text>+</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgdmFsdWU9Imd1aWRlbGluZSIgaWQ9Imd1aWRlbGluZSIgLz48bGFiZWwgZm9yPSJndWlkZWxpbmUiPkd1aWRlbGluZSArIDwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIHZhbHVlPSJyZXZlcnNlX2NvbnRyYWN0IiBpZD0icmV2ZXJzZV9jb250cmFjdCIgLz48bGFiZWwgZm9yPSJyZXZlcnNlX2NvbnRyYWN0Ij5SZXZlcnNlIENvbnRyYWN0ICsgPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgdmFsdWU9ImNvbG9yX2Nob29zZXIiIGlkPSJjb2xvcl9jaG9vc2VyIiAvPjxsYWJlbCBmb3I9ImNvbG9yX2Nob29zZXIiPkNvbG9yIENob29zZXIgKyA8L2xhYmVsPgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>/</text>
       </register>
-      <register name="8" type="4">
-        <text>000</text>
-      </register>
       <register name="9" type="4">
-        <text>style=&quot;white-space: pre-line&quot;</text>
+        <text>000</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
