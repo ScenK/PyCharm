@@ -8,7 +8,7 @@
         <mark key="]" line="9" column="81" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1463124504935">
+      <file name="/Python Console" timestamp="1463277377185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
@@ -22,9 +22,6 @@
         <mark key="]" line="39" column="34" />
         <mark key="." line="213" column="0" />
         <mark key="^" line="63" column="13" />
-      </file>
-      <file name="/a.dummy" timestamp="1462783069145">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/css/style.css" timestamp="1463125660209">
         <mark key="'" line="0" column="0" />
@@ -64,11 +61,12 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463275611410">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="48" column="1" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463276683747">
+        <mark key="'" line="125" column="2" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="106" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
         <mark key="[" line="66" column="27" />
@@ -85,12 +83,12 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463130616529">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="127" column="24" />
-        <mark key="]" line="127" column="25" />
-        <mark key="." line="127" column="25" />
-        <mark key="^" line="127" column="25" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463277510815">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -207,24 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
-      <jump line="11" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" />
-      <jump line="77" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="42" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_reset.robot" />
-      <jump line="45" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_reset.robot" />
-      <jump line="68" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" />
-      <jump line="66" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" />
-      <jump line="58" column="98" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_drag_resize.robot" />
-      <jump line="47" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_pause_relogin.robot" />
-      <jump line="74" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_basic.robot" />
-      <jump line="55" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
-      <jump line="74" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
       <jump line="40" column="34" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="28" column="25" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
       <jump line="25" column="39" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
@@ -304,57 +284,75 @@
       <jump line="129" column="10" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
       <jump line="72" column="2" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
       <jump line="76" column="2" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
-      <jump line="126" column="4" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
       <jump line="118" column="5" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
-      <jump line="127" column="5" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="94" column="5" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="91" column="5" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="95" column="5" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="67" column="11" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="127" column="2" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="25" column="2" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="128" column="2" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="17" column="0" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="0" column="5" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="120" column="2" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="64" column="0" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="4" column="0" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="126" column="2" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="36" column="34" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="69" column="22" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="70" column="3" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="83" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>HOME_DIR + 'datasource.yaml'</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>fake</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">VXNlcjc6Cg==</text>
+      <register name="0" type="4">
+        <text>access_</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAsCg==</text>
+      <register name="1" type="4">
+        <text>HOME_DIR + 'datasource.yaml'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAsCg==</text>
+        <text encoding="base64">ZmFrZV9kYj1beyd1c2VyX25hbWUnOiAgJzU1NTU5OTk5OCcsCiAgICAgICAgICAncGFzc3dvcmQnOiAgJ0U3RjhGRDM4JywKICAgICAgICAgICdzZXNzaW9uX25hbWUnOiAnU2Vzc2lvbiAxJywKICAgICAgICAgICdzZXNzaW9uX2NvZGUnOiAgJzE0MjE4NDMxNjAnLAogICAgICAgICAgJ2l0ZW1fbnVtYmVyJzogJzEnLAogICAgICAgICAgJ2l0ZW1fdHlwZSc6ICdtdWx0aXBsZV9jaG9pY2UnLAogICAgICAgICAgJ3VzZXJfdHlwZSc6ICdvcGVyYXRpb25hbCcsCiAgICAgICAgICAnaXRlbV90b29scyc6IHsncnVsZXInLCAnc2NpZW50aWZpYyd9LAogICAgICAgICAgJ3N0aW11bHVzJzogICcxJwogICAgICAgICAgfSwKICAgICAgICAgeyd1c2VyX25hbWUnOiAgJzU1NTU5OTk5OCcsCiAgICAgICAgICAncGFzc3dvcmQnOiAgJ0U3RjhGRDM4JywKICAgICAgICAgICdzZXNzaW9uX25hbWUnOiAnU2Vzc2lvbiAxJywKICAgICAgICAgICdzZXNzaW9uX2NvZGUnOiAgJzE0MjE4NDMxNjAnLAogICAgICAgICAgJ2l0ZW1fbnVtYmVyJzogJzInLAogICAgICAgICAgJ2l0ZW1fdHlwZSc6ICdvcGVuX2VuZGVkJywKICAgICAgICAgICd1c2VyX3R5cGUnOiAnb3BlcmF0aW9uYWwnLAogICAgICAgICAgJ2l0ZW1fdG9vbHMnOiB7J2dyYXBoaW5nJywgJ3NjaWVudGlmaWMnfSwKICAgICAgICAgICdzdGltdWx1cyc6ICAnMScKICAgICAgICAgIH0sCiAgICAgICAgIHsndXNlcl9uYW1lJzogICc1NTU1OTk5OTgnLAogICAgICAgICAgJ3Bhc3N3b3JkJzogICdFN0Y4RkQzOCcsCiAgICAgICAgICAnc2Vzc2lvbl9uYW1lJzogJ01hdGggU2Vzc2lvbicsCiAgICAgICAgICAnc2Vzc2lvbl9jb2RlJzogICcxNDY0MzI1ODA3JywKICAgICAgICAgICdpdGVtX251bWJlcic6ICcxJywKICAgICAgICAgICdpdGVtX3R5cGUnOiAnbXVsdGlwbGVfY2hvaWNlJywKICAgICAgICAgICd1c2VyX3R5cGUnOiAnb3BlcmF0aW9uYWwnLAogICAgICAgICAgJ3N0aW11bHVzJzogICcxJywKICAgICAgICAgICdpdGVtX3Rvb2xzJzogeydydWxlcicsICdzY2llbnRpZmljJywgJ3Byb3RyYWN0b3InLCAnZ3JhcGhpbmcnLCAnYmFzaWMnLCAnZGljdGlvbmFyeSd9CiAgICAgICAgICB9LAogICAgICAgICB7J3VzZXJfbmFtZSc6ICAnNTU1NTk5OTk4JywKICAgICAgICAgICdwYXNzd29yZCc6ICAnRTdGOEZEMzgnLAogICAgICAgICAgJ3Nlc3Npb25fbmFtZSc6ICdNYXRoIFNlc3Npb24nLAogICAgICAgICAnc2Vzc2lvbl9jb2RlJzogICcxNDY0MzI1ODA3JywKICAgICAgICAgICdpdGVtX251bWJlcic6ICcyJywKICAgICAgICAgICdpdGVtX3R5cGUnOiAnbXVsdGlwbGVfY2hvaWNlJywKICAgICAgICAgJ3VzZXJfdHlwZSc6ICdvcGVyYXRpb25hbCcsCiAgICAgICAgICAnaXRlbV90b29scyc6IHsnYmFzaWMnLCAnc2NpZW50aWZpYycsICdncmFwaGluZyd9LAogICAgICAgICAgJ3N0aW11bHVzJzogICcwJwogICAgICAgICAgfSwKICAgICAgICAgeyd1c2VyX25hbWUnOiAgJzU1NTU5OTk5OCcsCiAgICAgICAgICAncGFzc3dvcmQnOiAgJ0U3RjhGRDM4JywKICAgICAgICAgICdzZXNzaW9uX25hbWUnOiAnTWF0aCBTZXNzaW9uJywKICAgICAgICAgJ3Nlc3Npb25fY29kZSc6ICAnMTQ2NDMyNTgwNycsCiAgICAgICAgICAnaXRlbV9udW1iZXInOiAnMycsCiAgICAgICAgICAnaXRlbV90eXBlJzogJ29wZW5fZW5kZWQnLAogICAgICAgICAndXNlcl90eXBlJzogJ29wZXJhdGlvbmFsJywKICAgICAgICAgICdpdGVtX3Rvb2xzJzogeydncmFwaGluZycsIH0sCiAgICAgICAgICAnc3RpbXVsdXMnOiAgJzAnfSwKICAgICAgICAgeyd1c2VyX25hbWUnOiAgJzU1NTU5OTk5OCcsCiAgICAgICAgICAncGFzc3dvcmQnOiAgJ0U3RjhGRDM4JywKICAgICAgICAgICdzZXNzaW9uX25hbWUnOiAnTWF0aCBTZXNzaW9uJywKICAgICAgICAgJ3Nlc3Npb25fY29kZSc6ICAnMTQ2NDMyNTgwNycsCiAgICAgICAgICAnaXRlbV9udW1iZXInOiAnNCcsCiAgICAgICAgICAnaXRlbV90eXBlJzogJ211bHRpcGxlX2Nob2ljZScsCiAgICAgICAgICd1c2VyX3R5cGUnOiAnb3BlcmF0aW9uYWwnLAogICAgICAgICAgJ2l0ZW1fdG9vbHMnOiB7J3NjaWVudGlmaWMnfSwKICAgICAgICAgICdzdGltdWx1cyc6ICAnMCcKICAgICAgICAgIH0sCiAgICAgICAgIHsndXNlcl9uYW1lJzogICc1NTU1OTk5OTgnLAogICAgICAgICAgJ3Bhc3N3b3JkJzogICdFN0Y4RkQzOCcsCiAgICAgICAgICAnc2Vzc2lvbl9uYW1lJzogJ01hdGggU2Vzc2lvbicsCiAgICAgICAgICdzZXNzaW9uX2NvZGUnOiAgJzE0NjQzMjU4MDcnLAogICAgICAgICAgJ2l0ZW1fbnVtYmVyJzogJzUnLAogICAgICAgICAgJ2l0ZW1fdHlwZSc6ICdvcGVuX2VuZGVkJywKICAgICAgICAgJ3VzZXJfdHlwZSc6ICdvcGVyYXRpb25hbCcsCiAgICAgICAgICAnaXRlbV90b29scyc6IFsnZ3JhcGhpbmcnLCAnc2NpZW50aWZpYycsICdiYXNpYyddLAogICAgICAgICAgJ3N0aW11bHVzJzogICcwJwogICAgICAgICAgfSwKICAgICAgICAgeyd1c2VyX25hbWUnOiAgJzU1NTU5OTk5OCcsCiAgICAgICAgICAncGFzc3dvcmQnOiAgJ0U3RjhGRDM4JywKICAgICAgICAgICdzZXNzaW9uX25hbWUnOiAnTWF0aCBTZXNzaW9uJywKICAgICAgICAgJ3Nlc3Npb25fY29kZSc6ICAnMTQ2NDMyNTgwNycsCiAgICAgICAgICAnaXRlbV9udW1iZXInOiAnNicsCiAgICAgICAgICAnaXRlbV90eXBlJzogJ29wZW5fZW5kZWQnLAogICAgICAgICAndXNlcl90eXBlJzogJ29wZXJhdGlvbmFsJywKICAgICAgICAgICdpdGVtX3Rvb2xzJzogeydydWxlcicsICdzY2llbnRpZmljJ30sCiAgICAgICAgICAnc3RpbXVsdXMnOiAgJzEnfSwKICAgICAgICAgeyd1c2VyX25hbWUnOiAgJzU1NTU5OTk5OCcsCiAgICAgICAgICAncGFzc3dvcmQnOiAgJ0U3RjhGRDM4JywKICAgICAgICAgICdzZXNzaW9uX25hbWUnOiAnTWF0aCBTZXNzaW9uJywKICAgICAgICAgJ3Nlc3Npb25fY29kZSc6ICAnMTQ2NDMyNTgwNycsCiAgICAgICAgICAnaXRlbV9udW1iZXInOiAnNycsCiAgICAgICAgICAnaXRlbV90eXBlJzogJ211bHRpcGxlX2Nob2ljZScsCiAgICAgICAgICd1c2VyX3R5cGUnOiAnb3BlcmF0aW9uYWwnLAogICAgICAgICAgJ2l0ZW1fdG9vbHMnOiBbXSwKICAgICAgICAgICdzdGltdWx1cyc6ICAnMScKICAgICAgICAgIH0sCiAgICAgICAgIHsndXNlcl9uYW1lJzogICc1NTU1OTk5OTgnLAogICAgICAgICAgJ3Bhc3N3b3JkJzogICdFN0Y4RkQzOCcsCiAgICAgICAgICAnc2Vzc2lvbl9uYW1lJzogJ01hdGggU2Vzc2lvbicsCiAgICAgICAgICdzZXNzaW9uX2NvZGUnOiAgJzE0NjQzMjU4MDcnLAogICAgICAgICAgJ2l0ZW1fbnVtYmVyJzogJzgnLAogICAgICAgICAgJ2l0ZW1fdHlwZSc6ICdtdWx0aXBsZV9jaG9pY2UnLAogICAgICAgICAndXNlcl90eXBlJzogJ29wZXJhdGlvbmFsJywKICAgICAgICAgICdpdGVtX3Rvb2xzJzogeydkaWN0aW9uYXJ5J30sCiAgICAgICAgICAnc3RpbXVsdXMnOiAgJzInfSwKICAgICAgICAgeyd1c2VyX25hbWUnOiAgJzU1NTU5OTk5OCcsCiAgICAgICAgICAncGFzc3dvcmQnOiAgJ0U3RjhGRDM4JywKICAgICAgICAgICdzZXNzaW9uX25hbWUnOiAnTWF0aCBTZXNzaW9uJywKICAgICAgICAgJ3Nlc3Npb25fY29kZSc6ICAnMTQ2NDMyNTgwNycsCiAgICAgICAgICAnaXRlbV9udW1iZXInOiAnOCcsCiAgICAgICAgICAnaXRlbV90eXBlJzogJ211bHRpcGxlX2Nob2ljZScsCiAgICAgICAgICd1c2VyX3R5cGUnOiAnb3BlcmF0aW9uYWwnLAogICAgICAgICAgJ2l0ZW1fdG9vbHMnOiB7J2Jhc2ljJywgJ2RpY3Rpb25hcnknfSwKICAgICAgICAgICdzdGltdWx1cyc6ICAnMicKICAgICAgICAgIH0sCiAgICAgICAgIHsndXNlcl9uYW1lJzogICc1NTU1OTk5OTgnLAogICAgICAgICAgJ3Bhc3N3b3JkJzogICdFN0Y4RkQzOCcsCiAgICAgICAgICAnc2Vzc2lvbl9uYW1lJzogJ01hdGggU2Vzc2lvbicsCiAgICAgICAgICdzZXNzaW9uX2NvZGUnOiAgJzE0NjQzMjU4MDcnLAogICAgICAgICAgJ2l0ZW1fbnVtYmVyJzogJzgnLAogICAgICAgICAgJ2l0ZW1fdHlwZSc6ICdtdWx0aXBsZV9jaG9pY2UnLAogICAgICAgICAgJ3VzZXJfdHlwZSc6ICdvcGVyYXRpb25hbCcsCiAgICAgICAgICAnaXRlbV90b29scyc6IHNldCgpLAogICAgICAgICAgJ3N0aW11bHVzJzogICcxJwogICAgICAgICAgfSwKICAgICAgICAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">VXNlcjI6Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">VXNlcjM6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">VXNlcjQ6Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">VXNlcjU6Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">VXNlcjY6Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">VXNlcjc6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/'/ /g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_webelement</last-search>
+      <last-search>fake</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
-      <last-replace encoding="base64">IA==</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>fake</last-pattern>
+      <last-replace>session_access_code</last-replace>
+      <last-substitute>session_code</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -383,6 +381,11 @@
         <entry>{</entry>
         <entry>}</entry>
         <entry>'</entry>
+        <entry>,</entry>
+        <entry encoding="base64">IDo=</entry>
+        <entry encoding="base64">OiAg</entry>
+        <entry>session_code</entry>
+        <entry>fake</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
@@ -398,12 +401,17 @@
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>CtrlPBuffer</entry>
         <entry>bp!</entry>
-        <entry>vs</entry>
         <entry>bn!</entry>
-        <entry>w</entry>
         <entry>%s/{/ /g</entry>
         <entry>%s/}/ /g</entry>
         <entry>%s/'/ /g</entry>
+        <entry>%s/,/ /g</entry>
+        <entry>%s/ :/ /g</entry>
+        <entry>%s/ :/:/g</entry>
+        <entry>%s/:  /: /g</entry>
+        <entry>%s/session_code/session_access_code/g</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
