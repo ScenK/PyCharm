@@ -83,12 +83,12 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463278205381">
-        <mark key="'" line="70" column="22" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="70" column="26" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463280196194">
+        <mark key="'" line="66" column="4" />
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+        <mark key="^" line="14" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -206,15 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="39" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="24" column="31" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="8" column="6" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
-      <jump line="145" column="15" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
-      <jump line="203" column="29" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="24" column="32" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
-      <jump line="164" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
-      <jump line="26" column="13" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="52" column="25" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
       <jump line="448" column="27" filename="$USER_HOME$/Desktop/Dev_Blog2/frontend/frontend.py" />
@@ -302,14 +293,23 @@
       <jump line="69" column="22" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="67" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="83" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="16" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="70" column="22" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="75" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="13" column="49" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="19" column="23" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="82" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="87" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="54" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="66" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>self.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fake</text>
@@ -317,32 +317,32 @@
       <register name="0" type="4">
         <text>self.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>self.</text>
+        <text>,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZha2VfZGIgPSB5YW1sLmxvYWQoZGF0YWJhc2UpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZmFrZV9kYiA9IHlhbWwubG9hZChkYXRhYmFzZSkKCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>datasource</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgdGVzdHNfZm9sZGVyID0gb3MucGF0aC5qb2luKEhPTUVfRElSLCAndGVzdHMnKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>datasource</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
+      <register name="8" type="4">
+        <text>, normal_tools</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>, normal_tools</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
