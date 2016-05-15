@@ -17,6 +17,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/database.yaml" timestamp="1463314389577" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1463008351396">
         <mark key="'" line="98" column="35" />
       </file>
@@ -326,7 +327,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnMyLmprawo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -374,8 +375,8 @@
         <entry>bn!</entry>
         <entry>bp!</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
