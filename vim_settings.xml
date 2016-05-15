@@ -40,7 +40,6 @@
         <mark key="^" line="66" column="34" />
         <mark key="." line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/answer_masking/answer_masking_basic.robot" timestamp="1463122689371" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_multibyte_characters.robot" timestamp="1462776327392">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="74" column="25" />
@@ -65,12 +64,11 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/Flask-SocketIO/example/app.py" timestamp="1463115773764" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463130673025">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="10" column="18" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463275611410">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="48" column="1" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
         <mark key="[" line="66" column="27" />
@@ -209,12 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="70" column="65" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="14" column="23" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
-      <jump line="57" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" />
       <jump line="70" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" />
       <jump line="11" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" />
       <jump line="77" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" />
@@ -309,52 +301,60 @@
       <jump line="12" column="25" filename="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" />
       <jump line="7" column="29" filename="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/static/css/style.css" />
+      <jump line="129" column="10" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="72" column="2" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="76" column="2" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="126" column="4" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="118" column="5" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
+      <jump line="127" column="5" filename="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get_webelement</text>
+        <text>'</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IG5hbWU9Im1vZGUi</text>
+      <register name="0" type="2">
+        <text encoding="base64">VXNlcjc6Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAsCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>{</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">VXNlcjE6CiAgdG9vbHM6CiAgICBydWxlcgogICAgeHh4eAogICAgeHgKICAgIAoKVXNlcjI6IAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmV2ZXJ0IHRpbWVvdXQgY2hhbmdlcwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/'/ /g</text>
       </register>
     </registers>
     <search>
       <last-search>get_webelement</last-search>
       <last-offset />
-      <last-pattern>get_webelement</last-pattern>
+      <last-pattern>'</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -380,6 +380,9 @@
         <entry>string.</entry>
         <entry>Log To Console</entry>
         <entry>get_webelement</entry>
+        <entry>{</entry>
+        <entry>}</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
@@ -398,6 +401,9 @@
         <entry>vs</entry>
         <entry>bn!</entry>
         <entry>w</entry>
+        <entry>%s/{/ /g</entry>
+        <entry>%s/}/ /g</entry>
+        <entry>%s/'/ /g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
