@@ -8,7 +8,7 @@
         <mark key="]" line="9" column="81" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1463392017944">
+      <file name="/Python Console" timestamp="1463392290949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
@@ -16,7 +16,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/database.yaml" timestamp="1463364284584">
+      <file name="$USER_HOME$/Develop/eMetricRobot/database.yaml" timestamp="1463392456966">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="3" />
         <mark key="." line="1" column="3" />
@@ -109,11 +109,12 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="117" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463385968627">
-        <mark key="'" line="93" column="4" />
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="93" column="5" />
-        <mark key="." line="93" column="5" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463392685048">
+        <mark key="'" line="1" column="16" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="86" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -122,7 +123,7 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463374807400">
+      <file name="/Dummy.txt" timestamp="1463392783710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,16 +227,13 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463389831160">
-        <mark key="'" line="39" column="42" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="103" column="20" />
-        <mark key="^" line="38" column="46" />
-        <mark key="." line="38" column="46" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463392733794">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="49" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
       <jump line="14" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="62" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
@@ -335,52 +333,53 @@
       <jump line="51" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="94" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="39" column="42" filename="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" />
+      <jump line="1" column="16" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>username</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>fake</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWxpZiBpc2luc3RhbmNlKHZhbHVlLCBsaXN0KSBvciBpc2luc3RhbmNlKGluZGljdCwgdHVwbGUpOgogICAgICAgICAgICAgICAgd2Fsa19hbGwodmFsdWUpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>username</text>
+      <register name="1" type="2">
+        <text encoding="base64">YWRkIHNoZWxsIHNhbXBsZSB0ZXN0cwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>ruler</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50IGRhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHdhbGtfYWxsKGluZGljdCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHdhbGtfYWxsKGluZGljdCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgdXNlcnMKCiAgICAgICAgICAgICMgdXNlcnMgPSBbCiAgICAgICAgICAgICMgICAgIHsKICAgICAgICAgICAgIyAgICAgICAgICd1c2VybmFtZSc6ICdQcmFjdGljZS0xOTAzJywKICAgICAgICAgICAgIyAgICAgICAgICdwYXNzd29yZCc6ICdSSkhVS0FRMicsCiAgICAgICAgICAgICMgICAgICAgICAnc2Vzc2lvbl9uYW1lJzogJ01hdGggU2Vzc2lvbicsCiAgICAgICAgICAgICMgICAgICAgICAnYWNjZXNzX2NvZGUnOiAnbm9uZScsCiAgICAgICAgICAgICMgICAgICAgICAnaXRlbV9udW1iZXInOiAnMScKICAgICAgICAgICAgIyAgICAgfSwKICAgICAgICAgICAgIyAgICAgewogICAgICAgICAgICAjICAgICAgICAgJ3VzZXJuYW1lJzogJzU1NTU5OTk5OCcsCiAgICAgICAgICAgICMgICAgICAgICAncGFzc3dvcmQnOiAnRTdGOEZEMzgnLAogICAgICAgICAgICAjICAgICAgICAgJ3Nlc3Npb25fbmFtZSc6ICdNYXRoIFNlc3Npb24nLAogICAgICAgICAgICAjICAgICAgICAgJ2FjY2Vzc19jb2RlJzogJzE0NjQzMjU4MDcnLAogICAgICAgICAgICAjICAgICAgICAgJ2l0ZW1fbnVtYmVyJzogJzEnCiAgICAgICAgICAgICMgICAgIH0KICAgICAgICAgICAgIyBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoaW5kaWN0LCBkaWN0KToKICAgICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBpbmRpY3QuaXRlbXMoKToKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgZGljdCk6CiAgICAgICAgICAgICAgICB3YWxrX2FsbCh2YWx1ZSkKICAgICAgICAgICAgZWxpZiBpc2luc3RhbmNlKHZhbHVlLCBsaXN0KSBvciBpc2luc3RhbmNlKGluZGljdCwgdHVwbGUpOgogICAgICAgICAgICAgICAgcHJpbnQgKHZhbHVlKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcHJpbnQgdmFsdWUKICAgIGVsaWYgaXNpbnN0YW5jZShpbmRpY3QsIGxpc3QpIG9yIGlzaW5zdGFuY2UoaW5kaWN0LCB0dXBsZSk6CiAgICAgICAgd2Fsa19hbGwoaW5kaWN0KQogICAgZWxzZToKICAgICAgICBwcmludCBpbmRpY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhbGtfYWxsKHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcnMgPSBSb2JvdFJ1bm5lci5mZXRjaF91c2VyKGpzb24ubG9hZHMob3B0aW9ucykpCgogICAgICAgICAgICAjIHVzZXJzID0gWwogICAgICAgICAgICAjICAgICB7CiAgICAgICAgICAgICMgICAgICAgICAndXNlcm5hbWUnOiAnUHJhY3RpY2UtMTkwMzUnLAogICAgICAgICAgICAjICAgICAgICAgJ3Bhc3N3b3JkJzogJ1JKSFVLQVEyJywKICAgICAgICAgICAgIyAgICAgICAgICdzZXNzaW9uX25hbWUnOiAnTWF0aCBTZXNzaW9uJywKICAgICAgICAgICAgIyAgICAgICAgICdhY2Nlc3NfY29kZSc6ICdub25lJywKICAgICAgICAgICAgIyAgICAgICAgICdpdGVtX251bWJlcic6ICcxJwogICAgICAgICAgICAjICAgICB9LAogICAgICAgICAgICAjICAgICB7CiAgICAgICAgICAgICMgICAgICAgICAndXNlcm5hbWUnOiAnNTU1NTk5OTk4JywKICAgICAgICAgICAgIyAgICAgICAgICdwYXNzd29yZCc6ICdFN0Y4RkQzOCcsCiAgICAgICAgICAgICMgICAgICAgICAnc2Vzc2lvbl9uYW1lJzogJ01hdGggU2Vzc2lvbicsCiAgICAgICAgICAgICMgICAgICAgICAnYWNjZXNzX2NvZGUnOiAnMTQ2NDMyNTgwNycsCiAgICAgICAgICAgICMgICAgICAgICAnaXRlbV9udW1iZXInOiAnMScKICAgICAgICAgICAgIyAgICAgfQogICAgICAgICAgICAjIF0K</text>
       </register>
-      <register name="7" type="4">
-        <text>if isinstance(value, list) or isinstance(indict, tuple)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCB1c2Vycwo=</text>
       </register>
       <register name="8" type="4">
-        <text>indict</text>
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gaW5kaWN0Lml0ZW1zKCk6Cg==</text>
+      <register name="9" type="4">
+        <text>request.has_key(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fake</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>fake</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>session_access_code</last-replace>
       <last-substitute>session_code</last-substitute>
       <last-dir>1</last-dir>
@@ -408,6 +407,7 @@
         <entry encoding="base64">OiAg</entry>
         <entry>session_code</entry>
         <entry>fake</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
