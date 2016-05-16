@@ -98,7 +98,7 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="117" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463364555480">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463370368982">
         <mark key="'" line="66" column="4" />
         <mark key="[" line="14" column="58" />
         <mark key="]" line="14" column="58" />
@@ -123,7 +123,7 @@
         <mark key="." line="83" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/answer_masking/answer_masking_reset_multi.robot" timestamp="1463364813670" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463366390656">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463369940562">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="31" />
         <mark key="^" line="17" column="14" />
@@ -184,12 +184,11 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463368806607">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463370342651">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="74" column="115" />
+        <mark key="]" line="74" column="115" />
+        <mark key="." line="74" column="115" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462785770208">
         <mark key="'" line="199" column="16" />
@@ -224,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Dev_Blog2/README.MD" />
-      <jump line="143" column="2" filename="$USER_HOME$/Develop/Dev_Blog2/README.MD" />
       <jump line="32" column="39" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="176" column="4" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" />
@@ -324,43 +321,45 @@
       <jump line="69" column="21" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
       <jump line="3" column="21" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
       <jump line="15" column="4" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
+      <jump line="5" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>session_</text>
       </register>
       <register name="/" type="4">
         <text>fake</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">I1Rlc3QgU2V0dXAgICAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAojVGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>session_</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>DATA</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">UnVuIEtleXdvcmQgIA==</text>
+        <text encoding="base64">VGVzdCBUZWFyZG93biAgICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAgOkZPUiAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAke3Nlc3Npb25fbmFtZX0gICR7c2Vzc2lvbl9hY2Nlc3NfY29kZX0gICR7aXRlbV9udW1iZXJ9ICBJTiAgICBAe0RBVEF9CiMgIFwgICAgTG9nICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgJHtzZXNrc2lvbl9uYW1lfSAgJHtzZXNzaW9uX2FjY2Vzc19jb2RlfSAgJHtpdGVtX251bWJlcn0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">VGVzdCBTZXR1cCAgICA=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAke3VzZXJbJ3VzZXJuYW1lJ119</text>
+      <register name="6" type="2">
+        <text encoding="base64">I1Rlc3QgVGVhcmRvd24gICAgQ2xvc2UgaVRlc3RlciBBbmQgQ2xlYXIgU2Vzc2lvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBcICAgIExvZyAgICAK</text>
+        <text encoding="base64">QWJjCiAgOkZPUiAgICAke3VzZXJ9ICAgIElOICAgIEB7REFUQX0KICBcICBEcmFnIE5vdGVwYWQgQW5kIFJlc2l6ZSBOb3RlcGFkICAke3VzZXJbJ3VzZXJuYW1lJ119ICAke3VzZXJbJ3Bhc3N3b3JkJ119ICAiJHt1c2VyWydzZXNzaW9uX25hbWUnXX0iICAke3VzZXJbJ3Nlc3Npb25fYWNjZXNzX2NvZGUnXX0gICR7dXNlclsnaXRlbV9udW1iZXInXX0KCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>${user['username']}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBcICAgICR7dXNlcn09ICAgIENvbnZlcnQgVG8gRGljdGlvbmFyeSAgICAke3VzZXJ9Cg==</text>
+      <register name="9" type="4">
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
