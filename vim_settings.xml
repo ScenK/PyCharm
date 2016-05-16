@@ -18,7 +18,7 @@
         <mark key="]" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="/fragment.py" timestamp="1463386171644">
+      <file name="/fragment.py" timestamp="1463390301110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
         <mark key="." line="0" column="56" />
@@ -64,11 +64,11 @@
         <mark key="." line="91" column="43" />
         <mark key="^" line="91" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/test.py" timestamp="1463386276956">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/test.py" timestamp="1463390371261">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="28" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
         <mark key="'" line="0" column="0" />
@@ -220,7 +220,7 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463385984692">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463389831160">
         <mark key="'" line="39" column="42" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="103" column="20" />
@@ -332,40 +332,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>socketio.run(app)</text>
+        <text>if isinstance(value, list) or isinstance(indict, tuple)</text>
       </register>
       <register name="/" type="4">
         <text>fake</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHNvY2tldGlvLnJ1bihhcHApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBpc2luc3RhbmNlKHZhbHVlLCBsaXN0KSBvciBpc2luc3RhbmNlKGluZGljdCwgdHVwbGUpOgogICAgICAgICAgICAgICAgd2Fsa19hbGwodmFsdWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhbGtfYWxsKHZhbHVlKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IDEK</text>
+      <register name="2" type="4">
+        <text>if isinstance(value, list) or isinstance(indict, tuple)</text>
       </register>
       <register name="3" type="4">
-        <text>socketio.run(app)</text>
+        <text>indict</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gaW5kaWN0Lml0ZW1zKCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIHUgaW4gZmFrZV9kYjoK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGlzaW5zdGFuY2UoaW5kaWN0LCBsaXN0KSBvciBpc2luc3RhbmNlKGluZGljdCwgdHVwbGUpOgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">SE9NRV9ESVIgKyA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGluZGljdCwgZGljdCk6CiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SE9NRV9ESVIgPSBvcy5wYXRoLmFic3BhdGgoc3lzLmFyZ3ZbMF0pLnNwbGl0KCdzaGVsbCcpWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
