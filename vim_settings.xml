@@ -8,9 +8,6 @@
         <mark key="]" line="9" column="81" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1463386302193">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -68,10 +65,10 @@
         <mark key="^" line="91" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/test.py" timestamp="1463386276956">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="3" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
         <mark key="'" line="0" column="0" />
@@ -86,9 +83,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="106" column="5" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
-        <mark key="[" line="66" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462776002747">
         <mark key="'" line="0" column="15" />
