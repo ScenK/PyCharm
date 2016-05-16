@@ -101,12 +101,12 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="117" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463372662972">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463376452058">
         <mark key="'" line="66" column="4" />
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="14" column="58" />
-        <mark key="." line="14" column="58" />
-        <mark key="^" line="14" column="58" />
+        <mark key="[" line="47" column="75" />
+        <mark key="]" line="47" column="75" />
+        <mark key="." line="47" column="75" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -189,7 +189,7 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463374943054">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463376347472">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="74" column="115" />
         <mark key="]" line="74" column="115" />
@@ -222,7 +222,7 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463373931722">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463375796945">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="49" column="21" />
         <mark key="]" line="49" column="21" />
@@ -334,7 +334,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IC0tdmFyaWFibGVmaWxlOiB4eHgueWFtbCB0ZXN0cy93ZGFzZGFzZA==</text>
       </register>
       <register name="/" type="4">
         <text>fake</text>
@@ -342,22 +342,25 @@
       <register name="0" type="4">
         <text>;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGF0YWJhc2Ugc2FtcGxlIGFkZGVkZGF0YWJhc2Ugc2FtcGxlIGFkZGVkCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IC0tdmFyaWFibGVmaWxlOiB4eHgueWFtbCB0ZXN0cy93ZGFzZGFzZA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gU2hvdWxkIGJlIGZpbGxlZCB3aXRoIGFqYXggc3VibWl0IC0tPgo=</text>
+        <text encoding="base64">ZGF0YWJhc2Ugc2FtcGxlIGFkZGVkZGF0YWJhc2Ugc2FtcGxlIGFkZGVkCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gU2hvdWxkIGJlIGZpbGxlZCB3aXRoIGFqYXggc3VibWl0IC0tPgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9InNob3dib2F0Ij5QcmFjdGljZS0xOTAzLCBSSkhVS0FRMjwvb3B0aW9uPgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>users.push(</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>jjjjjjjj{
                     'username': 'Practice-1903',
                     'password': 'RJHUKAQ2',
@@ -374,14 +377,11 @@
                 }
             ]</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="8" type="4">
-        <text>_</text>
-      </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
