@@ -55,11 +55,11 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463125129765">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="16" />
-        <mark key="." line="33" column="16" />
-        <mark key="^" line="18" column="59" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463374672394">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1463105967075">
         <mark key="[" line="19" column="0" />
@@ -115,8 +115,10 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463313990064">
+      <file name="/Dummy.txt" timestamp="1463374807400">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
         <mark key="'" line="28" column="49" />
@@ -151,12 +153,12 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463125792167">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463374560952">
         <mark key="'" line="7" column="29" />
-        <mark key="[" line="33" column="118" />
-        <mark key="]" line="33" column="118" />
-        <mark key="." line="33" column="118" />
-        <mark key="^" line="5" column="90" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="51" column="29" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463056305680">
         <mark key="[" line="84" column="21" />
@@ -187,7 +189,7 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463370342651">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463374729855">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="74" column="115" />
         <mark key="]" line="74" column="115" />
@@ -220,9 +222,12 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463321130256">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463373931722">
         <mark key="'" line="16" column="4" />
-        <mark key="[" line="21" column="26" />
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="49" column="21" />
+        <mark key="^" line="37" column="18" />
+        <mark key="." line="49" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -329,40 +334,54 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>session_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>fake</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I1Rlc3QgU2V0dXAgICAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAojVGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
+      <register name="0" type="4">
+        <text>;</text>
       </register>
-      <register name="1" type="4">
-        <text>session_</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGF0YWJhc2Ugc2FtcGxlIGFkZGVkZGF0YWJhc2Ugc2FtcGxlIGFkZGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gU2hvdWxkIGJlIGZpbGxlZCB3aXRoIGFqYXggc3VibWl0IC0tPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>DATA</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9InNob3dib2F0Ij5QcmFjdGljZS0xOTAzLCBSSkhVS0FRMjwvb3B0aW9uPgo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">VGVzdCBUZWFyZG93biAgICA=</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">VGVzdCBTZXR1cCAgICA=</text>
+        <text>users.push(</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">I1Rlc3QgVGVhcmRvd24gICAgQ2xvc2UgaVRlc3RlciBBbmQgQ2xlYXIgU2Vzc2lvbgo=</text>
+      <register name="6" type="4">
+        <text>jjjjjjjj{
+                    'username': 'Practice-1903',
+                    'password': 'RJHUKAQ2',
+                    'session_name': 'Math Session',
+                    'session_access_code': 'none',
+                    'item_number': '1'
+                },
+                {
+                    'username': '555599998',
+                    'password': 'E7F8FD38',
+                    'session_name': 'Math Session',
+                    'session_access_code': '1464325807',
+                    'item_number': '1'
+                }
+            ]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QWJjCiAgOkZPUiAgICAke3VzZXJ9ICAgIElOICAgIEB7REFUQX0KICBcICBEcmFnIE5vdGVwYWQgQW5kIFJlc2l6ZSBOb3RlcGFkICAke3VzZXJbJ3VzZXJuYW1lJ119ICAke3VzZXJbJ3Bhc3N3b3JkJ119ICAiJHt1c2VyWydzZXNzaW9uX25hbWUnXX0iICAke3VzZXJbJ3Nlc3Npb25fYWNjZXNzX2NvZGUnXX0gICR7dXNlclsnaXRlbV9udW1iZXInXX0KCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>_</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -418,8 +437,8 @@
         <entry>%s/ :/:/g</entry>
         <entry>%s/:  /: /g</entry>
         <entry>%s/session_code/session_access_code/g</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
