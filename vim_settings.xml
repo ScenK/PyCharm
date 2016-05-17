@@ -16,10 +16,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/database.yaml" timestamp="1463451185563">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/database.yaml" timestamp="1463454914070">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
       </file>
       <file name="/fragment.py" timestamp="1463390301110">
         <mark key="[" line="0" column="0" />
@@ -109,12 +110,11 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="117" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463452632315">
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463454956205">
         <mark key="'" line="1" column="16" />
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
-        <mark key="^" line="39" column="35" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -192,7 +192,7 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463453881372">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463455002777">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="63" column="32" />
         <mark key="]" line="63" column="3" />
@@ -233,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="62" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="72" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
@@ -333,10 +332,11 @@
       <jump line="94" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="39" column="42" filename="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" />
       <jump line="1" column="16" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
+      <jump line="13" column="13" filename="$USER_HOME$/Develop/eMetricRobot/database.yaml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>color chooser</text>
+        <text>open_ended</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -345,28 +345,28 @@
         <text encoding="base64">ICAgICAgLSAiY29sb3IgY2hvb3NlciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdrawo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gZmV0Y2hfZnJvbV9ybW90ZV9kZCgpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAiY29sb3IgY2hvb3NlciIKICAgICAgLSAiY29sb3IgY2hvb3NlciIKICAgICAgLSAiY29sb3IgY2hvb3NlciIK</text>
+      <register name="2" type="4">
+        <text>open_ended</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAibiIK</text>
+        <text encoding="base64">ICAgIGdrawo=</text>
       </register>
-      <register name="4" type="4">
-        <text>color chooser</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLSAiY29sb3IgY2hvb3NlciIKICAgICAgLSAiY29sb3IgY2hvb3NlciIKICAgICAgLSAiY29sb3IgY2hvb3NlciIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkIHNoZWxsIHNhbXBsZSB0ZXN0cwo=</text>
+        <text encoding="base64">ICAgICAgLSAibiIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRhdGEK</text>
+      <register name="6" type="4">
+        <text>color chooser</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkIHNoZWxsIHNhbXBsZSB0ZXN0cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgdXNlcnMKCiAgICAgICAgICAgICMgdXNlcnMgPSBbCiAgICAgICAgICAgICMgICAgIHsKICAgICAgICAgICAgIyAgICAgICAgICd1c2VybmFtZSc6ICdQcmFjdGljZS0xOTAzJywKICAgICAgICAgICAgIyAgICAgICAgICdwYXNzd29yZCc6ICdSSkhVS0FRMicsCiAgICAgICAgICAgICMgICAgICAgICAnc2Vzc2lvbl9uYW1lJzogJ01hdGggU2Vzc2lvbicsCiAgICAgICAgICAgICMgICAgICAgICAnYWNjZXNzX2NvZGUnOiAnbm9uZScsCiAgICAgICAgICAgICMgICAgICAgICAnaXRlbV9udW1iZXInOiAnMScKICAgICAgICAgICAgIyAgICAgfSwKICAgICAgICAgICAgIyAgICAgewogICAgICAgICAgICAjICAgICAgICAgJ3VzZXJuYW1lJzogJzU1NTU5OTk5OCcsCiAgICAgICAgICAgICMgICAgICAgICAncGFzc3dvcmQnOiAnRTdGOEZEMzgnLAogICAgICAgICAgICAjICAgICAgICAgJ3Nlc3Npb25fbmFtZSc6ICdNYXRoIFNlc3Npb24nLAogICAgICAgICAgICAjICAgICAgICAgJ2FjY2Vzc19jb2RlJzogJzE0NjQzMjU4MDcnLAogICAgICAgICAgICAjICAgICAgICAgJ2l0ZW1fbnVtYmVyJzogJzEnCiAgICAgICAgICAgICMgICAgIH0KICAgICAgICAgICAgIyBdCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGRhdGEK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
