@@ -11,6 +11,7 @@
       <file name="/Python Console" timestamp="1463392290949">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_applicationmanagement.py" timestamp="1463472602304" />
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -81,6 +82,7 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_element.py" timestamp="1463471049069" />
       <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463276683747">
         <mark key="'" line="125" column="2" />
         <mark key="[" line="13" column="0" />
@@ -110,7 +112,6 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="117" column="29" />
       </file>
-      <file name="/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/command.py" timestamp="1463467153074" />
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" timestamp="1463454956205">
         <mark key="'" line="1" column="16" />
         <mark key="[" line="39" column="0" />
@@ -124,6 +125,7 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_touch.py" timestamp="1463472140123" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
         <mark key="'" line="28" column="49" />
         <mark key="[" line="25" column="0" />
@@ -131,11 +133,12 @@
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463369940562">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="17" column="14" />
-        <mark key="." line="83" column="73" />
+      <file name="/Library/Python/2.7/site-packages/AppiumLibrary/keywords/_applicationmanagement.py" timestamp="1463470752840" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463470697019">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463464881080">
         <mark key="[" line="34" column="0" />
@@ -195,7 +198,6 @@
         <mark key="." line="63" column="3" />
         <mark key="^" line="63" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463462281490" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462785770208">
         <mark key="'" line="199" column="16" />
         <mark key="[" line="52" column="0" />
@@ -330,40 +332,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>open_ended</text>
+        <text>Selenium2Library</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAiY29sb3IgY2hvb3NlciIK</text>
+        <text encoding="base64">TGlicmFyeSAgICBTZWxlbml1bTJMaWJyYXJ5Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29kZSBjbGVhbgo=</text>
+      <register name="1" type="4">
+        <text>Selenium2Library</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Y29kZSBjbGVhbgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyID0gZmV0Y2hfZnJvbV9ybW90ZV9kZCgpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>open_ended</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGdrawo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLSAiY29sb3IgY2hvb3NlciIKICAgICAgLSAiY29sb3IgY2hvb3NlciIKICAgICAgLSAiY29sb3IgY2hvb3NlciIK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLSAibiIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>color chooser</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWRkIHNoZWxsIHNhbXBsZSB0ZXN0cwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRhdGEK</text>
+        <text encoding="base64">YWRkIHNoZWxsIHNhbXBsZSB0ZXN0cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
