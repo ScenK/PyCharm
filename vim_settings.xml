@@ -141,7 +141,7 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="83" column="73" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463130291904">
+      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463452851027">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -192,12 +192,12 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463452703050">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463453881372">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="3" />
+        <mark key="." line="63" column="3" />
+        <mark key="^" line="63" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1462785770208">
         <mark key="'" line="199" column="16" />
