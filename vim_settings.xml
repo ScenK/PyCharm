@@ -16,7 +16,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/database.yaml" timestamp="1463393042933">
+      <file name="$USER_HOME$/Develop/eMetricRobot/database.yaml" timestamp="1463449686159">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -135,7 +135,6 @@
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/answer_masking/answer_masking_reset_multi.robot" timestamp="1463364813670" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463369940562">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="31" />
@@ -387,7 +386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>none</entry>
         <entry>secure</entry>
         <entry encoding="base64">XDw0XD4=</entry>
         <entry>sleep</entry>
