@@ -123,11 +123,6 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463393084535">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
         <mark key="'" line="28" column="49" />
         <mark key="[" line="25" column="0" />
@@ -141,7 +136,7 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="83" column="73" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463464682254">
+      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463464881080">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -207,7 +202,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1463464322442">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1463465027281">
         <mark key="'" line="106" column="8" />
         <mark key="[" line="109" column="56" />
       </file>
@@ -343,31 +338,31 @@
         <text encoding="base64">ICAgICAgLSAiY29sb3IgY2hvb3NlciIK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Y29kZSBjbGVhbgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyID0gZmV0Y2hfZnJvbV9ybW90ZV9kZCgpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>open_ended</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGdrawo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgLSAiY29sb3IgY2hvb3NlciIKICAgICAgLSAiY29sb3IgY2hvb3NlciIKICAgICAgLSAiY29sb3IgY2hvb3NlciIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLSAibiIK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>color chooser</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">YWRkIHNoZWxsIHNhbXBsZSB0ZXN0cwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRhdGEK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IGRhdGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
