@@ -184,6 +184,11 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1463479325291">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Library/Python/2.7/site-packages/AppiumLibrary/keywords/_applicationmanagement.py" timestamp="1463470752840" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463474972299">
         <mark key="[" line="4" column="0" />
@@ -375,32 +380,32 @@
       <register name="0" type="4">
         <text>&quot;mobile: scrollTo&quot;, {&quot;element&quot;: element.id}</text>
       </register>
-      <register name="1" type="4">
-        <text>, {&quot;element&quot;: element.id</text>
+      <register name="1" type="2">
+        <text encoding="base64">c3luYyBzdm5zeW5jIHN2bgo=</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>, {&quot;element&quot;: element.id</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>7</text>
-      </register>
-      <register name="5" type="4">
         <text>'</text>
       </register>
+      <register name="5" type="4">
+        <text>7</text>
+      </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>'</text>
       </register>
       <register name="7" type="4">
-        <text>;</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>scrollTo</text>
+        <text>;</text>
       </register>
       <register name="9" type="4">
-        <text>alert('7');</text>
+        <text>scrollTo</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
