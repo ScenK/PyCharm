@@ -43,10 +43,9 @@
         <mark key="." line="32" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463547523318">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="3" column="45" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462776002747">
         <mark key="'" line="0" column="15" />
@@ -134,11 +133,8 @@
         <mark key="." line="0" column="56" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" timestamp="1463541277527">
-        <mark key="'" line="493" column="0" />
+        <mark key="'" line="491" column="0" />
         <mark key="[" line="23" column="13" />
-        <mark key="]" line="24" column="13" />
-        <mark key="^" line="24" column="13" />
-        <mark key="." line="24" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462800157813">
         <mark key="'" line="0" column="0" />
