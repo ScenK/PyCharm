@@ -136,6 +136,12 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/.gitignore" timestamp="1463557812751">
+        <mark key="[" line="61" column="18" />
+        <mark key="]" line="63" column="5" />
+        <mark key="^" line="63" column="5" />
+        <mark key="." line="63" column="5" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_multibyte_characters.robot" timestamp="1462776327392">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="74" column="25" />
@@ -143,6 +149,7 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1463557878918" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="71" column="23" />
@@ -182,6 +189,11 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1463557025403">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463553111820">
         <mark key="'" line="36" column="17" />
         <mark key="[" line="42" column="0" />
@@ -218,6 +230,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="67" column="44" />
       </file>
+      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" timestamp="1463558058973">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
         <mark key="[" line="34" column="120" />
@@ -243,10 +261,6 @@
         <mark key="]" line="52" column="23" />
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1463465027281">
-        <mark key="'" line="106" column="8" />
-        <mark key="[" line="109" column="56" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463392733794">
         <mark key="[" line="58" column="0" />
@@ -358,40 +372,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>='INFO'</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>page_should</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFwdS5wYWdlX3Nob3VsZF9jb250YWluX3RleHQoc2VsZiwgdGV4dCwgbG9nbGV2ZWw9bG9nbGV2ZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwdSA9IEJ1aWx0SW4oKS5nZXRfbGlicmFyeV9pbnN0YW5jZSgnQXBwaXVtTGlicmFyeScpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>='INFO'</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text>'INFO'</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>'INFO'</text>
+        <text>BuiltIn().get_library_instance('</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="4" type="4">
+        <text>Robotframework</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYWdlX3Nob3VsZF9jb250YWluX3RleHQoKToK</text>
+      <register name="5" type="4">
+        <text>-</text>
       </register>
-      <register name="6" type="4">
-        <text>f</text>
+      <register name="6" type="2">
+        <text encoding="base64">PSdJTkZPJ24K</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>='INFO'</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>'INFO'</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>'INFO'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
