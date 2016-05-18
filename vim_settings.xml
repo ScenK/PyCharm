@@ -8,7 +8,7 @@
         <mark key="]" line="9" column="81" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463473006570">
+      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463548082937">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -42,11 +42,11 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463476562173">
-        <mark key="[" line="18" column="64" />
-        <mark key="]" line="3" column="45" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463547523318">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="^" line="3" column="45" />
-        <mark key="." line="3" column="45" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462776002747">
         <mark key="'" line="0" column="15" />
@@ -87,6 +87,10 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_waiting.py" timestamp="1463547706308">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="150" column="55" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463455002777">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="63" column="32" />
@@ -104,12 +108,11 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463547117026">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463548775525">
         <mark key="'" line="29" column="8" />
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="29" column="44" />
-        <mark key="^" line="51" column="40" />
-        <mark key="." line="29" column="44" />
+        <mark key="[" line="89" column="38" />
+        <mark key="]" line="89" column="38" />
+        <mark key="." line="89" column="38" />
       </file>
       <file name="/Python Console" timestamp="1463392290949">
         <mark key="[" line="0" column="0" />
@@ -165,6 +168,7 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_element.py" timestamp="1463548422377" />
       <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463276683747">
         <mark key="'" line="125" column="2" />
         <mark key="[" line="13" column="0" />
@@ -192,7 +196,7 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463479325291">
+      <file name="/Dummy.txt" timestamp="1463547210820">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -383,35 +387,35 @@
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJFeGVjdXRlcyB0aGUgZ2l2ZW4gSmF2YVNjcmlwdCBjb2RlLgoKICAgICAgICBgY29kZWAgbWF5IGNvbnRhaW4gbXVsdGlwbGUgbGluZXMgb2YgY29kZSBhbmQgbWF5IGJlIGRpdmlkZWQgaW50bwogICAgICAgIG11bHRpcGxlIGNlbGxzIGluIHRoZSB0ZXN0IGRhdGEuIEluIHRoYXQgY2FzZSwgdGhlIHBhcnRzIGFyZQogICAgICAgIGNhdGVuYXRlZCB0b2dldGhlciB3aXRob3V0IGFkZGluZyBzcGFjZXMuCgogICAgICAgIElmIGBjb2RlYCBpcyBhbiBhYnNvbHV0ZSBwYXRoIHRvIGFuIGV4aXN0aW5nIGZpbGUsIHRoZSBKYXZhU2NyaXB0CiAgICAgICAgdG8gZXhlY3V0ZSB3aWxsIGJlIHJlYWQgZnJvbSB0aGF0IGZpbGUuIEZvcndhcmQgc2xhc2hlcyB3b3JrIGFzCiAgICAgICAgYSBwYXRoIHNlcGFyYXRvciBvbiBhbGwgb3BlcmF0aW5nIHN5c3RlbXMuCgogICAgICAgIFRoZSBKYXZhU2NyaXB0IGV4ZWN1dGVzIGluIHRoZSBjb250ZXh0IG9mIHRoZSBjdXJyZW50bHkgc2VsZWN0ZWQKICAgICAgICBmcmFtZSBvciB3aW5kb3cgYXMgdGhlIGJvZHkgb2YgYW4gYW5vbnltb3VzIGZ1bmN0aW9uLiBVc2UgX3dpbmRvd18gdG8KICAgICAgICByZWZlciB0byB0aGUgd2luZG93IG9mIHlvdXIgYXBwbGljYXRpb24gYW5kIF9kb2N1bWVudF8gdG8gcmVmZXIgdG8gdGhlCiAgICAgICAgZG9jdW1lbnQgb2JqZWN0IG9mIHRoZSBjdXJyZW50IGZyYW1lIG9yIHdpbmRvdywgZS5nLgogICAgICAgIF9kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZm9vJylfLgoKICAgICAgICBUaGlzIGtleXdvcmQgcmV0dXJucyBOb25lIHVubGVzcyB0aGVyZSBpcyBhIHJldHVybiBzdGF0ZW1lbnQgaW4gdGhlCiAgICAgICAgSmF2YVNjcmlwdC4gUmV0dXJuIHZhbHVlcyBhcmUgY29udmVydGVkIHRvIHRoZSBhcHByb3ByaWF0ZSB0eXBlIGluCiAgICAgICAgUHl0aG9uLCBpbmNsdWRpbmcgV2ViRWxlbWVudHMuCgogICAgICAgIEV4YW1wbGVzOgogICAgICAgIHwgRXhlY3V0ZSBKYXZhU2NyaXB0IHwgd2luZG93Lm15X2pzX2Z1bmN0aW9uKCdhcmcxJywgJ2FyZzInKSB8ICAgICAgICAgICAgICAgfAogICAgICAgIHwgRXhlY3V0ZSBKYXZhU2NyaXB0IHwgJHtDVVJESVJ9L2pzX3RvX2V4ZWN1dGUuanMgICAgICAgICAgICB8ICAgICAgICAgICAgICAgfAogICAgICAgIHwgJHtzdW19PSAgICAgICAgICAgIHwgRXhlY3V0ZSBKYXZhU2NyaXB0ICAgICAgICAgICAgICAgICAgICB8IHJldHVybiAxICsgMTsgfAogICAgICAgIHwgU2hvdWxkIEJlIEVxdWFsICAgIHwgJHtzdW19ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8ICR7Mn0gICAgICAgICAgfAogICAgICAgICIiIgo=</text>
+      <register name="0" type="4">
+        <text>apu.</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAg</text>
+        <text encoding="base64">IGFuZCBCdWlsdEluIGtleXdvcmQgYFdhaXQgVW50aWwgS2V5d29yZAogICAgICAgIFN1Y2NlZWRzYA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGFuZCBCdWlsdEluIGtleXdvcmQgYFdhaXQgVW50aWwgS2V5d29yZAogICAgICAgIFN1Y2NlZWRzYA==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBBcHBpdW1FbmhhbmNlTGlicmFyeS5FeGVjdXRlIEphdmFzY3JpcHQK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBFeGVjdXRlIEphdmFzY3JpcHQK</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAg</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgfA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB8IEV4ZWN1dGUgSmF2YVNjcmlwdCB8ICR7Q1VSRElSfS9qc190b19leGVjdXRlLmpzICAgICAgICAgICAgfCAgICAgICAgICAgICAgIHwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB8IEV4ZWN1dGUgSmF2YVNjcmlwdCB8ICR7Q1VSRElSfS9qc190b19leGVjdXRlLmpzICAgICAgICAgICAgfCAgICAgICAgICAgICAgIHwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJZiBgY29kZWAgaXMgYW4gYWJzb2x1dGUgcGF0aCB0byBhbiBleGlzdGluZyBmaWxlLCB0aGUgSmF2YVNjcmlwdAogICAgICAgIHRvIGV4ZWN1dGUgd2lsbCBiZSByZWFkIGZyb20gdGhhdCBmaWxlLiBGb3J3YXJkIHNsYXNoZXMgd29yayBhcwogICAgICAgIGEgcGF0aCBzZXBhcmF0b3Igb24gYWxsIG9wZXJhdGluZyBzeXN0ZW1zLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
