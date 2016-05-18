@@ -27,7 +27,8 @@
         <mark key="]" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" timestamp="1463476621394">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" timestamp="1463541277527">
+        <mark key="'" line="493" column="0" />
         <mark key="[" line="23" column="13" />
         <mark key="]" line="24" column="13" />
         <mark key="^" line="24" column="13" />
@@ -166,10 +167,10 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463464881080">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463541005991">
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" timestamp="1463040930236">
         <mark key="'" line="5" column="4" />
@@ -252,11 +253,11 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463540383346">
-        <mark key="[" line="16" column="42" />
-        <mark key="]" line="16" column="48" />
-        <mark key="." line="16" column="48" />
-        <mark key="^" line="16" column="48" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463541753181">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463392733794">
         <mark key="[" line="58" column="0" />
@@ -265,8 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="72" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="78" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_multibyte_characters.robot" />
@@ -365,10 +364,12 @@
       <jump line="39" column="42" filename="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" />
       <jump line="1" column="16" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="13" column="13" filename="$USER_HOME$/Develop/eMetricRobot/database.yaml" />
+      <jump line="73" column="29" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" />
+      <jump line="493" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, {&quot;element&quot;: element.id</text>
+        <text>alert</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -377,31 +378,31 @@
         <text>&quot;mobile: scrollTo&quot;, {&quot;element&quot;: element.id}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3luYyBzdm5zeW5jIHN2bgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAxMTEK</text>
       </register>
       <register name="2" type="4">
-        <text>, {&quot;element&quot;: element.id</text>
+        <text>alert</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBkcml2ZXIuZXhlY3V0ZV9qYXZhc2NyaXB0KCJyZXR1cm4gYWxlcnQiKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>mobile:</text>
       </register>
       <register name="5" type="4">
-        <text>7</text>
+        <text>2</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
-        <text>(</text>
+      <register name="7" type="2">
+        <text encoding="base64">c3luYyBzdm5zeW5jIHN2bgo=</text>
       </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text>, {&quot;element&quot;: element.id</text>
       </register>
       <register name="9" type="4">
-        <text>scrollTo</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
