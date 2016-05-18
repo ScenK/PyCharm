@@ -80,10 +80,10 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463547523318">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463553100188">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
         <mark key="'" line="0" column="0" />
@@ -145,11 +145,11 @@
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463474972299">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463553111820">
+        <mark key="'" line="36" column="17" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463541005991">
         <mark key="[" line="31" column="18" />
@@ -248,12 +248,12 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463552297145">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="110" column="45" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463553552074">
+        <mark key="'" line="93" column="26" />
+        <mark key="[" line="189" column="15" />
+        <mark key="]" line="189" column="20" />
+        <mark key="." line="189" column="15" />
+        <mark key="^" line="193" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463392733794">
         <mark key="[" line="58" column="0" />
@@ -262,9 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="46" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
-      <jump line="12" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
-      <jump line="461" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
       <jump line="263" column="51" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
       <jump line="267" column="31" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
       <jump line="18" column="33" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" />
@@ -362,43 +359,46 @@
       <jump line="7" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="35" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="32" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="36" column="17" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="102" column="58" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="93" column="26" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dGV4dCA=</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfaXNfdmlzaWJsZShzZWxmLCBsb2NhdG9yKToKICAgICAgICBlbGVtZW50ID0gc2VsZi5fZWxlbWVudF9maW5kKGxvY2F0b3IsIFRydWUsIEZhbHNlKQogICAgICAgIGlmIGVsZW1lbnQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJldHVybiBlbGVtZW50LmlzX2Rpc3BsYXllZCgpCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+      <register name="0" type="4">
+        <text>self.apu.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJWZXJpZnlpbmcgZWxlbWVudCAnJXMnIGlzIG5vdCB2aXNpYmxlLiIgJSBsb2NhdG9yKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">dGV4dCA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJWZXJpZnlpbmcgZWxlbWVudCAnJXMnIGlzIHZpc2libGUuIiAlIGxvY2F0b3IpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGFuZCBCdWlsdEluIGtleXdvcmQgYFdhaXQgVW50aWwgS2V5d29yZAogICAgICAgIFN1Y2NlZWRzYA==</text>
+        <text encoding="base64">IGFuZCBCdWlsdEluIGtleXdvcmQgYFdhaXQgVW50aWwKICAgICAgICBLZXl3b3JkIFN1Y2NlZWRzYA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGFuZCBCdWlsdEluIGtleXdvcmQgYFdhaXQgVW50aWwgS2V5d29yZAogICAgICAgIFN1Y2NlZWRzYA==</text>
+        <text encoding="base64">IGFuZCBCdWlsdEluIAogICAgICAgIGtleXdvcmQgYFdhaXQgVW50aWwgS2V5d29yZCBTdWNjZWVkc2A=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBBcHBpdW1FbmhhbmNlTGlicmFyeS5FeGVjdXRlIEphdmFzY3JpcHQK</text>
+        <text encoding="base64">ICBTZWxlbmkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBFeGVjdXRlIEphdmFzY3JpcHQK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBXYWl0IFVudGlsIEVsZW1lbnQgQ29udGFpbnMK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>AppiumEnhanceLibrary.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -438,7 +438,6 @@
       </history-search>
       <history-cmd>
         <entry>sp</entry>
-        <entry>q</entry>
         <entry>:CtrlPBuffer</entry>
         <entry>e</entry>
         <entry>wq</entry>
@@ -455,6 +454,7 @@
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>bn!</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
+        <entry>q</entry>
         <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
