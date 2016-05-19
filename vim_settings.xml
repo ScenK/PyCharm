@@ -81,7 +81,12 @@
         <mark key="[" line="723" column="0" />
         <mark key="]" line="727" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/README.md" timestamp="1463646917516" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/README.md" timestamp="1463650438778">
+        <mark key="[" line="246" column="23" />
+        <mark key="]" line="246" column="23" />
+        <mark key="." line="246" column="23" />
+        <mark key="^" line="246" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463455002777">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="63" column="32" />
@@ -150,6 +155,13 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1463650501224">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="37" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="71" column="23" />
@@ -188,10 +200,10 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463638847664">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1463650513759">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463553111820">
         <mark key="'" line="36" column="17" />
@@ -268,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" />
       <jump line="48" column="47" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="59" column="41" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
       <jump line="76" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
@@ -368,43 +379,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
       <jump line="268" column="8" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
       <jump line="273" column="27" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IDAuMC4wLjA=</text>
       </register>
       <register name="/" type="4">
         <text>page_should</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFwdSA9IEJ1aWx0SW4oKS5nZXRfbGlicmFyeV9pbnN0YW5jZSgnQXBwaXVtTGlicmFyeScpCg==</text>
+        <text encoding="base64">KyBSdW4gZmFicmljIGNvbW1hbmQgdW5kZXIgdGhlIHJvb3QgZm9sZGVyOgoKICAgICAgZmFiIGdlbmVyYXRlX2RvYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFwdS5fZ2V0X3RleHQoKQo=</text>
+        <text encoding="base64">aU9TIHNtb2tlIHRlc3QgY2hhbmdlcy4K</text>
       </register>
       <register name="2" type="4">
-        <text>_</text>
+        <text encoding="base64">IDAuMC4wLjA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFwdS5fZ2V0X3RleHQoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fZ2V0X3RleHQobG9jYXRvcikK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">bGFtYmRhOiA=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ID09IFRydWU=</text>
-      </register>
-      <register name="7" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="4" type="4">
+        <text>generate_doc</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ID09IFRydWU=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyMjIyNWZXJzaW9uOiAwLjMuMQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>Generate Resources Docs</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">UGFnZSBTaG91bGQgKE5vdCkgQ29udGFpblBhZ2UgU2hvdWxkIChOb3QpIENvbnRhaW4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwdS5fZ2V0X3RleHQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
