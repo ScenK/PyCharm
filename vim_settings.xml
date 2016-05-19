@@ -203,12 +203,11 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" timestamp="1463639218128">
-        <mark key="'" line="268" column="8" />
-        <mark key="[" line="236" column="29" />
-        <mark key="]" line="236" column="29" />
-        <mark key="^" line="236" column="50" />
-        <mark key="." line="236" column="29" />
+      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" timestamp="1463640251032">
+        <mark key="'" line="273" column="27" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
@@ -268,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" />
       <jump line="48" column="47" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="59" column="41" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
@@ -368,10 +366,11 @@
       <jump line="251" column="8" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
       <jump line="268" column="8" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
+      <jump line="273" column="27" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">bGFtYmRhOiA=</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>page_should</text>
@@ -379,32 +378,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFwdSA9IEJ1aWx0SW4oKS5nZXRfbGlicmFyeV9pbnN0YW5jZSgnQXBwaXVtTGlicmFyeScpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bGFtYmRhOiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwdS5fZ2V0X3RleHQoKQo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ID09IFRydWU=</text>
+        <text>_</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwdS5fZ2V0X3RleHQoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fZ2V0X3RleHQobG9jYXRvcikK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ID09IFRydWU=</text>
+        <text encoding="base64">bGFtYmRhOiA=</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">ID09IFRydWU=</text>
       </register>
       <register name="7" type="4">
-        <text>fix</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfaG9yaXpvbnRhbF9wb3NpdGlvbihzZWxmLCBsb2NhdG9yKToKICAgICAgICAiIiJSZXR1cm5zIGhvcml6b250YWwgcG9zaXRpb24gb2YgZWxlbWVudCBpZGVudGlmaWVkIGJ5IGBsb2NhdG9yYC4KCiAgICAgICAgVGhlIHBvc2l0aW9uIGlzIHJldHVybmVkIGluIHBpeGVscyBvZmYgdGhlIGxlZnQgc2lkZSBvZiB0aGUgcGFnZSwKICAgICAgICBhcyBhbiBpbnRlZ2VyLiBGYWlscyBpZiBhIG1hdGNoaW5nIGVsZW1lbnQgaXMgbm90IGZvdW5kLgoKICAgICAgICBTZWUgYWxzbyBgR2V0IFZlcnRpY2FsIFBvc2l0aW9uYC4KICAgICAgICAiIiIKICAgICAgICB4ID0gc2VsZi5hcHUuZ2V0X2VsZW1lbnRfbG9jYXRpb24obG9jYXRvcilbJ3gnXQogICAgICAgIHJldHVybiB4CgogICAgZGVmIGdldF92ZXJ0aWNhbF9wb3NpdGlvbihzZWxmLCBsb2NhdG9yKToKICAgICAgICAiIiJSZXR1cm5zIHZlcnRpY2FsIHBvc2l0aW9uIG9mIGVsZW1lbnQgaWRlbnRpZmllZCBieSBgbG9jYXRvcmAuCgogICAgICAgIFRoZSBwb3NpdGlvbiBpcyByZXR1cm5lZCBpbiBwaXhlbHMgb2ZmIHRoZSBsZWZ0IHNpZGUgb2YgdGhlIHBhZ2UsCiAgICAgICAgYXMgYW4gaW50ZWdlci4gRmFpbHMgaWYgYSBtYXRjaGluZyBlbGVtZW50IGlzIG5vdCBmb3VuZC4KCiAgICAgICAgU2VlIGFsc28gYEdldCBIb3Jpem9udGFsIFBvc2l0aW9uYC4KICAgICAgICAiIiIKICAgICAgICB5ID0gc2VsZi5hcHUuZ2V0X2VsZW1lbnRfbG9jYXRpb24obG9jYXRvcilbJ3knXQogICAgICAgIHJldHVybiB5CgogICAgZGVmIGdldF92YWx1ZShzZWxmLCBsb2NhdG9yKToKICAgICAgICAiIiJSZXR1cm5zIHRoZSB2YWx1ZSBhdHRyaWJ1dGUgb2YgZWxlbWVudCBpZGVudGlmaWVkIGJ5IGBsb2NhdG9yYC4KCiAgICAgICAgU2VlIGBpbnRyb2R1Y3Rpb25gIGZvciBkZXRhaWxzIGFib3V0IGxvY2F0aW5nIGVsZW1lbnRzLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLmFwdS5nZXRfZWxlbWVudF9hdHRyaWJ1dGUobG9jYXRvciwgJ3ZhbHVlJykKCiAgICBkZWYgZ2V0X3RleHQoc2VsZiwgbG9jYXRvcik6CiAgICAgICAgIiIiUmV0dXJucyB0aGUgdGV4dCB2YWx1ZSBvZiBlbGVtZW50IGlkZW50aWZpZWQgYnkgYGxvY2F0b3JgLgoKICAgICAgICBTZWUgYGludHJvZHVjdGlvbmAgZm9yIGRldGFpbHMgYWJvdXQgbG9jYXRpbmcgZWxlbWVudHMuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2dldF90ZXh0KGxvY2F0b3IpCgo=</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ID09IFRydWU=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
