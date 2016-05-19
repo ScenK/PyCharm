@@ -1,6 +1,0 @@
-<application>
-  <component name="activate-power-mode">
-    <option name="IS_SHAKE" value="true" />
-    <option name="IS_SPARK" value="true" />
-  </component>
-</application>

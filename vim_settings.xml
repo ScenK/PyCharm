@@ -8,104 +8,6 @@
         <mark key="]" line="9" column="81" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463548082937">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1463474201158">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462434017743">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="55" column="25" />
-        <mark key="^" line="66" column="34" />
-        <mark key="." line="55" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463383704701">
-        <mark key="'" line="31" column="30" />
-        <mark key="[" line="91" column="43" />
-        <mark key="]" line="91" column="43" />
-        <mark key="." line="91" column="43" />
-        <mark key="^" line="91" column="43" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463553100188">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" timestamp="1463555982108">
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="289" column="56" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462776002747">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="33" />
-        <mark key="^" line="62" column="54" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/database.json" timestamp="1463307773309">
-        <mark key="'" line="150" column="2" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="117" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_touch.py" timestamp="1463477826956">
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="51" column="72" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
-        <mark key="'" line="28" column="49" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="17" />
-        <mark key="^" line="83" column="47" />
-        <mark key="." line="83" column="47" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" timestamp="1463040930236">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-      </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_waiting.py" timestamp="1463547706308">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="150" column="55" />
-      </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1463551645670">
-        <mark key="[" line="723" column="0" />
-        <mark key="]" line="727" column="19" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463455002777">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="63" column="32" />
-        <mark key="]" line="63" column="3" />
-        <mark key="." line="63" column="3" />
-        <mark key="^" line="63" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463556467665">
-        <mark key="'" line="429" column="31" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="56" column="22" />
-      </file>
-      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1463030980858">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="139" />
-        <mark key="]" line="15" column="150" />
-        <mark key="^" line="15" column="150" />
-        <mark key="." line="15" column="150" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463556926266">
-        <mark key="'" line="202" column="10" />
-        <mark key="[" line="206" column="57" />
-        <mark key="]" line="206" column="57" />
-        <mark key="." line="206" column="57" />
-        <mark key="^" line="213" column="32" />
-      </file>
       <file name="/Python Console" timestamp="1463392290949">
         <mark key="[" line="0" column="0" />
       </file>
@@ -129,6 +31,15 @@
         <mark key="." line="213" column="0" />
         <mark key="^" line="63" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463638730186">
+        <mark key="[" line="108" column="21" />
+        <mark key="]" line="108" column="24" />
+        <mark key="." line="108" column="24" />
+        <mark key="^" line="108" column="24" />
+      </file>
+      <file name="/a.dummy" timestamp="1463474201158">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/css/style.css" timestamp="1463125660209">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="17" />
@@ -136,11 +47,25 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462434017743">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="25" />
+        <mark key="^" line="66" column="34" />
+        <mark key="." line="55" column="25" />
+      </file>
       <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/.gitignore" timestamp="1463557812751">
         <mark key="[" line="61" column="18" />
         <mark key="]" line="63" column="5" />
         <mark key="^" line="63" column="5" />
         <mark key="." line="63" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463383704701">
+        <mark key="'" line="31" column="30" />
+        <mark key="[" line="91" column="43" />
+        <mark key="]" line="91" column="43" />
+        <mark key="." line="91" column="43" />
+        <mark key="^" line="91" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_multibyte_characters.robot" timestamp="1462776327392">
         <mark key="'" line="12" column="0" />
@@ -149,7 +74,11 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1463559156925" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463553100188">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="71" column="23" />
@@ -157,7 +86,6 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_element.py" timestamp="1463556798822" />
       <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463276683747">
         <mark key="'" line="125" column="2" />
         <mark key="[" line="13" column="0" />
@@ -172,15 +100,38 @@
         <mark key="[" line="84" column="0" />
         <mark key="]" line="90" column="10" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" timestamp="1463555982108">
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="289" column="56" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462776002747">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="62" column="54" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1463028824058">
         <mark key="[" line="241" column="0" />
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/database.json" timestamp="1463307773309">
+        <mark key="'" line="150" column="2" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="117" column="29" />
+      </file>
       <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_javascript.py" timestamp="1463547010861">
         <mark key="'" line="171" column="0" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="93" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_touch.py" timestamp="1463477826956">
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="72" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -189,10 +140,17 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463557025403">
+      <file name="/Dummy.txt" timestamp="1463638806094">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
+        <mark key="'" line="28" column="49" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="83" column="47" />
+        <mark key="." line="83" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463553111820">
         <mark key="'" line="36" column="17" />
@@ -205,6 +163,17 @@
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" timestamp="1463040930236">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_waiting.py" timestamp="1463547706308">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="150" column="55" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="0" />
@@ -215,6 +184,10 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1463473665613">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="20" column="67" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1463551645670">
+        <mark key="[" line="723" column="0" />
+        <mark key="]" line="727" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" timestamp="1463374560952">
         <mark key="'" line="7" column="29" />
@@ -230,11 +203,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" timestamp="1463558058973">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="33" />
-        <mark key="^" line="27" column="33" />
-        <mark key="." line="27" column="33" />
+      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" timestamp="1463638788997">
+        <mark key="'" line="268" column="8" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="29" />
+        <mark key="^" line="235" column="16" />
+        <mark key="." line="237" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
@@ -242,6 +216,18 @@
         <mark key="]" line="34" column="120" />
         <mark key="^" line="78" column="103" />
         <mark key="." line="34" column="120" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463455002777">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="3" />
+        <mark key="." line="63" column="3" />
+        <mark key="^" line="63" column="3" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463556467665">
+        <mark key="'" line="429" column="31" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="56" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463054277821">
         <mark key="[" line="30" column="62" />
@@ -262,6 +248,20 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
+      <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1463030980858">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="139" />
+        <mark key="]" line="15" column="150" />
+        <mark key="^" line="15" column="150" />
+        <mark key="." line="15" column="150" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463638254796">
+        <mark key="'" line="202" column="10" />
+        <mark key="[" line="206" column="57" />
+        <mark key="]" line="206" column="57" />
+        <mark key="." line="206" column="57" />
+        <mark key="^" line="213" column="32" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463392733794">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -269,11 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="212" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="10" column="5" filename="$USER_HOME$/Develop/eMetricRobot/.gitignore" />
-      <jump line="32" column="15" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" />
       <jump line="66" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/dictionary.robot" />
       <jump line="48" column="47" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
@@ -369,10 +364,15 @@
       <jump line="183" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="13" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="26" column="16" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" />
+      <jump line="100" column="16" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
+      <jump line="236" column="0" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
+      <jump line="251" column="8" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
+      <jump line="268" column="8" filename="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>page_should</text>
@@ -380,32 +380,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFwdSA9IEJ1aWx0SW4oKS5nZXRfbGlicmFyeV9pbnN0YW5jZSgnQXBwaXVtTGlicmFyeScpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfaG9yaXpvbnRhbF9wb3NpdGlvbihzZWxmLCBsb2NhdG9yKToKICAgICAgICAiIiJSZXR1cm5zIGhvcml6b250YWwgcG9zaXRpb24gb2YgZWxlbWVudCBpZGVudGlmaWVkIGJ5IGBsb2NhdG9yYC4KCiAgICAgICAgVGhlIHBvc2l0aW9uIGlzIHJldHVybmVkIGluIHBpeGVscyBvZmYgdGhlIGxlZnQgc2lkZSBvZiB0aGUgcGFnZSwKICAgICAgICBhcyBhbiBpbnRlZ2VyLiBGYWlscyBpZiBhIG1hdGNoaW5nIGVsZW1lbnQgaXMgbm90IGZvdW5kLgoKICAgICAgICBTZWUgYWxzbyBgR2V0IFZlcnRpY2FsIFBvc2l0aW9uYC4KICAgICAgICAiIiIKICAgICAgICB4ID0gc2VsZi5hcHUuZ2V0X2VsZW1lbnRfbG9jYXRpb24obG9jYXRvcilbJ3gnXQogICAgICAgIHJldHVybiB4CgogICAgZGVmIGdldF92ZXJ0aWNhbF9wb3NpdGlvbihzZWxmLCBsb2NhdG9yKToKICAgICAgICAiIiJSZXR1cm5zIHZlcnRpY2FsIHBvc2l0aW9uIG9mIGVsZW1lbnQgaWRlbnRpZmllZCBieSBgbG9jYXRvcmAuCgogICAgICAgIFRoZSBwb3NpdGlvbiBpcyByZXR1cm5lZCBpbiBwaXhlbHMgb2ZmIHRoZSBsZWZ0IHNpZGUgb2YgdGhlIHBhZ2UsCiAgICAgICAgYXMgYW4gaW50ZWdlci4gRmFpbHMgaWYgYSBtYXRjaGluZyBlbGVtZW50IGlzIG5vdCBmb3VuZC4KCiAgICAgICAgU2VlIGFsc28gYEdldCBIb3Jpem9udGFsIFBvc2l0aW9uYC4KICAgICAgICAiIiIKICAgICAgICB5ID0gc2VsZi5hcHUuZ2V0X2VsZW1lbnRfbG9jYXRpb24obG9jYXRvcilbJ3knXQogICAgICAgIHJldHVybiB5CgogICAgZGVmIGdldF92YWx1ZShzZWxmLCBsb2NhdG9yKToKICAgICAgICAiIiJSZXR1cm5zIHRoZSB2YWx1ZSBhdHRyaWJ1dGUgb2YgZWxlbWVudCBpZGVudGlmaWVkIGJ5IGBsb2NhdG9yYC4KCiAgICAgICAgU2VlIGBpbnRyb2R1Y3Rpb25gIGZvciBkZXRhaWxzIGFib3V0IGxvY2F0aW5nIGVsZW1lbnRzLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLmFwdS5nZXRfZWxlbWVudF9hdHRyaWJ1dGUobG9jYXRvciwgJ3ZhbHVlJykKCiAgICBkZWYgZ2V0X3RleHQoc2VsZiwgbG9jYXRvcik6CiAgICAgICAgIiIiUmV0dXJucyB0aGUgdGV4dCB2YWx1ZSBvZiBlbGVtZW50IGlkZW50aWZpZWQgYnkgYGxvY2F0b3JgLgoKICAgICAgICBTZWUgYGludHJvZHVjdGlvbmAgZm9yIGRldGFpbHMgYWJvdXQgbG9jYXRpbmcgZWxlbWVudHMuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2dldF90ZXh0KGxvY2F0b3IpCgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>BuiltIn().get_library_instance('</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBkZWYgd2FpdF9mb3JfY29uZGl0aW9uKHNlbGYsIGNvbmRpdGlvbiwgdGltZW91dD1Ob25lLCBlcnJvcj1Ob25lKToKICAgICAgICAiIiJXYWl0cyB1bnRpbCB0aGUgZ2l2ZW4gYGNvbmRpdGlvbmAgaXMgdHJ1ZSBvciBgdGltZW91dGAgZXhwaXJlcy4KCiAgICAgICAgVGhlIGBjb25kaXRpb25gIGNhbiBiZSBhcmJpdHJhcnkgSmF2YVNjcmlwdCBleHByZXNzaW9uIGJ1dCBtdXN0IGNvbnRhaW4KICAgICAgICAgYSByZXR1cm4gc3RhdGVtZW50ICh3aXRoIHRoZSB2YWx1ZSB0byBiZSByZXR1cm5lZCkgYXQgdGhlIGVuZC4KICAgICAgICBTZWUgYEV4ZWN1dGUgSmF2YVNjcmlwdGAgZm9yIGluZm9ybWF0aW9uIGFib3V0IGFjY2Vzc2luZyB0aGUKICAgICAgICBhY3R1YWwgY29udGVudHMgb2YgdGhlIHdpbmRvdyB0aHJvdWdoIEphdmFTY3JpcHQuCgogICAgICAgIGBlcnJvcmAgY2FuIGJlIHVzZWQgdG8gb3ZlcnJpZGUgdGhlIGRlZmF1bHQgZXJyb3IgbWVzc2FnZS4KCiAgICAgICAgU2VlIGBpbnRyb2R1Y3Rpb25gIGZvciBtb3JlIGluZm9ybWF0aW9uIGFib3V0IGB0aW1lb3V0YCBhbmQgaXRzCiAgICAgICAgZGVmYXVsdCB2YWx1ZS4KCiAgICAgICAgU2VlIGFsc28gYFdhaXQgVW50aWwgUGFnZSBDb250YWluc2AsIGBXYWl0IFVudGlsIFBhZ2UgQ29udGFpbnMKICAgICAgICBFbGVtZW50YCwgYFdhaXQgVW50aWwgRWxlbWVudCBJcyBWaXNpYmxlYCBhbmQgQnVpbHRJbiBrZXl3b3JkCiAgICAgICAgYFdhaXQgVW50aWwgS2V5d29yZCBTdWNjZWVkc2AuCiAgICAgICAgIiIiCiAgICAgICAgaWYgbm90IGVycm9yOgogICAgICAgICAgICBlcnJvciA9ICJDb25kaXRpb24gJyVzJyBkaWQgbm90IGJlY29tZSB0cnVlIGluIDxUSU1FT1VUPiIgJSBcCiAgICAgICAgICAgICAgICAgICAgY29uZGl0aW9uCiAgICAgICAgc2VsZi5fd2FpdF91bnRpbCh0aW1lb3V0LCBlcnJvciwKICAgICAgICAgICAgICAgICAgICAgICAgIGxhbWJkYTogc2VsZi5hcHUuX2N1cnJlbnRfYXBwbGljYXRpb24oKS4KICAgICAgICAgICAgICAgICAgICAgICAgIGV4ZWN1dGVfc2NyaXB0KGNvbmRpdGlvbikgPT0gVHJ1ZSkK</text>
       </register>
-      <register name="4" type="4">
-        <text>Robotframework</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>-</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PSdJTkZPJ24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>='INFO'</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>'INFO'</text>
+        <text>x</text>
       </register>
       <register name="9" type="4">
-        <text>'INFO'</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -422,7 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>secure</entry>
         <entry encoding="base64">XDw0XD4=</entry>
         <entry>sleep</entry>
         <entry>position</entry>
