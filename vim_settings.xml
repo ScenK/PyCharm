@@ -155,7 +155,7 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1463650501224">
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1463709821921">
         <mark key="'" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
@@ -255,7 +255,7 @@
         <mark key="]" line="30" column="62" />
         <mark key="." line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1463650640809">
+      <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1463709916969">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -393,31 +393,31 @@
         <text encoding="base64">KyBSdW4gZmFicmljIGNvbW1hbmQgdW5kZXIgdGhlIHJvb3QgZm9sZGVyOgoKICAgICAgZmFiIGdlbmVyYXRlX2RvYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">KioqIFRlc3QgQ2FzZXMgKioqCkRhdGEgRHJpdmVuIFRlc3QgQ2FzZXMKICBAe1VTRVJTfT0gICAgQ29udmVydCBUbyBMaXN0ICAgIEB7VVNFUlN9CiAgOkZPUiAgICAke3VzZXJ9ICAgIElOICAgIEB7VVNFUlN9CiAgXCAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAogIFwgIERyYWcgTm90ZXBhZCBBbmQgUmVzaXplIE5vdGVwYWQgICR7dXNlclsndXNlcm5hbWUnXX0gICR7dXNlclsncGFzc3dvcmQnXX0gICIke3VzZXJbJ3Nlc3Npb25fbmFtZSddfSIgICR7dXNlclsnYWNjZXNzX2NvZGUnXX0gICR7dXNlclsnaXRlbV9udW1iZXInXX0KICBcICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">KioqIFZhcmlhYmxlcyAqKioKQHtVU0VSU30gICAgJHthY2NvdW50c30KCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vLi4vLi4vYXV0b192YXJpYWJsZXMueWFtbAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Zmxhc2sKZmxhc2stc29ja2V0aW8K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">KioqIFRlc3QgQ2FzZXMgKioqCkRhdGEgRHJpdmVuIFRlc3QgQ2FzZXMKICBAe1VTRVJTfT0gICAgQ29udmVydCBUbyBMaXN0ICAgIEB7VVNFUlN9CiAgOkZPUiAgICAke3VzZXJ9ICAgIElOICAgIEB7VVNFUlN9CiAgXCAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAogIFwgIERyYWcgTm90ZXBhZCBBbmQgUmVzaXplIE5vdGVwYWQgICR7dXNlclsndXNlcm5hbWUnXX0gICR7dXNlclsncGFzc3dvcmQnXX0gICIke3VzZXJbJ3Nlc3Npb25fbmFtZSddfSIgICR7dXNlclsnYWNjZXNzX2NvZGUnXX0gICR7dXNlclsnaXRlbV9udW1iZXInXX0KICBcICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">KioqIFZhcmlhYmxlcyAqKioKQHtVU0VSU30gICAgJHthY2NvdW50c30KCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vLi4vLi4vYXV0b192YXJpYWJsZXMueWFtbAo=</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Zmxhc2sKZmxhc2stc29ja2V0aW8K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aU9TIHNtb2tlIHRlc3QgY2hhbmdlcy4K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IDAuMC4wLjA=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="9" type="4">
-        <text>generate_doc</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
