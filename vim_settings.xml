@@ -91,7 +91,6 @@
         <mark key="[" line="14" column="106" />
         <mark key="]" line="14" column="154" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463726392182" />
       <file name="$USER_HOME$/Develop/eMetricRobot/README.md" timestamp="1463650438778">
         <mark key="[" line="246" column="23" />
         <mark key="]" line="246" column="23" />
@@ -118,11 +117,12 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463638254796">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463734049357">
         <mark key="'" line="202" column="10" />
-        <mark key="[" line="206" column="57" />
-        <mark key="]" line="206" column="57" />
-        <mark key="." line="206" column="57" />
+        <mark key="[" line="273" column="17" />
+        <mark key="]" line="273" column="18" />
+        <mark key="." line="273" column="18" />
+        <mark key="^" line="273" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1463714475839">
         <mark key="'" line="48" column="0" />
@@ -205,12 +205,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463553111820">
-        <mark key="'" line="36" column="17" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463650813148">
         <mark key="[" line="31" column="18" />
         <mark key="]" line="31" column="19" />
@@ -241,11 +235,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" timestamp="1463640251032">
+      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" timestamp="1463734247282">
         <mark key="'" line="273" column="27" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="^" line="322" column="11" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/random_text_input.robot" timestamp="1462433014285">
         <mark key="'" line="11" column="15" />
@@ -388,7 +383,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1.Click fx Verify fx box is open</text>
+        <text>_get_text</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
@@ -397,31 +392,31 @@
         <text encoding="base64">ICAgICR7ZXhwcmVzc2lvbl9tYXhfbGVuZ3RofSAgICAke3JlcGVhdF90aW1lc309MQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KioqIFNldHRpbmdzICoqKgpEZWZhdWx0IFRhZ3MgICAgUmVncmVzc2lvbiAgICBJdGVtcyAgICBPZS1yZXNwb25zZS1meAoKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvaW5pdGlhbGl6ZS5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvaXRlbXMvb3Blbl9lbmRlZC5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvbmF2aWdhdGlvbi9wYWdlci5yb2JvdAoKVGVzdCBUZW1wbGF0ZSAgIFVzZSBFeHByZXNzaW9uIEFuZCBQYXVzZSBUZXN0CgpUZXN0IFNldHVwICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQKVGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCgoqKiogS2V5d29yZHMgKioqClVzZSBFeHByZXNzaW9uIEFuZCBQYXVzZSBUZXN0CiAgW0RvY3VtZW50YXRpb25dICAgIFZlcmlmeSB0aGUgZnggZXhwcmVzc2lvbiBpcyBjb3JyZWN0bHkgc2F2ZWQgaW4gdGhlIE9FIGJveCB3aGVuIHBhdXNlIGFuZCByZS1sb2dpbgogIFtBcmd1bWVudHNdICAgICR7dXNlcm5hbWV9ICAgICR7cGFzc3dvcmR9ICAgICR7c2Vzc2lvbl9uYW1lfSAgICAke3Nlc3Npb25fYWNjZXNzX2NvZGV9ICAgICR7aXRlbV9udW1iZXJ9CiAgTG9nIFRvIENvbnNvbGUgICAgXG4gIiMwLiBMb2dpbiB3aXRoIGNyZWRlbnRpYWxzIGFuZCBqdW1wIHRvIGl0ZW0iCiAgTG9naW4gV2l0aCBDcmVkZW50aWFscyBBbmQgSnVtcCBUbyBJdGVtCiAgLi4uICAgICR7dXNlcm5hbWV9ICAgICR7cGFzc3dvcmR9ICAgICR7c2Vzc2lvbl9uYW1lfSAgICAke3Nlc3Npb25fYWNjZXNzX2NvZGV9ICAgICR7aXRlbV9udW1iZXJ9CgogIExvZyBUbyBDb25zb2xlICAgICIjMS4gQ2xpY2sgb24gZnggYnV0dG9uIHRvIG9wZW4gZiBib3guIgogIFNsZWVwICAgIDIKICA6Rm9yICAgICR7aW5kZXh9ICAgIElOIFJBTkdFICAgIDEgICAgJHtyZXBlYXRfdGltZXN9ICsgMQogIFwgICAgT3BlbiBPZSBJdGVtIEZ4IFRvb2wKICBcICAgIE9lIEl0ZW0gRnggVG9vbCBTaG91bGQgQmUgRGlzcGxheWVkCiAgXCAgICBAe2J1dHRvbnN9ICAgIEVudGVyIEV4cHJlc3Npb24gUmFuZG9tbHkgICAgJHtleHByZXNzaW9uX21heF9sZW5ndGh9ICAgIDAuNQogIFwgICAgTG9nIFRvIENvbnNvbGUgICAgIiMyLiR7aW5kZXh9IFtMb29wOiAke2luZGV4fV0gRW50ZXIgQHtidXR0b25zfSBieSByYW5kb21seSBjaG9vc2luZyBidXR0b25zIGFuZCBzYXZlIGl0IHRvIE9FIGJveC4iCiAgXAogIFwgICAgQHtrZXlfYnV0dG9uc30gICAgRW50ZXIgRXhwcmVzc2lvbiBSYW5kb21seSBXaXRoIEtleWJvYXJkICAgICR7ZXhwcmVzc2lvbl9tYXhfbGVuZ3RofSAgICAwLjUKICBcICAgIExvZyBUbyBDb25zb2xlICAgICIjMy4ke2luZGV4fSBbTG9vcDogJHtpbmRleH1dIEVudGVyIEB7a2V5X2J1dHRvbnN9IGJ5IHJhbmRvbWx5IGtleWJvYXJkIGlucHV0IGFuZCBzYXZlIGl0IHRvIE9FIGJveC4iCiAgXAogIFwgICAgQHthbGxfYnV0dG9uc309ICAgIEV2YWx1YXRlICAgIEB7YnV0dG9uc30gKyBAe2tleV9idXR0b25zfQogIFwgICAgUmVjb3JkIEV4cHJlc3Npb24gICAgQHthbGxfYnV0dG9uc30KICBcCiAgXCAgICBDaG9vc2UgVXNlIEV4cHJlc3Npb24gQnV0dG9uCiAgXCAgICBTbGVlcCAgICAxCiAgXAogIFwgICAgTG9nIFRvIENvbnNvbGUgICAgIiM0LiR7aW5kZXh9IFZlcmlmeSB0aGUgZXhwcmVzc2lvbiBAe2FsbF9idXR0b25zfSBpcyBjb3JyZWN0bHkgZW50ZXJlZCBpbiB0aGUgT0UgYm94LiIKICBcICAgIE9lIEJveCBDb250ZW50IFNob3VsZCBDb250YWluIFJlY29yZAogIFwKICBcICAgIENsZWFyIFRleHQgUmVzcG9uc2UKICBcICAgIENsZWFyIFJlY29yZGVkIEV4cHJlc3Npb24KCiAgTG9nIFRvIENvbnNvbGUgICAgIiM0LiBWZXJpZnkgZnggYm94IGlzIGNsb3NlZC4iCiAgT2UgSXRlbSBGeCBUb29sIFNob3VsZCBOb3QgQmUgRGlzcGxheWVkCgoyLiBSYW5kb21seSBpbnB1dCBhbiBmIGV4cHJlc3Npb24gYnkgYm90aCBzZWxlY3RpbmcgYnV0dG9ucyBmcm9tIGYgYm94IGFuZCBlbnRlcmluZyBzb21lIGNoYXJhY3RlcnMgZnJvbSBrZXlib2FyZAozLiBTZWxlY3QgVXNlIEV4cHJlc3Npb24KNC4gVmVyaWZ5IHRoZSBmIGV4cHJlc3Npb24gaXMgZW50ZXJlZCBjb3JyZWN0bHkgaW4gdGhlIE9FIGJveAo1LiBDbGljayBQYXVzZSBhbmQgY29uZmlybSBQYXVzZQo3LiBSZWxhdW5jaCBjbGllbnQgKGtpb3NrIG1vZGUgb25seSkKOC4gTG9naW4gYmFjayB0byB0aGUgdGVzdCBhbmQgZ28gdG8gdGhlIHNhbWUgT0UgaXRlbQo5LiBWZXJpZnkgdGhlIGYgZXhwcmVzc2lvbiBpcyBjb3JyZWN0bHkgc2F2ZWQgaW4gdGhlIE9FIGJveCAoRFQtMjA1KQpJdGVtcyB0byBjaGVjazogT3BlcmF0aW9uYWwgVGVzdCBsb2dpbiwgTWF0aCBTZXNzaW9uIGl0ZW0gNCwgNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>1.Click fx Verify fx box is open</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiB3YWl0X2Zvcl9jb25kaXRpb24oc2VsZiwgY29uZGl0aW9uLCB0aW1lb3V0PU5vbmUsIGVycm9yPU5vbmUpOgogICAgICAgICIiIldhaXQgdW50aWwgdGhlIGdpdmVuIGBjb25kaXRpb25gIGlzIHRydWUgb3IgYHRpbWVvdXRgIGV4cGlyZXMuCgogICAgICAgIFRoZSBgY29uZGl0aW9uYCBjYW4gYmUgYXJiaXRyYXJ5IEphdmFTY3JpcHQgZXhwcmVzc2lvbiBidXQgbXVzdCBjb250YWluCiAgICAgICAgIGEgcmV0dXJuIHN0YXRlbWVudCAod2l0aCB0aGUgdmFsdWUgdG8gYmUgcmV0dXJuZWQpIGF0IHRoZSBlbmQuCiAgICAgICAgU2VlIGBFeGVjdXRlIEphdmFTY3JpcHRgIGZvciBpbmZvcm1hdGlvbiBhYm91dCBhY2Nlc3NpbmcgdGhlCiAgICAgICAgYWN0dWFsIGNvbnRlbnRzIG9mIHRoZSB3aW5kb3cgdGhyb3VnaCBKYXZhU2NyaXB0LgoKICAgICAgICBgZXJyb3JgIGNhbiBiZSB1c2VkIHRvIG92ZXJyaWRlIHRoZSBkZWZhdWx0IGVycm9yIG1lc3NhZ2UuCgogICAgICAgIFNlZSBgaW50cm9kdWN0aW9uYCBmb3IgbW9yZSBpbmZvcm1hdGlvbiBhYm91dCBgdGltZW91dGAgYW5kIGl0cwogICAgICAgIGRlZmF1bHQgdmFsdWUuCgogICAgICAgIFNlZSBhbHNvIGBXYWl0IFVudGlsIFBhZ2UgQ29udGFpbnNgLCBgV2FpdCBVbnRpbCBQYWdlIENvbnRhaW5zCiAgICAgICAgRWxlbWVudGAsIGBXYWl0IFVudGlsIEVsZW1lbnQgSXMgVmlzaWJsZWAgYW5kIEJ1aWx0SW4ga2V5d29yZAogICAgICAgIGBXYWl0IFVudGlsIEtleXdvcmQgU3VjY2VlZHNgLgogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBlcnJvcjoKICAgICAgICAgICAgZXJyb3IgPSAiQ29uZGl0aW9uICclcycgZGlkIG5vdCBiZWNvbWUgdHJ1ZSBpbiA8VElNRU9VVD4iICUgXAogICAgICAgICAgICAgICAgICAgIGNvbmRpdGlvbgogICAgICAgIHNlbGYuYXB1Ll93YWl0X3VudGlsKHRpbWVvdXQsIGVycm9yLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbWJkYTogc2VsZi5hcHUuX2N1cnJlbnRfYXBwbGljYXRpb24oKS4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleGVjdXRlX3NjcmlwdChjb25kaXRpb24pID09IFRydWUpCg==</text>
       </register>
       <register name="3" type="4">
-        <text>1. Click on f button to open f box</text>
+        <text>_get_text</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>With Special Characters</text>
+      <register name="5" type="2">
+        <text encoding="base64">KioqIFNldHRpbmdzICoqKgpEZWZhdWx0IFRhZ3MgICAgUmVncmVzc2lvbiAgICBJdGVtcyAgICBPZS1yZXNwb25zZS1meAoKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvaW5pdGlhbGl6ZS5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvaXRlbXMvb3Blbl9lbmRlZC5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvbmF2aWdhdGlvbi9wYWdlci5yb2JvdAoKVGVzdCBUZW1wbGF0ZSAgIFVzZSBFeHByZXNzaW9uIEFuZCBQYXVzZSBUZXN0CgpUZXN0IFNldHVwICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQKVGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCgoqKiogS2V5d29yZHMgKioqClVzZSBFeHByZXNzaW9uIEFuZCBQYXVzZSBUZXN0CiAgW0RvY3VtZW50YXRpb25dICAgIFZlcmlmeSB0aGUgZnggZXhwcmVzc2lvbiBpcyBjb3JyZWN0bHkgc2F2ZWQgaW4gdGhlIE9FIGJveCB3aGVuIHBhdXNlIGFuZCByZS1sb2dpbgogIFtBcmd1bWVudHNdICAgICR7dXNlcm5hbWV9ICAgICR7cGFzc3dvcmR9ICAgICR7c2Vzc2lvbl9uYW1lfSAgICAke3Nlc3Npb25fYWNjZXNzX2NvZGV9ICAgICR7aXRlbV9udW1iZXJ9CiAgTG9nIFRvIENvbnNvbGUgICAgXG4gIiMwLiBMb2dpbiB3aXRoIGNyZWRlbnRpYWxzIGFuZCBqdW1wIHRvIGl0ZW0iCiAgTG9naW4gV2l0aCBDcmVkZW50aWFscyBBbmQgSnVtcCBUbyBJdGVtCiAgLi4uICAgICR7dXNlcm5hbWV9ICAgICR7cGFzc3dvcmR9ICAgICR7c2Vzc2lvbl9uYW1lfSAgICAke3Nlc3Npb25fYWNjZXNzX2NvZGV9ICAgICR7aXRlbV9udW1iZXJ9CgogIExvZyBUbyBDb25zb2xlICAgICIjMS4gQ2xpY2sgb24gZnggYnV0dG9uIHRvIG9wZW4gZiBib3guIgogIFNsZWVwICAgIDIKICA6Rm9yICAgICR7aW5kZXh9ICAgIElOIFJBTkdFICAgIDEgICAgJHtyZXBlYXRfdGltZXN9ICsgMQogIFwgICAgT3BlbiBPZSBJdGVtIEZ4IFRvb2wKICBcICAgIE9lIEl0ZW0gRnggVG9vbCBTaG91bGQgQmUgRGlzcGxheWVkCiAgXCAgICBAe2J1dHRvbnN9ICAgIEVudGVyIEV4cHJlc3Npb24gUmFuZG9tbHkgICAgJHtleHByZXNzaW9uX21heF9sZW5ndGh9ICAgIDAuNQogIFwgICAgTG9nIFRvIENvbnNvbGUgICAgIiMyLiR7aW5kZXh9IFtMb29wOiAke2luZGV4fV0gRW50ZXIgQHtidXR0b25zfSBieSByYW5kb21seSBjaG9vc2luZyBidXR0b25zIGFuZCBzYXZlIGl0IHRvIE9FIGJveC4iCiAgXAogIFwgICAgQHtrZXlfYnV0dG9uc30gICAgRW50ZXIgRXhwcmVzc2lvbiBSYW5kb21seSBXaXRoIEtleWJvYXJkICAgICR7ZXhwcmVzc2lvbl9tYXhfbGVuZ3RofSAgICAwLjUKICBcICAgIExvZyBUbyBDb25zb2xlICAgICIjMy4ke2luZGV4fSBbTG9vcDogJHtpbmRleH1dIEVudGVyIEB7a2V5X2J1dHRvbnN9IGJ5IHJhbmRvbWx5IGtleWJvYXJkIGlucHV0IGFuZCBzYXZlIGl0IHRvIE9FIGJveC4iCiAgXAogIFwgICAgQHthbGxfYnV0dG9uc309ICAgIEV2YWx1YXRlICAgIEB7YnV0dG9uc30gKyBAe2tleV9idXR0b25zfQogIFwgICAgUmVjb3JkIEV4cHJlc3Npb24gICAgQHthbGxfYnV0dG9uc30KICBcCiAgXCAgICBDaG9vc2UgVXNlIEV4cHJlc3Npb24gQnV0dG9uCiAgXCAgICBTbGVlcCAgICAxCiAgXAogIFwgICAgTG9nIFRvIENvbnNvbGUgICAgIiM0LiR7aW5kZXh9IFZlcmlmeSB0aGUgZXhwcmVzc2lvbiBAe2FsbF9idXR0b25zfSBpcyBjb3JyZWN0bHkgZW50ZXJlZCBpbiB0aGUgT0UgYm94LiIKICBcICAgIE9lIEJveCBDb250ZW50IFNob3VsZCBDb250YWluIFJlY29yZAogIFwKICBcICAgIENsZWFyIFRleHQgUmVzcG9uc2UKICBcICAgIENsZWFyIFJlY29yZGVkIEV4cHJlc3Npb24KCiAgTG9nIFRvIENvbnNvbGUgICAgIiM0LiBWZXJpZnkgZnggYm94IGlzIGNsb3NlZC4iCiAgT2UgSXRlbSBGeCBUb29sIFNob3VsZCBOb3QgQmUgRGlzcGxheWVkCgoyLiBSYW5kb21seSBpbnB1dCBhbiBmIGV4cHJlc3Npb24gYnkgYm90aCBzZWxlY3RpbmcgYnV0dG9ucyBmcm9tIGYgYm94IGFuZCBlbnRlcmluZyBzb21lIGNoYXJhY3RlcnMgZnJvbSBrZXlib2FyZAozLiBTZWxlY3QgVXNlIEV4cHJlc3Npb24KNC4gVmVyaWZ5IHRoZSBmIGV4cHJlc3Npb24gaXMgZW50ZXJlZCBjb3JyZWN0bHkgaW4gdGhlIE9FIGJveAo1LiBDbGljayBQYXVzZSBhbmQgY29uZmlybSBQYXVzZQo3LiBSZWxhdW5jaCBjbGllbnQgKGtpb3NrIG1vZGUgb25seSkKOC4gTG9naW4gYmFjayB0byB0aGUgdGVzdCBhbmQgZ28gdG8gdGhlIHNhbWUgT0UgaXRlbQo5LiBWZXJpZnkgdGhlIGYgZXhwcmVzc2lvbiBpcyBjb3JyZWN0bHkgc2F2ZWQgaW4gdGhlIE9FIGJveCAoRFQtMjA1KQpJdGVtcyB0byBjaGVjazogT3BlcmF0aW9uYWwgVGVzdCBsb2dpbiwgTWF0aCBTZXNzaW9uIGl0ZW0gNCwgNQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Zmxhc2sKZmxhc2stc29ja2V0aW8K</text>
+      <register name="6" type="4">
+        <text>1.Click fx Verify fx box is open</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>1. Click on f button to open f box</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KioqIFRlc3QgQ2FzZXMgKioqCkRhdGEgRHJpdmVuIFRlc3QgQ2FzZXMKICBAe1VTRVJTfT0gICAgQ29udmVydCBUbyBMaXN0ICAgIEB7VVNFUlN9CiAgOkZPUiAgICAke3VzZXJ9ICAgIElOICAgIEB7VVNFUlN9CiAgXCAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAogIFwgIERyYWcgTm90ZXBhZCBBbmQgUmVzaXplIE5vdGVwYWQgICR7dXNlclsndXNlcm5hbWUnXX0gICR7dXNlclsncGFzc3dvcmQnXX0gICIke3VzZXJbJ3Nlc3Npb25fbmFtZSddfSIgICR7dXNlclsnYWNjZXNzX2NvZGUnXX0gICR7dXNlclsnaXRlbV9udW1iZXInXX0KICBcICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">KioqIFZhcmlhYmxlcyAqKioKQHtVU0VSU30gICAgJHthY2NvdW50c30KCg==</text>
+      <register name="9" type="4">
+        <text>With Special Characters</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
