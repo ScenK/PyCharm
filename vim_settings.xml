@@ -100,6 +100,7 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="56" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_reset.robot" timestamp="1463718232476" />
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1463030980858">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="139" />
@@ -169,6 +170,7 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1463718115052" />
       <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463276683747">
         <mark key="'" line="125" column="2" />
         <mark key="[" line="13" column="0" />
