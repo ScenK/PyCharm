@@ -8,14 +8,16 @@
         <mark key="]" line="9" column="81" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/use_expression_and_pause_test.robot" timestamp="1463726304205">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463638730186">
         <mark key="[" line="108" column="21" />
         <mark key="]" line="108" column="24" />
         <mark key="." line="108" column="24" />
         <mark key="^" line="108" column="24" />
-      </file>
-      <file name="/a.dummy" timestamp="1463474201158">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/vertical_scroll_bar_with_long_notes.robot" timestamp="1462434017743">
         <mark key="'" line="42" column="0" />
@@ -35,6 +37,10 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/expression_with_special_characters.robot" timestamp="1463725971053">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="11" />
       </file>
       <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" timestamp="1463555982108">
         <mark key="[" line="281" column="0" />
@@ -81,12 +87,22 @@
         <mark key="[" line="723" column="0" />
         <mark key="]" line="727" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463714676513" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463726898609">
+        <mark key="[" line="14" column="106" />
+        <mark key="]" line="14" column="154" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463726392182" />
       <file name="$USER_HOME$/Develop/eMetricRobot/README.md" timestamp="1463650438778">
         <mark key="[" line="246" column="23" />
         <mark key="]" line="246" column="23" />
         <mark key="." line="246" column="23" />
         <mark key="^" line="246" column="12" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/use_expression_and_pause_text.robot" timestamp="1463725632515">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463650694914">
         <mark key="'" line="63" column="0" />
@@ -95,12 +111,6 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463556467665">
-        <mark key="'" line="429" column="31" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="56" column="22" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/general_masking/general_masking_reset.robot" timestamp="1463718232476" />
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1463030980858">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="139" />
@@ -114,9 +124,6 @@
         <mark key="]" line="206" column="57" />
         <mark key="." line="206" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1463392290949">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1463714475839">
         <mark key="'" line="48" column="0" />
       </file>
@@ -129,9 +136,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
         <mark key="." line="0" column="56" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_ios_navigation.robot" timestamp="1463556469632">
-        <mark key="[" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462800157813">
         <mark key="'" line="0" column="0" />
@@ -170,16 +174,12 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_spelling_check.robot" timestamp="1463718115052" />
       <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463276683747">
         <mark key="'" line="125" column="2" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="106" column="5" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
-        <mark key="[" line="66" column="27" />
       </file>
       <file name="/Library/Python/2.7/site-packages/AppiumLibrary/keywords/_element.py" timestamp="1463556905728">
         <mark key="[" line="84" column="0" />
@@ -192,11 +192,6 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1463710933638">
         <mark key="'" line="131" column="0" />
-      </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_javascript.py" timestamp="1463547010861">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="93" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463044481114">
         <mark key="'" line="10" column="5" />
@@ -393,40 +388,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IDAuMC4wLjA=</text>
+        <text>1.Click fx Verify fx box is open</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KyBSdW4gZmFicmljIGNvbW1hbmQgdW5kZXIgdGhlIHJvb3QgZm9sZGVyOgoKICAgICAgZmFiIGdlbmVyYXRlX2RvYwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICR7ZXhwcmVzc2lvbl9tYXhfbGVuZ3RofSAgICAke3JlcGVhdF90aW1lc309MQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zmxhc2sKZmxhc2stc29ja2V0aW8K</text>
+        <text encoding="base64">KioqIFNldHRpbmdzICoqKgpEZWZhdWx0IFRhZ3MgICAgUmVncmVzc2lvbiAgICBJdGVtcyAgICBPZS1yZXNwb25zZS1meAoKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvaW5pdGlhbGl6ZS5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvaXRlbXMvb3Blbl9lbmRlZC5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvbmF2aWdhdGlvbi9wYWdlci5yb2JvdAoKVGVzdCBUZW1wbGF0ZSAgIFVzZSBFeHByZXNzaW9uIEFuZCBQYXVzZSBUZXN0CgpUZXN0IFNldHVwICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQKVGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCgoqKiogS2V5d29yZHMgKioqClVzZSBFeHByZXNzaW9uIEFuZCBQYXVzZSBUZXN0CiAgW0RvY3VtZW50YXRpb25dICAgIFZlcmlmeSB0aGUgZnggZXhwcmVzc2lvbiBpcyBjb3JyZWN0bHkgc2F2ZWQgaW4gdGhlIE9FIGJveCB3aGVuIHBhdXNlIGFuZCByZS1sb2dpbgogIFtBcmd1bWVudHNdICAgICR7dXNlcm5hbWV9ICAgICR7cGFzc3dvcmR9ICAgICR7c2Vzc2lvbl9uYW1lfSAgICAke3Nlc3Npb25fYWNjZXNzX2NvZGV9ICAgICR7aXRlbV9udW1iZXJ9CiAgTG9nIFRvIENvbnNvbGUgICAgXG4gIiMwLiBMb2dpbiB3aXRoIGNyZWRlbnRpYWxzIGFuZCBqdW1wIHRvIGl0ZW0iCiAgTG9naW4gV2l0aCBDcmVkZW50aWFscyBBbmQgSnVtcCBUbyBJdGVtCiAgLi4uICAgICR7dXNlcm5hbWV9ICAgICR7cGFzc3dvcmR9ICAgICR7c2Vzc2lvbl9uYW1lfSAgICAke3Nlc3Npb25fYWNjZXNzX2NvZGV9ICAgICR7aXRlbV9udW1iZXJ9CgogIExvZyBUbyBDb25zb2xlICAgICIjMS4gQ2xpY2sgb24gZnggYnV0dG9uIHRvIG9wZW4gZiBib3guIgogIFNsZWVwICAgIDIKICA6Rm9yICAgICR7aW5kZXh9ICAgIElOIFJBTkdFICAgIDEgICAgJHtyZXBlYXRfdGltZXN9ICsgMQogIFwgICAgT3BlbiBPZSBJdGVtIEZ4IFRvb2wKICBcICAgIE9lIEl0ZW0gRnggVG9vbCBTaG91bGQgQmUgRGlzcGxheWVkCiAgXCAgICBAe2J1dHRvbnN9ICAgIEVudGVyIEV4cHJlc3Npb24gUmFuZG9tbHkgICAgJHtleHByZXNzaW9uX21heF9sZW5ndGh9ICAgIDAuNQogIFwgICAgTG9nIFRvIENvbnNvbGUgICAgIiMyLiR7aW5kZXh9IFtMb29wOiAke2luZGV4fV0gRW50ZXIgQHtidXR0b25zfSBieSByYW5kb21seSBjaG9vc2luZyBidXR0b25zIGFuZCBzYXZlIGl0IHRvIE9FIGJveC4iCiAgXAogIFwgICAgQHtrZXlfYnV0dG9uc30gICAgRW50ZXIgRXhwcmVzc2lvbiBSYW5kb21seSBXaXRoIEtleWJvYXJkICAgICR7ZXhwcmVzc2lvbl9tYXhfbGVuZ3RofSAgICAwLjUKICBcICAgIExvZyBUbyBDb25zb2xlICAgICIjMy4ke2luZGV4fSBbTG9vcDogJHtpbmRleH1dIEVudGVyIEB7a2V5X2J1dHRvbnN9IGJ5IHJhbmRvbWx5IGtleWJvYXJkIGlucHV0IGFuZCBzYXZlIGl0IHRvIE9FIGJveC4iCiAgXAogIFwgICAgQHthbGxfYnV0dG9uc309ICAgIEV2YWx1YXRlICAgIEB7YnV0dG9uc30gKyBAe2tleV9idXR0b25zfQogIFwgICAgUmVjb3JkIEV4cHJlc3Npb24gICAgQHthbGxfYnV0dG9uc30KICBcCiAgXCAgICBDaG9vc2UgVXNlIEV4cHJlc3Npb24gQnV0dG9uCiAgXCAgICBTbGVlcCAgICAxCiAgXAogIFwgICAgTG9nIFRvIENvbnNvbGUgICAgIiM0LiR7aW5kZXh9IFZlcmlmeSB0aGUgZXhwcmVzc2lvbiBAe2FsbF9idXR0b25zfSBpcyBjb3JyZWN0bHkgZW50ZXJlZCBpbiB0aGUgT0UgYm94LiIKICBcICAgIE9lIEJveCBDb250ZW50IFNob3VsZCBDb250YWluIFJlY29yZAogIFwKICBcICAgIENsZWFyIFRleHQgUmVzcG9uc2UKICBcICAgIENsZWFyIFJlY29yZGVkIEV4cHJlc3Npb24KCiAgTG9nIFRvIENvbnNvbGUgICAgIiM0LiBWZXJpZnkgZnggYm94IGlzIGNsb3NlZC4iCiAgT2UgSXRlbSBGeCBUb29sIFNob3VsZCBOb3QgQmUgRGlzcGxheWVkCgoyLiBSYW5kb21seSBpbnB1dCBhbiBmIGV4cHJlc3Npb24gYnkgYm90aCBzZWxlY3RpbmcgYnV0dG9ucyBmcm9tIGYgYm94IGFuZCBlbnRlcmluZyBzb21lIGNoYXJhY3RlcnMgZnJvbSBrZXlib2FyZAozLiBTZWxlY3QgVXNlIEV4cHJlc3Npb24KNC4gVmVyaWZ5IHRoZSBmIGV4cHJlc3Npb24gaXMgZW50ZXJlZCBjb3JyZWN0bHkgaW4gdGhlIE9FIGJveAo1LiBDbGljayBQYXVzZSBhbmQgY29uZmlybSBQYXVzZQo3LiBSZWxhdW5jaCBjbGllbnQgKGtpb3NrIG1vZGUgb25seSkKOC4gTG9naW4gYmFjayB0byB0aGUgdGVzdCBhbmQgZ28gdG8gdGhlIHNhbWUgT0UgaXRlbQo5LiBWZXJpZnkgdGhlIGYgZXhwcmVzc2lvbiBpcyBjb3JyZWN0bHkgc2F2ZWQgaW4gdGhlIE9FIGJveCAoRFQtMjA1KQpJdGVtcyB0byBjaGVjazogT3BlcmF0aW9uYWwgVGVzdCBsb2dpbiwgTWF0aCBTZXNzaW9uIGl0ZW0gNCwgNQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>1.Click fx Verify fx box is open</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">KioqIFRlc3QgQ2FzZXMgKioqCkRhdGEgRHJpdmVuIFRlc3QgQ2FzZXMKICBAe1VTRVJTfT0gICAgQ29udmVydCBUbyBMaXN0ICAgIEB7VVNFUlN9CiAgOkZPUiAgICAke3VzZXJ9ICAgIElOICAgIEB7VVNFUlN9CiAgXCAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAogIFwgIERyYWcgTm90ZXBhZCBBbmQgUmVzaXplIE5vdGVwYWQgICR7dXNlclsndXNlcm5hbWUnXX0gICR7dXNlclsncGFzc3dvcmQnXX0gICIke3VzZXJbJ3Nlc3Npb25fbmFtZSddfSIgICR7dXNlclsnYWNjZXNzX2NvZGUnXX0gICR7dXNlclsnaXRlbV9udW1iZXInXX0KICBcICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
+      <register name="3" type="4">
+        <text>1. Click on f button to open f box</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KioqIFZhcmlhYmxlcyAqKioKQHtVU0VSU30gICAgJHthY2NvdW50c30KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vLi4vLi4vYXV0b192YXJpYWJsZXMueWFtbAo=</text>
+      <register name="5" type="4">
+        <text>With Special Characters</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Zmxhc2sKZmxhc2stc29ja2V0aW8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aU9TIHNtb2tlIHRlc3QgY2hhbmdlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDAuMC4wLjA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">KioqIFRlc3QgQ2FzZXMgKioqCkRhdGEgRHJpdmVuIFRlc3QgQ2FzZXMKICBAe1VTRVJTfT0gICAgQ29udmVydCBUbyBMaXN0ICAgIEB7VVNFUlN9CiAgOkZPUiAgICAke3VzZXJ9ICAgIElOICAgIEB7VVNFUlN9CiAgXCAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAogIFwgIERyYWcgTm90ZXBhZCBBbmQgUmVzaXplIE5vdGVwYWQgICR7dXNlclsndXNlcm5hbWUnXX0gICR7dXNlclsncGFzc3dvcmQnXX0gICIke3VzZXJbJ3Nlc3Npb25fbmFtZSddfSIgICR7dXNlclsnYWNjZXNzX2NvZGUnXX0gICR7dXNlclsnaXRlbV9udW1iZXInXX0KICBcICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">KioqIFZhcmlhYmxlcyAqKioKQHtVU0VSU30gICAgJHthY2NvdW50c30KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -443,8 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw0XD4=</entry>
-        <entry>sleep</entry>
         <entry>position</entry>
         <entry>masking</entry>
         <entry>masking should be</entry>
@@ -484,8 +477,8 @@
         <entry>bn!</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>e</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
