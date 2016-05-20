@@ -81,6 +81,7 @@
         <mark key="[" line="723" column="0" />
         <mark key="]" line="727" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463711658257" />
       <file name="$USER_HOME$/Develop/eMetricRobot/README.md" timestamp="1463650438778">
         <mark key="[" line="246" column="23" />
         <mark key="]" line="246" column="23" />
@@ -184,6 +185,9 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1463710933638">
+        <mark key="'" line="131" column="0" />
+      </file>
       <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_javascript.py" timestamp="1463547010861">
         <mark key="'" line="171" column="0" />
         <mark key="[" line="68" column="0" />
@@ -281,17 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="26" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
-      <jump line="88" column="26" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
-      <jump line="104" column="26" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
-      <jump line="41" column="43" filename="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" />
-      <jump line="0" column="22" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
-      <jump line="46" column="38" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" />
-      <jump line="17" column="40" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" />
-      <jump line="5" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" />
-      <jump line="106" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" />
-      <jump line="19" column="56" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" />
-      <jump line="35" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" />
       <jump line="111" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="34" column="18" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
@@ -381,13 +374,24 @@
       <jump line="9" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
       <jump line="65" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
       <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" />
+      <jump line="53" column="27" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="747" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="21" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="81" column="35" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="84" column="6" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="85" column="20" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="89" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="107" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="128" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="131" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IDAuMC4wLjA=</text>
       </register>
       <register name="/" type="4">
-        <text>page_should</text>
+        <text>math session</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KyBSdW4gZmFicmljIGNvbW1hbmQgdW5kZXIgdGhlIHJvb3QgZm9sZGVyOgoKICAgICAgZmFiIGdlbmVyYXRlX2RvYwo=</text>
@@ -424,9 +428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>page_should</last-search>
+      <last-search>math session</last-search>
       <last-offset />
-      <last-pattern>page_should</last-pattern>
+      <last-pattern>math session</last-pattern>
       <last-replace>session_access_code</last-replace>
       <last-substitute>session_code</last-substitute>
       <last-dir>1</last-dir>
@@ -454,6 +458,7 @@
         <entry>fake</entry>
         <entry>print</entry>
         <entry>page_should</entry>
+        <entry>math session</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
