@@ -17,21 +17,119 @@
         <mark key="^" line="66" column="34" />
         <mark key="." line="55" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1463392290949">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463553100188">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1463474201158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462776002747">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="62" column="54" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463455002777">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="3" />
+        <mark key="." line="63" column="3" />
+        <mark key="^" line="63" column="3" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463383704701">
+        <mark key="'" line="31" column="30" />
+        <mark key="[" line="91" column="43" />
+        <mark key="]" line="91" column="43" />
+        <mark key="." line="91" column="43" />
+        <mark key="^" line="91" column="43" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463392733794">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463556467665">
+        <mark key="'" line="429" column="31" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="56" column="22" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" timestamp="1463555982108">
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="289" column="56" />
+      </file>
+      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/.gitignore" timestamp="1463557812751">
+        <mark key="[" line="61" column="18" />
+        <mark key="]" line="63" column="5" />
+        <mark key="^" line="63" column="5" />
+        <mark key="." line="63" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1463028824058">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" timestamp="1463558058973">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
+        <mark key="[" line="66" column="27" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/base.html" timestamp="1463116506836">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="81" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462800157813">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="213" column="0" />
+        <mark key="^" line="63" column="13" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_waiting.py" timestamp="1463547706308">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="150" column="55" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1463551645670">
+        <mark key="[" line="723" column="0" />
+        <mark key="]" line="727" column="19" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1463473665613">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="20" column="67" />
+      </file>
+      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463548082937">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="71" column="23" />
+        <mark key="^" line="71" column="23" />
+        <mark key="." line="71" column="23" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463276683747">
+        <mark key="'" line="125" column="2" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="106" column="5" />
+      </file>
+      <file name="/Python Console" timestamp="1463392290949">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1463390301110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
         <mark key="." line="0" column="56" />
-      </file>
-      <file name="/a.dummy" timestamp="1463474201158">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/home.html" timestamp="1463056707989">
         <mark key="'" line="35" column="0" />
@@ -61,26 +159,12 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_test_answer_saved_with_fx_expressions.robot" timestamp="1462776002747">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="33" />
-        <mark key="^" line="62" column="54" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1462504637390">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="11" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1463455002777">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="63" column="32" />
-        <mark key="]" line="63" column="3" />
-        <mark key="." line="63" column="3" />
-        <mark key="^" line="63" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_touch.py" timestamp="1463477826956">
         <mark key="[" line="51" column="30" />
@@ -93,13 +177,6 @@
         <mark key="]" line="186" column="124" />
         <mark key="." line="186" column="124" />
         <mark key="^" line="186" column="124" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/static/js/site.js" timestamp="1463383704701">
-        <mark key="'" line="31" column="30" />
-        <mark key="[" line="91" column="43" />
-        <mark key="]" line="91" column="43" />
-        <mark key="." line="91" column="43" />
-        <mark key="^" line="91" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463553111820">
         <mark key="'" line="36" column="17" />
@@ -116,37 +193,12 @@
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463392733794">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463556467665">
-        <mark key="'" line="429" column="31" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="56" column="22" />
-      </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_browsermanagement.py" timestamp="1463555982108">
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="289" column="56" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/static/site.js" timestamp="1463040930236">
         <mark key="'" line="5" column="4" />
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/.gitignore" timestamp="1463557812751">
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="63" column="5" />
-        <mark key="^" line="63" column="5" />
-        <mark key="." line="63" column="5" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1463028824058">
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="0" />
-        <mark key="." line="241" column="0" />
       </file>
       <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_javascript.py" timestamp="1463547010861">
         <mark key="'" line="171" column="0" />
@@ -163,12 +215,6 @@
         <mark key="^" line="51" column="29" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/AppiumEnhanceLibrary.py" timestamp="1463558058973">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="33" />
-        <mark key="^" line="27" column="33" />
-        <mark key="." line="27" column="33" />
-      </file>
       <file name="/Dummy.txt" timestamp="1463557025403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -181,35 +227,12 @@
         <mark key="^" line="66" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_operational_test.robot" timestamp="1462772041985">
-        <mark key="[" line="66" column="27" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/shell/templates/base.html" timestamp="1463116506836">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="81" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1462800157813">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="63" column="13" />
-      </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_waiting.py" timestamp="1463547706308">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="150" column="55" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1462775011823">
         <mark key="'" line="28" column="49" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="17" />
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
-      </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1463551645670">
-        <mark key="[" line="723" column="0" />
-        <mark key="]" line="727" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
         <mark key="[" line="14" column="0" />
@@ -223,10 +246,6 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1463473665613">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="20" column="67" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/runserver.py" timestamp="1463054277821">
         <mark key="[" line="30" column="62" />
         <mark key="]" line="30" column="62" />
@@ -239,32 +258,13 @@
         <mark key="." line="206" column="57" />
         <mark key="^" line="213" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463548082937">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="D:/Develop/eMetricRobot/database.yaml" timestamp="1463577989516" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_text_saved.robot" timestamp="1462503049980">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="23" />
-        <mark key="]" line="71" column="23" />
-        <mark key="^" line="71" column="23" />
-        <mark key="." line="71" column="23" />
-      </file>
+      <file name="D:/Develop/eMetricRobot/database.yaml" timestamp="1463704676414" />
       <file name="$USER_HOME$/Develop/PDFMiner/pdfminer/runserver.py" timestamp="1463030980858">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="139" />
         <mark key="]" line="15" column="150" />
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/datasource.yaml" timestamp="1463276683747">
-        <mark key="'" line="125" column="2" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="106" column="5" />
       </file>
     </filemarks>
     <jumps>
