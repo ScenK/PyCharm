@@ -81,7 +81,7 @@
         <mark key="[" line="723" column="0" />
         <mark key="]" line="727" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463711658257" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463712830733" />
       <file name="$USER_HOME$/Develop/eMetricRobot/README.md" timestamp="1463650438778">
         <mark key="[" line="246" column="23" />
         <mark key="]" line="246" column="23" />
@@ -115,6 +115,9 @@
       </file>
       <file name="/Python Console" timestamp="1463392290949">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1463712928026">
+        <mark key="'" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/shell/shell/templates/base.html" timestamp="1463055664473">
         <mark key="[" line="14" column="0" />
@@ -285,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="4" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="34" column="18" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="12" column="25" filename="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" />
@@ -385,13 +387,14 @@
       <jump line="107" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="128" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="131" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="48" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IDAuMC4wLjA=</text>
       </register>
       <register name="/" type="4">
-        <text>math session</text>
+        <text>count</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KyBSdW4gZmFicmljIGNvbW1hbmQgdW5kZXIgdGhlIHJvb3QgZm9sZGVyOgoKICAgICAgZmFiIGdlbmVyYXRlX2RvYwo=</text>
@@ -428,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search>math session</last-search>
+      <last-search>count</last-search>
       <last-offset />
-      <last-pattern>math session</last-pattern>
+      <last-pattern>count</last-pattern>
       <last-replace>session_access_code</last-replace>
       <last-substitute>session_code</last-substitute>
       <last-dir>1</last-dir>
@@ -459,6 +462,7 @@
         <entry>print</entry>
         <entry>page_should</entry>
         <entry>math session</entry>
+        <entry>count</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
