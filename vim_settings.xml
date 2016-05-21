@@ -13,7 +13,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/robotframework-AppiumEnhanceLibrary/README.md" timestamp="1463823151107" />
       <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463638730186">
         <mark key="[" line="108" column="21" />
         <mark key="]" line="108" column="24" />
@@ -118,12 +117,12 @@
         <mark key="^" line="15" column="150" />
         <mark key="." line="15" column="150" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463734049357">
-        <mark key="'" line="202" column="10" />
-        <mark key="[" line="273" column="17" />
-        <mark key="]" line="273" column="18" />
-        <mark key="." line="273" column="18" />
-        <mark key="^" line="273" column="18" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463823973627">
+        <mark key="'" line="168" column="57" />
+        <mark key="[" line="288" column="8" />
+        <mark key="]" line="288" column="19" />
+        <mark key="." line="288" column="19" />
+        <mark key="^" line="288" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1463714475839">
         <mark key="'" line="48" column="0" />
@@ -281,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="18" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Develop/eMetricRobot/shell/runner/robot_runner.py" />
       <jump line="12" column="25" filename="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" />
       <jump line="7" column="29" filename="$USER_HOME$/Develop/eMetricRobot/shell/templates/home.html" />
@@ -381,6 +379,7 @@
       <jump line="128" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="131" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="48" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" />
+      <jump line="168" column="57" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
