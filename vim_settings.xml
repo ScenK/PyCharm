@@ -9,12 +9,12 @@
         <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/ios_debug.robot" timestamp="1463980362930" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463983621190">
-        <mark key="'" line="88" column="17" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="66" />
-        <mark key="." line="83" column="72" />
-        <mark key="^" line="47" column="46" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463987127331">
+        <mark key="'" line="31" column="45" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="32" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463983080782">
         <mark key="[" line="41" column="66" />
@@ -67,6 +67,7 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_javascript.py" timestamp="1463986673617" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1463977930228">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="31" column="133" />
@@ -94,43 +95,45 @@
       <jump line="36" column="66" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="267" column="56" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="194" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
+      <jump line="32" column="35" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="31" column="45" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Contain</text>
+        <text encoding="base64">ICAgIHJ1bl9vbl9mYWlsdXJlPUxvZyBTb3VyY2U=</text>
       </register>
       <register name="/" type="4">
         <text>page_should</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBXYWl0IFVudGlsIEVsZW1lbnQgSXMgVmlzaWJsZSAgICAke09QVElPTlMuQ09MT1JfQ0hPT1NFUn0gICAgdGltZW91dD0xMAo=</text>
+      <register name="0" type="4">
+        <text>Selenium2Library</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgIHJ1bl9vbl9mYWlsdXJlPUxvZyBTb3VyY2U=</text>
+      </register>
+      <register name="2" type="4">
+        <text>Seleni</text>
+      </register>
+      <register name="3" type="4">
+        <text>AppiumLibrary    AppiumEnhanceLibrary</text>
+      </register>
+      <register name="4" type="4">
         <text>Contain</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBMSU5FX1JFQURFUgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBQYWdlIFNob3VsZCBDb250YWluICAgIE9wdGlvbnMK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">U2hlbGwgYnJhbmNoIGFkZGVkLgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>, loglevel=loglevel</text>
-      </register>
-      <register name="6" type="4">
-        <text>, loglevel</text>
-      </register>
-      <register name="7" type="4">
-        <text>, loglevel=loglevel</text>
-      </register>
       <register name="8" type="4">
-        <text>, loglevel</text>
+        <text>, loglevel=loglevel</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIHJ1bl9vbl9mYWlsdXJlPUxvZyBTb3VyY2U=</text>
+        <text>, loglevel</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
