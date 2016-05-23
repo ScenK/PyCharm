@@ -46,12 +46,12 @@
         <mark key="." line="45" column="142" />
         <mark key="^" line="45" column="142" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463991502510">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463992891629">
         <mark key="'" line="324" column="52" />
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="31" column="12" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="31" column="12" />
-        <mark key="." line="31" column="12" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" timestamp="1463985239945">
         <mark key="'" line="194" column="0" />
@@ -133,31 +133,31 @@
         <text>Selenium2Library</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAke2N9PSAgICBHZXQgQ29udGV4dHMKICBTbGVlcCAgICAyMAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICBTbGVlcCAgICAxCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vbmF2aWdhdGlvbi9yZXZpZXcucm9ib3QK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">UmVzb3VyY2UgICAgLi4vbmF2aWdhdGlvbi9yZXZpZXcucm9ib3QK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIEFORCAgICBTZXQgTGlicmFyeSBTZWFyY2ggT3JkZXIgICAgQXBwaXVtTGlicmFyeSAgICBBcHBpdW1FbmhhbmNlTGlicmFyeQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vbmF2aWdhdGlvbi9yZXZpZXcucm9ib3QK</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgIEFORCAgICBTZXQgTGlicmFyeSBTZWFyY2ggT3JkZXIgICAgQXBwaXVtTGlicmFyeSAgICBBcHBpdW1FbmhhbmNlTGlicmFyeQ==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">UnVuIEtleXdvcmRzICAgIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">TGlicmFyeSAgICBBcHBpdW1MaWJyYXJ5CkxpYnJhcnkgICAgLi4vLi4vbGlicmFyaWVzL0FwcGl1bUVuaGFuY2VMaWJyYXJ5LnB5Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Bugfix for &quot;Execute Javascript.&quot;d</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIHJ1bl9vbl9mYWlsdXJlPUxvZyBTb3VyY2U=</text>
+        <text>Bugfix for &quot;Execute Javascript.&quot;d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
