@@ -15,6 +15,7 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/ios_debug.robot" timestamp="1463980362930" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1463990796821" />
+      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463995698018" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463994469718">
         <mark key="'" line="32" column="32" />
         <mark key="[" line="48" column="20" />
@@ -33,6 +34,7 @@
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1463995911791" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463977649980">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="20" column="0" />
@@ -72,7 +74,7 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463994860312">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463995617166">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="385" column="0" />
         <mark key="]" line="386" column="16" />
