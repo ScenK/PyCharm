@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1463984428126">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1463986587773">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/ios_debug.robot" timestamp="1463980362930" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463983621190">
@@ -60,11 +60,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463984394078">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463986579044">
         <mark key="'" line="267" column="56" />
-        <mark key="[" line="214" column="56" />
-        <mark key="]" line="214" column="56" />
-        <mark key="." line="214" column="56" />
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+        <mark key="^" line="29" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1463977930228">
         <mark key="[" line="29" column="0" />
@@ -96,7 +97,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, loglevel=loglevel</text>
+        <text>Contain</text>
       </register>
       <register name="/" type="4">
         <text>page_should</text>
@@ -104,32 +105,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBXYWl0IFVudGlsIEVsZW1lbnQgSXMgVmlzaWJsZSAgICAke09QVElPTlMuQ09MT1JfQ0hPT1NFUn0gICAgdGltZW91dD0xMAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBMSU5FX1JFQURFUgo=</text>
+      <register name="1" type="4">
+        <text>Contain</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQYWdlIFNob3VsZCBDb250YWluICAgIE9wdGlvbnMK</text>
+        <text encoding="base64">ICBMSU5FX1JFQURFUgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBQYWdlIFNob3VsZCBDb250YWluICAgIE9wdGlvbnMK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">U2hlbGwgYnJhbmNoIGFkZGVkLgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>, loglevel=loglevel</text>
-      </register>
       <register name="5" type="4">
-        <text>, loglevel</text>
+        <text>, loglevel=loglevel</text>
       </register>
       <register name="6" type="4">
-        <text>, loglevel=loglevel</text>
-      </register>
-      <register name="7" type="4">
         <text>, loglevel</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHJ1bl9vbl9mYWlsdXJlPUxvZyBTb3VyY2U=</text>
+      <register name="7" type="4">
+        <text>, loglevel=loglevel</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBTZXQgTGlicmFyeSBTZWFyY2ggT3JkZXIgICAgQXBwaXVtTGlicmFyeSAgICBBcHBpdW1FbmhhbmNlTGlicmFyeQo=</text>
+      <register name="8" type="4">
+        <text>, loglevel</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHJ1bl9vbl9mYWlsdXJlPUxvZyBTb3VyY2U=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
