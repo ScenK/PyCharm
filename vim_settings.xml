@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/database.yaml" timestamp="1463832514084" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/shell/runserver.py" timestamp="1463969023071" />
     </filemarks>
     <jumps />
     <registers />
@@ -11,7 +11,12 @@
       <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
