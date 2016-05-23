@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1463990879704">
+      <file name="/Dummy.txt" timestamp="1463994464887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463988524662">
@@ -15,12 +15,12 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/ios_debug.robot" timestamp="1463980362930" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1463990796821" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463991114438">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463994469718">
         <mark key="'" line="32" column="32" />
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="33" />
-        <mark key="." line="16" column="33" />
-        <mark key="^" line="16" column="33" />
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="22" />
+        <mark key="." line="48" column="22" />
+        <mark key="^" line="48" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463991026985">
         <mark key="[" line="29" column="0" />
@@ -38,7 +38,13 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463992157297" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463994076939">
+        <mark key="'" line="70" column="33" />
+        <mark key="[" line="169" column="29" />
+        <mark key="]" line="169" column="28" />
+        <mark key="^" line="169" column="28" />
+        <mark key="." line="169" column="28" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1463978317212">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="45" column="133" />
@@ -46,7 +52,7 @@
         <mark key="." line="45" column="142" />
         <mark key="^" line="45" column="142" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463992891629">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463993396461">
         <mark key="'" line="324" column="52" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -66,14 +72,17 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463989851004">
-        <mark key="'" line="134" column="12" />
-        <mark key="[" line="29" column="33" />
-        <mark key="]" line="29" column="33" />
-        <mark key="." line="29" column="33" />
-        <mark key="^" line="29" column="33" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1463994860312">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="385" column="0" />
+        <mark key="]" line="386" column="16" />
+        <mark key="^" line="386" column="16" />
+        <mark key="." line="386" column="16" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_javascript.py" timestamp="1463986673617" />
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_javascript.py" timestamp="1463994768088">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="185" column="27" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1463977930228">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="31" column="133" />
@@ -121,43 +130,47 @@
       <jump line="16" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="104" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="32" column="32" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="70" column="33" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="51" column="58" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="385" column="28" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="/" type="4">
         <text>log back</text>
       </register>
-      <register name="0" type="4">
-        <text>Selenium2Library</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2phdmFzY3JpcHRfdG9fZXhlY3V0ZShzZWxmLCBjb2RlKToKICAgICAgICBjb2RlcGF0aCA9IGNvZGUucmVwbGFjZSgnLycsIG9zLnNlcCkKICAgICAgICBpZiBub3QgKG9zLnBhdGguaXNhYnMoY29kZXBhdGgpIGFuZCBvcy5wYXRoLmlzZmlsZShjb2RlcGF0aCkpOgogICAgICAgICAgICByZXR1cm4gY29kZQogICAgICAgIHNlbGYuX2h0bWwoJ1JlYWRpbmcgSmF2YVNjcmlwdCBmcm9tIGZpbGUgPGEgaHJlZj0iZmlsZTovLyVzIj4lczwvYT4uJwogICAgICAgICAgICAgICAgICAgJSAoY29kZXBhdGgucmVwbGFjZShvcy5zZXAsICcvJyksIGNvZGVwYXRoKSkKICAgICAgICBjb2RlZmlsZSA9IG9wZW4oY29kZXBhdGgpCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gY29kZWZpbGUucmVhZCgpLnN0cmlwKCkKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBjb2RlZmlsZS5jbG9zZSgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAke2N9PSAgICBHZXQgQ29udGV4dHMKICBTbGVlcCAgICAyMAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9odG1sKCdSZWFkaW5nIEphdmFTY3JpcHQgZnJvbSBmaWxlIDxhIGhyZWY9ImZpbGU6Ly8lcyI+JXM8L2E+LicKICAgICAgICAgICAgICAgICAgICUgKGNvZGVwYXRoLnJlcGxhY2Uob3Muc2VwLCAnLycpLCBjb2RlcGF0aCkpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJFeGVjdXRpbmcgSmF2YVNjcmlwdDpcbiVzIiAlIGpzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vbmF2aWdhdGlvbi9yZXZpZXcucm9ib3QK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZHJpdmVyLmV4ZWN1dGVfc2NyaXB0KGNvZGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vbmF2aWdhdGlvbi9yZXZpZXcucm9ib3QK</text>
+        <text encoding="base64">ICAgICAgICBkcml2ZXIgPSAK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIEFORCAgICBTZXQgTGlicmFyeSBTZWFyY2ggT3JkZXIgICAgQXBwaXVtTGlicmFyeSAgICBBcHBpdW1FbmhhbmNlTGlicmFyeQ==</text>
+        <text>self._current_browser()</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">UnVuIEtleXdvcmRzICAgIA==</text>
+        <text>self.apu._current_application()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TGlicmFyeSAgICBBcHBpdW1MaWJyYXJ5CkxpYnJhcnkgICAgLi4vLi4vbGlicmFyaWVzL0FwcGl1bUVuaGFuY2VMaWJyYXJ5LnB5Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>Bugfix for &quot;Execute Javascript.&quot;d</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBBZGQgSnF1ZXJ5IFNlbGVjdG9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -180,8 +193,8 @@
         <entry>log back</entry>
       </history-search>
       <history-cmd>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
