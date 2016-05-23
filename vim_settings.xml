@@ -3,13 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1463986587773">
-        <mark key="[" line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1463988974458">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463988524662">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="11" />
+        <mark key="]" line="68" column="18" />
+        <mark key="^" line="68" column="18" />
+        <mark key="." line="68" column="18" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/ios_debug.robot" timestamp="1463980362930" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463987127331">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463988999467">
         <mark key="'" line="31" column="45" />
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="24" />
@@ -97,6 +104,8 @@
       <jump line="194" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="32" column="35" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="31" column="45" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="44" column="10" filename="$USER_HOME$/Develop/eMetricRobot/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/.gitignore" />
     </jumps>
     <registers>
       <register name="-" type="4">
