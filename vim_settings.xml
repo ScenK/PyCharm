@@ -3,22 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1463972055391">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1463978317212">
         <mark key="'" line="0" column="15" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="12" column="27" />
+        <mark key="[" line="45" column="133" />
+        <mark key="]" line="45" column="142" />
+        <mark key="." line="45" column="142" />
+        <mark key="^" line="45" column="142" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463970677165">
         <mark key="'" line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463971175339">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463977649980">
         <mark key="'" line="0" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="47" column="134" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463972021683" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1463977930228">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="133" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="80" column="32" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
@@ -32,26 +36,44 @@
       <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>Fx Expression And Pause Test</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAyCiAgOkZvciAgICAke2luZGV4fSAgICBJTiBSQU5HRSAgICAxICAgICR7cmVwZWF0X3RpbWVzfSArIDEKICBcICAgIE9wZW4gT2UgSXRlbSBGeCBUb29sCiAgXCAgICBPZSBJdGVtIEZ4IFRvb2wgU2hvdWxkIEJlIERpc3BsYXllZAogIFwgICAgQHtidXR0b25zfSAgICBFbnRlciBFeHByZXNzaW9uIFJhbmRvbWx5ICAgICR7ZXhwcmVzc2lvbl9tYXhfbGVuZ3RofSAgICAwLjUKICBcICAgIExvZyBUbyBDb25zb2xlICAgICIjMi4ke2luZGV4fSBbTG9vcDogJHtpbmRleH1dIEVudGVyIEB7YnV0dG9uc30gYnkgcmFuZG9tbHkgY2hvb3NpbmcgYnV0dG9ucyBhbmQgc2F2ZSBpdCB0byBPRSBib3guIgogIFwKICBcICAgIEB7a2V5X2J1dHRvbnN9ICAgIEVudGVyIEV4cHJlc3Npb24gUmFuZG9tbHkgV2l0aCBLZXlib2FyZCAgICAke2V4cHJlc3Npb25fbWF4X2xlbmd0aH0gICAgMC41CiAgXCAgICBMb2cgVG8gQ29uc29sZSAgICAiIzMuJHtpbmRleH0gW0xvb3A6ICR7aW5kZXh9XSBFbnRlciBAe2tleV9idXR0b25zfSBieSByYW5kb21seSBrZXlib2FyZCBpbnB1dCBhbmQgc2F2ZSBpdCB0byBPRSBib3guIgogIFwKICBcICAgIEB7YWxsX2J1dHRvbnN9PSAgICBFdmFsdWF0ZSAgICBAe2J1dHRvbnN9ICsgQHtrZXlfYnV0dG9uc30KICBcICAgIFJlY29yZCBFeHByZXNzaW9uICAgIEB7YWxsX2J1dHRvbnN9CiAgXAogIFwgICAgQ2hvb3NlIFVzZSBFeHByZXNzaW9uIEJ1dHRvbgogIFwgICAgU2xlZXAgICAgMQogIFwKICBcICAgIExvZyBUbyBDb25zb2xlICAgICIjNC4ke2luZGV4fSBWZXJpZnkgdGhlIGV4cHJlc3Npb24gQHthbGxfYnV0dG9uc30gaXMgY29ycmVjdGx5IGVudGVyZWQgaW4gdGhlIE9FIGJveC4iCiAgXCAgICBPZSBCb3ggQ29udGVudCBTaG91bGQgQ29udGFpbiBSZWNvcmQKICBcCiAgXCAgICBDbGVhciBUZXh0IFJlc3BvbnNlCiAgXCAgICBDbGVhciBSZWNvcmRlZCBFeHByZXNzaW9uCgogIExvZyBUbyBDb25zb2xlICAgICIjNC4gVmVyaWZ5IGZ4IGJveCBpcyBjbG9zZWQuIgogIE9lIEl0ZW0gRnggVG9vbCBTaG91bGQgTm90IEJlIERpc3BsYXllZAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>Entering Expression With Randomly Chosen Buttons And Keyboard Input</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">RW50ZXJpbmcgRXhwcmVzc2lvbiBXaXRoIFJhbmRvbWx5IENob3NlbiBCdXR0b25zIEFuZCBLZXlib2FyZCBJbnB1dAo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
       <register name="-" type="4">
-        <text>Entering Expression With Randomly Chosen Buttons And Keyboard Input</text>
+        <text encoding="base64">ICAgICR7cmVwZWF0X3RpbWVzfT0x</text>
       </register>
       <register name="/" type="4">
         <text>10</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBTbGVlcCAgICAxCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICR7cmVwZWF0X3RpbWVzfT0x</text>
+      </register>
+      <register name="2" type="4">
+        <text>0</text>
+      </register>
+      <register name="3" type="4">
+        <text>2</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="4">
+        <text>0</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -68,6 +90,7 @@
       </history-search>
       <history-cmd>
         <entry>vs</entry>
+        <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
