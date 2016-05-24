@@ -13,6 +13,11 @@
         <mark key="^" line="68" column="18" />
         <mark key="." line="68" column="18" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1464079459036">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="70" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463991026985">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -37,6 +42,12 @@
         <mark key="]" line="45" column="142" />
         <mark key="." line="45" column="142" />
         <mark key="^" line="45" column="142" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1464079536633">
+        <mark key="[" line="174" column="40" />
+        <mark key="]" line="174" column="58" />
+        <mark key="^" line="174" column="58" />
+        <mark key="." line="174" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463997182248">
         <mark key="'" line="325" column="52" />
@@ -134,7 +145,7 @@
         <text>log back</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGVtZW50ZmluZGVyID0gRWxlbWVudEZpbmRlcigpCiAgICAgICAgX3N0cmF0ZWdpZXMgPSB7CiAgICAgICAgICAgICdpZGVudGlmaWVyJzogZWxlbWVudGZpbmRlci5fZmluZF9ieV9pZGVudGlmaWVyLAogICAgICAgICAgICAnaWQnOiBlbGVtZW50ZmluZGVyLl9maW5kX2J5X2lkLAogICAgICAgICAgICAnbmFtZSc6IGVsZW1lbnRmaW5kZXIuX2ZpbmRfYnlfbmFtZSwKICAgICAgICAgICAgJ3hwYXRoJzogZWxlbWVudGZpbmRlci5fZmluZF9ieV94cGF0aCwKICAgICAgICAgICAgJ2NsYXNzJzogZWxlbWVudGZpbmRlci5fZmluZF9ieV9jbGFzc19uYW1lLAogICAgICAgICAgICAnYWNjZXNzaWJpbGl0eV9pZCc6IGVsZW1lbnRmaW5kZXIuX2ZpbmRfZWxlbWVudF9ieV9hY2Nlc3NpYmlsaXR5X2lkLAogICAgICAgICAgICAnYW5kcm9pZCc6IGVsZW1lbnRmaW5kZXIuX2ZpbmRfYnlfYW5kcm9pZCwKICAgICAgICAgICAgJ2lvcyc6IGVsZW1lbnRmaW5kZXIuX2ZpbmRfYnlfaW9zLAogICAgICAgICAgICAnY3NzJzogZWxlbWVudGZpbmRlci5fZmluZF9ieV9jc3Nfc2VsZWN0b3IsCiAgICAgICAgICAgICdqcXVlcnknOiBlbGVtZW50ZmluZGVyLl9maW5kX2J5X3NpenpsZV9zZWxlY3RvciwKICAgICAgICAgICAgTm9uZTogZWxlbWVudGZpbmRlci5fZmluZF9ieV9kZWZhdWx0CiAgICAgICAgfQogICAgICAgIEVsZW1lbnRGaW5kZXIuX19pbml0X18gPSBfc3RyYXRlZ2llcwo=</text>
+        <text encoding="base64">ICBXYWl0IFVudGlsIEVsZW1lbnQgSXMgVmlzaWJsZSAgICAke1JFVklFVy5SRVZJRVdfUEFORUx9ICAgIHRpbWVvdXQ9Mgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludAo=</text>
@@ -187,6 +198,7 @@
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
         <entry>vs</entry>
         <entry>bp!</entry>
+        <entry>bn!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
