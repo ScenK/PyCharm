@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1464081184283">
+      <file name="/Dummy.txt" timestamp="1464084355022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -42,7 +42,7 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464082290227">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464083225260">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="171" column="0" />
         <mark key="]" line="185" column="43" />
@@ -56,7 +56,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="45" column="142" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1464082609150">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1464084340460">
         <mark key="'" line="177" column="3" />
         <mark key="[" line="180" column="15" />
         <mark key="]" line="183" column="21" />
@@ -79,8 +79,10 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464076533478" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464082617563">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464084024925">
+        <mark key="'" line="74" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464083988224">
         <mark key="[" line="101" column="12" />
         <mark key="]" line="101" column="12" />
         <mark key="." line="101" column="12" />
@@ -156,13 +158,15 @@
       <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
       <jump line="58" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
       <jump line="177" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="194" column="34" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="74" column="28" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTbGVlcFw+</text>
+        <text>javascript</text>
       </register>
       <register name="0" type="4">
         <text>.replace(u'≈', 'approx')</text>
@@ -199,10 +203,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTbGVlcFw+</last-search>
+      <last-search>javascript</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTbGVlcFw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>javascript</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -215,6 +219,7 @@
         <entry>log back</entry>
         <entry>order</entry>
         <entry encoding="base64">XDxTbGVlcFw+</entry>
+        <entry>javascript</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
