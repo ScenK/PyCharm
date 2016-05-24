@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/inspect.py" timestamp="1464066977894" />
       <file name="/Dummy.txt" timestamp="1464054252313">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,13 +12,6 @@
         <mark key="]" line="68" column="18" />
         <mark key="^" line="68" column="18" />
         <mark key="." line="68" column="18" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463997025583">
-        <mark key="'" line="32" column="32" />
-        <mark key="[" line="47" column="58" />
-        <mark key="]" line="48" column="20" />
-        <mark key="." line="48" column="20" />
-        <mark key="^" line="48" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463991026985">
         <mark key="[" line="29" column="0" />
@@ -47,11 +39,7 @@
         <mark key="^" line="45" column="142" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463997182248">
-        <mark key="'" line="324" column="52" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="31" column="12" />
-        <mark key="." line="30" column="0" />
+        <mark key="'" line="325" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" timestamp="1463985239945">
         <mark key="'" line="194" column="0" />
@@ -66,6 +54,7 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464076176611" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464054239168">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="29" column="32" />
@@ -169,7 +158,7 @@
         <text encoding="base64">ICBBZGQgSnF1ZXJ5IFNlbGVjdG9yCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -190,8 +179,8 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
