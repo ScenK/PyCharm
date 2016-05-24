@@ -4,6 +4,7 @@
   </component>
   <component name="UISettings">
     <option name="WIDESCREEN_SUPPORT" value="true" />
+    <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="DISABLE_MNEMONICS" value="false" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />

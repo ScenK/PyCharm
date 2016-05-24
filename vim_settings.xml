@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1464054252313">
+      <file name="/Dummy.txt" timestamp="1464081184283">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463988524662">
         <mark key="'" line="0" column="0" />
@@ -13,10 +15,14 @@
         <mark key="^" line="68" column="18" />
         <mark key="." line="68" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1464079459036">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1464079790328">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="70" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1464080865379">
+        <mark key="'" line="45" column="21" />
+        <mark key="m" line="45" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463991026985">
         <mark key="[" line="29" column="0" />
@@ -29,25 +35,33 @@
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463997546897">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1464081033734">
+        <mark key="'" line="20" column="2" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464082290227">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="171" column="0" />
         <mark key="]" line="185" column="43" />
         <mark key="^" line="170" column="28" />
         <mark key="." line="170" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1463978317212">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="45" column="133" />
-        <mark key="]" line="45" column="142" />
-        <mark key="." line="45" column="142" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1464081122864">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
         <mark key="^" line="45" column="142" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1464079536633">
-        <mark key="[" line="174" column="40" />
-        <mark key="]" line="174" column="58" />
-        <mark key="^" line="174" column="58" />
-        <mark key="." line="174" column="58" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1464082609150">
+        <mark key="'" line="177" column="3" />
+        <mark key="[" line="180" column="15" />
+        <mark key="]" line="183" column="21" />
+        <mark key="^" line="183" column="21" />
+        <mark key="." line="183" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463997182248">
         <mark key="'" line="325" column="52" />
@@ -66,7 +80,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464076533478" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464077771621">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464082617563">
         <mark key="[" line="101" column="12" />
         <mark key="]" line="101" column="12" />
         <mark key="." line="101" column="12" />
@@ -98,7 +112,6 @@
       <jump line="154" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
       <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" />
       <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
-      <jump line="45" column="15" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="44" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="46" column="42" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="47" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
@@ -136,53 +149,60 @@
       <jump line="8" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="187" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="5" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="38" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="45" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="20" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" />
+      <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
+      <jump line="58" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
+      <jump line="177" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>log back</text>
+        <text encoding="base64">XDxTbGVlcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBXYWl0IFVudGlsIEVsZW1lbnQgSXMgVmlzaWJsZSAgICAke1JFVklFVy5SRVZJRVdfUEFORUx9ICAgIHRpbWVvdXQ9Mgo=</text>
+      <register name="0" type="4">
+        <text>.replace(u'≈', 'approx')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnJlcGxhY2UodSfiiYgnLCAnYXBwcm94JykucmVwbGFjZSh1J+KJiCcsICdhcHByb3gnKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9odG1sKCdSZWFkaW5nIEphdmFTY3JpcHQgZnJvbSBmaWxlIDxhIGhyZWY9ImZpbGU6Ly8lcyI+JXM8L2E+LicKICAgICAgICAgICAgICAgICAgICUgKGNvZGVwYXRoLnJlcGxhY2Uob3Muc2VwLCAnLycpLCBjb2RlcGF0aCkpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJFeGVjdXRpbmcgSmF2YVNjcmlwdDpcbiVzIiAlIGpzKQo=</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZHJpdmVyLmV4ZWN1dGVfc2NyaXB0KGNvZGUpCg==</text>
+      <register name="5" type="4">
+        <text>}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIgPSAK</text>
+      <register name="6" type="4">
+        <text>dict(</text>
       </register>
-      <register name="7" type="4">
-        <text>self._current_browser()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>self.apu._current_application()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhID0gCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log back</last-search>
+      <last-search encoding="base64">XDxTbGVlcFw+</last-search>
       <last-offset />
-      <last-pattern>log back</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxTbGVlcFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -193,6 +213,8 @@
         <entry>page_should</entry>
         <entry>attribute</entry>
         <entry>log back</entry>
+        <entry>order</entry>
+        <entry encoding="base64">XDxTbGVlcFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
