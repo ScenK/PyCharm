@@ -54,7 +54,13 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464076176611" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464076533478" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464077771621">
+        <mark key="[" line="101" column="12" />
+        <mark key="]" line="101" column="12" />
+        <mark key="." line="101" column="12" />
+        <mark key="^" line="101" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464054239168">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="29" column="32" />
@@ -130,35 +136,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbGVtZW50ZmluZGVyID0gRWxlbWVudEZpbmRlcigpCiAgICAgICAgX3N0cmF0ZWdpZXMgPSB7CiAgICAgICAgICAgICdpZGVudGlmaWVyJzogZWxlbWVudGZpbmRlci5fZmluZF9ieV9pZGVudGlmaWVyLAogICAgICAgICAgICAnaWQnOiBlbGVtZW50ZmluZGVyLl9maW5kX2J5X2lkLAogICAgICAgICAgICAnbmFtZSc6IGVsZW1lbnRmaW5kZXIuX2ZpbmRfYnlfbmFtZSwKICAgICAgICAgICAgJ3hwYXRoJzogZWxlbWVudGZpbmRlci5fZmluZF9ieV94cGF0aCwKICAgICAgICAgICAgJ2NsYXNzJzogZWxlbWVudGZpbmRlci5fZmluZF9ieV9jbGFzc19uYW1lLAogICAgICAgICAgICAnYWNjZXNzaWJpbGl0eV9pZCc6IGVsZW1lbnRmaW5kZXIuX2ZpbmRfZWxlbWVudF9ieV9hY2Nlc3NpYmlsaXR5X2lkLAogICAgICAgICAgICAnYW5kcm9pZCc6IGVsZW1lbnRmaW5kZXIuX2ZpbmRfYnlfYW5kcm9pZCwKICAgICAgICAgICAgJ2lvcyc6IGVsZW1lbnRmaW5kZXIuX2ZpbmRfYnlfaW9zLAogICAgICAgICAgICAnY3NzJzogZWxlbWVudGZpbmRlci5fZmluZF9ieV9jc3Nfc2VsZWN0b3IsCiAgICAgICAgICAgICdqcXVlcnknOiBlbGVtZW50ZmluZGVyLl9maW5kX2J5X3NpenpsZV9zZWxlY3RvciwKICAgICAgICAgICAgTm9uZTogZWxlbWVudGZpbmRlci5fZmluZF9ieV9kZWZhdWx0CiAgICAgICAgfQogICAgICAgIEVsZW1lbnRGaW5kZXIuX19pbml0X18gPSBfc3RyYXRlZ2llcwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">c2VsZiwg</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9odG1sKCdSZWFkaW5nIEphdmFTY3JpcHQgZnJvbSBmaWxlIDxhIGhyZWY9ImZpbGU6Ly8lcyI+JXM8L2E+LicKICAgICAgICAgICAgICAgICAgICUgKGNvZGVwYXRoLnJlcGxhY2Uob3Muc2VwLCAnLycpLCBjb2RlcGF0aCkpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJFeGVjdXRpbmcgSmF2YVNjcmlwdDpcbiVzIiAlIGpzKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZHJpdmVyLmV4ZWN1dGVfc2NyaXB0KGNvZGUpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkcml2ZXIgPSAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>self._current_browser()</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>self.apu._current_application()</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBBZGQgSnF1ZXJ5IFNlbGVjdG9yCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -179,8 +185,9 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>bp!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
