@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/inspect.py" timestamp="1464066977894" />
       <file name="/Dummy.txt" timestamp="1464054252313">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,9 +14,6 @@
         <mark key="^" line="68" column="18" />
         <mark key="." line="68" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/ios_debug.robot" timestamp="1463980362930" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1463990796821" />
-      <file name="$USER_HOME$/Develop/robotframework-appiumlibrary/src/AppiumLibrary/keywords/_waiting.py" timestamp="1463995698018" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1463997025583">
         <mark key="'" line="32" column="32" />
         <mark key="[" line="47" column="58" />
@@ -34,12 +32,6 @@
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1463995911791" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1463977649980">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="43" column="40" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1463997546897">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="171" column="0" />
@@ -54,7 +46,6 @@
         <mark key="." line="45" column="142" />
         <mark key="^" line="45" column="142" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/AppiumLibrary/keywords/_element.py" timestamp="1463997765310" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463997182248">
         <mark key="'" line="324" column="52" />
         <mark key="[" line="30" column="0" />
