@@ -35,7 +35,7 @@
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1464081033734">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1464159658548">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="11" />
@@ -56,12 +56,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="45" column="142" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1464084340460">
-        <mark key="'" line="177" column="3" />
-        <mark key="[" line="180" column="15" />
-        <mark key="]" line="183" column="21" />
-        <mark key="^" line="183" column="21" />
-        <mark key="." line="183" column="21" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1464159656465">
+        <mark key="'" line="185" column="12" />
+        <mark key="[" line="227" column="15" />
+        <mark key="]" line="227" column="20" />
+        <mark key="^" line="227" column="20" />
+        <mark key="." line="227" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/feedback.robot" timestamp="1464154407345" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463997182248">
@@ -80,10 +80,10 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464084024925">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464157462976">
         <mark key="'" line="74" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464083988224">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464158143892">
         <mark key="[" line="101" column="12" />
         <mark key="]" line="101" column="12" />
         <mark key="." line="101" column="12" />
@@ -161,53 +161,54 @@
       <jump line="177" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="194" column="34" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="74" column="28" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="185" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>¸</text>
       </register>
       <register name="/" type="4">
-        <text>javascript</text>
+        <text encoding="base64">XDx1XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>.replace(u'≈', 'approx')</text>
+        <text encoding="base64">ICcnLA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="1" type="4">
+        <text>¸</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlcGxhY2UodSfiiYgnLCAnYXBwcm94JykucmVwbGFjZSh1J+KJiCcsICdhcHByb3gnKQo=</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>}</text>
+        <text>´</text>
       </register>
       <register name="6" type="4">
-        <text>dict(</text>
+        <text>Î</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      <register name="7" type="4">
+        <text>∂</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gCg==</text>
+      <register name="8" type="4">
+        <text>Ç</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ç</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>javascript</last-search>
+      <last-search encoding="base64">XDx1XD4=</last-search>
       <last-offset />
-      <last-pattern>javascript</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx1XD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -221,12 +222,14 @@
         <entry>order</entry>
         <entry encoding="base64">XDxTbGVlcFw+</entry>
         <entry>javascript</entry>
+        <entry encoding="base64">XDx1XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
         <entry>vs</entry>
         <entry>bp!</entry>
         <entry>bn!</entry>
+        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
