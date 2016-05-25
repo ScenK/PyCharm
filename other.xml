@@ -1,4 +1,20 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -46,6 +62,14 @@
     <option name="DO_OUTPUT" value="false" />
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/4.1.1/bin/node">
+      <version-cache version="4.1.1" last-modified="1443017151000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="4.1.1" last-modified="1443017151000" />
+    </local-interpreter>
   </component>
   <component name="PyCodeInsightSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
