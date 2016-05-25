@@ -43,11 +43,12 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464161358690">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="205" column="43" />
-        <mark key="^" line="190" column="28" />
-        <mark key="." line="190" column="28" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464169413505">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="^" line="195" column="28" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1464081122864">
         <mark key="'" line="58" column="0" />
@@ -175,6 +176,11 @@
       <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="107" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="128" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="76" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="131" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="169" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -187,34 +193,34 @@
         <text encoding="base64">ICcnLA==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CgoKCgoKCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBTZXQgTGlicmFyeSBTZWFyY2ggT3JkZXIgIHJvYm90LmxpYnJhcmllcy5TdHJpbmcK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>¸</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>'</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>´</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>Î</text>
       </register>
-      <register name="8" type="4">
-        <text>∂</text>
-      </register>
-      <register name="9" type="4">
-        <text>Ç</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -240,11 +246,11 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
         <entry>bn!</entry>
         <entry>CtrlPBuffer</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
