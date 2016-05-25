@@ -90,6 +90,9 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464165873960">
         <mark key="[" line="101" column="34" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1464167789093">
+        <mark key="'" line="128" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464054239168">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="29" column="32" />
@@ -164,13 +167,21 @@
       <jump line="74" column="28" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="185" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
       <jump line="192" column="26" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="43" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="81" column="35" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="84" column="6" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="85" column="20" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="89" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="107" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="128" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>¸</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1XD4=</text>
+        <text>math session</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICcnLA==</text>
@@ -207,10 +218,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1XD4=</last-search>
+      <last-search>math session</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1XD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>math session</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -225,6 +236,7 @@
         <entry encoding="base64">XDxTbGVlcFw+</entry>
         <entry>javascript</entry>
         <entry encoding="base64">XDx1XD4=</entry>
+        <entry>math session</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
