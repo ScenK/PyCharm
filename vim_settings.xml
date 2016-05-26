@@ -10,9 +10,6 @@
         <mark key="^" line="68" column="18" />
         <mark key="." line="68" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464251880111">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1464170645103">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="13" />
@@ -104,11 +101,11 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1464170495818">
         <mark key="^" line="131" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464247305212">
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="47" />
-        <mark key="^" line="29" column="47" />
-        <mark key="." line="29" column="47" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464252141867">
+        <mark key="[" line="398" column="0" />
+        <mark key="]" line="399" column="16" />
+        <mark key="^" line="399" column="16" />
+        <mark key="." line="399" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1464237805128">
         <mark key="'" line="3" column="31" />
@@ -221,7 +218,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IFJlc291cmNlXzIgfA==</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
@@ -229,32 +226,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB8IFNldCBSZXNvdXJjZSBTZWFyY2ggT3JkZXIgfCBSZXNvdXJjZV8xIHwgUmVzb3VyY2VfMiB8Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfc2VhcmNoX29yZGVyKHNlbGYsICpyZXNvdXJjZXMpOgogICAgICAgICIiIgogICAgICAgIFN1YnN0aXR1dGUgc2V0X2xpYnJhcnlfc2VhcmNoX29yZGVyIGtleXdvcmQgaW4gU2VsZW5pdW0yTGlicmFyeS4KICAgICAgICBNZW1vcnkgb2xkIG9yZGVyIGluIGtleXdvcmQgdG8gbWFrZSBzZWFyY2ggb3JkZXIgY29ycmVjdC4KICAgICAgICAiIiIKICAgICAgICBidCA9IEJ1aWx0SW4oKQogICAgICAgIG9sZF9vcmRlciA9IGxpc3QoYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKHJlc291cmNlcykpCiAgICAgICAgaWYgc2V0KG9sZF9vcmRlcikuaXNzdWJzZXQoc2V0KHJlc291cmNlcykpOgogICAgICAgICAgICBvbGRfb3JkZXIgPSBsaXN0KHJlc291cmNlcykKICAgICAgICBlbGlmIHNldChyZXNvdXJjZXMpLmlzc3Vic2V0KHNldChvbGRfb3JkZXIpKToKICAgICAgICAgICAgaWYgJ1NlbGVuaXVtMkxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgICAgIG9sZF9vcmRlcltvbGRfb3JkZXIuaW5kZXgoJ1NlbGVuaXVtMkxpYnJhcnknKV09J0FwcGl1bUxpYnJhcnknCiAgICAgICAgICAgICAgICBvbGRfb3JkZXJbb2xkX29yZGVyLmluZGV4KCdBcHBpdW1MaWJyYXJ5JyldPSdTZWxlbml1bTJMaWJyYXJ5JwogICAgICAgICAgICAgICAgb2xkX29yZGVyW29sZF9vcmRlci5pbmRleCgnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JyldID0gXAogICAgICAgICAgICAgICAgICAgICdBcHBpdW1FbmhhbmNlTGlicmFyeScKICAgICAgICAgICAgICAgIG9sZF9vcmRlcltvbGRfb3JkZXIuaW5kZXgoJ0FwcGl1bUVuaGFuY2VMaWJyYXJ5JyldID0gXAogICAgICAgICAgICAgICAgICAgICdHZXN0dXJlRW5oYW5jZUxpYnJhcnknCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpbmRleF9saXN0ID0gW10KICAgICAgICAgICAgICAgIGZvciBlbGVtZW50IGluIHJlc291cmNlczoKICAgICAgICAgICAgICAgICAgICBpbmRleCA9IG9sZF9vcmRlci5pbmRleChlbGVtZW50KQogICAgICAgICAgICAgICAgICAgIGluZGV4X2xpc3QuYXBwZW5kKGluZGV4KQogICAgICAgICAgICAgICAgICAgIGZpcnN0X2VsZW1lbnRfaW5kZXggPSBtaW4oaW5kZXhfbGlzdCkKICAgICAgICAgICAgICAgICAgICBvbGRfb3JkZXJbZmlyc3RfZWxlbWVudF9pbmRleDooCiAgICAgICAgICAgICAgICAgICAgICAgIGZpcnN0X2VsZW1lbnRfaW5kZXggKyBsZW4ocmVzb3VyY2VzKS0xKV0gPSByZXNvdXJjZXMKICAgICAgICBlbHNlOgogICAgICAgICAgICBvbGRfb3JkZXIuZXh0ZW5kKHJlc291cmNlcykKICAgICAgICBvbGRfb3JkZXIgPSBzZWxmLl9oYW5kbGVfbGlicmFyeShvbGRfb3JkZXIpCiAgICAgICAgYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKG9sZF9vcmRlcikKCiAgICBkZWYgX2hhbmRsZV9saWJyYXJ5KHNlbGYsIHJlc291cmNlcyk6CiAgICAgICAgaWYgJ1NlbGVuaXVtMkxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgcmVzb3VyY2VzLmluc2VydChyZXNvdXJjZXMuaW5kZXgoJ1NlbGVuaXVtMkxpYnJhcnknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JyApCiAgICAgICAgaWYgJ0FwcGl1bUxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgcmVzb3VyY2VzLmluc2VydChyZXNvdXJjZXMuaW5kZXgoJ0FwcGl1bUxpYnJhcnknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnQXBwaXVtRW5oYW5jZUxpYnJhcnknKQogICAgICAgIHJldHVybiB0dXBsZShyZXNvdXJjZXMpCg==</text>
+        <text encoding="base64">QnVnZml4IGZvciAiRXhlY3V0ZSBKYXZhc2NyaXB0LiIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZXRfc2VhcmNoX29yZGVyKHNlbGYsICpyZXNvdXJjZXMpOgogICAgICAgICIiIgogICAgICAgIFN1YnN0aXR1dGUgc2V0X2xpYnJhcnlfc2VhcmNoX29yZGVyIGtleXdvcmQgaW4gU2VsZW5pdW0yTGlicmFyeS4KICAgICAgICBNZW1vcnkgb2xkIG9yZGVyIGluIGtleXdvcmQgdG8gbWFrZSBzZWFyY2ggb3JkZXIgY29ycmVjdC4KICAgICAgICAiIiIKICAgICAgICBidCA9IEJ1aWx0SW4oKQogICAgICAgIG9sZF9vcmRlciA9IGxpc3QoYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKHJlc291cmNlcykpCiAgICAgICAgaWYgc2V0KG9sZF9vcmRlcikuaXNzdWJzZXQoc2V0KHJlc291cmNlcykpOgogICAgICAgICAgICBvbGRfb3JkZXIgPSBsaXN0KHJlc291cmNlcykKICAgICAgICBlbGlmIHNldChyZXNvdXJjZXMpLmlzc3Vic2V0KHNldChvbGRfb3JkZXIpKToKICAgICAgICAgICAgaWYgJ1NlbGVuaXVtMkxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgICAgIG9sZF9vcmRlcltvbGRfb3JkZXIuaW5kZXgoJ1NlbGVuaXVtMkxpYnJhcnknKV09J0FwcGl1bUxpYnJhcnknCiAgICAgICAgICAgICAgICBvbGRfb3JkZXJbb2xkX29yZGVyLmluZGV4KCdBcHBpdW1MaWJyYXJ5JyldPSdTZWxlbml1bTJMaWJyYXJ5JwogICAgICAgICAgICAgICAgb2xkX29yZGVyW29sZF9vcmRlci5pbmRleCgnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JyldID0gXAogICAgICAgICAgICAgICAgICAgICdBcHBpdW1FbmhhbmNlTGlicmFyeScKICAgICAgICAgICAgICAgIG9sZF9vcmRlcltvbGRfb3JkZXIuaW5kZXgoJ0FwcGl1bUVuaGFuY2VMaWJyYXJ5JyldID0gXAogICAgICAgICAgICAgICAgICAgICdHZXN0dXJlRW5oYW5jZUxpYnJhcnknCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpbmRleF9saXN0ID0gW10KICAgICAgICAgICAgICAgIGZvciBlbGVtZW50IGluIHJlc291cmNlczoKICAgICAgICAgICAgICAgICAgICBpbmRleCA9IG9sZF9vcmRlci5pbmRleChlbGVtZW50KQogICAgICAgICAgICAgICAgICAgIGluZGV4X2xpc3QuYXBwZW5kKGluZGV4KQogICAgICAgICAgICAgICAgICAgIGZpcnN0X2VsZW1lbnRfaW5kZXggPSBtaW4oaW5kZXhfbGlzdCkKICAgICAgICAgICAgICAgICAgICBvbGRfb3JkZXJbZmlyc3RfZWxlbWVudF9pbmRleDooCiAgICAgICAgICAgICAgICAgICAgICAgIGZpcnN0X2VsZW1lbnRfaW5kZXggKyBsZW4ocmVzb3VyY2VzKS0xKV0gPSByZXNvdXJjZXMKICAgICAgICBlbHNlOgogICAgICAgICAgICBvbGRfb3JkZXIuZXh0ZW5kKHJlc291cmNlcykKICAgICAgICBvbGRfb3JkZXIgPSBzZWxmLl9oYW5kbGVfbGlicmFyeShvbGRfb3JkZXIpCiAgICAgICAgYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKG9sZF9vcmRlcikKCiAgICBkZWYgX2hhbmRsZV9saWJyYXJ5KHNlbGYsIHJlc291cmNlcyk6CiAgICAgICAgaWYgJ1NlbGVuaXVtMkxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgcmVzb3VyY2VzLmluc2VydChyZXNvdXJjZXMuaW5kZXgoJ1NlbGVuaXVtMkxpYnJhcnknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JyApCiAgICAgICAgaWYgJ0FwcGl1bUxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgcmVzb3VyY2VzLmluc2VydChyZXNvdXJjZXMuaW5kZXgoJ0FwcGl1bUxpYnJhcnknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnQXBwaXVtRW5oYW5jZUxpYnJhcnknKQogICAgICAgIHJldHVybiB0dXBsZShyZXNvdXJjZXMpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IFJlc291cmNlXzIgfA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>ios</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>Basic</text>
+        <text encoding="base64">IFJlc291cmNlXzIgfA==</text>
       </register>
       <register name="8" type="4">
-        <text>Make sure python libraries be the right order</text>
+        <text>ios</text>
       </register>
       <register name="9" type="4">
-        <text>ios, kiosk, browser</text>
+        <text>Basic</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
