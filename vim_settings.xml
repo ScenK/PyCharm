@@ -105,12 +105,12 @@
         <mark key="[" line="172" column="0" />
         <mark key="]" line="176" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1464268959699">
-        <mark key="'" line="201" column="13" />
-        <mark key="[" line="166" column="25" />
-        <mark key="]" line="167" column="11" />
-        <mark key="." line="167" column="11" />
-        <mark key="^" line="167" column="11" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1464271255476">
+        <mark key="'" line="200" column="13" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+        <mark key="^" line="169" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463988524662">
         <mark key="'" line="0" column="0" />
@@ -233,40 +233,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Refact extend library.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>question 1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjIGFjY2VwdCBzbWFsbCBvZmZzZXQgZGlmZmVyZW5jZXMKICAke3hfb2Zmc2V0fT0gICAgRXZhbHVhdGUgICAgYWJzKCR7Y29vcmR4fSAtICR7Y29vcmR4XzF9KQogICR7eV9vZmZzZXR9PSAgICBFdmFsdWF0ZSAgICBhYnMoJHtjb29yZHl9IC0gJHtjb29yZHlfMX0pCiAgU2hvdWxkIEJlIFRydWUgICAke3hfb2Zmc2V0fSA8PSA1CiAgU2hvdWxkIEJlIFRydWUgICAke3lfb2Zmc2V0fSA8PSA1Cg==</text>
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgJHttb2RlfT09J2Jyb3dzZXInICAgIENhcHR1cmUgUGFnZSBTY3JlZW5zaG90Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Refact extend library.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgIiR7bW9kZX0iPT0iYnJvd3NlciIgICAgQ2FwdHVyZSBQYWdlIFNjcmVlbnNob3QK</text>
       </register>
-      <register name="2" type="4">
-        <text>5</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiBUZXN0IEZhaWxlZAo=</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICAKICBTaG91bGQgQmUgVHJ1ZSAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text>=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBTbGVlcCAgICAyCg==</text>
       </register>
       <register name="6" type="4">
-        <text>${coordy} - ${coordy_1}</text>
+        <text>Refact extend library.</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>5</text>
       </register>
       <register name="8" type="4">
-        <text>${coordx} - ${coordx_1}</text>
+        <text>l</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICAKICBTaG91bGQgQmUgVHJ1ZSAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -304,8 +304,8 @@
         <entry>bn!</entry>
         <entry>CtrlPBuffer</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
