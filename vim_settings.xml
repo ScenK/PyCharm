@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1464268999118">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" timestamp="1464249897578">
         <mark key="'" line="303" column="39" />
         <mark key="[" line="19" column="107" />
@@ -228,7 +233,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>5</text>
+        <text>Refact extend library.</text>
       </register>
       <register name="/" type="4">
         <text>question 1</text>
@@ -237,31 +242,31 @@
         <text encoding="base64">ICAjIGFjY2VwdCBzbWFsbCBvZmZzZXQgZGlmZmVyZW5jZXMKICAke3hfb2Zmc2V0fT0gICAgRXZhbHVhdGUgICAgYWJzKCR7Y29vcmR4fSAtICR7Y29vcmR4XzF9KQogICR7eV9vZmZzZXR9PSAgICBFdmFsdWF0ZSAgICBhYnMoJHtjb29yZHl9IC0gJHtjb29yZHlfMX0pCiAgU2hvdWxkIEJlIFRydWUgICAke3hfb2Zmc2V0fSA8PSA1CiAgU2hvdWxkIEJlIFRydWUgICAke3lfb2Zmc2V0fSA8PSA1Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>Refact extend library.</text>
       </register>
       <register name="2" type="4">
+        <text>5</text>
+      </register>
+      <register name="3" type="4">
         <text>l</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICAKICBTaG91bGQgQmUgVHJ1ZSAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>=</text>
-      </register>
       <register name="5" type="4">
-        <text>${coordy} - ${coordy_1}</text>
+        <text>=</text>
       </register>
       <register name="6" type="4">
-        <text>=</text>
+        <text>${coordy} - ${coordy_1}</text>
       </register>
       <register name="7" type="4">
+        <text>=</text>
+      </register>
+      <register name="8" type="4">
         <text>${coordx} - ${coordx_1}</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -298,9 +303,9 @@
         <entry>bp!</entry>
         <entry>bn!</entry>
         <entry>CtrlPBuffer</entry>
-        <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5ibiE=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
