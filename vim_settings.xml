@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1464170814305">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463988524662">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="66" column="11" />
@@ -48,12 +43,12 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464169413505">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464234347847">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="^" line="195" column="28" />
-        <mark key="." line="193" column="0" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="196" column="28" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1464081122864">
         <mark key="'" line="58" column="0" />
@@ -71,6 +66,12 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463997182248">
         <mark key="'" line="325" column="52" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1464234718557">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" timestamp="1463989182946">
         <mark key="'" line="85" column="2" />
@@ -185,40 +186,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>¸</text>
+        <text encoding="base64">Wy1lXSA=</text>
       </register>
       <register name="/" type="4">
         <text>math session</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAwLjUK</text>
+      <register name="0" type="4">
+        <text>robotframework-appiumlibrary</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QnVnZml4IGZvciAiRXhlY3V0ZSBKYXZhc2NyaXB0LiIK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Wy1lXSA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CgoKCgoKCg==</text>
+      <register name="3" type="4">
+        <text>https</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBTZXQgTGlicmFyeSBTZWFyY2ggT3JkZXIgIHJvYm90LmxpYnJhcmllcy5TdHJpbmcK</text>
+      <register name="4" type="4">
+        <text>.git</text>
       </register>
       <register name="5" type="4">
-        <text>¸</text>
+        <text>SomeProject https://github.com/ScenK/</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>https://git.myproject.org/SomeProject</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>https://git.myproject.org/SomeProject#egg=SomeProject</text>
       </register>
-      <register name="8" type="4">
-        <text>'</text>
+      <register name="8" type="2">
+        <text encoding="base64">LWUgZ2l0Oi8vZ2l0aHViLmNvbS9tb3ppbGxhL2VsYXN0aWN1dGlscy5naXQjZWdnPWVsYXN0aWN1dGlscwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>´</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
