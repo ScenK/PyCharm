@@ -3,15 +3,302 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/database.yaml" timestamp="1463832514084" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463988524662">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="11" />
+        <mark key="]" line="68" column="18" />
+        <mark key="^" line="68" column="18" />
+        <mark key="." line="68" column="18" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1464170645103">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="13" />
+        <mark key="^" line="61" column="13" />
+        <mark key="." line="61" column="13" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_practice_test.robot" timestamp="1464250010627">
+        <mark key="'" line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1464246808096">
+        <mark key="'" line="52" column="2" />
+        <mark key="[" line="48" column="0" />
+        <mark key="m" line="45" column="21" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463991026985">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="25" column="67" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1464159658548">
+        <mark key="'" line="20" column="2" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464251805554">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1464081122864">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="45" column="142" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" timestamp="1464249897578">
+        <mark key="'" line="303" column="39" />
+        <mark key="[" line="19" column="107" />
+        <mark key="]" line="19" column="107" />
+        <mark key="." line="19" column="107" />
+        <mark key="^" line="19" column="93" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" timestamp="1464165206406">
+        <mark key="'" line="185" column="12" />
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="49" column="8" />
+        <mark key="^" line="49" column="8" />
+        <mark key="." line="49" column="8" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463997182248">
+        <mark key="'" line="325" column="52" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/requirements.txt" timestamp="1464234718557">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="63" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/navigation/feedback.robot" timestamp="1464246902758">
+        <mark key="[" line="11" column="92" />
+        <mark key="]" line="11" column="92" />
+        <mark key="." line="11" column="92" />
+        <mark key="^" line="11" column="102" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" timestamp="1463989182946">
+        <mark key="'" line="85" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="21" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464166675461">
+        <mark key="'" line="192" column="26" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464165873960">
+        <mark key="[" line="101" column="34" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1464170715879">
+        <mark key="'" line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1464170495818">
+        <mark key="^" line="131" column="13" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464252141867">
+        <mark key="[" line="398" column="0" />
+        <mark key="]" line="399" column="16" />
+        <mark key="^" line="399" column="16" />
+        <mark key="." line="399" column="16" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1464237805128">
+        <mark key="'" line="3" column="31" />
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="30" column="26" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="80" column="32" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="127" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="282" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="111" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="286" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="358" column="16" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="154" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" />
+      <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
+      <jump line="44" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="46" column="42" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="47" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="11" column="31" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="22" column="30" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="486" column="35" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="88" column="17" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="43" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
+      <jump line="36" column="66" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="194" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
+      <jump line="31" column="45" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="44" column="10" filename="$USER_HOME$/Develop/eMetricRobot/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/.gitignore" />
+      <jump line="45" column="47" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
+      <jump line="84" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
+      <jump line="87" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
+      <jump line="85" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
+      <jump line="151" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="369" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="263" column="28" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="267" column="36" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="361" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="117" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="134" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="324" column="52" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
+      <jump line="16" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="104" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="32" column="32" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="70" column="33" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="51" column="58" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="385" column="28" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="187" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="5" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="38" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="45" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="20" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" />
+      <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
+      <jump line="58" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
+      <jump line="177" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="194" column="34" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="74" column="28" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="185" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
+      <jump line="192" column="26" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
+      <jump line="43" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="81" column="35" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="84" column="6" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="85" column="20" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="89" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="107" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="128" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="76" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="131" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="169" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="111" column="28" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="135" column="30" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="104" column="24" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="33" column="1" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
+      <jump line="47" column="22" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
+      <jump line="74" column="24" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
+      <jump line="3" column="31" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="167" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="27" column="36" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="136" column="42" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="168" column="4" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="52" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="377" column="40" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="303" column="39" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" />
+      <jump line="143" column="40" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_practice_test.robot" />
+      <jump line="115" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_practice_test.robot" />
+      <jump line="158" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="159" column="40" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="73" column="16" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+    </jumps>
+    <registers>
+      <register name="-" type="4">
+        <text encoding="base64">c2VsZiwg</text>
+      </register>
+      <register name="/" type="4">
+        <text>search</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB8IFNldCBSZXNvdXJjZSBTZWFyY2ggT3JkZXIgfCBSZXNvdXJjZV8xIHwgUmVzb3VyY2VfMiB8Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">c2VsZiwg</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QnVnZml4IGZvciAiRXhlY3V0ZSBKYXZhc2NyaXB0LiIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZXRfc2VhcmNoX29yZGVyKHNlbGYsICpyZXNvdXJjZXMpOgogICAgICAgICIiIgogICAgICAgIFN1YnN0aXR1dGUgc2V0X2xpYnJhcnlfc2VhcmNoX29yZGVyIGtleXdvcmQgaW4gU2VsZW5pdW0yTGlicmFyeS4KICAgICAgICBNZW1vcnkgb2xkIG9yZGVyIGluIGtleXdvcmQgdG8gbWFrZSBzZWFyY2ggb3JkZXIgY29ycmVjdC4KICAgICAgICAiIiIKICAgICAgICBidCA9IEJ1aWx0SW4oKQogICAgICAgIG9sZF9vcmRlciA9IGxpc3QoYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKHJlc291cmNlcykpCiAgICAgICAgaWYgc2V0KG9sZF9vcmRlcikuaXNzdWJzZXQoc2V0KHJlc291cmNlcykpOgogICAgICAgICAgICBvbGRfb3JkZXIgPSBsaXN0KHJlc291cmNlcykKICAgICAgICBlbGlmIHNldChyZXNvdXJjZXMpLmlzc3Vic2V0KHNldChvbGRfb3JkZXIpKToKICAgICAgICAgICAgaWYgJ1NlbGVuaXVtMkxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgICAgIG9sZF9vcmRlcltvbGRfb3JkZXIuaW5kZXgoJ1NlbGVuaXVtMkxpYnJhcnknKV09J0FwcGl1bUxpYnJhcnknCiAgICAgICAgICAgICAgICBvbGRfb3JkZXJbb2xkX29yZGVyLmluZGV4KCdBcHBpdW1MaWJyYXJ5JyldPSdTZWxlbml1bTJMaWJyYXJ5JwogICAgICAgICAgICAgICAgb2xkX29yZGVyW29sZF9vcmRlci5pbmRleCgnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JyldID0gXAogICAgICAgICAgICAgICAgICAgICdBcHBpdW1FbmhhbmNlTGlicmFyeScKICAgICAgICAgICAgICAgIG9sZF9vcmRlcltvbGRfb3JkZXIuaW5kZXgoJ0FwcGl1bUVuaGFuY2VMaWJyYXJ5JyldID0gXAogICAgICAgICAgICAgICAgICAgICdHZXN0dXJlRW5oYW5jZUxpYnJhcnknCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpbmRleF9saXN0ID0gW10KICAgICAgICAgICAgICAgIGZvciBlbGVtZW50IGluIHJlc291cmNlczoKICAgICAgICAgICAgICAgICAgICBpbmRleCA9IG9sZF9vcmRlci5pbmRleChlbGVtZW50KQogICAgICAgICAgICAgICAgICAgIGluZGV4X2xpc3QuYXBwZW5kKGluZGV4KQogICAgICAgICAgICAgICAgICAgIGZpcnN0X2VsZW1lbnRfaW5kZXggPSBtaW4oaW5kZXhfbGlzdCkKICAgICAgICAgICAgICAgICAgICBvbGRfb3JkZXJbZmlyc3RfZWxlbWVudF9pbmRleDooCiAgICAgICAgICAgICAgICAgICAgICAgIGZpcnN0X2VsZW1lbnRfaW5kZXggKyBsZW4ocmVzb3VyY2VzKS0xKV0gPSByZXNvdXJjZXMKICAgICAgICBlbHNlOgogICAgICAgICAgICBvbGRfb3JkZXIuZXh0ZW5kKHJlc291cmNlcykKICAgICAgICBvbGRfb3JkZXIgPSBzZWxmLl9oYW5kbGVfbGlicmFyeShvbGRfb3JkZXIpCiAgICAgICAgYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKG9sZF9vcmRlcikKCiAgICBkZWYgX2hhbmRsZV9saWJyYXJ5KHNlbGYsIHJlc291cmNlcyk6CiAgICAgICAgaWYgJ1NlbGVuaXVtMkxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgcmVzb3VyY2VzLmluc2VydChyZXNvdXJjZXMuaW5kZXgoJ1NlbGVuaXVtMkxpYnJhcnknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JyApCiAgICAgICAgaWYgJ0FwcGl1bUxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgcmVzb3VyY2VzLmluc2VydChyZXNvdXJjZXMuaW5kZXgoJ0FwcGl1bUxpYnJhcnknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnQXBwaXVtRW5oYW5jZUxpYnJhcnknKQogICAgICAgIHJldHVybiB0dXBsZShyZXNvdXJjZXMpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IFJlc291cmNlXzIgfA==</text>
+      </register>
+      <register name="8" type="4">
+        <text>ios</text>
+      </register>
+      <register name="9" type="4">
+        <text>Basic</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>search</last-search>
+      <last-offset />
+      <last-pattern>search</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>review screen should</entry>
+        <entry>10</entry>
+        <entry encoding="base64">XDxBcHBpdW1MaWJyYXJ5XD4=</entry>
+        <entry>page_should</entry>
+        <entry>attribute</entry>
+        <entry>order</entry>
+        <entry encoding="base64">XDxTbGVlcFw+</entry>
+        <entry>javascript</entry>
+        <entry encoding="base64">XDx1XD4=</entry>
+        <entry>math session</entry>
+        <entry>lamb</entry>
+        <entry>log back</entry>
+        <entry>search</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
+        <entry>bp!</entry>
+        <entry>bn!</entry>
+        <entry>CtrlPBuffer</entry>
+        <entry>vs</entry>
+        <entry encoding="base64">JzwsJz5ibiE=</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
