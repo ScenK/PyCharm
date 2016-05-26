@@ -44,10 +44,6 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464251805554">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="^" line="141" column="62" />
-        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1464081122864">
         <mark key="'" line="58" column="0" />
@@ -109,7 +105,6 @@
         <mark key="^" line="131" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464247305212">
-        <mark key="'" line="377" column="40" />
         <mark key="[" line="29" column="32" />
         <mark key="]" line="29" column="47" />
         <mark key="^" line="29" column="47" />
