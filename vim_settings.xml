@@ -9,6 +9,7 @@
         <mark key="^" line="61" column="13" />
         <mark key="." line="61" column="13" />
       </file>
+      <file name="/a.dummy" timestamp="1464246999885" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1463991026985">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -35,20 +36,12 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1464170495818">
         <mark key="^" line="131" column="13" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_javascript.py" timestamp="1463994768088">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="185" column="27" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1464237805128">
         <mark key="'" line="3" column="31" />
         <mark key="[" line="30" column="26" />
         <mark key="]" line="30" column="26" />
         <mark key="^" line="29" column="0" />
         <mark key="." line="30" column="26" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1463977930228">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="31" column="133" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/.gitignore" timestamp="1463988524662">
         <mark key="'" line="0" column="0" />
@@ -57,22 +50,15 @@
         <mark key="^" line="68" column="18" />
         <mark key="." line="68" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464245605690">
+      <file name="/Dummy.txt" timestamp="1464245625175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1464079790328">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="70" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1464080865379">
-        <mark key="'" line="45" column="21" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1464246808096">
+        <mark key="'" line="52" column="2" />
+        <mark key="[" line="48" column="0" />
         <mark key="m" line="45" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1463989368226">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1464159658548">
         <mark key="'" line="20" column="2" />
@@ -81,12 +67,12 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464244399158">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="166" column="52" />
-        <mark key="]" line="166" column="61" />
-        <mark key="." line="166" column="52" />
-        <mark key="^" line="166" column="52" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464248241244">
+        <mark key="'" line="168" column="4" />
+        <mark key="[" line="134" column="73" />
+        <mark key="]" line="134" column="73" />
+        <mark key="^" line="128" column="24" />
+        <mark key="." line="134" column="73" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1464081122864">
         <mark key="'" line="58" column="0" />
@@ -94,6 +80,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="45" column="142" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" timestamp="1464246972028">
+        <mark key="[" line="19" column="107" />
+        <mark key="]" line="19" column="107" />
+        <mark key="." line="19" column="107" />
+        <mark key="^" line="19" column="93" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1463997182248">
         <mark key="'" line="325" column="52" />
@@ -103,6 +95,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="63" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/navigation/feedback.robot" timestamp="1464246902758">
+        <mark key="[" line="11" column="92" />
+        <mark key="]" line="11" column="92" />
+        <mark key="." line="11" column="92" />
+        <mark key="^" line="11" column="102" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464166675461">
         <mark key="'" line="192" column="26" />
@@ -114,8 +112,8 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464165873960">
         <mark key="[" line="101" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464054239168">
-        <mark key="'" line="8" column="8" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464247305212">
+        <mark key="'" line="377" column="40" />
         <mark key="[" line="29" column="32" />
         <mark key="]" line="29" column="47" />
         <mark key="^" line="29" column="47" />
@@ -207,52 +205,60 @@
       <jump line="3" column="31" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
       <jump line="127" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="167" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="27" column="36" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="136" column="42" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="168" column="4" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="52" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
+      <jump line="377" column="40" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>new_order</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>math session</text>
+        <text>lamb</text>
       </register>
-      <register name="0" type="4">
-        <text>old_order.index(AP)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhbWJkYTogbm90IHJlc291cmNlKAo=</text>
       </register>
       <register name="1" type="4">
-        <text>new_order</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>s2_index+1</text>
+        <text>)</text>
       </register>
-      <register name="3" type="4">
-        <text>s2_index+1</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhbWJkYTogbm90IHJlc291cmNlKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X29yZGVyW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhbWJkYTogbm90IHJlc291cmNlKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">bm90IA==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiByZXNvdXJjZSBpcyBOb25lOgogICAgICAgICAgICByZXNvdXJjZSA9IFtdCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2V0KG9sZF9vcmRlcikuaXNzdWJzZXQoc2V0KHJlc291cmNlcykpOgogICAgICAgICAgICBwYXNzCgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text>)</text>
+      </register>
+      <register name="9" type="4">
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>math session</last-search>
+      <last-search>lamb</last-search>
       <last-offset />
-      <last-pattern>math session</last-pattern>
+      <last-pattern>lamb</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -269,6 +275,7 @@
         <entry>javascript</entry>
         <entry encoding="base64">XDx1XD4=</entry>
         <entry>math session</entry>
+        <entry>lamb</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -276,6 +283,7 @@
         <entry>bn!</entry>
         <entry>CtrlPBuffer</entry>
         <entry>vs</entry>
+        <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
