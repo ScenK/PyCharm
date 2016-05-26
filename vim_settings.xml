@@ -43,11 +43,12 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464241035573">
-        <mark key="[" line="128" column="16" />
-        <mark key="]" line="129" column="25" />
-        <mark key="." line="129" column="25" />
-        <mark key="^" line="129" column="25" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1464244399158">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="166" column="52" />
+        <mark key="]" line="166" column="61" />
+        <mark key="." line="166" column="52" />
+        <mark key="^" line="166" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" timestamp="1464081122864">
         <mark key="'" line="58" column="0" />
@@ -201,43 +202,45 @@
       <jump line="16" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
       <jump line="74" column="24" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
       <jump line="3" column="31" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new_order</text>
       </register>
       <register name="/" type="4">
         <text>math session</text>
       </register>
       <register name="0" type="4">
-        <text>self.</text>
+        <text>old_order.index(AP)</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new_order</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>s2_index+1</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text>s2_index+1</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X29yZGVyW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">UzIgPSAnU2VsZW5pdW0yTGlicmFyeScKR0UgPSAnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JwpBUCA9ICdBcHBpdW1MaWJyYXJ5JwpBRSA9ICdBcHBpdW1FbmhhbmNlTGlicmFyeScKCgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UzIgPSAnU2VsZW5pdW0yTGlicmFyeScKR0UgPSAnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JwpBUCA9ICdBcHBpdW1MaWJyYXJ5JwpBRSA9ICdBcHBpdW1FbmhhbmNlTGlicmFyeScKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLiAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2V0KG9sZF9vcmRlcikuaXNzdWJzZXQoc2V0KHJlc291cmNlcykpOgogICAgICAgICAgICBwYXNzCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
