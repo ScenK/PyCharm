@@ -19,6 +19,9 @@
         <mark key="^" line="61" column="13" />
         <mark key="." line="61" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_practice_test.robot" timestamp="1464250010627">
+        <mark key="'" line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1464246808096">
         <mark key="'" line="52" column="2" />
         <mark key="[" line="48" column="0" />
@@ -53,7 +56,8 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="45" column="142" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" timestamp="1464249849440">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" timestamp="1464249897578">
+        <mark key="'" line="303" column="39" />
         <mark key="[" line="19" column="107" />
         <mark key="]" line="19" column="107" />
         <mark key="." line="19" column="107" />
@@ -212,13 +216,16 @@
       <jump line="168" column="4" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="52" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="377" column="40" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="303" column="39" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" />
+      <jump line="143" column="40" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_practice_test.robot" />
+      <jump line="115" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_practice_test.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lamb</text>
+        <text>search</text>
       </register>
       <register name="0" type="4">
         <text>.reverse()</text>
@@ -255,9 +262,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lamb</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern>lamb</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -268,13 +275,14 @@
         <entry encoding="base64">XDxBcHBpdW1MaWJyYXJ5XD4=</entry>
         <entry>page_should</entry>
         <entry>attribute</entry>
-        <entry>log back</entry>
         <entry>order</entry>
         <entry encoding="base64">XDxTbGVlcFw+</entry>
         <entry>javascript</entry>
         <entry encoding="base64">XDx1XD4=</entry>
         <entry>math session</entry>
         <entry>lamb</entry>
+        <entry>log back</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
