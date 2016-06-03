@@ -10,6 +10,11 @@
         <mark key="^" line="68" column="18" />
         <mark key="." line="68" column="18" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1464938833472">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="53" />
+        <mark key="." line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1464170645103">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="13" />
@@ -94,10 +99,14 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1464170495818">
         <mark key="^" line="131" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1464253264856">
-        <mark key="'" line="80" column="42" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1464938864970">
+        <mark key="'" line="451" column="2" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="53" column="56" />
+        <mark key="." line="50" column="10" />
+        <mark key="^" line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464921704791">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464938338970">
         <mark key="[" line="398" column="0" />
         <mark key="]" line="399" column="16" />
         <mark key="^" line="399" column="16" />
@@ -112,7 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" />
       <jump line="0" column="15" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
       <jump line="44" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="46" column="42" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
@@ -205,50 +213,51 @@
       <jump line="73" column="16" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="262" column="29" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="80" column="42" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="42" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" />
       <jump line="81" column="13" filename="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" />
       <jump line="92" column="41" filename="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" />
       <jump line="179" column="22" filename="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" />
       <jump line="22" column="13" filename="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" />
       <jump line="56" column="17" filename="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" />
+      <jump line="80" column="19" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="441" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+        <text>Hide</text>
       </register>
       <register name="/" type="4">
         <text>s2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB8IFNldCBSZXNvdXJjZSBTZWFyY2ggT3JkZXIgfCBSZXNvdXJjZV8xIHwgUmVzb3VyY2VfMiB8Cg==</text>
+        <text encoding="base64">U2Vzc2lvbiAxIFF1ZXN0aW9uIDEgQW5zd2VyIE1hc2tpbmcgSGlkZSBBbGwgU2hvdWxkIFdvcmsKICBUb2dnbGUgSGlkZSBBbGwgQnV0dG9uIEZvciBBbnN3ZXIgTWFza2luZwogIFNob3cgQWxsIEJ1dHRvbiBmb3IgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIEJlIERpc3BsYXllZAogIEFuc3dlciBNYXNraW5nIFNob3VsZCBCZSBBcHBsaWVkIEZvciBBbGwgUmVzcG9uc2VzCgpTZXNzaW9uIDEgUXVlc3Rpb24gMSBBbnN3ZXIgTWFza2luZyBTaG93IEFsbCBTaG91bGQgV29yawogIFRvZ2dsZSBIaWRlIEFsbCBCdXR0b24gRm9yIEFuc3dlciBNYXNraW5nCiAgSGlkZSBBbGwgQnV0dG9uIEZvciBBbnN3ZXIgTWFza2luZyBTaG91bGQgQmUgRGlzcGxheWVkCiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIE5vdCBCZSBBcHBsaWVkIEZvciBBbGwgUmVzcG9uc2VzCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+        <text>Hide</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QnVnZml4IGZvciAiRXhlY3V0ZSBKYXZhc2NyaXB0LiIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfc2VhcmNoX29yZGVyKHNlbGYsICpyZXNvdXJjZXMpOgogICAgICAgICIiIgogICAgICAgIFN1YnN0aXR1dGUgc2V0X2xpYnJhcnlfc2VhcmNoX29yZGVyIGtleXdvcmQgaW4gU2VsZW5pdW0yTGlicmFyeS4KICAgICAgICBNZW1vcnkgb2xkIG9yZGVyIGluIGtleXdvcmQgdG8gbWFrZSBzZWFyY2ggb3JkZXIgY29ycmVjdC4KICAgICAgICAiIiIKICAgICAgICBidCA9IEJ1aWx0SW4oKQogICAgICAgIG9sZF9vcmRlciA9IGxpc3QoYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKHJlc291cmNlcykpCiAgICAgICAgaWYgc2V0KG9sZF9vcmRlcikuaXNzdWJzZXQoc2V0KHJlc291cmNlcykpOgogICAgICAgICAgICBvbGRfb3JkZXIgPSBsaXN0KHJlc291cmNlcykKICAgICAgICBlbGlmIHNldChyZXNvdXJjZXMpLmlzc3Vic2V0KHNldChvbGRfb3JkZXIpKToKICAgICAgICAgICAgaWYgJ1NlbGVuaXVtMkxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgICAgIG9sZF9vcmRlcltvbGRfb3JkZXIuaW5kZXgoJ1NlbGVuaXVtMkxpYnJhcnknKV09J0FwcGl1bUxpYnJhcnknCiAgICAgICAgICAgICAgICBvbGRfb3JkZXJbb2xkX29yZGVyLmluZGV4KCdBcHBpdW1MaWJyYXJ5JyldPSdTZWxlbml1bTJMaWJyYXJ5JwogICAgICAgICAgICAgICAgb2xkX29yZGVyW29sZF9vcmRlci5pbmRleCgnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JyldID0gXAogICAgICAgICAgICAgICAgICAgICdBcHBpdW1FbmhhbmNlTGlicmFyeScKICAgICAgICAgICAgICAgIG9sZF9vcmRlcltvbGRfb3JkZXIuaW5kZXgoJ0FwcGl1bUVuaGFuY2VMaWJyYXJ5JyldID0gXAogICAgICAgICAgICAgICAgICAgICdHZXN0dXJlRW5oYW5jZUxpYnJhcnknCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpbmRleF9saXN0ID0gW10KICAgICAgICAgICAgICAgIGZvciBlbGVtZW50IGluIHJlc291cmNlczoKICAgICAgICAgICAgICAgICAgICBpbmRleCA9IG9sZF9vcmRlci5pbmRleChlbGVtZW50KQogICAgICAgICAgICAgICAgICAgIGluZGV4X2xpc3QuYXBwZW5kKGluZGV4KQogICAgICAgICAgICAgICAgICAgIGZpcnN0X2VsZW1lbnRfaW5kZXggPSBtaW4oaW5kZXhfbGlzdCkKICAgICAgICAgICAgICAgICAgICBvbGRfb3JkZXJbZmlyc3RfZWxlbWVudF9pbmRleDooCiAgICAgICAgICAgICAgICAgICAgICAgIGZpcnN0X2VsZW1lbnRfaW5kZXggKyBsZW4ocmVzb3VyY2VzKS0xKV0gPSByZXNvdXJjZXMKICAgICAgICBlbHNlOgogICAgICAgICAgICBvbGRfb3JkZXIuZXh0ZW5kKHJlc291cmNlcykKICAgICAgICBvbGRfb3JkZXIgPSBzZWxmLl9oYW5kbGVfbGlicmFyeShvbGRfb3JkZXIpCiAgICAgICAgYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKG9sZF9vcmRlcikKCiAgICBkZWYgX2hhbmRsZV9saWJyYXJ5KHNlbGYsIHJlc291cmNlcyk6CiAgICAgICAgaWYgJ1NlbGVuaXVtMkxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgcmVzb3VyY2VzLmluc2VydChyZXNvdXJjZXMuaW5kZXgoJ1NlbGVuaXVtMkxpYnJhcnknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnR2VzdHVyZUVuaGFuY2VMaWJyYXJ5JyApCiAgICAgICAgaWYgJ0FwcGl1bUxpYnJhcnknIGluIHJlc291cmNlczoKICAgICAgICAgICAgcmVzb3VyY2VzLmluc2VydChyZXNvdXJjZXMuaW5kZXgoJ0FwcGl1bUxpYnJhcnknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnQXBwaXVtRW5oYW5jZUxpYnJhcnknKQogICAgICAgIHJldHVybiB0dXBsZShyZXNvdXJjZXMpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>read_aloud</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IFJlc291cmNlXzIgfA==</text>
+        <text encoding="base64">IEhpZGUgQWxsIGFuZCBTaG93IEFsbA==</text>
       </register>
       <register name="8" type="4">
-        <text>ios</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>Basic</text>
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -285,8 +294,8 @@
         <entry>bp!</entry>
         <entry>bn!</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
