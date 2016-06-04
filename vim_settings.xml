@@ -10,6 +10,9 @@
         <mark key="^" line="68" column="18" />
         <mark key="." line="68" column="18" />
       </file>
+      <file name="/Dummy.txt" timestamp="1465001730244">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1464940533756">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="63" />
@@ -46,11 +49,11 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1465000644491">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1465001513091">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="165" column="18" />
-        <mark key="]" line="165" column="18" />
-        <mark key="." line="165" column="18" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" timestamp="1465000404836">
         <mark key="'" line="304" column="39" />
@@ -108,11 +111,11 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1464170495818">
         <mark key="^" line="131" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1464941065782">
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1465001786842">
         <mark key="'" line="28" column="29" />
-        <mark key="[" line="668" column="45" />
-        <mark key="]" line="668" column="45" />
-        <mark key="." line="668" column="45" />
+        <mark key="[" line="611" column="0" />
+        <mark key="]" line="611" column="0" />
+        <mark key="." line="611" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464938338970">
         <mark key="[" line="398" column="0" />
@@ -245,32 +248,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKAogICAgICAgICAgICAgICAgdHVwbGUobGlzdChyZXNvdXJjZSkgKyBzZWxmLm5vcm1hbF9saWJyYXJ5X3NlYXJjaF9vcmRlcikpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAgc2VsZi5idC5fbmFtZXNwYWNlLnNldF9zZWFyY2hfb3JkZXIoCiAgICAgICAgICAgIHR1cGxlKGxpc3QocmVzb3VyY2UpICsgc2VsZi5ub3JtYWxfbGlicmFyeV9zZWFyY2hfb3JkZXIpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLmJ0Ll9uYW1lc3BhY2UK</text>
-      </register>
-      <register name="4" type="4">
-        <text>_multi</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICBTZXQgUmVzb3VyY2UgU2VhcmNoIE9yZGVyICAgIGFuc3dlcl9tYXNraW5nX211bHRpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGFuc3dlcl9tYXNraW5n</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGFuc3dlcl9tYXNraW5n</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgc2VsZi5idC5fbmFtZXNwYWNlLnNldF9zZWFyY2hfb3JkZXIoCiAgICAgICAgICAgICAgICB0dXBsZShsaXN0KHJlc291cmNlKSArIHNlbGYubm9ybWFsX2xpYnJhcnlfc2VhcmNoX29yZGVyKSkK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAgc2VsZi5idC5fbmFtZXNwYWNlLnNldF9zZWFyY2hfb3JkZXIoCiAgICAgICAgICAgIHR1cGxlKGxpc3QocmVzb3VyY2UpICsgc2VsZi5ub3JtYWxfbGlicmFyeV9zZWFyY2hfb3JkZXIpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLmJ0Ll9uYW1lc3BhY2UK</text>
       </register>
       <register name="8" type="4">
-        <text>${ANSWER_MASKING.CURRENT_ITEM} #MultipleChoice_sp_${number} span.maskControlAll</text>
+        <text>_multi</text>
       </register>
-      <register name="9" type="4">
-        <text>${ANSWER_MASKING.CURRENT_ITEM} #MultipleChoice_sp_${number} span.maskControlAll</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBTZXQgUmVzb3VyY2UgU2VhcmNoIE9yZGVyICAgIGFuc3dlcl9tYXNraW5nX211bHRpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
