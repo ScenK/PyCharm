@@ -13,9 +13,9 @@
       <file name="/Dummy.txt" timestamp="1465001730244">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1464940533756">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="63" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1465091245270">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="53" />
         <mark key="^" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1464170645103">
@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/CalculatorLibrary.py" timestamp="1464254407689">
         <mark key="'" line="56" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1465000094050">
+      <file name="$USER_HOME$/Develop/eMetricRobot/variables.yaml" timestamp="1465092304729">
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="17" />
         <mark key="^" line="22" column="16" />
@@ -49,11 +49,12 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1465001513091">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1465090662169">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+        <mark key="[" line="148" column="19" />
+        <mark key="]" line="148" column="32" />
+        <mark key="." line="148" column="32" />
+        <mark key="^" line="148" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" timestamp="1465000404836">
         <mark key="'" line="304" column="39" />
@@ -111,11 +112,12 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1464170495818">
         <mark key="^" line="131" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1465002062767">
-        <mark key="'" line="28" column="29" />
-        <mark key="[" line="611" column="0" />
-        <mark key="]" line="611" column="0" />
-        <mark key="." line="611" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" timestamp="1465092161775">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="983" column="51" />
+        <mark key="]" line="983" column="51" />
+        <mark key="." line="983" column="51" />
+        <mark key="^" line="452" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" timestamp="1464938338970">
         <mark key="[" line="398" column="0" />
@@ -130,16 +132,14 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking_multi.robot" timestamp="1464940608971">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking_multi.robot" timestamp="1465091470247">
+        <mark key="'" line="12" column="53" />
         <mark key="[" line="29" column="135" />
         <mark key="]" line="29" column="135" />
         <mark key="." line="29" column="135" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="30" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
-      <jump line="486" column="35" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
-      <jump line="88" column="17" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="43" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
       <jump line="36" column="66" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="194" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
@@ -237,43 +237,46 @@
       <jump line="28" column="29" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="29" column="41" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="12" column="53" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking_multi.robot" />
+      <jump line="772" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="42" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>s2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuYnQuX25hbWVzcGFjZS5zZXRfc2VhcmNoX29yZGVyKAogICAgICAgICAgICAgICAgdHVwbGUobGlzdChyZXNvdXJjZSkgKyBzZWxmLm5vcm1hbF9saWJyYXJ5X3NlYXJjaF9vcmRlcikpCg==</text>
+        <text encoding="base64">Ck1hdGggU2Vzc2lvbiBRdWVzdGlvbiA4IEFuc3dlciBNYXNraW5nIFNob3VsZCBXb3JkIEZvciBFYWNoIEFuc3dlcgogIFRvZ2dsZSBBbnN3ZXIgTWFza2luZyBGb3IgUmVzcG9uc2UgICAgQQogIEFuc3dlciBNYXNraW5nIFNob3VsZCBCZSBBcHBsaWVkIEZvciBSZXNwb25zZSAgICBBCiAgVG9nZ2xlIEFuc3dlciBNYXNraW5nIEZvciBSZXNwb25zZSAgICBBCiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIE5vdCBCZSBBcHBsaWVkIEZvciBBbGwgUmVzcG9uc2VzICAgIEEKICBUb2dnbGUgQW5zd2VyIE1hc2tpbmcgRm9yIFJlc3BvbnNlICAgIEIKICBBbnN3ZXIgTWFza2luZyBTaG91bGQgQmUgQXBwbGllZCBGb3IgUmVzcG9uc2UgICAgQgogIFRvZ2dsZSBBbnN3ZXIgTWFza2luZyBGb3IgUmVzcG9uc2UgICAgQgogIEFuc3dlciBNYXNraW5nIFNob3VsZCBOb3QgQmUgQXBwbGllZCBGb3IgQWxsIFJlc3BvbnNlcyAgICBCCiAgVG9nZ2xlIEFuc3dlciBNYXNraW5nIEZvciBSZXNwb25zZSAgICBDCiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIEJlIEFwcGxpZWQgRm9yIFJlc3BvbnNlICAgIEMKICBUb2dnbGUgQW5zd2VyIE1hc2tpbmcgRm9yIFJlc3BvbnNlICAgIEMKICBBbnN3ZXIgTWFza2luZyBTaG91bGQgTm90IEJlIEFwcGxpZWQgRm9yIEFsbCBSZXNwb25zZXMgICAgQwogIFRvZ2dsZSBBbnN3ZXIgTWFza2luZyBGb3IgUmVzcG9uc2UgICAgRAogIEFuc3dlciBNYXNraW5nIFNob3VsZCBCZSBBcHBsaWVkIEZvciBSZXNwb25zZSAgICBECiAgVG9nZ2xlIEFuc3dlciBNYXNraW5nIEZvciBSZXNwb25zZSAgICBECiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIE5vdCBCZSBBcHBsaWVkIEZvciBBbGwgUmVzcG9uc2VzICAgIEQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBTZXQgUmVzb3VyY2UgU2VhcmNoIE9yZGVyICAgIGFuc3dlcl9tYXNraW5nX211bHRpCg==</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgc2VsZi5idC5fbmFtZXNwYWNlLnNldF9zZWFyY2hfb3JkZXIoCiAgICAgICAgICAgICAgICB0dXBsZShsaXN0KHJlc291cmNlKSArIHNlbGYubm9ybWFsX2xpYnJhcnlfc2VhcmNoX29yZGVyKSkK</text>
-      </register>
-      <register name="5" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAgc2VsZi5idC5fbmFtZXNwYWNlLnNldF9zZWFyY2hfb3JkZXIoCiAgICAgICAgICAgIHR1cGxlKGxpc3QocmVzb3VyY2UpICsgc2VsZi5ub3JtYWxfbGlicmFyeV9zZWFyY2hfb3JkZXIpKQo=</text>
+      <register name="3" type="4">
+        <text>l</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLmJ0Ll9uYW1lc3BhY2UK</text>
+      <register name="4" type="4">
+        <text>l</text>
+      </register>
+      <register name="5" type="4">
+        <text>A</text>
+      </register>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>_multi</text>
+        <text>l</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBTZXQgUmVzb3VyY2UgU2VhcmNoIE9yZGVyICAgIGFuc3dlcl9tYXNraW5nX211bHRpCg==</text>
+      <register name="9" type="4">
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
