@@ -104,21 +104,18 @@
         <mark key="^" line="61" column="13" />
         <mark key="." line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1465281866540">
-        <mark key="'" line="77" column="14" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/tests_generator.py" timestamp="1465281214902">
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/tests_generator.py" timestamp="1465284952530">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="58" column="48" />
-        <mark key="]" line="58" column="49" />
-        <mark key="." line="58" column="49" />
-        <mark key="^" line="58" column="49" />
+        <mark key="]" line="58" column="47" />
+        <mark key="." line="58" column="47" />
+        <mark key="^" line="58" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/access.robot" timestamp="1465276575511" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_text_saved.robot" timestamp="1465282510724">
-        <mark key="[" line="79" column="14" />
-        <mark key="]" line="79" column="21" />
-        <mark key="." line="79" column="14" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_text_saved.robot" timestamp="1465285047180">
+        <mark key="[" line="79" column="162" />
+        <mark key="]" line="79" column="162" />
+        <mark key="." line="79" column="162" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_icon_shows_tool_name.robot" timestamp="1465282489996">
         <mark key="'" line="35" column="26" />
@@ -133,7 +130,7 @@
         <mark key="]" line="76" column="21" />
         <mark key="." line="76" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465282667852">
+      <file name="/Dummy.txt" timestamp="1465285072998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -263,7 +260,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>logic improvement for IAT-2</text>
+        <text>, 'B', '7', '8'</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -272,31 +269,31 @@
         <text>Sketch Height</text>
       </register>
       <register name="1" type="4">
-        <text>logic improvement for IAT-2</text>
+        <text>, 'B', '7', '8'</text>
       </register>
       <register name="2" type="4">
-        <text>Answer Masking</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>Answer Masking</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>Answer Masking</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>Answer Masking</text>
+        <text>3</text>
       </register>
       <register name="6" type="4">
-        <text>Answer Masking</text>
+        <text>'</text>
       </register>
       <register name="7" type="4">
-        <text>Answer Masking</text>
+        <text>logic improvement for IAT-2</text>
       </register>
       <register name="8" type="4">
-        <text>Notepad Icon Shows Tool Name</text>
+        <text>Answer Masking</text>
       </register>
       <register name="9" type="4">
-        <text>Notepad Icon Shows Tool Name</text>
+        <text>Answer Masking</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
