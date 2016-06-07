@@ -68,7 +68,7 @@
       <version-cache version="4.1.1" last-modified="1443017151000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="4.1.1" last-modified="1443017151000" />
+      <version-cache version="6.1.0" last-modified="1462485688000" />
     </local-interpreter>
   </component>
   <component name="PyCodeInsightSettings">
