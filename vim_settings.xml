@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/eMetricRobot/users.yaml" timestamp="1465273353497">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1465267279026">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -253,7 +259,7 @@
         <text encoding="base64">c2V0IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ck1hdGggU2Vzc2lvbiBRdWVzdGlvbiA4IEFuc3dlciBNYXNraW5nIFNob3VsZCBXb3JkIEZvciBFYWNoIEFuc3dlcgogIFRvZ2dsZSBBbnN3ZXIgTWFza2luZyBGb3IgUmVzcG9uc2UgICAgQQogIEFuc3dlciBNYXNraW5nIFNob3VsZCBCZSBBcHBsaWVkIEZvciBSZXNwb25zZSAgICBBCiAgVG9nZ2xlIEFuc3dlciBNYXNraW5nIEZvciBSZXNwb25zZSAgICBBCiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIE5vdCBCZSBBcHBsaWVkIEZvciBBbGwgUmVzcG9uc2VzICAgIEEKICBUb2dnbGUgQW5zd2VyIE1hc2tpbmcgRm9yIFJlc3BvbnNlICAgIEIKICBBbnN3ZXIgTWFza2luZyBTaG91bGQgQmUgQXBwbGllZCBGb3IgUmVzcG9uc2UgICAgQgogIFRvZ2dsZSBBbnN3ZXIgTWFza2luZyBGb3IgUmVzcG9uc2UgICAgQgogIEFuc3dlciBNYXNraW5nIFNob3VsZCBOb3QgQmUgQXBwbGllZCBGb3IgQWxsIFJlc3BvbnNlcyAgICBCCiAgVG9nZ2xlIEFuc3dlciBNYXNraW5nIEZvciBSZXNwb25zZSAgICBDCiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIEJlIEFwcGxpZWQgRm9yIFJlc3BvbnNlICAgIEMKICBUb2dnbGUgQW5zd2VyIE1hc2tpbmcgRm9yIFJlc3BvbnNlICAgIEMKICBBbnN3ZXIgTWFza2luZyBTaG91bGQgTm90IEJlIEFwcGxpZWQgRm9yIEFsbCBSZXNwb25zZXMgICAgQwogIFRvZ2dsZSBBbnN3ZXIgTWFza2luZyBGb3IgUmVzcG9uc2UgICAgRAogIEFuc3dlciBNYXNraW5nIFNob3VsZCBCZSBBcHBsaWVkIEZvciBSZXNwb25zZSAgICBECiAgVG9nZ2xlIEFuc3dlciBNYXNraW5nIEZvciBSZXNwb25zZSAgICBECiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIE5vdCBCZSBBcHBsaWVkIEZvciBBbGwgUmVzcG9uc2VzICAgIEQK</text>
+        <text encoding="base64">ICAgIC0gJ2Fuc3dlcl9tYXNraW5nJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBTZXQgTGlicmFyeSBTZWFyY2ggT3JkZXIK</text>
