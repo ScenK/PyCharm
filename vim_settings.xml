@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1465091245270">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="53" />
-        <mark key="^" line="21" column="1" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1465264898768">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1464170645103">
         <mark key="[" line="61" column="0" />
@@ -79,7 +80,6 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/GestureEnhanceLibrary.py" timestamp="1465255896711" />
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1464159658548">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="20" column="11" />
@@ -87,7 +87,7 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1465090662169">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1465264921784">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="148" column="19" />
         <mark key="]" line="148" column="32" />
@@ -123,6 +123,7 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" timestamp="1464252216995">
         <mark key="'" line="326" column="52" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/robot/libraries/BuiltIn.py" timestamp="1465264924416" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" timestamp="1464166675461">
         <mark key="'" line="192" column="26" />
         <mark key="[" line="1" column="11" />
