@@ -32,6 +32,13 @@
         <mark key="." line="68" column="27" />
         <mark key="^" line="68" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" timestamp="1465278130924">
+        <mark key="'" line="3" column="31" />
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="30" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1465276309394" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1465282487238">
         <mark key="[" line="94" column="14" />
@@ -44,6 +51,20 @@
         <mark key="[" line="55" column="14" />
         <mark key="]" line="55" column="28" />
         <mark key="." line="55" column="14" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" timestamp="1465282761102">
+        <mark key="'" line="20" column="2" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1465277759384">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="148" column="19" />
+        <mark key="]" line="148" column="32" />
+        <mark key="." line="148" column="32" />
+        <mark key="^" line="148" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/multiple_choice.robot" timestamp="1465275874571" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/answer_masking/answer_masking_reset.robot" timestamp="1465282448889">
@@ -86,6 +107,13 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1465281866540">
         <mark key="'" line="77" column="14" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/tests_generator.py" timestamp="1465281214902">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="58" column="48" />
+        <mark key="]" line="58" column="49" />
+        <mark key="." line="58" column="49" />
+        <mark key="^" line="58" column="49" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/access.robot" timestamp="1465276575511" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_text_saved.robot" timestamp="1465282510724">
         <mark key="[" line="79" column="14" />
@@ -105,8 +133,10 @@
         <mark key="]" line="76" column="21" />
         <mark key="." line="76" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465282612415">
+      <file name="/Dummy.txt" timestamp="1465282667852">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/answer_masking/answer_masking_pause_relogin_multi.robot" timestamp="1465282445131">
         <mark key="[" line="49" column="14" />
@@ -127,9 +157,6 @@
         <mark key="[" line="34" column="14" />
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="14" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/StringEnhanceLibrary.py" timestamp="1464165873960">
-        <mark key="[" line="101" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -236,7 +263,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Answer Masking</text>
+        <text>logic improvement for IAT-2</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -245,7 +272,7 @@
         <text>Sketch Height</text>
       </register>
       <register name="1" type="4">
-        <text>Answer Masking</text>
+        <text>logic improvement for IAT-2</text>
       </register>
       <register name="2" type="4">
         <text>Answer Masking</text>
@@ -263,13 +290,13 @@
         <text>Answer Masking</text>
       </register>
       <register name="7" type="4">
-        <text>Notepad Icon Shows Tool Name</text>
+        <text>Answer Masking</text>
       </register>
       <register name="8" type="4">
         <text>Notepad Icon Shows Tool Name</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICB1c2VybmFtZSAgICAgcGFzc3dvcmQgICAgc2Vzc2lvbl9uYW1lICAgICAgc2Vzc2lvbl9hY2Nlc3NfY29kZSAgICBpdGVtX251bWJlcg==</text>
+        <text>Notepad Icon Shows Tool Name</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
