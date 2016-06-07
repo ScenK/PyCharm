@@ -3,17 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1465264898768">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking.robot" timestamp="1465267279026">
         <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="1" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="25" column="1" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1464170645103">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="13" />
         <mark key="^" line="61" column="13" />
         <mark key="." line="61" column="13" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1465267643877">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_practice_test.robot" timestamp="1464250010627">
         <mark key="'" line="115" column="0" />
@@ -142,7 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
       <jump line="36" column="66" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="194" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="31" column="45" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
@@ -242,40 +243,41 @@
       <jump line="12" column="53" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/answer_masking_multi.robot" />
       <jump line="772" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="42" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>s2</text>
+        <text encoding="base64">c2V0IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ck1hdGggU2Vzc2lvbiBRdWVzdGlvbiA4IEFuc3dlciBNYXNraW5nIFNob3VsZCBXb3JkIEZvciBFYWNoIEFuc3dlcgogIFRvZ2dsZSBBbnN3ZXIgTWFza2luZyBGb3IgUmVzcG9uc2UgICAgQQogIEFuc3dlciBNYXNraW5nIFNob3VsZCBCZSBBcHBsaWVkIEZvciBSZXNwb25zZSAgICBBCiAgVG9nZ2xlIEFuc3dlciBNYXNraW5nIEZvciBSZXNwb25zZSAgICBBCiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIE5vdCBCZSBBcHBsaWVkIEZvciBBbGwgUmVzcG9uc2VzICAgIEEKICBUb2dnbGUgQW5zd2VyIE1hc2tpbmcgRm9yIFJlc3BvbnNlICAgIEIKICBBbnN3ZXIgTWFza2luZyBTaG91bGQgQmUgQXBwbGllZCBGb3IgUmVzcG9uc2UgICAgQgogIFRvZ2dsZSBBbnN3ZXIgTWFza2luZyBGb3IgUmVzcG9uc2UgICAgQgogIEFuc3dlciBNYXNraW5nIFNob3VsZCBOb3QgQmUgQXBwbGllZCBGb3IgQWxsIFJlc3BvbnNlcyAgICBCCiAgVG9nZ2xlIEFuc3dlciBNYXNraW5nIEZvciBSZXNwb25zZSAgICBDCiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIEJlIEFwcGxpZWQgRm9yIFJlc3BvbnNlICAgIEMKICBUb2dnbGUgQW5zd2VyIE1hc2tpbmcgRm9yIFJlc3BvbnNlICAgIEMKICBBbnN3ZXIgTWFza2luZyBTaG91bGQgTm90IEJlIEFwcGxpZWQgRm9yIEFsbCBSZXNwb25zZXMgICAgQwogIFRvZ2dsZSBBbnN3ZXIgTWFza2luZyBGb3IgUmVzcG9uc2UgICAgRAogIEFuc3dlciBNYXNraW5nIFNob3VsZCBCZSBBcHBsaWVkIEZvciBSZXNwb25zZSAgICBECiAgVG9nZ2xlIEFuc3dlciBNYXNraW5nIEZvciBSZXNwb25zZSAgICBECiAgQW5zd2VyIE1hc2tpbmcgU2hvdWxkIE5vdCBCZSBBcHBsaWVkIEZvciBBbGwgUmVzcG9uc2VzICAgIEQK</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBTZXQgTGlicmFyeSBTZWFyY2ggT3JkZXIK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
         <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>A</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>A</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
         <text>l</text>
@@ -285,9 +287,9 @@
       </register>
     </registers>
     <search>
-      <last-search>s2</last-search>
+      <last-search encoding="base64">c2V0IA==</last-search>
       <last-offset />
-      <last-pattern>s2</last-pattern>
+      <last-pattern encoding="base64">c2V0IA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -309,6 +311,7 @@
         <entry>Session 1 Question 2 Scientific Calculator Tool Should Work</entry>
         <entry>reverse cont</entry>
         <entry>s2</entry>
+        <entry encoding="base64">c2V0IA==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
