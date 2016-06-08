@@ -115,19 +115,11 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1465277759384">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="148" column="19" />
-        <mark key="]" line="148" column="32" />
-        <mark key="." line="148" column="32" />
-        <mark key="^" line="148" column="32" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/answer_masking/answer_masking_reset.robot" timestamp="1465282448889">
         <mark key="[" line="47" column="14" />
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="14" />
       </file>
-      <file name="/usr/local/lib/python2.7/site-packages/robot/libraries/BuiltIn.py" timestamp="1465366130423" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/sketch_highlight/sketch_highlight_basic.robot" timestamp="1465282529235">
         <mark key="[" line="110" column="14" />
         <mark key="]" line="110" column="26" />
