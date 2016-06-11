@@ -44,10 +44,10 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/tests_generator.py" timestamp="1465284952530">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="58" column="48" />
-        <mark key="]" line="58" column="47" />
-        <mark key="." line="58" column="47" />
-        <mark key="^" line="58" column="47" />
+        <mark key="[" line="60" column="48" />
+        <mark key="]" line="60" column="47" />
+        <mark key="." line="60" column="47" />
+        <mark key="^" line="60" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_drag_resize.robot" timestamp="1465282487238">
         <mark key="[" line="94" column="14" />
@@ -78,7 +78,7 @@
         <mark key="." line="79" column="162" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1465437519132">
-        <mark key="'" line="41" column="78" />
+        <mark key="'" line="73" column="78" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_icon_shows_tool_name.robot" timestamp="1465282489996">
         <mark key="'" line="35" column="26" />
