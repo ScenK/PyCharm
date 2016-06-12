@@ -14,9 +14,6 @@
         <mark key="." line="40" column="14" />
         <mark key="^" line="40" column="173" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1465437519132">
-        <mark key="'" line="73" column="78" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/answer_masking/answer_masking_reset.robot" timestamp="1465282448889">
         <mark key="[" line="47" column="14" />
         <mark key="]" line="47" column="28" />
