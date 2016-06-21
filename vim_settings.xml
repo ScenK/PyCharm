@@ -3,31 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" timestamp="1466495385482">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="43" column="16" />
-        <mark key="]" line="43" column="15" />
-        <mark key="." line="43" column="15" />
-        <mark key="^" line="43" column="15" />
-      </file>
       <file name="/Dummy.txt" timestamp="1466495459764">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_close_automatically_when_navigating_away.robot" timestamp="1466496871504">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="30" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1466047968657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466494142582">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466497040013">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="32" />
-        <mark key="." line="121" column="19" />
-        <mark key="^" line="121" column="19" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_without_stimulus.robot" timestamp="1466491179051">
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="36" column="2" />
-        <mark key="." line="36" column="2" />
-        <mark key="^" line="30" column="1" />
+        <mark key="[" line="65" column="65" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1466493161596">
         <mark key="[" line="21" column="0" />
@@ -50,6 +40,23 @@
         <mark key="'" line="92" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="22" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/pager.robot" timestamp="1466496568466">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" timestamp="1466496290938">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_without_stimulus.robot" timestamp="1466491179051">
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="2" />
+        <mark key="." line="36" column="2" />
+        <mark key="^" line="30" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_one_stimulus.robot" timestamp="1466493366484">
         <mark key="[" line="39" column="0" />
@@ -168,40 +175,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>default</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
-      <register name="0" type="4">
-        <text>_1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBHdWlkZWxpbmUgU2hvdWxkIE5vdCBEaXNwbGF5Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>default</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBHbyBUbyBOZXh0IEl0ZW0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAjIFNhdmUgZGVmYXVsdCBwb3NpdGlvbgogIEB7b2Zmc2V0fT0gICAgR2V0IEd1aWRlbGluZSBQb3NpdGlvbgogICMgU2F2ZSBkZWZhdWx0IHNpemUKICBAe3NpemV9PSAgICBHZXQgR3VpZGVsaW5lIE91dGVyIFNpemUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyAgR3VpZGVsaW5lIFBvc2l0aW9uIFNob3VsZCBCZSBTYW1lCg==</text>
-      </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>t</text>
       </register>
-      <register name="5" type="4">
-        <text>s</text>
-      </register>
-      <register name="6" type="4">
-        <text>_</text>
-      </register>
-      <register name="7" type="4">
-        <text>w</text>
-      </register>
-      <register name="8" type="4">
+      <register name="4" type="4">
         <text>o</text>
       </register>
+      <register name="5" type="4">
+        <text>N</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBHdWlkZWxpbmUgU2hvdWxkIERpc3BsYXkK</text>
+      </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>Navigate to the next item (if at last item, then go to first item)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -240,9 +247,9 @@
         <entry>action FindNext</entry>
         <entry>bn!</entry>
         <entry>bp!</entry>
-        <entry>CtrlPBuffer</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
+        <entry>vs</entry>
+        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
