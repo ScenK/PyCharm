@@ -15,9 +15,12 @@
       <file name="/a.dummy" timestamp="1466047968657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466497040013">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="65" column="65" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466499717537">
+        <mark key="'" line="41" column="62" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="33" />
+        <mark key="." line="99" column="20" />
+        <mark key="^" line="99" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1466493161596">
         <mark key="[" line="21" column="0" />
@@ -45,12 +48,18 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" timestamp="1466496290938">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" timestamp="1466499030968">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="43" column="16" />
-        <mark key="]" line="43" column="15" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="63" />
         <mark key="." line="43" column="15" />
         <mark key="^" line="43" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag.robot" timestamp="1466499898227">
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="31" />
+        <mark key="." line="54" column="31" />
+        <mark key="^" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_without_stimulus.robot" timestamp="1466491179051">
         <mark key="[" line="36" column="2" />
@@ -58,9 +67,9 @@
         <mark key="." line="36" column="2" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_one_stimulus.robot" timestamp="1466493366484">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="29" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_one_stimulus.robot" timestamp="1466498772800">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="39" />
         <mark key="." line="27" column="42" />
         <mark key="^" line="27" column="42" />
       </file>
@@ -72,8 +81,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
-      <jump line="45" column="21" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="20" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" />
       <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
       <jump line="58" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
@@ -172,6 +179,8 @@
       <jump line="118" column="48" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="8" column="34" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="68" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="17" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="41" column="62" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -181,34 +190,34 @@
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBHdWlkZWxpbmUgU2hvdWxkIE5vdCBEaXNwbGF5Cg==</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiMy4gRHJhZyBMaW5lIFJlYWRlciB0b29sIGRvd24gYnkgYW4gc21hbGwgb2Zmc2V0LCAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBHbyBUbyBOZXh0IEl0ZW0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Line Reader tool with</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text encoding="base64">bW92ZXMgdG8gdGhlIGJvdHRvbSA=</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBNb3ZlIEd1aWRlbGluZSBUb29sICAgIDAgICAgMTUK</text>
       </register>
       <register name="5" type="4">
-        <text>N</text>
+        <text>.</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBHdWlkZWxpbmUgRXhwYW5kZXIgU2hvdWxkIERpc3BsYXkK</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBHdWlkZWxpbmUgU2hvdWxkIERpc3BsYXkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>Navigate to the next item (if at last item, then go to first item)</text>
+        <text>}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
