@@ -3,24 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1466055585884">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1466047968657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/__init__.py" timestamp="1466054065107" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1466055341093" />
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" timestamp="1466046547887" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466488888731">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="37" />
+        <mark key="." line="91" column="43" />
+        <mark key="^" line="91" column="43" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1466489489707">
+        <mark key="'" line="150" column="8" />
+        <mark key="[" line="153" column="74" />
+        <mark key="]" line="153" column="73" />
+        <mark key="^" line="153" column="73" />
+        <mark key="." line="153" column="73" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466488918930">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="56" />
+        <mark key="^" line="26" column="57" />
+        <mark key="." line="46" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
-      <jump line="369" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
-      <jump line="263" column="28" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
-      <jump line="267" column="36" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
-      <jump line="361" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="117" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="134" column="12" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="324" column="52" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/01_navigation.robot" />
@@ -116,31 +123,36 @@
       <jump line="77" column="14" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_vertical_scroll_bar_with_long_notes.robot" />
       <jump line="41" column="78" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="85" column="49" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="20" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="154" column="20" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
+      <jump line="150" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, 'B', '7', '8'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
-      <register name="0" type="4">
-        <text>Sketch Height</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBHdWlkZWxpbmUgTWVudSBUb29sdGlwIENvbG9yIFNob3VsZCBCZSAgICByZ2IoMCwgMCwgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xlYW51cCBjb2RlCg==</text>
+        <text encoding="base64">YWRkIG1pc3NpbmcgZmlsZS4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2FtZSBuYW1pbmcK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">UmVvcmduaXphdGlvbiBmb2xkZXIK</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">SUFULTI4MC4gTm93IHVzZSB0ZXN0IHRlbXBsYXRlcyBmb3IgcmVncmVzc2lvbiB0ZXN0cy4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>, 'B', '7', '8'</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
@@ -149,10 +161,10 @@
         <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -188,12 +200,12 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
-        <entry>CtrlPBuffer</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
-        <entry>vs</entry>
         <entry>action FindNext</entry>
         <entry>bn!</entry>
         <entry>bp!</entry>
+        <entry>vs</entry>
+        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
