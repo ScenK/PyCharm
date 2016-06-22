@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1466495459764">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_close_automatically_when_navigating_away.robot" timestamp="1466496871504">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="30" />
@@ -31,6 +28,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466562644446">
+        <mark key="'" line="24" column="20" />
+        <mark key="[" line="32" column="75" />
+        <mark key="]" line="32" column="75" />
+        <mark key="^" line="30" column="100" />
+        <mark key="." line="32" column="75" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1466489489707">
         <mark key="'" line="150" column="8" />
@@ -77,7 +81,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="2" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/randomly_chosen_buttons_and_keyboard_input.robot" />
       <jump line="22" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
       <jump line="58" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/items/oe_item_fx/fx_expression_and_pause_test.robot" />
       <jump line="177" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/FxLibrary.py" />
@@ -177,43 +180,44 @@
       <jump line="68" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="17" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="41" column="62" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="24" column="20" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IGluIGRlZmF1bHQgY29sb3I=</text>
+        <text encoding="base64">IHVudGlsIHJlYWNoIHRoZSBtaW5pbXVtIHdpZHRoIGxpbWl0</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBHdWlkZWxpbmUgTWVudSBTaG91bGQgRGlzcGxheQo=</text>
+      <register name="0" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHVudGlsIHJlYWNoIHRoZSBtaW5pbXVtIHdpZHRoIGxpbWl0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QK</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGluIGRlZmF1bHQgY29sb3I=</text>
+        <text encoding="base64">IEd1aWRlbGluZSB0b29sIGlzIG9wZW4gYXQgdGhlIHRvcCBvZiBpdGVtIHBhZ2U=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGluIGRlZmF1bHQgY29sb3I=</text>
+        <text encoding="base64">ICgyMDAlIG9mIHNjcmVlbiB3aWR0aCkg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBHdWlkZWxpbmUgTWVudSBUb29sdGlwIENvbG9yIFNob3VsZCBCZSAgICByZ2IoMCwgMCwgMCkK</text>
+      <register name="6" type="4">
+        <text>4. Re-size Guideline tool horizontally with a big offset (200% of screen width) to the left</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBHdWlkZWxpbmUgTWVudSBUb29sdGlwIENvbG9yIFNob3VsZCBCZSAgICByZ2IoMCwgMCwgMCkK</text>
+        <text encoding="base64">My4gUmUtc2l6ZSBHdWlkZWxpbmUgdG9vbCBob3Jpem9udGFsbHkgd2l0aCBhIGJpZyBvZmZzZXQgKDIwMCUgb2Ygc2NyZWVuIHdpZHRoKSB0byB0aGUgcmlnaHQsIHZlcmlmeSBHdWlkZWxpbmUgdG9vbCdzIHJpZ2h0IGZyYW1lIGNhbm5vdCBtb3ZlIG91dCBvZiBzaWdodAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBHdWlkZWxpbmUgTWVudSBUb29sdGlwIENvbG9yIFNob3VsZCBCZSAgICByZ2IoMCwgMCwgMCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">R3VpZGVsaW5lIE1lbnUgVG9vbHRpcCBDb2xvciBTaG91bGQgQmUKICBbRG9jdW1lbnRhdGlvbl0gICAgVmVyaWZ5IGd1aWRlbGluZSBtZW51IHRvb2x0aXAgY29sb3IgaXMgdGhlIHNhbWUgd2l0aCBnaXZlbiBjb2xvcgogIFtBcmd1bWVudHNdICAgICR7Y29sb3J9CiAgJHtmb250X2NvbG9yfT0gICAgRXhlY3V0ZSBKYXZhc2NyaXB0ICAgIHJldHVybiAkKCcjYnRuX2d1aWRlbGluZSAudGVzdGVyVGlwJykuY3NzKCdjb2xvcicpCiAgU2hvdWxkIENvbnRhaW4gICAgJHtjb2xvcn0gICAgJHtmb250X2NvbG9yfQoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICgyMDAlIG9mIHNjcmVlbiB3aWR0aCkg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
