@@ -19,9 +19,9 @@
         <mark key="." line="95" column="58" />
         <mark key="^" line="95" column="58" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1466493161596">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="14" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1466566608114">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
         <mark key="[" line="12" column="0" />
@@ -29,7 +29,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466565697899">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466566341956">
         <mark key="'" line="24" column="20" />
         <mark key="[" line="33" column="22" />
         <mark key="]" line="33" column="22" />
@@ -57,6 +57,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1466566713106">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="66" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag.robot" timestamp="1466499898227">
         <mark key="[" line="54" column="31" />
         <mark key="]" line="54" column="31" />
@@ -67,9 +73,10 @@
         <mark key="]" line="36" column="2" />
         <mark key="." line="36" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" timestamp="1466561500066">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" timestamp="1466566712157">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="63" column="65" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_one_stimulus.robot" timestamp="1466561389160" />
@@ -81,7 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="26" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/open_ended.robot" />
       <jump line="43" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="81" column="35" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="84" column="6" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
@@ -181,43 +187,44 @@
       <jump line="72" column="18" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="87" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="88" column="32" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="37" column="24" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>TOP_PIECE}</text>
+        <text>guideline</text>
       </register>
       <register name="/" type="4">
         <text>Line Reader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBSZXNpemUgR3VpZGVsaW5lICAgIDIwMCAgICAwCg==</text>
+        <text encoding="base64">ICBAe25vd19vZmZzZXRfMX09ICAgIEdldCBHdWlkZWxpbmUgUG9zaXRpb24KICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgICBAe25vd19vZmZzZXRfMX1bMF0gICAgQHtvZmZzZXR9WzBdCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgQHtub3dfb2Zmc2V0XzF9WzFdICAgIEB7b2Zmc2V0fVsxXQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>TOP_PIECE}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBTdGltdWx1cyBTY3JvbGwgQmFyIENhbiBTY3JvbGwgVG8gVGhlIFRvcAo=</text>
       </register>
       <register name="2" type="4">
-        <text>_PIECE}</text>
+        <text>guideline</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyR7R1VJREVMSU5FLklOTkVSX0VYUEFOREVSfSAgICBqcXVlcnk9ZGl2Lmd1aWRlbGluZUV4cGFuZGVyOmZpcnN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>gl_toppiece</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAgJHtjb29yZHgyfSAgICAke2Nvb3JkeTJ9PSAgICBHZXQgRWxlbWVudCBDb29yZGluYXRlcyAgICAke0dVSURFTElORS5HVUlERUxJTkVfVE9PTH0KI1Jlc2l6ZSBHdWlkZWxpbmUgSW5uZXIgQm94CiMgIFtEb2N1bWVudGF0aW9uXSAgICBSZXNpemUgdGhlIGd1aWRlbGluZSB0b29sJ3MgaW5uZXIgYm94IGJ5IHRoZSBnaXZlbiBYIGFuZCBZIG9mZnNldC4KIyAgW0FyZ3VtZW50c10gICAgJHtvZmZzZXRYfSAgICAgJHtvZmZzZXRZfQojICAke2Nvb3JkeDF9ICAgICR7Y29vcmR5MX09ICAgIEdldCBFbGVtZW50IENvb3JkaW5hdGVzICAgICR7R1VJREVMSU5FLklOTkVSX0VYUEFOREVSfQojICBEcmFnIEFuZCBEcm9wIEJ5IE9mZnNldCAgICAke0dVSURFTElORS5JTk5FUl9FWFBBTkRFUn0gICAgJHtvZmZzZXRYfSAgICAke29mZnNldFl9CiMgIFNsZWVwICAgIDEKIyAgJHtjb29yZHgyfSAgICAke2Nvb3JkeTJ9PSAgICBHZXQgRWxlbWVudCBDb29yZGluYXRlcyAgICAke0dVSURFTElORS5JTk5FUl9FWFBBTkRFUn0KIyAgVmVyaWZ5IE1vdmVkIExvY2F0aW9uICAgICR7Y29vcmR4MX0gICAgJHtvZmZzZXRYfSAgICAke2Nvb3JkeDJ9CiMgIFZlcmlmeSBNb3ZlZCBMb2NhdGlvbiAgICAke2Nvb3JkeTF9ICAgICR7b2Zmc2V0WX0gICAgJHtjb29yZHkyfQojCiNSZXNpemUgR3VpZGVsaW5lIE91dGVyIEJveAojICBbRG9jdW1lbnRhdGlvbl0gICAgUmVzaXplIHRoZSBndWlkZWxpbmUgdG9vbCdzIG91dGVyIGJveCBieSB0aGUgZ2l2ZW4gWCBhbmQgWSBvZmZzZXQKIyAgW0FyZ3VtZW50c10gICAgJHtvZmZzZXRYfSAgICAgJHtvZmZzZXRZfQojICAke2Nvb3JkeDF9ICAgICR7Y29vcmR5MX09ICAgIEdldCBFbGVtZW50IENvb3JkaW5hdGVzICAgICR7R1VJREVMSU5FLk9VVEVSX0VYUEFOREVSfQojICBEcmFnIEFuZCBEcm9wIEJ5IE9mZnNldCAgICAke0dVSURFTElORS5PVVRFUl9FWFBBTkRFUn0gICAgJHtvZmZzZXRYfSAgICAke29mZnNldFl9CiMgIFNsZWVwICAgIDEKIyAgJHtjb29yZHgyfSAgICAke2Nvb3JkeTJ9PSAgICBHZXQgRWxlbWVudCBDb29yZGluYXRlcyAgICAke0dVSURFTElORS5PVVRFUl9FWFBBTkRFUn0KIyAgVmVyaWZ5IE1vdmVkIExvY2F0aW9uICAgICR7Y29vcmR4MX0gICAgJHtvZmZzZXRYfSAgICAke2Nvb3JkeDJ9CiMgIFZlcmlmeSBNb3ZlZCBMb2NhdGlvbiAgICAke2Nvb3JkeTF9ICAgICR7b2Zmc2V0WX0gICAgJHtjb29yZHkyfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgJHtjb29yZHgxfSAgICAke2Nvb3JkeTF9PSAgICBHZXQgRWxlbWVudCBDb29yZGluYXRlcyAgICAke0dVSURFTElORS5HVUlERUxJTkVfVE9PTH0K</text>
+      <register name="6" type="4">
+        <text>On the item page with stimulus that has scroll bar, c</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">JHtvZmZzZXRYfSAgICAke29mZnNldFl9PSAgICA=</text>
+        <text>Guideline Drag</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>TOP_PIECE}</text>
       </register>
       <register name="9" type="4">
-        <text>R</text>
+        <text>_PIECE}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -261,9 +268,9 @@
         <entry>bp!</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>vs</entry>
         <entry>action FindNext</entry>
         <entry>%s/Line Reader/Guideline/g</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
