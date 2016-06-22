@@ -12,10 +12,10 @@
       <file name="/a.dummy" timestamp="1466047968657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466564097044">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466572158718">
         <mark key="'" line="88" column="32" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="35" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="23" />
         <mark key="." line="95" column="58" />
         <mark key="^" line="95" column="58" />
       </file>
@@ -68,6 +68,10 @@
         <mark key="]" line="54" column="31" />
         <mark key="." line="54" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/reverse_contrast.robot" timestamp="1466571920847">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="22" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_without_stimulus.robot" timestamp="1466491179051">
         <mark key="[" line="36" column="2" />
         <mark key="]" line="36" column="2" />
@@ -79,7 +83,12 @@
         <mark key="]" line="63" column="65" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_one_stimulus.robot" timestamp="1466561389160" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_reverse_contrast.robot" timestamp="1466572168360">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="56" />
+        <mark key="." line="38" column="56" />
+        <mark key="^" line="36" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
@@ -191,40 +200,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>guideline</text>
+        <text>Mouse over Guideline icon</text>
       </register>
       <register name="/" type="4">
         <text>Line Reader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAe25vd19vZmZzZXRfMX09ICAgIEdldCBHdWlkZWxpbmUgUG9zaXRpb24KICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgICBAe25vd19vZmZzZXRfMX1bMF0gICAgQHtvZmZzZXR9WzBdCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgQHtub3dfb2Zmc2V0XzF9WzFdICAgIEB7b2Zmc2V0fVsxXQo=</text>
+        <text encoding="base64">R3VpZGVsaW5lIFNob3VsZCBEaXNwbGF5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBTdGltdWx1cyBTY3JvbGwgQmFyIENhbiBTY3JvbGwgVG8gVGhlIFRvcAo=</text>
+        <text encoding="base64">ICBHdWlkZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>guideline</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBUb2dnbGUgR3VpZGVsaW5lIFRvb2wK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>Mouse over Guideline icon</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>verify tool name &quot;Guideline&quot; shows up in inverted contrast</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>verify tool name &quot;Guideline&quot; shows up in inverted contrast</text>
       </register>
       <register name="6" type="4">
-        <text>On the item page with stimulus that has scroll bar, c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>Guideline Drag</text>
+        <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>TOP_PIECE}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBTaG93IEd1aWRlbGluZSBNZW51Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>_PIECE}</text>
+        <text>$USER_HOME$/Develop/eMetricRobot</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
