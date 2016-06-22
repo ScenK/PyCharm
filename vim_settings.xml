@@ -12,10 +12,10 @@
       <file name="/a.dummy" timestamp="1466047968657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466572158718">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466575420612">
         <mark key="'" line="88" column="32" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="23" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="15" />
         <mark key="." line="95" column="58" />
         <mark key="^" line="95" column="58" />
       </file>
@@ -42,6 +42,13 @@
         <mark key="]" line="153" column="73" />
         <mark key="^" line="153" column="73" />
         <mark key="." line="153" column="73" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_sketch_highlight.robot" timestamp="1466576950665">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="32" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="37" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" timestamp="1466493759215">
         <mark key="'" line="92" column="0" />
@@ -89,6 +96,11 @@
         <mark key="." line="38" column="56" />
         <mark key="^" line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1466576737491">
+        <mark key="'" line="185" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="30" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
@@ -97,9 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="81" column="35" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
-      <jump line="84" column="6" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="85" column="20" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="89" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
       <jump line="93" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/02_tools.robot" />
@@ -197,52 +206,55 @@
       <jump line="87" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="88" column="32" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="37" column="24" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" />
+      <jump line="35" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_sketch_highlight.robot" />
+      <jump line="7" column="22" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_sketch_highlight.robot" />
+      <jump line="185" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Mouse over Guideline icon</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Line Reader</text>
+        <text>draw line</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">R3VpZGVsaW5lIFNob3VsZCBEaXNwbGF5Cg==</text>
+      <register name="0" type="4">
+        <text>${i}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBHdWlkZQo=</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBUb2dnbGUgR3VpZGVsaW5lIFRvb2wK</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>Mouse over Guideline icon</text>
+        <text>${end_y}</text>
       </register>
       <register name="4" type="4">
-        <text>verify tool name &quot;Guideline&quot; shows up in inverted contrast</text>
+        <text>${end_x}</text>
       </register>
       <register name="5" type="4">
-        <text>verify tool name &quot;Guideline&quot; shows up in inverted contrast</text>
+        <text>${start_y}</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>${start_x}</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBTaG93IEd1aWRlbGluZSBNZW51Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="4">
-        <text>$USER_HOME$/Develop/eMetricRobot</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>outer</last-search>
+      <last-search>draw line</last-search>
       <last-offset />
-      <last-pattern>Line Reader</last-pattern>
+      <last-pattern>draw line</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
@@ -270,16 +282,18 @@
         <entry>get</entry>
         <entry>outer</entry>
         <entry>Line Reader</entry>
+        <entry>drawline</entry>
+        <entry>draw line</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
         <entry>bn!</entry>
         <entry>bp!</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
-        <entry>CtrlPBuffer</entry>
-        <entry>action FindNext</entry>
         <entry>%s/Line Reader/Guideline/g</entry>
         <entry>vs</entry>
+        <entry>CtrlPBuffer</entry>
+        <entry>action FindNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
