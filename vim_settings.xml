@@ -9,8 +9,9 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1466047968657">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/masking.robot" timestamp="1466581543679">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466575420612">
         <mark key="'" line="88" column="32" />
@@ -78,6 +79,12 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/reverse_contrast.robot" timestamp="1466571920847">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_general_masking.robot" timestamp="1466581427379">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="36" />
+        <mark key="." line="37" column="36" />
+        <mark key="^" line="37" column="36" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_without_stimulus.robot" timestamp="1466491179051">
         <mark key="[" line="36" column="2" />
@@ -212,40 +219,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Guideline With Sketch Highlight</text>
       </register>
       <register name="/" type="4">
         <text>draw line</text>
       </register>
-      <register name="0" type="4">
-        <text>${i}</text>
+      <register name="0" type="2">
+        <text encoding="base64">TWFza2luZyBTaG91bGQgQmUgT3BhcXVlIFdoaXRlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiNC4gT3BlbiB0aGUgU2tldGNoICYgSGlnaGxpZ2h0IHRvb2wiCiAgUmVjb3JkIFRydWUgSWYgSXRlbSBIYXMgU3RpbXVsdXMKICBSZWNvcmQgU3RpbXVsdXMgU2l6ZQogIEl0ZW0gU2hvdWxkIEhhdmUgU2tldGNoCiAgVG9nZ2xlIFNrZXRjaCBUb29sCgogIDpGb3IgICAgJHtpfSAgICBJTiAgICBCbHVlICBCbGFjayAgUmVkICBIaWdobGlnaHRlcgogIFwgICAgTG9nIFRvIENvbnNvbGUgICAgIjUuJHtpfSBTZWxlY3QgJHtpfSBhbmQgdHJ5IHRvIGRyYXcgYSBsaW5lIGluc2lkZSB0aGUgR3VpZGVsaW5lIGJveCIKICBcCiAgXCAgICBSdW4gS2V5d29yZCBJZiAgJyR7aX0nID09ICdIaWdobGlnaHRlcicgICAgQ2hvb3NlIEhpZ2hsaWdodGVyCiAgXCAgICAuLi4gICAgRUxTRSAgICBDaG9vc2UgJHtpfSBTa2V0Y2ggUGVuCiAgXCAgICBEcmF3IExpbmUgSW4gUGFuZSAgICAgMyAgICAzICAgIDEyICAgMTIKICBcCiAgXCAgICBMb2cgVG8gQ29uc29sZSAgICAiNi4ke2l9IFZlcmlmeSB0aGUgJHtpfSBzaG91bGQgbm90IGJlIHVzYWJsZSBpbnNpZGUgdGhlIEd1aWRlbGluZSBib3giCiAgXCAgICBOdW1iZXIgT2YgTGluZXMgRHJhd24gU2hvdWxkIEJlICAgIDAK</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>Guideline With Sketch Highlight</text>
       </register>
       <register name="3" type="4">
-        <text>${end_y}</text>
+        <text>Sketch Highlight</text>
       </register>
-      <register name="4" type="4">
-        <text>${end_x}</text>
+      <register name="4" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL3Rvb2xzL3NrZXRjaC5yb2JvdAo=</text>
       </register>
       <register name="5" type="4">
-        <text>${start_y}</text>
+        <text>Sketch-Highlight</text>
       </register>
       <register name="6" type="4">
-        <text>${start_x}</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>${end_y}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>${end_x}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -291,9 +298,9 @@
         <entry>bp!</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>%s/Line Reader/Guideline/g</entry>
-        <entry>vs</entry>
         <entry>CtrlPBuffer</entry>
         <entry>action FindNext</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
