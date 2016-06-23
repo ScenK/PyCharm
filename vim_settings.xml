@@ -35,12 +35,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466655894603">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466655941873">
         <mark key="'" line="24" column="20" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="1" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="35" />
         <mark key="^" line="47" column="1" />
-        <mark key="." line="47" column="1" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1466489489707">
         <mark key="'" line="150" column="8" />
@@ -244,7 +244,7 @@
         <text>scientific</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R3VpZGVsaW5lIEV4cGFuZGVyIFNob3VsZCBEaXNwbGF5Cg==</text>
+        <text encoding="base64">ICBHdWlkZWxpbmUgRXhwYW5kZXIgU2hvdWxkIERpc3BsYXkK</text>
       </register>
       <register name="1" type="4">
         <text>-</text>
