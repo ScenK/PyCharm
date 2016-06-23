@@ -18,12 +18,12 @@
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466663561696">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="23" />
-        <mark key="." line="127" column="35" />
-        <mark key="^" line="133" column="33" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466666325665">
+        <mark key="'" line="43" column="26" />
+        <mark key="[" line="150" column="72" />
+        <mark key="]" line="150" column="80" />
+        <mark key="^" line="150" column="80" />
+        <mark key="." line="150" column="80" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1466566608114">
         <mark key="[" line="40" column="0" />
@@ -35,7 +35,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466663585354">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
         <mark key="[" line="83" column="42" />
         <mark key="]" line="84" column="50" />
@@ -72,11 +72,12 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1466567654227">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="36" column="66" />
-        <mark key="^" line="30" column="1" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1466665865356">
+        <mark key="'" line="1" column="55" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="1" />
+        <mark key="^" line="42" column="1" />
+        <mark key="." line="42" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag.robot" timestamp="1466499898227">
         <mark key="[" line="54" column="31" />
@@ -135,9 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
-      <jump line="111" column="28" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="135" column="30" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="216" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="104" column="24" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
@@ -235,43 +233,46 @@
       <jump line="96" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" />
       <jump line="91" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" />
       <jump line="124" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="34" column="41" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
+      <jump line="1" column="55" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
+      <jump line="43" column="26" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Get Guideline Outer Size</text>
+        <text>offset().top</text>
       </register>
       <register name="/" type="4">
         <text>scientific</text>
       </register>
-      <register name="0" type="4">
-        <text>Get Guideline Inner Size</text>
+      <register name="0" type="2">
+        <text encoding="base64">R3VpZGVsaW5lIFNob3VsZCBDb3ZlciBMYXN0IExpbmUKICBbRG9jdW1lbnRhdGlvbl0gICAgVmFsaWRhdGUgdGhlIGlubmVyIHNwYWNlIGJldHdlZW4gZ3VpZGVsaW5lIGlzIGNvdmVyaW5nIHRoZSBsYXN0IGxpbmUKICAjIGZvb3RlciBoZWlnaHQgLSAoZ3VpZGVsaW5lIGhlaWdodCArIGd1aWRlbGluZSB0b3AgcGllY2UpIDwgMjUoZm9udC1oZWlnaHQpCiAgQHtvZmZzZXR9PSAgICBHZXQgR3VpZGVsaW5lIFBvc2l0aW9uCiAgJHtmb290ZXJfb2Zmc2V0fT0gICAgRXhlY3V0ZSBKYXZhc2NyaXB0ICAgIHJldHVybiAkKCcjdGVzdC1mb290ZXInKS5vZmZzZXQoKS50b3AKICAke3RvcF9waWVjZV9oZWlnaHR9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJy5nbF90b3BwaWVjZScpLm9mZnNldCgpLnRvcAogIFNob3VsZCBCZSBUcnVlICAgICR7Zm9vdGVyX29mZnNldH0gLSBAe29mZnNldH1bMV0gLSAke3RvcF9waWVjZV9oZWlnaHR9IDwgMjUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBHdWlkZWxpbmUgU2hvdWxkIEJlIE1pbmltdW0K</text>
+      <register name="1" type="4">
+        <text>offset().top</text>
       </register>
       <register name="2" type="4">
-        <text>Get Guideline Outer Size</text>
+        <text>offset().top</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>test-footer</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
+        <text>o</text>
       </register>
       <register name="7" type="4">
-        <text>-</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -315,9 +316,9 @@
         <entry>bp!</entry>
         <entry>%s/Line Reader/Guideline/g</entry>
         <entry>action FindNext</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>CtrlPBuffer</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
