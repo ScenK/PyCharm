@@ -18,10 +18,10 @@
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466655889791">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="32" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466660166896">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="23" />
         <mark key="." line="133" column="33" />
         <mark key="^" line="133" column="33" />
       </file>
@@ -35,12 +35,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466659530285">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466661023112">
         <mark key="'" line="24" column="20" />
-        <mark key="[" line="68" column="105" />
-        <mark key="]" line="69" column="28" />
-        <mark key="^" line="69" column="28" />
-        <mark key="." line="69" column="28" />
+        <mark key="[" line="71" column="31" />
+        <mark key="]" line="71" column="32" />
+        <mark key="^" line="65" column="1" />
+        <mark key="." line="71" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1466489489707">
         <mark key="'" line="150" column="8" />
@@ -135,7 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="8" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="111" column="28" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
@@ -235,43 +234,44 @@
       <jump line="24" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="96" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" />
       <jump line="91" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" />
+      <jump line="124" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>-</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>scientific</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBHdWlkZWxpbmUgRXhwYW5kZXIgU2hvdWxkIERpc3BsYXkK</text>
-      </register>
-      <register name="1" type="4">
+      <register name="0" type="4">
         <text>-</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>1</text>
+      </register>
+      <register name="2" type="4">
+        <text>1</text>
       </register>
       <register name="3" type="4">
         <text>-</text>
       </register>
       <register name="4" type="4">
-        <text>top</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>right</text>
+        <text>1</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiNS4zIFZlcmlmeSBHdWlkZWxpbmUgdG9vbCB0b3AgZnJhbWUgaXMgc3RpbGwgdmlzaWJsZSB3aGVuIGF0IGJvdHRvbSBjb3JuZXJzIgo=</text>
+        <text encoding="base64">ICAke25vd19vZmZzZXR9PSAgICBHZXQgR3VpZGVsaW5lIFBvc2l0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAke29mZnNldH09ICAgIEdldCBHdWlkZWxpbmUgUG9zaXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiNS4yIFZlcmlmeSBHdWlkZWxpbmUgdG9vbCBib3R0b20gZnJhbWUgaXMgc3RpbGwgYXZhaWxhYmxlIHdoZW4gYXQgdG9wIGNvcm5lcnMgKElULTI4MjkpIgo=</text>
+        <text encoding="base64">ICBNb3ZlIEd1aWRlbGluZSBUb29sICAgIDEwICAgIDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
