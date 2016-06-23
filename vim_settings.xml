@@ -18,11 +18,11 @@
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466660166896">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466663561696">
         <mark key="'" line="124" column="0" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="23" />
-        <mark key="." line="133" column="33" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="23" />
+        <mark key="." line="127" column="35" />
         <mark key="^" line="133" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1466566608114">
@@ -35,12 +35,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466661023112">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466663585354">
         <mark key="'" line="24" column="20" />
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="32" />
-        <mark key="^" line="65" column="1" />
-        <mark key="." line="71" column="32" />
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="84" column="50" />
+        <mark key="^" line="84" column="50" />
+        <mark key="." line="84" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1466489489707">
         <mark key="'" line="150" column="8" />
@@ -238,40 +238,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Get Guideline Outer Size</text>
       </register>
       <register name="/" type="4">
         <text>scientific</text>
       </register>
       <register name="0" type="4">
-        <text>-</text>
+        <text>Get Guideline Inner Size</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBHdWlkZWxpbmUgU2hvdWxkIEJlIE1pbmltdW0K</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>Get Guideline Outer Size</text>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>-</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
         <text>1</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text>-</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAke25vd19vZmZzZXR9PSAgICBHZXQgR3VpZGVsaW5lIFBvc2l0aW9uCg==</text>
+      <register name="7" type="4">
+        <text>-</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAke29mZnNldH09ICAgIEdldCBHdWlkZWxpbmUgUG9zaXRpb24K</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBNb3ZlIEd1aWRlbGluZSBUb29sICAgIDEwICAgIDAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
