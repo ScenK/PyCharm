@@ -40,6 +40,12 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="76" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_color_chooser.robot" timestamp="1466739612248">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="27" />
+        <mark key="^" line="27" column="1" />
+        <mark key="." line="33" column="27" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag.robot" timestamp="1466499898227">
         <mark key="[" line="54" column="31" />
         <mark key="]" line="54" column="31" />
@@ -54,6 +60,12 @@
         <mark key="]" line="37" column="54" />
         <mark key="." line="1" column="66" />
         <mark key="^" line="1" column="66" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1466738590868">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="33" />
+        <mark key="^" line="53" column="23" />
+        <mark key="." line="53" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_reverse_contrast.robot" timestamp="1466572168360">
         <mark key="[" line="38" column="55" />
@@ -83,10 +95,10 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466666325665">
-        <mark key="'" line="43" column="26" />
-        <mark key="[" line="150" column="72" />
-        <mark key="]" line="150" column="80" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1466737615606">
+        <mark key="'" line="113" column="39" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="23" />
         <mark key="^" line="150" column="80" />
         <mark key="." line="150" column="80" />
       </file>
@@ -97,10 +109,10 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_sketch_highlight.robot" timestamp="1466578565166">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_sketch_highlight.robot" timestamp="1466737687137">
         <mark key="'" line="7" column="22" />
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="32" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="52" />
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
@@ -139,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="104" column="24" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="33" column="1" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
       <jump line="47" column="22" filename="$USER_HOME$/Develop/eMetricRobot/libraries/utils/active_accommodations.py" />
@@ -239,43 +250,44 @@
       <jump line="1" column="55" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="43" column="26" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="34" column="6" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
+      <jump line="113" column="39" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>offset().top</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>scientific</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R3VpZGVsaW5lIFNob3VsZCBDb3ZlciBMYXN0IExpbmUKICBbRG9jdW1lbnRhdGlvbl0gICAgVmFsaWRhdGUgdGhlIGlubmVyIHNwYWNlIGJldHdlZW4gZ3VpZGVsaW5lIGlzIGNvdmVyaW5nIHRoZSBsYXN0IGxpbmUKICAjIGZvb3RlciBoZWlnaHQgLSAoZ3VpZGVsaW5lIGhlaWdodCArIGd1aWRlbGluZSB0b3AgcGllY2UpIDwgMjUoZm9udC1oZWlnaHQpCiAgQHtvZmZzZXR9PSAgICBHZXQgR3VpZGVsaW5lIFBvc2l0aW9uCiAgJHtmb290ZXJfb2Zmc2V0fT0gICAgRXhlY3V0ZSBKYXZhc2NyaXB0ICAgIHJldHVybiAkKCcjdGVzdC1mb290ZXInKS5vZmZzZXQoKS50b3AKICAke3RvcF9waWVjZV9oZWlnaHR9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJy5nbF90b3BwaWVjZScpLm9mZnNldCgpLnRvcAogIFNob3VsZCBCZSBUcnVlICAgICR7Zm9vdGVyX29mZnNldH0gLSBAe29mZnNldH1bMV0gLSAke3RvcF9waWVjZV9oZWlnaHR9IDwgMjUK</text>
+        <text encoding="base64">ICBcICAgIFRvZ2dsZSBDb2xvciBDaG9vc2Vycgo=</text>
       </register>
       <register name="1" type="4">
-        <text>offset().top</text>
+        <text>}</text>
       </register>
       <register name="2" type="4">
-        <text>offset().top</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>test-footer</text>
+        <text>{</text>
       </register>
       <register name="4" type="4">
-        <text>_</text>
+        <text>$</text>
       </register>
-      <register name="5" type="4">
-        <text>w</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBcCg==</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text encoding="base64">XCAgICA=</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text encoding="base64">XCAgICA=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBcICAgIExvZyBUbyBDb25zb2xlICAgICI0LiR7aX0gVmVyaWZ5IEd1aWRlbGluZSB0b29sIGlzIG9wZW4gYXQgdGhlIHRvcCIKICBcICAgIEd1aWRlbGluZSBTaG91bGQgRGlzcGxheQogIFwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -320,8 +332,8 @@
         <entry>%s/Line Reader/Guideline/g</entry>
         <entry>action FindNext</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
-        <entry>CtrlPBuffer</entry>
         <entry>vs</entry>
+        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
