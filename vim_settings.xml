@@ -112,7 +112,7 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" timestamp="1467019291199">
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" timestamp="1467020285907">
         <mark key="'" line="100" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_sketch_highlight.robot" timestamp="1466737687137">
@@ -160,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
-      <jump line="167" column="3" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="27" column="36" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="136" column="42" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
       <jump line="168" column="4" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
@@ -258,6 +256,8 @@
       <jump line="53" column="22" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" />
       <jump line="93" column="33" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" />
       <jump line="77" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" />
+      <jump line="25" column="36" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" />
       <jump line="100" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" />
     </jumps>
@@ -299,7 +299,7 @@
         <text encoding="base64">ICBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -341,9 +341,11 @@
         <entry>%s/Line Reader/Guideline/g</entry>
         <entry>action FindNext</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
-        <entry>vs</entry>
         <entry>CtrlPBuffer</entry>
         <entry>w</entry>
+        <entry>cs</entry>
+        <entry>sp</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
