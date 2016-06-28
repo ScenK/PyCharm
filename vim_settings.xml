@@ -24,7 +24,13 @@
         <mark key="^" line="153" column="73" />
         <mark key="." line="153" column="73" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" timestamp="1467085281643" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" timestamp="1467087043848">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="104" column="20" />
+        <mark key="]" line="104" column="60" />
+        <mark key="." line="104" column="60" />
+        <mark key="^" line="104" column="60" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/pager.robot" timestamp="1466496568466">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="14" />
@@ -96,15 +102,12 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1467018786200">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1467085035775">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="146" column="20" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1467086486977">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="34" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
@@ -129,12 +132,12 @@
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1466668137907">
         <mark key="'" line="34" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1467085552424">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1467086832654">
         <mark key="'" line="1" column="55" />
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="28" column="29" />
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="46" column="59" />
+        <mark key="." line="46" column="59" />
+        <mark key="^" line="46" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_general_masking.robot" timestamp="1466581427379">
         <mark key="[" line="37" column="31" />
@@ -155,9 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="42" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
-      <jump line="168" column="4" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
-      <jump line="52" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="377" column="40" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AppiumEnhanceLibrary.py" />
       <jump line="303" column="39" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_operational_test.robot" />
       <jump line="143" column="40" filename="$USER_HOME$/Develop/eMetricRobot/tests/smoke/03_practice_test.robot" />
@@ -198,7 +198,6 @@
       <jump line="41" column="78" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="85" column="49" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
-      <jump line="20" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="154" column="20" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
       <jump line="150" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
@@ -255,43 +254,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" />
       <jump line="100" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="142" column="37" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="20" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
+      <jump line="105" column="63" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" />
+      <jump line="19" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Verify Guideline tool is open at the top of item page</text>
+        <text>Select matched locators list  by matching regx of locator's attribute</text>
       </register>
       <register name="/" type="4">
         <text>scientific</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBcICAgIFRvZ2dsZSBDb2xvciBDaG9vc2Vycgo=</text>
+        <text encoding="base64">ICBbRG9jdW1lbnRhdGlvbl0gICAgU2VsZWN0IG1hdGNoZWQgbG9jYXRvcnMgbGlzdCAgYnkgbWF0Y2hpbmcgcmVneCBvZiBsb2NhdG9yJ3MgYXR0cmlidXRlCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>Select matched locators list  by matching regx of locator's attribute</text>
+      </register>
+      <register name="2" type="4">
+        <text>height</text>
+      </register>
+      <register name="3" type="4">
+        <text>height</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAke2hlaWdodH09ICAgIEV4ZWN1dGUgSmF2YXNjcmlwdCAgICByZXR1cm4gJCgnLmN1cnJlbnQnKS5oZWlnaHQoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">JHtHVUlERUxJTkUuQk9UVE9NX1BJRUNFfSAgICBjc3M9LmdsX2JvdHRvbXBpZWNlCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBbRG9jdW1lbnRhdGlvbl0gICAgVmVyaWZ5IEd1aWRlbGluZSB0b29sIGlzIG9wZW4gYXQgdGhlIHRvcCBvZiBpdGVtIHBhZ2UK</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>Verify Guideline tool is open at the top of item page</text>
-      </register>
-      <register name="5" type="4">
-        <text>}</text>
-      </register>
-      <register name="6" type="4">
-        <text>i</text>
-      </register>
-      <register name="7" type="4">
-        <text>{</text>
-      </register>
-      <register name="8" type="4">
-        <text>$</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
