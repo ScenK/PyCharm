@@ -102,7 +102,7 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467094373138">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467099629144">
         <mark key="'" line="6" column="50" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="26" />
@@ -168,7 +168,7 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467095805422">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467099486085">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="5" column="50" />
@@ -329,8 +329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>page_should</entry>
-        <entry>attribute</entry>
         <entry>order</entry>
         <entry encoding="base64">XDxTbGVlcFw+</entry>
         <entry>javascript</entry>
