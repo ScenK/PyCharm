@@ -37,11 +37,6 @@
         <mark key="^" line="113" column="20" />
         <mark key="." line="113" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" timestamp="1466561484792">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" timestamp="1466584469349">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="12" column="44" />
@@ -54,11 +49,6 @@
         <mark key="]" line="33" column="27" />
         <mark key="^" line="27" column="1" />
         <mark key="." line="33" column="27" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag.robot" timestamp="1466499898227">
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="31" />
-        <mark key="." line="54" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_basic_calculator.robot" timestamp="1466583842688">
         <mark key="[" line="35" column="0" />
@@ -91,11 +81,6 @@
         <mark key="]" line="34" column="31" />
         <mark key="^" line="22" column="70" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_graphing_calculator.robot" timestamp="1466583922050">
-        <mark key="[" line="39" column="155" />
-        <mark key="]" line="39" column="155" />
-        <mark key="." line="39" column="155" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_close_automatically_when_navigating_away.robot" timestamp="1466496871504">
         <mark key="[" line="55" column="0" />
@@ -164,11 +149,6 @@
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_without_stimulus.robot" timestamp="1466491179051">
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="36" column="2" />
-        <mark key="." line="36" column="2" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_scientific_calculator.robot" timestamp="1466583785621">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -188,9 +168,14 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467095805422">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/general_masking/general_masking_drag_resize.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/general_masking/general_masking_pause_relogin.robot" />
       <jump line="72" column="54" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="77" column="14" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
@@ -290,43 +275,44 @@
       <jump line="197" column="38" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="54" column="55" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
       <jump line="85" column="44" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
+      <jump line="35" column="109" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICAgQ2hvb3NlIFR1cm4gSW4gQnV0dG9u</text>
+        <text>Color Chooser Default Setting</text>
       </register>
       <register name="/" type="4">
         <text>finish_btn</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICR7aXRlbV9udW1iZXJ9</text>
+        <text>Color Chooser Icon Shows Tool Name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDb250aW51ZSBGcm9tIERpcmVjdGlvbnMK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vbG9naW4ucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vc2Vzc2lvbi5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvbmF2aWdhdGlvbi9vcHRpb25zLnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy9uYXZpZ2F0aW9uL2RpcmVjdGlvbnMucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmV2aWV3LnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy90b29scy9jb2xvcl9jaG9vc2VyLnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy9pdGVtcy9zdGltdWx1cy5yb2JvdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBJdGVtIE51bWJlciBTaG91bGQgQmUgICAgJHtpdGVtX251bWJlcn0K</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICBcbiIjMC4gVXNlcm5hbWU6ICR7dXNlcm5hbWV9IFBhc3N3b3JkOiAke3Bhc3N3b3JkfSBVc2VydHlwZTogJntrd2FyZ3N9W3VzZXJfdHlwZV0iCiAgUGFzcyBFeGVjdXRpb24gSWYgVXNlcnR5cGUgTm90IEZpeCBNb2RlICAgICZ7a3dhcmdzfVt1c2VyX3R5cGVdCiAgUnVuIEtleXdvcmQgSWYgICAgJ3Jlc2V0JyBub3QgaW4gJntrd2FyZ3N9ICAgIFJlc2V0IFN0dWRlbnQgTG9naW4gV2l0aCBDcmVkZW50aWFscyAgICAke3VzZXJuYW1lfSAgICAke3Bhc3N3b3JkfQoKICBMb2cgVG8gQ29uc29sZSAgICAiIzEuIFZlcmlmeSBsb2dpbiBwYWdlIGlzIGRpc3BsYXllZCBpbiB3aGl0ZSBiYWNrZ3JvdW5kIgogICR7Y29sb3J9PSAgICBHZXQgTG9naW4gUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1MywgMjUzLCAyNTMpCiAgTG9naW4gV2l0aCBVc2VybmFtZSBBbmQgUGFzc3dvcmQgICAgJHt1c2VybmFtZX0gICAgJHtwYXNzd29yZH0KCiAgTG9nIFRvIENvbnNvbGUgICAgIiMyLiBWZXJpZnkgc2Vzc2lvbiBzZWxlY3Rpb24gcGFnZSwgcGFnZSB0byBlbnRlciBzZXNzaW9uIGNvZGUgaXMgZGlzcGxheWVkIGluIHdoaXRlIGJhY2tncm91bmQiCiAgJHtjb2xvcn09ICAgIEdldCBTZXNzaW9uIFBhZ2UgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYigyNDMsIDI0MywgMjQzKQogIEVudGVyIFNlc3Npb24gICAgICR7c2Vzc2lvbl9uYW1lfQogIFJ1biBLZXl3b3JkIElmICAgICcke3Nlc3Npb25fYWNjZXNzX2NvZGV9JyAhPSAnbm9uZScgICAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAke3Nlc3Npb25fYWNjZXNzX2NvZGV9CgogIExvZyBUbyBDb25zb2xlICAgICIjMy4gVmVyaWZ5ICdEZWZhdWx0JyBpcyBzZWxlY3RlZCBmb3IgQ29sb3IgQ2hvb3NlciBvbiBPcHRpb25zIHBhZ2UgYW5kIG9wdGlvbnMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gd2hpdGUgYmFja2dyb3VuZCIKICBDb2xvciBDaG9vc2VyIE9wdGlvbiBTaG91bGQgQmUgRGlzcGxheWVkCiAgQ29sb3IgU2NoZW1lIFNob3VsZCBCZSBDaG9zZW4gICAgRGVmYXVsdAogICR7Y29sb3J9PSAgICBHZXQgQWNjb21tb2RhdGlvbiBQYWdlIEJhY2tncm91bmQgQ29sb3IKICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgICAke2NvbG9yfSAgICByZ2IoMjU1LCAyNTUsIDI1NSkKCiAgTG9nIFRvIENvbnNvbGUgICAgIiM0LiBWZXJpZnkgQ29sb3IgQ2hvb3NlciBoYXMgdG90YWwgMTIgb3B0aW9ucyBvZiBkaWZmZXJlbmNlIGNvbG9ycyIKICAke251bWJlcn09ICAgIEdldCBOdW1iZXIgT2YgQ29sb3IgQ2hvb3NlciBPcHRpb25zCiAgU2hvdWxkIEJlIEVxdWFsIEFzIE51bWJlcnMgICAgJHtudW1iZXJ9ICAgIDEyCgogIExvZyBUbyBDb25zb2xlICAgICIjNS4gQ29udGludWUgdG8gRGlyZWN0aW9ucyBwYWdlLCB2ZXJpZnkgdGhlIGRpcmVjdGlvbnMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gd2hpdGUgYmFja2dyb3VuZCIKICBDb250aW51ZSBGcm9tIE9wdGlvbnMKICAke2NvbG9yfT0gICAgR2V0IERpcmVjdGlvbnMgUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI0MywgMjQzLCAyNDMpCiAgQ29udGludWUgRnJvbSBEaXJlY3Rpb25zCgogIExvZyBUbyBDb25zb2xlICAgICIjNi4gT24gdGhlIGl0ZW0gcGFnZSwgdmVyaWZ5IHRoZSBDb2xvciBDaG9vc2VyIGljb24gc2hvdyB1cCIKICBKdW1wIERpcmVjdGx5IFRvIEl0ZW0gICAgJHtpdGVtX251bWJlcn0KICBJdGVtIE51bWJlciBTaG91bGQgQmUgICAgJHtpdGVtX251bWJlcn0KICBJdGVtIFNob3VsZCBIYXZlIENvbG9yIFNjaGVtZQoKICBMb2cgVG8gQ29uc29sZSAgICAiIzcuIFZlcmlmeSB0aGUgaXRlbSBwYWdlIGFyZSBkaXNwbGF5ZWQgaW4gd2hpdGUgYmFja2dyb3VuZCIKICAke2NvbG9yfT0gICAgR2V0IEN1cnJlbnQgVmlld3BvcnQgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYmEoMCwgMCwgMCwgMCkKCiAgTG9nIFRvIENvbnNvbGUgICAgIiM4LiBWZXJpZnkgdGhlIHN0aW11bHVzLCBzdGltdWx1cyB0YWJzIG9uIGl0ZW0gcGFnZSBhcmUgZGlzcGxheWVkIGluIHdoaXRlIGJhY2tncm91bmQiCiAgJHtjb2xvcn09ICAgIEdldCBTdGltdWx1cyBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCgogIExvZyBUbyBDb25zb2xlICAgICIjOS4gVmVyaWZ5IHRoZSByZXZpZXcgcGFuZWwgaXMgZGlzcGxheWVkIGluIHdoaXRlIGJhY2tncm91bmQiCiAgT3BlbiBSZXZpZXcgU2NyZWVuCiAgJHtjb2xvcn09ICAgIEdldCBSZXZpZXcgUGFuZWwgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYigyNTUsIDI1NSwgMjU1KQogIFJldHVybiBUbyBUZXN0IEZyb20gUmV2aWV3CgogIExvZyBUbyBDb25zb2xlICAgICIjMTAuIFZlcmlmeSB0aGUgdHVybiBpbiByZXZpZXcgcGFuZWwgaXMgZGlzcGxheWVkIGluIHdoaXRlIGJhY2tncm91bmQiCiAgT3BlbiBSZXZpZXcgU2NyZWVuCiAgSnVtcCBUbyBMYXN0IEl0ZW0KICBPcGVuIFJldmlldyBTY3JlZW4KICAke2NvbG9yfT0gICAgR2V0IFJldmlldyBQYW5lbCBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">SnVtcCBEaXJlY3RseSBUbyBJdGVtCg==</text>
+      <register name="3" type="4">
+        <text>Color Chooser Default Setting</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAK</text>
+      <register name="4" type="4">
+        <text>Color Chooser Default Setting</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDaG9vc2UgVHVybiBJbiBCdXR0b24K</text>
+        <text encoding="base64">ICBDb250aW51ZSBGcm9tIERpcmVjdGlvbnMK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgQ2hvb3NlIFR1cm4gSW4gQnV0dG9u</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBJdGVtIE51bWJlciBTaG91bGQgQmUgICAgJHtpdGVtX251bWJlcn0K</text>
       </register>
-      <register name="7" type="4">
-        <text>accommodation</text>
+      <register name="7" type="2">
+        <text encoding="base64">SnVtcCBEaXJlY3RseSBUbyBJdGVtCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Accommodation</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBTbGVlcCAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDaG9vc2UgVHVybiBJbiBCdXR0b24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
