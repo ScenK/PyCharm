@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1467102089917">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="34" column="40" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1467092835218">
         <mark key="'" line="13" column="52" />
         <mark key="[" line="77" column="0" />
@@ -56,12 +60,12 @@
         <mark key="." line="1" column="66" />
         <mark key="^" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467092379331">
-        <mark key="'" line="25" column="29" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="28" />
-        <mark key="^" line="53" column="23" />
-        <mark key="." line="53" column="23" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467102364375">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="32" />
+        <mark key="^" line="61" column="64" />
+        <mark key="." line="61" column="64" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" timestamp="1467091745390">
         <mark key="'" line="19" column="0" />
@@ -102,7 +106,7 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467099629144">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467101208620">
         <mark key="'" line="6" column="50" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="26" />
@@ -168,16 +172,14 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467099486085">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467102083686">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/general_masking/general_masking_pause_relogin.robot" />
-      <jump line="72" column="54" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="77" column="14" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_vertical_scroll_bar_with_long_notes.robot" />
       <jump line="41" column="78" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
@@ -276,43 +278,45 @@
       <jump line="54" column="55" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
       <jump line="85" column="44" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
       <jump line="35" column="109" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" />
+      <jump line="16" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
+      <jump line="55" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Color Chooser Default Setting</text>
+        <text>Notepad</text>
       </register>
       <register name="/" type="4">
         <text>finish_btn</text>
       </register>
-      <register name="0" type="4">
-        <text>Color Chooser Icon Shows Tool Name</text>
+      <register name="0" type="2">
+        <text encoding="base64">Q29sb3IgQ2hvb3NlciBNZW51IFNob3VsZCBEaXNwbGF5Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vbG9naW4ucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vc2Vzc2lvbi5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvbmF2aWdhdGlvbi9vcHRpb25zLnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy9uYXZpZ2F0aW9uL2RpcmVjdGlvbnMucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcmV2aWV3LnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy90b29scy9jb2xvcl9jaG9vc2VyLnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy9pdGVtcy9zdGltdWx1cy5yb2JvdAo=</text>
+      <register name="1" type="4">
+        <text>Notepad</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICBcbiIjMC4gVXNlcm5hbWU6ICR7dXNlcm5hbWV9IFBhc3N3b3JkOiAke3Bhc3N3b3JkfSBVc2VydHlwZTogJntrd2FyZ3N9W3VzZXJfdHlwZV0iCiAgUGFzcyBFeGVjdXRpb24gSWYgVXNlcnR5cGUgTm90IEZpeCBNb2RlICAgICZ7a3dhcmdzfVt1c2VyX3R5cGVdCiAgUnVuIEtleXdvcmQgSWYgICAgJ3Jlc2V0JyBub3QgaW4gJntrd2FyZ3N9ICAgIFJlc2V0IFN0dWRlbnQgTG9naW4gV2l0aCBDcmVkZW50aWFscyAgICAke3VzZXJuYW1lfSAgICAke3Bhc3N3b3JkfQoKICBMb2cgVG8gQ29uc29sZSAgICAiIzEuIFZlcmlmeSBsb2dpbiBwYWdlIGlzIGRpc3BsYXllZCBpbiB3aGl0ZSBiYWNrZ3JvdW5kIgogICR7Y29sb3J9PSAgICBHZXQgTG9naW4gUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1MywgMjUzLCAyNTMpCiAgTG9naW4gV2l0aCBVc2VybmFtZSBBbmQgUGFzc3dvcmQgICAgJHt1c2VybmFtZX0gICAgJHtwYXNzd29yZH0KCiAgTG9nIFRvIENvbnNvbGUgICAgIiMyLiBWZXJpZnkgc2Vzc2lvbiBzZWxlY3Rpb24gcGFnZSwgcGFnZSB0byBlbnRlciBzZXNzaW9uIGNvZGUgaXMgZGlzcGxheWVkIGluIHdoaXRlIGJhY2tncm91bmQiCiAgJHtjb2xvcn09ICAgIEdldCBTZXNzaW9uIFBhZ2UgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYigyNDMsIDI0MywgMjQzKQogIEVudGVyIFNlc3Npb24gICAgICR7c2Vzc2lvbl9uYW1lfQogIFJ1biBLZXl3b3JkIElmICAgICcke3Nlc3Npb25fYWNjZXNzX2NvZGV9JyAhPSAnbm9uZScgICAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAke3Nlc3Npb25fYWNjZXNzX2NvZGV9CgogIExvZyBUbyBDb25zb2xlICAgICIjMy4gVmVyaWZ5ICdEZWZhdWx0JyBpcyBzZWxlY3RlZCBmb3IgQ29sb3IgQ2hvb3NlciBvbiBPcHRpb25zIHBhZ2UgYW5kIG9wdGlvbnMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gd2hpdGUgYmFja2dyb3VuZCIKICBDb2xvciBDaG9vc2VyIE9wdGlvbiBTaG91bGQgQmUgRGlzcGxheWVkCiAgQ29sb3IgU2NoZW1lIFNob3VsZCBCZSBDaG9zZW4gICAgRGVmYXVsdAogICR7Y29sb3J9PSAgICBHZXQgQWNjb21tb2RhdGlvbiBQYWdlIEJhY2tncm91bmQgQ29sb3IKICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgICAke2NvbG9yfSAgICByZ2IoMjU1LCAyNTUsIDI1NSkKCiAgTG9nIFRvIENvbnNvbGUgICAgIiM0LiBWZXJpZnkgQ29sb3IgQ2hvb3NlciBoYXMgdG90YWwgMTIgb3B0aW9ucyBvZiBkaWZmZXJlbmNlIGNvbG9ycyIKICAke251bWJlcn09ICAgIEdldCBOdW1iZXIgT2YgQ29sb3IgQ2hvb3NlciBPcHRpb25zCiAgU2hvdWxkIEJlIEVxdWFsIEFzIE51bWJlcnMgICAgJHtudW1iZXJ9ICAgIDEyCgogIExvZyBUbyBDb25zb2xlICAgICIjNS4gQ29udGludWUgdG8gRGlyZWN0aW9ucyBwYWdlLCB2ZXJpZnkgdGhlIGRpcmVjdGlvbnMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gd2hpdGUgYmFja2dyb3VuZCIKICBDb250aW51ZSBGcm9tIE9wdGlvbnMKICAke2NvbG9yfT0gICAgR2V0IERpcmVjdGlvbnMgUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI0MywgMjQzLCAyNDMpCiAgQ29udGludWUgRnJvbSBEaXJlY3Rpb25zCgogIExvZyBUbyBDb25zb2xlICAgICIjNi4gT24gdGhlIGl0ZW0gcGFnZSwgdmVyaWZ5IHRoZSBDb2xvciBDaG9vc2VyIGljb24gc2hvdyB1cCIKICBKdW1wIERpcmVjdGx5IFRvIEl0ZW0gICAgJHtpdGVtX251bWJlcn0KICBJdGVtIE51bWJlciBTaG91bGQgQmUgICAgJHtpdGVtX251bWJlcn0KICBJdGVtIFNob3VsZCBIYXZlIENvbG9yIFNjaGVtZQoKICBMb2cgVG8gQ29uc29sZSAgICAiIzcuIFZlcmlmeSB0aGUgaXRlbSBwYWdlIGFyZSBkaXNwbGF5ZWQgaW4gd2hpdGUgYmFja2dyb3VuZCIKICAke2NvbG9yfT0gICAgR2V0IEN1cnJlbnQgVmlld3BvcnQgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYmEoMCwgMCwgMCwgMCkKCiAgTG9nIFRvIENvbnNvbGUgICAgIiM4LiBWZXJpZnkgdGhlIHN0aW11bHVzLCBzdGltdWx1cyB0YWJzIG9uIGl0ZW0gcGFnZSBhcmUgZGlzcGxheWVkIGluIHdoaXRlIGJhY2tncm91bmQiCiAgJHtjb2xvcn09ICAgIEdldCBTdGltdWx1cyBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCgogIExvZyBUbyBDb25zb2xlICAgICIjOS4gVmVyaWZ5IHRoZSByZXZpZXcgcGFuZWwgaXMgZGlzcGxheWVkIGluIHdoaXRlIGJhY2tncm91bmQiCiAgT3BlbiBSZXZpZXcgU2NyZWVuCiAgJHtjb2xvcn09ICAgIEdldCBSZXZpZXcgUGFuZWwgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYigyNTUsIDI1NSwgMjU1KQogIFJldHVybiBUbyBUZXN0IEZyb20gUmV2aWV3CgogIExvZyBUbyBDb25zb2xlICAgICIjMTAuIFZlcmlmeSB0aGUgdHVybiBpbiByZXZpZXcgcGFuZWwgaXMgZGlzcGxheWVkIGluIHdoaXRlIGJhY2tncm91bmQiCiAgT3BlbiBSZXZpZXcgU2NyZWVuCiAgSnVtcCBUbyBMYXN0IEl0ZW0KICBPcGVuIFJldmlldyBTY3JlZW4KICAke2NvbG9yfT0gICAgR2V0IFJldmlldyBQYW5lbCBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">bm90ZXBhZCA=</text>
       </register>
       <register name="3" type="4">
-        <text>Color Chooser Default Setting</text>
+        <text>Notepad</text>
       </register>
-      <register name="4" type="4">
-        <text>Color Chooser Default Setting</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDb250aW51ZSBGcm9tIERpcmVjdGlvbnMK</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzcuIENsaWNrIHRoZSBSZXZlcnNlIENvbnRyYXN0IHRvb2wgdG8gdHVybiBvbiByZXZlcnNlIGNvbnRyYXN0LiIKCiAgTG9nIFRvIENvbnNvbGUgICAgIiM4LiBNb3VzZSBvdmVyIFJldmVyc2UgQ29udHJhc3QgaWNvbiwgdmVyaWZ5IHRvb2wgbmFtZSAiQ29sb3IgQ2hvb3NlciAodGV4dC9iYWNrZ3JvdW5kIENvbG9yKSIgc2hvd3MgdXAgaW4gdGhlIHNlbGVjdGVkIGJhY2tncm91bmQgYW5kIGZvcmVncm91bmQgY29sb3Igd2l0aCBpbnZlcnRlZCBjb250cmFzdCIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBJdGVtIE51bWJlciBTaG91bGQgQmUgICAgJHtpdGVtX251bWJlcn0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">IkNvbG9yIENob29zZXIgKHRleHQvYmFja2dyb3VuZCBDb2xvcikiIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">SnVtcCBEaXJlY3RseSBUbyBJdGVtCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAK</text>
+      <register name="8" type="4">
+        <text>&quot;Color Chooser (text/background Color)&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBDaG9vc2UgVHVybiBJbiBCdXR0b24K</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGluIHdoaXRlIGJhY2tncm91bmQ=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -359,8 +363,8 @@
         <entry>CtrlPBuffer</entry>
         <entry>cs</entry>
         <entry>sp</entry>
-        <entry>vs</entry>
         <entry>action FindNext</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
