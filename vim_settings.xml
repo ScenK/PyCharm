@@ -60,12 +60,12 @@
         <mark key="." line="1" column="66" />
         <mark key="^" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467102364375">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="32" />
-        <mark key="^" line="61" column="64" />
-        <mark key="." line="61" column="64" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467104069317">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="26" />
+        <mark key="." line="60" column="44" />
+        <mark key="^" line="60" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" timestamp="1467091745390">
         <mark key="'" line="19" column="0" />
@@ -172,18 +172,14 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467102083686">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="1" />
-        <mark key="^" line="23" column="1" />
-        <mark key="." line="23" column="1" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467104078999">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="48" column="56" />
+        <mark key="^" line="42" column="1" />
+        <mark key="." line="45" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="14" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/notepad/notepad_vertical_scroll_bar_with_long_notes.robot" />
-      <jump line="41" column="78" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="85" column="49" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="154" column="20" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
       <jump line="150" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
@@ -280,43 +276,47 @@
       <jump line="35" column="109" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" />
       <jump line="16" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="55" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
+      <jump line="58" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
+      <jump line="64" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
+      <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
+      <jump line="5" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Notepad</text>
+        <text>Mouse over Color Chooser iconv</text>
       </register>
       <register name="/" type="4">
         <text>finish_btn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q29sb3IgQ2hvb3NlciBNZW51IFNob3VsZCBEaXNwbGF5Cg==</text>
+        <text encoding="base64">ICAke2JnX2NvbG9yfT0gICAgR2V0IENvbG9yIENob29zZXIgTWVudSBCYWNrZ3JvdW5kIENvbG9yCiAgJHtjb2xvcn09ICAgIEdldCBDb2xvciBDaG9vc2VyIE1lbnUgRm9udCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7YmdfY29sb3J9ICAgIHJnYigyNDcsIDI0NywgMjQ3KQogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYigwLCAwLCAwKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>Notepad</text>
+        <text>Mouse over Color Chooser iconv</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">bm90ZXBhZCA=</text>
+        <text>verify tool name shows up in the selected background and foreground color</text>
       </register>
       <register name="3" type="4">
-        <text>Notepad</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzcuIENsaWNrIHRoZSBSZXZlcnNlIENvbnRyYXN0IHRvb2wgdG8gdHVybiBvbiByZXZlcnNlIGNvbnRyYXN0LiIKCiAgTG9nIFRvIENvbnNvbGUgICAgIiM4LiBNb3VzZSBvdmVyIFJldmVyc2UgQ29udHJhc3QgaWNvbiwgdmVyaWZ5IHRvb2wgbmFtZSAiQ29sb3IgQ2hvb3NlciAodGV4dC9iYWNrZ3JvdW5kIENvbG9yKSIgc2hvd3MgdXAgaW4gdGhlIHNlbGVjdGVkIGJhY2tncm91bmQgYW5kIGZvcmVncm91bmQgY29sb3Igd2l0aCBpbnZlcnRlZCBjb250cmFzdCIK</text>
+        <text encoding="base64">ICBDb2xvciBDaG9vc2VyIE1lbnUgU2hvdWxkIERpc3BsYXkK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IkNvbG9yIENob29zZXIgKHRleHQvYmFja2dyb3VuZCBDb2xvcikiIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;Color Chooser (text/background Color)&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBTaG93IENvbG9yIENob29zZXIgTWVudQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGluIHdoaXRlIGJhY2tncm91bmQ=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
