@@ -64,8 +64,8 @@
         <mark key="." line="1" column="66" />
         <mark key="^" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467176529206">
-        <mark key="'" line="8" column="24" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467187476577">
+        <mark key="'" line="135" column="0" />
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="50" />
       </file>
@@ -111,12 +111,12 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467182583451">
-        <mark key="'" line="67" column="63" />
-        <mark key="[" line="67" column="53" />
-        <mark key="]" line="67" column="64" />
-        <mark key="^" line="25" column="61" />
-        <mark key="." line="67" column="53" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467187554351">
+        <mark key="'" line="97" column="63" />
+        <mark key="[" line="97" column="53" />
+        <mark key="]" line="97" column="64" />
+        <mark key="^" line="59" column="63" />
+        <mark key="." line="97" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
@@ -184,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="54" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="121" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="118" column="48" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
@@ -284,6 +283,7 @@
       <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
       <jump line="65" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
       <jump line="67" column="63" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
+      <jump line="135" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -293,34 +293,34 @@
         <text>not</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlZmF1bHQ=</text>
+        <text encoding="base64">ICAgIERlZmF1bHQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDb2xvciBTY2hlbWUgU2hvdWxkIEJlIEVuYWJsZWQgRm9yIE9wdGlvbnMgUGFnZQo=</text>
+        <text encoding="base64">ICBDb2xvciBDCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL3N0aW11bHVzLnJvYm90Cg==</text>
+        <text encoding="base64">ICBDb2xvciBTY2hlbWUgU2hvdWxkIEJlIEVuYWJsZWQgRm9yIE9wdGlvbnMgUGFnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL3N0aW11bHVzLnJvYm90Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFJldmlldyBQYW5lbCBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCg==</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFJldmlldyBQYW5lbCBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IERpcmVjdGlvbnMgUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI0MywgMjQzLCAyNDMpCg==</text>
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFJldmlldyBQYW5lbCBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IEN1cnJlbnQgVmlld3BvcnQgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYmEoMCwgMCwgMCwgMCkK</text>
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IERpcmVjdGlvbnMgUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI0MywgMjQzLCAyNDMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFN0aW11bHVzIEJhY2tncm91bmQgQ29sb3IKICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgICAke2NvbG9yfSAgICByZ2IoMjU1LCAyNTUsIDI1NSkK</text>
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IEN1cnJlbnQgVmlld3BvcnQgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYmEoMCwgMCwgMCwgMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IEFjY29tbW9kYXRpb24gUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCg==</text>
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFN0aW11bHVzIEJhY2tncm91bmQgQ29sb3IKICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgICAke2NvbG9yfSAgICByZ2IoMjU1LCAyNTUsIDI1NSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -337,7 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTbGVlcFw+</entry>
         <entry>javascript</entry>
         <entry encoding="base64">XDx1XD4=</entry>
         <entry>math session</entry>
