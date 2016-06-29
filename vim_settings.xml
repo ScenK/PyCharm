@@ -7,13 +7,6 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1467166593925">
-        <mark key="'" line="73" column="52" />
-        <mark key="[" line="79" column="55" />
-        <mark key="]" line="79" column="63" />
-        <mark key="^" line="79" column="63" />
-        <mark key="." line="79" column="63" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -54,18 +47,23 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="33" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" timestamp="1467171738945">
+        <mark key="[" line="44" column="33" />
+        <mark key="]" line="44" column="44" />
+        <mark key="." line="44" column="44" />
+        <mark key="^" line="44" column="44" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_basic_calculator.robot" timestamp="1466583842688">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="54" />
         <mark key="." line="1" column="66" />
         <mark key="^" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467104069317">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467170518834">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="26" />
-        <mark key="." line="67" column="44" />
-        <mark key="^" line="67" column="44" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" timestamp="1467091745390">
         <mark key="'" line="19" column="0" />
@@ -159,12 +157,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" timestamp="1467093548393">
-        <mark key="'" line="197" column="38" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="201" column="22" />
-        <mark key="." line="195" column="106" />
-        <mark key="^" line="195" column="106" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" timestamp="1467171697413">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="28" />
+        <mark key="." line="211" column="0" />
+        <mark key="^" line="213" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1467093675720">
         <mark key="[" line="19" column="0" />
@@ -180,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="20" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
-      <jump line="150" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="84" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="102" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="114" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
@@ -280,52 +275,55 @@
       <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="5" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="73" column="52" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
+      <jump line="75" column="19" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
+      <jump line="139" column="41" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
+      <jump line="199" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Mouse over Color Chooser iconv</text>
+        <text>click on color chooser and select a Non default color randomly</text>
       </register>
       <register name="/" type="4">
-        <text>finish_btn</text>
+        <text>wait until</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAke2JnX2NvbG9yfT0gICAgR2V0IENvbG9yIENob29zZXIgTWVudSBCYWNrZ3JvdW5kIENvbG9yCiAgJHtjb2xvcn09ICAgIEdldCBDb2xvciBDaG9vc2VyIE1lbnUgRm9udCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7YmdfY29sb3J9ICAgIHJnYigyNDcsIDI0NywgMjQ3KQogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYigwLCAwLCAwKQo=</text>
+        <text encoding="base64">Q29sb3IgU2NoZW1lIFNob3VsZCBCZSBDaG9zZW4K</text>
       </register>
       <register name="1" type="4">
-        <text>Mouse over Color Chooser iconv</text>
+        <text>click on color chooser and select a Non default color randomly</text>
       </register>
-      <register name="2" type="4">
-        <text>verify tool name shows up in the selected background and foreground color</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>,</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBDb2xvciBDaG9vc2VyIE1lbnUgU2hvdWxkIERpc3BsYXkK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBTaG93IENvbG9yIENob29zZXIgTWVudQo=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="4">
+        <text>Getjk</text>
+      </register>
+      <register name="6" type="4">
+        <text>Get Available Color Chooser Names</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">T3B0aW9ucyA=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IEF2YWlsYWJsZQ==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search>finish_btn</last-search>
+      <last-search>wait until</last-search>
       <last-offset />
-      <last-pattern>finish_btn</last-pattern>
+      <last-pattern>wait until</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
@@ -353,6 +351,7 @@
         <entry>scientific</entry>
         <entry>finish</entry>
         <entry>finish_btn</entry>
+        <entry>wait until</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -360,12 +359,12 @@
         <entry>bp!</entry>
         <entry>%s/Line Reader/Guideline/g</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
-        <entry>CtrlPBuffer</entry>
         <entry>cs</entry>
         <entry>sp</entry>
-        <entry>action FindNext</entry>
         <entry>vs</entry>
+        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
