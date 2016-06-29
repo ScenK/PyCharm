@@ -66,8 +66,6 @@
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467176529206">
         <mark key="'" line="8" column="24" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="38" />
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="50" />
       </file>
@@ -110,12 +108,12 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467101208620">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467179271529">
         <mark key="'" line="6" column="50" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="26" />
-        <mark key="^" line="55" column="1" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="27" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
@@ -164,11 +162,10 @@
         <mark key="^" line="34" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" timestamp="1467171697413">
-        <mark key="'" line="199" column="0" />
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="28" />
-        <mark key="." line="211" column="0" />
-        <mark key="^" line="213" column="21" />
+        <mark key="." line="205" column="0" />
+        <mark key="^" line="207" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1467093675720">
         <mark key="[" line="19" column="0" />
@@ -295,32 +292,32 @@
       <register name="0" type="2">
         <text encoding="base64">SXRlbSBNYXkgSGF2ZSBTdGltdWx1cwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBDb2xvciBTY2hlbWUgU2hvdWxkIE5vdCBCZSBFbmFibGVkIEZvciBMb2dpbiBQYWdlCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFNlc3Npb24gUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI0MywgMjQzLCAyNDMpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IExvZ2luIFBhZ2UgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYigyNTMsIDI1MywgMjUzKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>$</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>SCREEN_COLOR</text>
+        <text>'</text>
       </register>
       <register name="7" type="4">
-        <text>click on color chooser and select a Non default color randomly</text>
+        <text>(</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>$</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>SCREEN_COLOR</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
