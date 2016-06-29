@@ -108,12 +108,12 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467179271529">
-        <mark key="'" line="6" column="50" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="52" />
-        <mark key="^" line="27" column="52" />
-        <mark key="." line="27" column="52" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467180625493">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="62" column="54" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
@@ -181,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" />
-      <jump line="25" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_item_with_tabbed_stimuli.robot" />
       <jump line="92" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" />
       <jump line="117" column="54" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
@@ -281,6 +279,8 @@
       <jump line="36" column="47" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="8" column="24" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="60" column="13" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
+      <jump line="67" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -290,34 +290,34 @@
         <text>wait until</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SXRlbSBNYXkgSGF2ZSBTdGltdWx1cwo=</text>
+        <text encoding="base64">ICBDb2xvciBTY2hlbWUgU2hvdWxkIE5vdCBCZSBFbmFibGVkIEZvciBSZXZpZXcgUGFuZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDb2xvciBTY2hlbWUgU2hvdWxkIE5vdCBCZSBFbmFibGVkIEZvciBMb2dpbiBQYWdlCg==</text>
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFJldmlldyBQYW5lbCBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFNlc3Npb24gUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI0MywgMjQzLCAyNDMpCg==</text>
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFJldmlldyBQYW5lbCBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IERpcmVjdGlvbnMgUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI0MywgMjQzLCAyNDMpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IEN1cnJlbnQgVmlld3BvcnQgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYmEoMCwgMCwgMCwgMCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFN0aW11bHVzIEJhY2tncm91bmQgQ29sb3IKICBTaG91bGQgQmUgRXF1YWwgQXMgU3RyaW5ncyAgICAke2NvbG9yfSAgICByZ2IoMjU1LCAyNTUsIDI1NSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IEFjY29tbW9kYXRpb24gUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI1NSwgMjU1LCAyNTUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBDb2xvciBTY2hlbWUgU2hvdWxkIE5vdCBCZSBFbmFibGVkIEZvciBMb2dpbiBQYWdlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IFNlc3Npb24gUGFnZSBCYWNrZ3JvdW5kIENvbG9yCiAgU2hvdWxkIEJlIEVxdWFsIEFzIFN0cmluZ3MgICAgJHtjb2xvcn0gICAgcmdiKDI0MywgMjQzLCAyNDMpCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAke2NvbG9yfT0gICAgR2V0IExvZ2luIFBhZ2UgQmFja2dyb3VuZCBDb2xvcgogIFNob3VsZCBCZSBFcXVhbCBBcyBTdHJpbmdzICAgICR7Y29sb3J9ICAgIHJnYigyNTMsIDI1MywgMjUzKQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>'</text>
-      </register>
-      <register name="5" type="4">
-        <text>.</text>
-      </register>
-      <register name="6" type="4">
-        <text>'</text>
-      </register>
-      <register name="7" type="4">
-        <text>(</text>
-      </register>
-      <register name="8" type="4">
-        <text>$</text>
-      </register>
-      <register name="9" type="4">
-        <text>SCREEN_COLOR</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
