@@ -18,10 +18,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1467091352425">
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1467699442897">
         <mark key="'" line="19" column="46" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="55" column="21" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="24" />
         <mark key="." line="54" column="82" />
         <mark key="^" line="54" column="82" />
       </file>
@@ -114,11 +114,18 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467264852773">
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467698799547">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="4" />
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" timestamp="1467699862342">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="1" column="57" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1467264849016">
         <mark key="'" line="129" column="44" />
@@ -148,9 +155,6 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" timestamp="1467083305046">
-        <mark key="'" line="100" column="8" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1467091597817">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="80" column="108" />
@@ -162,11 +166,12 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" timestamp="1467016863333">
-        <mark key="'" line="53" column="22" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1466668137907">
+      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1467700519597">
         <mark key="'" line="34" column="6" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_pause.robot" timestamp="1467699394455">
+        <mark key="[" line="56" column="2" />
+        <mark key="]" line="56" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1467090464982">
         <mark key="'" line="1" column="55" />
@@ -175,17 +180,35 @@
         <mark key="." line="46" column="59" />
         <mark key="^" line="46" column="59" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_test_answer_saved.robot" timestamp="1467701054424">
+        <mark key="'" line="50" column="2" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_general_masking.robot" timestamp="1466581427379">
         <mark key="[" line="37" column="31" />
         <mark key="]" line="37" column="36" />
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1467701131725">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="53" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_scientific_calculator.robot" timestamp="1466583785621">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1467698965930" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" timestamp="1467701138911">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="47" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" timestamp="1467262929749">
         <mark key="[" line="206" column="47" />
@@ -207,17 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" />
-      <jump line="24" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
-      <jump line="96" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" />
-      <jump line="91" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" />
-      <jump line="124" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
-      <jump line="34" column="41" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
-      <jump line="1" column="55" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
-      <jump line="43" column="26" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
-      <jump line="34" column="6" filename="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" />
-      <jump line="113" column="39" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" />
-      <jump line="60" column="0" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" />
       <jump line="198" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" />
       <jump line="213" column="0" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" />
@@ -307,43 +319,54 @@
       <jump line="34" column="75" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="28" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="129" column="44" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
+      <jump line="68" column="27" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
+      <jump line="9" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
+      <jump line="64" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
+      <jump line="20" column="13" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_test_answer_saved.robot" />
+      <jump line="32" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_test_answer_saved.robot" />
+      <jump line="50" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_test_answer_saved.robot" />
+      <jump line="70" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
+      <jump line="41" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
+      <jump line="47" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
+      <jump line="3" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Get Available Color Chooser Names</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>current</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UmV0dXJuIFRvIFRlc3QgRnJvbSBSZXZpZXcK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmluaXNoLnJvYm90Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL3N0aW11bHVzLnJvYm90Cg==</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vbG9naW4ucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vc2Vzc2lvbi5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvbmF2aWdhdGlvbi9vcHRpb25zLnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy9uYXZpZ2F0aW9uL2RpcmVjdGlvbnMucm9ib3QK</text>
+        <text encoding="base64">ICBBY2NlcHQgVHVybiBJbiBXYXJuaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Get Available Color Chooser Names</text>
+      <register name="4" type="2">
+        <text encoding="base64">UmVsYXVuY2ggY2xpZW50IChraW9zayBtb2RlIG9ubHkpLiBWZXJpZnkgbG9naW4gcGFnZSBzaG93cyB1cCBjb3JyZWN0bHkuCgpXYWl0IGZvciBoZWFydGJlYXQsIHZlcmlmeSB0aGUgc3RvcmFnZSBmb2xkZXIgYmVjb21lcyBlbXB0eSAoYWZ0ZXIgYmVpbmcgc2VudCB0byBzZXJ2ZXIpLgoKTG9naW4gdG8gdGhlIHRlc3QuIFZlcmlmeSBzdGlsbCBhYmxlIHRvIGxvZ2luIHRvIHRoZSB0ZXN0LgoKVmVyaWZ5IGFsbCBwcmV2aW91cyByZXNwb25zZXMgc2hvdWxkIE5PVCBzaG93IHVwLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBcCg==</text>
+        <text encoding="base64">Q29udGludWUgYW5zd2VyIGFub3RoZXIgT0UgaXRlbS4KCkNvbnRpbnVlIGFuc3dlciBhbm90aGVyIE1DIGl0ZW0uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICA1Cg==</text>
+        <text encoding="base64">QW5zd2VyIGEgTUMgaXRlbQoKRGlzY29ubmVjdCB0aGUgaW50ZXJuZXQKCkNoYW5nZSB0aGUgcmVzcG9uc2UgZm9yIHRoYXQgTUMgaXRlbQoKV2FpdCBmb3IgaGVhcnRiZWF0ICg5MCBzZWMpLCB2ZXJpZnkgdGhlIHJlcG9zZXMgYXJlIHN0b3JlZCBpbiB0aGUgc3RvcmFnZSBmb2xkZXIgd2l0aCBhIHRpbWVzdGFtcC4KCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Run Keyword If</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICcke2NvbG9yfScgPT0gJ0RlZmF1bHQnICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">TGF1bmNoIGNsaWVudCBhbmQgbG9naW4gd2l0aCBQcmFjdGljZSB0ZXN0IGxvZ2luCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">UnVuIEtleXdvcmRzICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQgICAgQU5EICAgIExvZ2luIFdpdGggQ3JlZGVudGlhbHMgICAgJHt1c2VybmFtZX0gICAgJHtwYXNzd29yZH0gICAgJHtzZXNzaW9uX25hbWV9ICAgICR7c2Vzc2lvbl9hY2Nlc3NfY29kZX0gICAgJntrd2FyZ3N9</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -360,8 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>javascript</entry>
-        <entry encoding="base64">XDx1XD4=</entry>
         <entry>math session</entry>
         <entry>lamb</entry>
         <entry>log back</entry>
@@ -393,8 +414,8 @@
         <entry>CtrlPBuffer</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>action FindNext</entry>
-        <entry>vs</entry>
         <entry>action FindPrevious</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
