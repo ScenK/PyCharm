@@ -3,143 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1467102089917">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="34" column="40" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1467191187336">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="6" column="42" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1467091352425">
-        <mark key="'" line="19" column="46" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="55" column="21" />
-        <mark key="." line="54" column="82" />
-        <mark key="^" line="54" column="82" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1466489489707">
-        <mark key="'" line="150" column="8" />
-        <mark key="[" line="153" column="74" />
-        <mark key="]" line="153" column="73" />
-        <mark key="^" line="153" column="73" />
-        <mark key="." line="153" column="73" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" timestamp="1467092520599">
-        <mark key="'" line="11" column="39" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="36" />
-        <mark key="^" line="113" column="20" />
-        <mark key="." line="113" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" timestamp="1466584469349">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="76" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_color_chooser.robot" timestamp="1467015563737">
         <mark key="[" line="33" column="26" />
         <mark key="]" line="33" column="27" />
         <mark key="^" line="27" column="1" />
         <mark key="." line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" timestamp="1467263263796">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="226" />
-        <mark key="^" line="40" column="15" />
-        <mark key="." line="40" column="15" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_and_sketch_highlighter.robot" timestamp="1467191191824">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="28" column="52" />
-        <mark key="." line="28" column="52" />
-        <mark key="^" line="28" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_basic_calculator.robot" timestamp="1466583842688">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="54" />
-        <mark key="." line="1" column="66" />
-        <mark key="^" line="1" column="66" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467264200792">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="28" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="16" column="35" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" timestamp="1467091745390">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="93" column="21" />
-        <mark key="." line="91" column="32" />
-        <mark key="^" line="91" column="32" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/finish.robot" timestamp="1467260882153">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_reverse_contrast.robot" timestamp="1466572168360">
-        <mark key="[" line="38" column="55" />
-        <mark key="]" line="38" column="56" />
-        <mark key="." line="38" column="56" />
-        <mark key="^" line="36" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1467191176726">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
-        <mark key="^" line="273" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
         <mark key="^" line="22" column="70" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_close_automatically_when_navigating_away.robot" timestamp="1466496871504">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="30" />
-        <mark key="^" line="52" column="16" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467264852773">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="4" />
-        <mark key="^" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1467264849016">
-        <mark key="'" line="129" column="44" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="25" />
-        <mark key="." line="135" column="36" />
-        <mark key="^" line="135" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1467088858610">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="34" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467262968061">
-        <mark key="'" line="9" column="50" />
-        <mark key="[" line="57" column="22" />
-        <mark key="]" line="57" column="22" />
-        <mark key="." line="57" column="22" />
-        <mark key="^" line="36" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
@@ -148,25 +22,45 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" timestamp="1467083305046">
-        <mark key="'" line="100" column="8" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" timestamp="1467263263796">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="226" />
+        <mark key="^" line="40" column="15" />
+        <mark key="." line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1467091597817">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="80" column="108" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" timestamp="1467191176726">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+        <mark key="^" line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_sketch_highlight.robot" timestamp="1466737687137">
-        <mark key="'" line="7" column="22" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="52" />
-        <mark key="." line="43" column="28" />
-        <mark key="^" line="37" column="28" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" timestamp="1467723486044" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_reverse_contrast.robot" timestamp="1466572168360">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="56" />
+        <mark key="." line="38" column="56" />
+        <mark key="^" line="36" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" timestamp="1467016863333">
-        <mark key="'" line="53" column="22" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1467191187336">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1466668137907">
-        <mark key="'" line="34" column="6" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" timestamp="1467091352425">
+        <mark key="'" line="19" column="46" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="55" column="21" />
+        <mark key="." line="54" column="82" />
+        <mark key="^" line="54" column="82" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1467088858610">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="34" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1467090464982">
         <mark key="'" line="1" column="55" />
@@ -181,17 +75,16 @@
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_scientific_calculator.robot" timestamp="1466583785621">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="1" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1467264849016">
+        <mark key="'" line="129" column="44" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="25" />
+        <mark key="." line="135" column="36" />
+        <mark key="^" line="135" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" timestamp="1467262929749">
-        <mark key="[" line="206" column="47" />
-        <mark key="]" line="206" column="60" />
-        <mark key="." line="206" column="60" />
-        <mark key="^" line="206" column="60" />
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" timestamp="1467091597817">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="80" column="108" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/directions.robot" timestamp="1467093675720">
         <mark key="[" line="19" column="0" />
@@ -199,11 +92,110 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/finish.robot" timestamp="1467260882153">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_and_sketch_highlighter.robot" timestamp="1467191191824">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="28" column="52" />
+        <mark key="." line="28" column="52" />
+        <mark key="^" line="28" column="52" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_scientific_calculator.robot" timestamp="1466583785621">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1466489489707">
+        <mark key="'" line="150" column="8" />
+        <mark key="[" line="153" column="74" />
+        <mark key="]" line="153" column="73" />
+        <mark key="^" line="153" column="73" />
+        <mark key="." line="153" column="73" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" timestamp="1466584469349">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="76" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" timestamp="1467262968061">
+        <mark key="'" line="9" column="50" />
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="57" column="22" />
+        <mark key="." line="57" column="22" />
+        <mark key="^" line="36" column="63" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" timestamp="1467091745390">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="93" column="21" />
+        <mark key="." line="91" column="32" />
+        <mark key="^" line="91" column="32" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467264852773">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="4" />
+        <mark key="^" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" timestamp="1467262929749">
+        <mark key="[" line="206" column="47" />
+        <mark key="]" line="206" column="60" />
+        <mark key="." line="206" column="60" />
+        <mark key="^" line="206" column="60" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_basic_calculator.robot" timestamp="1466583842688">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="54" />
+        <mark key="." line="1" column="66" />
+        <mark key="^" line="1" column="66" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467262952619">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="48" column="56" />
         <mark key="^" line="42" column="1" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_sketch_highlight.robot" timestamp="1466737687137">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="52" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="37" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_close_automatically_when_navigating_away.robot" timestamp="1466496871504">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="30" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1467102089917">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="34" column="40" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" timestamp="1467092520599">
+        <mark key="'" line="11" column="39" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="36" />
+        <mark key="^" line="113" column="20" />
+        <mark key="." line="113" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" timestamp="1467264200792">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="28" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -319,31 +311,31 @@
         <text encoding="base64">UmV0dXJuIFRvIFRlc3QgRnJvbSBSZXZpZXcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL3N0aW11bHVzLnJvYm90Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vbG9naW4ucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vc2Vzc2lvbi5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvbmF2aWdhdGlvbi9vcHRpb25zLnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy9uYXZpZ2F0aW9uL2RpcmVjdGlvbnMucm9ib3QK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL3N0aW11bHVzLnJvYm90Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL2hlbHBlcnMvdXRpbHMucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vbG9naW4ucm9ib3QKUmVzb3VyY2UgICAgLi4vLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vc2Vzc2lvbi5yb2JvdApSZXNvdXJjZSAgICAuLi8uLi8uLi8uLi9yZXNvdXJjZXMvbmF2aWdhdGlvbi9vcHRpb25zLnJvYm90ClJlc291cmNlICAgIC4uLy4uLy4uLy4uL3Jlc291cmNlcy9uYXZpZ2F0aW9uL2RpcmVjdGlvbnMucm9ib3QK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBcCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Get Available Color Chooser Names</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBcCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBTbGVlcCAgICA1Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Run Keyword If</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICcke2NvbG9yfScgPT0gJ0RlZmF1bHQnICAg</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">UnVuIEtleXdvcmRzICAgIExhdW5jaCBpVGVzdGVyIEFuZCBTZXQgQmFzaWMgRW52aXJvbm1lbnQgICAgQU5EICAgIExvZ2luIFdpdGggQ3JlZGVudGlhbHMgICAgJHt1c2VybmFtZX0gICAgJHtwYXNzd29yZH0gICAgJHtzZXNzaW9uX25hbWV9ICAgICR7c2Vzc2lvbl9hY2Nlc3NfY29kZX0gICAgJntrd2FyZ3N9</text>
+        <text encoding="base64">ICAgICcke2NvbG9yfScgPT0gJ0RlZmF1bHQnICAg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -360,8 +352,6 @@
     </search>
     <history>
       <history-search>
-        <entry>javascript</entry>
-        <entry encoding="base64">XDx1XD4=</entry>
         <entry>math session</entry>
         <entry>lamb</entry>
         <entry>log back</entry>
