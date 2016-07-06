@@ -177,6 +177,7 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1467774110354" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1467700519597">
         <mark key="'" line="34" column="6" />
       </file>
@@ -202,6 +203,12 @@
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" timestamp="1467774055756">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="47" column="20" />
+        <mark key="^" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1467704176479">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="8" column="0" />
@@ -213,7 +220,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1467698965930" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" timestamp="1467701138911">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="4" column="0" />
