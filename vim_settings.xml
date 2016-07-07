@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/locators/elementfinder.py" timestamp="1467866939957" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/notepad.robot" timestamp="1467102089917">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="34" column="40" />
@@ -94,6 +95,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_operational_answer_saved.robot" timestamp="1467867173710">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_reverse_contrast.robot" timestamp="1466572168360">
         <mark key="[" line="38" column="55" />
         <mark key="]" line="38" column="56" />
@@ -177,7 +184,6 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1467774110354" />
       <file name="$USER_HOME$/Develop/eMetricRobot/libraries/AssistantLibrary.py" timestamp="1467700519597">
         <mark key="'" line="34" column="6" />
       </file>
@@ -220,6 +226,13 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1467867170165">
+        <mark key="'" line="174" column="2" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" timestamp="1467701138911">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="4" column="0" />
@@ -247,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="0" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" />
       <jump line="214" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" />
       <jump line="53" column="22" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_generator.py" />
       <jump line="93" column="33" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/keyword_generator.py" />
@@ -347,6 +358,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
       <jump line="43" column="16" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_answer_saved_with_multibyte_characters.robot" />
       <jump line="8" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_answer_saved_with_multibyte_characters.robot" />
+      <jump line="99" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
+      <jump line="172" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -356,34 +369,34 @@
         <text>current</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmluaXNoLnJvYm90Cg==</text>
+        <text encoding="base64">Q29uZmlybSBQYXVzZSBXaGVuIE9mZmxpbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmluaXNoLnJvYm90Cg==</text>
+        <text encoding="base64">ICBFbnRlciBQcm9jdG9yIFBhc3N3b3JkIE9uIE9mZmxpbmUgV2FybmluZyAgICBlbWV0cmljMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vZmluaXNoLnJvYm90Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBY2NlcHQgVHVybiBJbiBXYXJuaW5nCg==</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBY2NlcHQgVHVybiBJbiBXYXJuaW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVsYXVuY2ggY2xpZW50IChraW9zayBtb2RlIG9ubHkpLiBWZXJpZnkgbG9naW4gcGFnZSBzaG93cyB1cCBjb3JyZWN0bHkuCgpXYWl0IGZvciBoZWFydGJlYXQsIHZlcmlmeSB0aGUgc3RvcmFnZSBmb2xkZXIgYmVjb21lcyBlbXB0eSAoYWZ0ZXIgYmVpbmcgc2VudCB0byBzZXJ2ZXIpLgoKTG9naW4gdG8gdGhlIHRlc3QuIFZlcmlmeSBzdGlsbCBhYmxlIHRvIGxvZ2luIHRvIHRoZSB0ZXN0LgoKVmVyaWZ5IGFsbCBwcmV2aW91cyByZXNwb25zZXMgc2hvdWxkIE5PVCBzaG93IHVwLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q29udGludWUgYW5zd2VyIGFub3RoZXIgT0UgaXRlbS4KCkNvbnRpbnVlIGFuc3dlciBhbm90aGVyIE1DIGl0ZW0uCg==</text>
+        <text encoding="base64">UmVsYXVuY2ggY2xpZW50IChraW9zayBtb2RlIG9ubHkpLiBWZXJpZnkgbG9naW4gcGFnZSBzaG93cyB1cCBjb3JyZWN0bHkuCgpXYWl0IGZvciBoZWFydGJlYXQsIHZlcmlmeSB0aGUgc3RvcmFnZSBmb2xkZXIgYmVjb21lcyBlbXB0eSAoYWZ0ZXIgYmVpbmcgc2VudCB0byBzZXJ2ZXIpLgoKTG9naW4gdG8gdGhlIHRlc3QuIFZlcmlmeSBzdGlsbCBhYmxlIHRvIGxvZ2luIHRvIHRoZSB0ZXN0LgoKVmVyaWZ5IGFsbCBwcmV2aW91cyByZXNwb25zZXMgc2hvdWxkIE5PVCBzaG93IHVwLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QW5zd2VyIGEgTUMgaXRlbQoKRGlzY29ubmVjdCB0aGUgaW50ZXJuZXQKCkNoYW5nZSB0aGUgcmVzcG9uc2UgZm9yIHRoYXQgTUMgaXRlbQoKV2FpdCBmb3IgaGVhcnRiZWF0ICg5MCBzZWMpLCB2ZXJpZnkgdGhlIHJlcG9zZXMgYXJlIHN0b3JlZCBpbiB0aGUgc3RvcmFnZSBmb2xkZXIgd2l0aCBhIHRpbWVzdGFtcC4KCg==</text>
+        <text encoding="base64">Q29udGludWUgYW5zd2VyIGFub3RoZXIgT0UgaXRlbS4KCkNvbnRpbnVlIGFuc3dlciBhbm90aGVyIE1DIGl0ZW0uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QW5zd2VyIGEgTUMgaXRlbQoKRGlzY29ubmVjdCB0aGUgaW50ZXJuZXQKCkNoYW5nZSB0aGUgcmVzcG9uc2UgZm9yIHRoYXQgTUMgaXRlbQoKV2FpdCBmb3IgaGVhcnRiZWF0ICg5MCBzZWMpLCB2ZXJpZnkgdGhlIHJlcG9zZXMgYXJlIHN0b3JlZCBpbiB0aGUgc3RvcmFnZSBmb2xkZXIgd2l0aCBhIHRpbWVzdGFtcC4KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
