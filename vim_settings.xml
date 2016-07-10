@@ -143,7 +143,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468120097718">
+      <file name="/Dummy.txt" timestamp="1468146006281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1467884868789">
@@ -422,7 +422,7 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
