@@ -100,6 +100,12 @@
         <mark key="." line="46" column="59" />
         <mark key="^" line="46" column="59" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/.gitattributes" timestamp="1468147945130">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_general_masking.robot" timestamp="1466581427379">
         <mark key="[" line="37" column="31" />
         <mark key="]" line="37" column="36" />
@@ -143,7 +149,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468146006281">
+      <file name="/Dummy.txt" timestamp="1468148003419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1467884868789">
@@ -229,6 +235,7 @@
         <mark key="^" line="30" column="41" />
         <mark key="." line="30" column="41" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/items/oe_item_fx/randomly_chosen_buttons.robot" timestamp="1468147782333" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -385,31 +392,31 @@
         <text encoding="base64">LSB1c2VybmFtZTogJzU1NTU5OTk5OCcKICBwYXNzd29yZDogRTdGOEZEMzgKICB0eXBlOiBvcGVyYXRpb25hbAogIGFjY29tbW9kYXRpb25zOgogICAgLSAnbWFza2luZycKICAgIC0gJ2Fuc3dlcl9tYXNraW5nJwogICAgLSAncmVhZF9hbG91ZCcKICAgIC0gJ3pvb20nCiAgICAtICdyZXZlcnNlX2NvbnRyYWN0JwogICAgLSAnbGluZV9yZWFkZXInCiAgICAtICdjb2xvcl9jaG9vc2VyJwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGRlZmF1bHQgYmVoYXZpb3IsIGluIGNhc2UgcGVvcGxlIGRvbid0IGhhdmUgY29yZS5hdXRvY3JsZiBzZXQuCiogdGV4dCBlbw==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBnZW5lcmF0b3IudmFyaWFibGVzIGltcG9ydCAoREFUQV9GT0xERVIsIFJFUExBWV9GT0xERVIsIFJFU09VUkNFX0ZPTERFUiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRVZFTlRTX0RBVEFfRk9MREVSLCBURVNUX0RBVEFfRk9MREVSLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBET0NfRk9MREVSLCBST09UX0ZPTERFUikK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBnZW5lcmF0b3IudmFyaWFibGVzIGltcG9ydCAoREFUQV9GT0xERVIsIFJFUExBWV9GT0xERVIsIFJFU09VUkNFX0ZPTERFUiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRVZFTlRTX0RBVEFfRk9MREVSLCBURVNUX0RBVEFfRk9MREVSLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBET0NfRk9MREVSLCBST09UX0ZPTERFUikK</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="4">
-        <text>.</text>
-      </register>
-      <register name="9" type="4">
-        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
