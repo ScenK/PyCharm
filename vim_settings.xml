@@ -245,11 +245,11 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468220506678">
-        <mark key="'" line="495" column="18" />
-        <mark key="[" line="381" column="11" />
-        <mark key="]" line="381" column="11" />
-        <mark key="." line="381" column="11" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468224542621">
+        <mark key="'" line="475" column="28" />
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="406" column="19" />
+        <mark key="." line="406" column="0" />
         <mark key="^" line="381" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1467090464982">
@@ -309,8 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="38" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" />
-      <jump line="5" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
       <jump line="19" column="46" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/login.robot" />
       <jump line="71" column="73" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
       <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" />
@@ -409,16 +407,18 @@
       <jump line="492" column="18" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="48" column="25" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/test.robot" />
       <jump line="48" column="33" filename="$USER_HOME$/Develop/AutomationTesting/resources/items/open_ended.robot" />
+      <jump line="28" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
+      <jump line="473" column="28" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text>item 6 shou</text>
       </register>
-      <register name="0" type="4">
-        <text>id=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0cwo=</text>
@@ -427,34 +427,34 @@
         <text encoding="base64">ICAke2NvbnRleHQxc309ICAgIEdldCBDb250ZXh0cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Rm9jdXMgT2UgQm94Cg==</text>
+        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICA1Cg==</text>
+        <text encoding="base64">ICAke2NvbnRleHQxc309ICAgIEdldCBDb250ZXh0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
+        <text encoding="base64">Rm9jdXMgT2UgQm94Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTd2l0Y2ggVG8gQ29udGV4dCAgICBXRUJWSUVXXzEK</text>
+        <text encoding="base64">ICBTbGVlcCAgICA1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTd2l0Y2ggVG8gQ29udGV4dCAgICBXRUJWSUVXXzEK</text>
+        <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0Cg==</text>
+        <text encoding="base64">ICBTd2l0Y2ggVG8gQ29udGV4dCAgICBXRUJWSUVXXzEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
+        <text encoding="base64">ICBTd2l0Y2ggVG8gQ29udGV4dCAgICBXRUJWSUVXXzEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search>item 6 shou</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern>item 6 shou</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
@@ -486,6 +486,7 @@
         <entry>Review Screen Should Show Item 1 Answered and Bookmarked</entry>
         <entry>Enter 3 Words To Item 6 OE Box Should Succeed</entry>
         <entry>count</entry>
+        <entry>item 6 shou</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
