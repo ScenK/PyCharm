@@ -245,11 +245,11 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468224542621">
-        <mark key="'" line="475" column="28" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="19" />
-        <mark key="." line="406" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468226251956">
+        <mark key="'" line="476" column="28" />
+        <mark key="[" line="491" column="0" />
+        <mark key="]" line="491" column="20" />
+        <mark key="." line="491" column="0" />
         <mark key="^" line="381" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1467090464982">
