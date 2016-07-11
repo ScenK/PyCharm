@@ -200,15 +200,17 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468216473864">
+      <file name="/Dummy.txt" timestamp="1468226523493">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/items/open_ended.robot" timestamp="1468222400832">
-        <mark key="'" line="48" column="33" />
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="37" column="14" />
-        <mark key="^" line="36" column="32" />
-        <mark key="." line="37" column="14" />
+        <mark key="'" line="49" column="33" />
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="14" />
+        <mark key="^" line="37" column="32" />
+        <mark key="." line="38" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" timestamp="1467699862342">
         <mark key="'" line="64" column="0" />
@@ -245,7 +247,7 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468226251956">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468227641024">
         <mark key="'" line="476" column="28" />
         <mark key="[" line="491" column="0" />
         <mark key="]" line="491" column="20" />
@@ -412,7 +414,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>item 6 shou</text>
@@ -421,28 +423,28 @@
         <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0cwo=</text>
+        <text encoding="base64">c3BsaXQgaW9zLXNpbXVsYXRvciBhbmQgaW9zLXJlYWwtZGV2aWNlIGludG8gdHdvIGRpZmZlcmVudCBlbnRyeS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAke2NvbnRleHQxc309ICAgIEdldCBDb250ZXh0cwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0cwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAke2NvbnRleHQxc309ICAgIEdldCBDb250ZXh0cwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0cwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Rm9jdXMgT2UgQm94Cg==</text>
+        <text encoding="base64">ICAke2NvbnRleHQxc309ICAgIEdldCBDb250ZXh0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICA1Cg==</text>
+        <text encoding="base64">Rm9jdXMgT2UgQm94Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
+        <text encoding="base64">ICBTbGVlcCAgICA1Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTd2l0Y2ggVG8gQ29udGV4dCAgICBXRUJWSUVXXzEK</text>
+        <text encoding="base64">ICBTbGVlcCAgICAxMAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBTd2l0Y2ggVG8gQ29udGV4dCAgICBXRUJWSUVXXzEK</text>
