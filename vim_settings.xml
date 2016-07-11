@@ -39,13 +39,6 @@
         <mark key="." line="54" column="82" />
         <mark key="^" line="54" column="82" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/__init__.py" timestamp="1467884868789">
-        <mark key="'" line="149" column="8" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="57" />
-        <mark key="^" line="152" column="73" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_handler.py" timestamp="1467885575142">
         <mark key="[" line="45" column="37" />
         <mark key="]" line="45" column="37" />
@@ -145,6 +138,9 @@
         <mark key="]" line="49" column="4" />
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1468205913682">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" timestamp="1467699862342">
         <mark key="'" line="64" column="0" />
