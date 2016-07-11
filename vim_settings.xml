@@ -232,11 +232,12 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468218176637">
-        <mark key="'" line="411" column="21" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468218725093">
+        <mark key="'" line="204" column="0" />
+        <mark key="[" line="284" column="27" />
+        <mark key="]" line="284" column="28" />
+        <mark key="." line="284" column="28" />
+        <mark key="^" line="282" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1467090464982">
         <mark key="'" line="1" column="55" />
@@ -295,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
       <jump line="5" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" />
       <jump line="59" column="22" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" />
@@ -395,16 +395,17 @@
       <jump line="152" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="327" column="1" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="412" column="21" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
+      <jump line="204" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>feedback</text>
+        <text>Review Screen Should Show Item 1 Answered and Bookmarked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBXYWl0IFVudGlsIEVsZW1lbnQgSXMgVmlzaWJsZSAgICAke0ZFRURCQUNLLkZFRURCQUNLX1BBR0V9Cg==</text>
+        <text encoding="base64">ICBDaG9vc2UgQmFjayBCdXR0b24KICBJdGVtIE51bWJlciBTaG91bGQgQmUgICAgMgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBQYWdlIFNob3VsZCBDb250YWluICAgIE9wdGlvbnMK</text>
@@ -438,9 +439,9 @@
       </register>
     </registers>
     <search>
-      <last-search>feedback</last-search>
+      <last-search>Review Screen Should Show Item 1 Answered and Bookmarked</last-search>
       <last-offset />
-      <last-pattern>feedback</last-pattern>
+      <last-pattern>Review Screen Should Show Item 1 Answered and Bookmarked</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
@@ -469,6 +470,7 @@
         <entry>direc</entry>
         <entry>current</entry>
         <entry>feedback</entry>
+        <entry>Review Screen Should Show Item 1 Answered and Bookmarked</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
