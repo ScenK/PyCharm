@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" timestamp="1468303736060">
-        <mark key="'" line="118" column="49" />
-        <mark key="[" line="119" column="47" />
-        <mark key="]" line="119" column="59" />
-        <mark key="^" line="118" column="59" />
-        <mark key="." line="119" column="47" />
-      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" timestamp="1468306245876" />
       <file name="/a.dummy" timestamp="1467883846719">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,12 +26,11 @@
         <mark key="^" line="45" column="39" />
         <mark key="." line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1468304254187">
-        <mark key="'" line="33" column="22" />
-        <mark key="[" line="56" column="65" />
-        <mark key="]" line="56" column="82" />
-        <mark key="^" line="56" column="82" />
-        <mark key="." line="56" column="82" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1468306244043">
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="24" column="82" />
+        <mark key="^" line="24" column="82" />
+        <mark key="." line="24" column="82" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" timestamp="1467092520599">
         <mark key="'" line="11" column="39" />
@@ -82,12 +75,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/guideline.robot" timestamp="1468303741989">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="27" />
-        <mark key="." line="142" column="19" />
-        <mark key="^" line="142" column="19" />
-      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/guideline.robot" timestamp="1468303741989" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467698799547">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="4" />
@@ -100,6 +88,12 @@
         <mark key="]" line="45" column="25" />
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468306813827">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="75" column="21" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
@@ -143,11 +137,6 @@
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" timestamp="1467191187336">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml.sample" timestamp="1468215078226">
         <mark key="[" line="28" column="0" />
@@ -200,6 +189,7 @@
         <mark key="." line="273" column="0" />
         <mark key="^" line="273" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468306690068" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
@@ -271,22 +261,12 @@
         <mark key="." line="46" column="59" />
         <mark key="^" line="46" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_test_answer_saved.robot" timestamp="1467701054424">
-        <mark key="'" line="50" column="2" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="12" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" timestamp="1467883832857">
         <mark key="'" line="56" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="42" column="20" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" timestamp="1467704176479">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_scientific_calculator.robot" timestamp="1466583785621">
         <mark key="[" line="34" column="0" />
@@ -430,37 +410,37 @@
         <text encoding="base64">XDxpbm5lcl9vZmZzZXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>@{inner_offset_2}</text>
+        <text>&quot;${mode}&quot;==&quot;ios-simulator&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJpb3Mtc2ltdWxhdG9yIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICBAe2lubmVyX29mZnNldH1beV0gPCAyMAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBJZiAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICBAe2lubmVyX29mZnNldH1beV0gPCAyMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R3VpZGVsaW5lIE1lbnUgU2hvdWxkIERpc3BsYXkKICBbRG9jdW1lbnRhdGlvbl0gICAgVmVyaWZ5IGd1aWRlbGluZSBtZW51IGlzIGRpc3BsYXllZAogIFtUYWdzXSAgICAzLjUKICAke2Rpc3BsYXl9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJyNidG5fZ3VpZGVsaW5lIC50ZXN0ZXJUaXAnKS5jc3MoJ2Rpc3BsYXknKQogIFNob3VsZCBCZSBFcXVhbCAgICBibG9jayAgICAke2Rpc3BsYXl9Cg==</text>
+        <text encoding="base64">ICBJZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBbVGFnc10gICAgMy40Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">R3VpZGVsaW5lIE1lbnUgU2hvdWxkIERpc3BsYXkKICBbRG9jdW1lbnRhdGlvbl0gICAgVmVyaWZ5IGd1aWRlbGluZSBtZW51IGlzIGRpc3BsYXllZAogIFtUYWdzXSAgICAzLjUKICAke2Rpc3BsYXl9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJyNidG5fZ3VpZGVsaW5lIC50ZXN0ZXJUaXAnKS5jc3MoJ2Rpc3BsYXknKQogIFNob3VsZCBCZSBFcXVhbCAgICBibG9jayAgICAke2Rpc3BsYXl9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">c3BsaXQgaW9zLXNpbXVsYXRvciBhbmQgaW9zLXJlYWwtZGV2aWNlIGludG8gdHdvIGRpZmZlcmVudCBlbnRyeS4K</text>
+        <text encoding="base64">ICBbVGFnc10gICAgMy40Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -508,9 +488,9 @@
         <entry>w;w</entry>
         <entry>sp</entry>
         <entry>action FindNext</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
