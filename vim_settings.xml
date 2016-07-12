@@ -89,7 +89,7 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468306888975">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468315438372">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="^" line="75" column="21" />
@@ -189,7 +189,7 @@
         <mark key="." line="273" column="0" />
         <mark key="^" line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468306690068" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468316391574" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
@@ -249,7 +249,8 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468227641024">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468316378903">
+        <mark key="'" line="454" column="19" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="20" />
         <mark key="." line="23" column="0" />
@@ -301,7 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="205" column="94" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="208" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
@@ -401,6 +401,7 @@
       <jump line="105" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="118" column="49" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="33" column="22" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
+      <jump line="454" column="19" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
