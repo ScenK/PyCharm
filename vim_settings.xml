@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" timestamp="1468306245876" />
-      <file name="/a.dummy" timestamp="1467883846719">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -75,6 +72,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/answer_masking_multi.robot" timestamp="1468391654236">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/guideline.robot" timestamp="1468303741989" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467698799547">
         <mark key="[" line="49" column="0" />
@@ -82,8 +85,8 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1468388217359">
-        <mark key="'" line="158" column="26" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1468390635630">
+        <mark key="'" line="70" column="21" />
         <mark key="[" line="156" column="22" />
         <mark key="]" line="156" column="22" />
         <mark key="." line="156" column="22" />
@@ -200,8 +203,12 @@
         <mark key="." line="273" column="0" />
         <mark key="^" line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468389530658">
-        <mark key="'" line="25" column="18" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468391049822">
+        <mark key="'" line="900" column="29" />
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
@@ -315,8 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="39" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" />
-      <jump line="28" column="72" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
       <jump line="19" column="48" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="22" column="47" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
       <jump line="6" column="50" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
@@ -415,6 +420,8 @@
       <jump line="42" column="27" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="621" column="12" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="25" column="18" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="70" column="21" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="899" column="29" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -424,37 +431,37 @@
         <text>_get_text</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBlbGVtZW50X3Nob3VsZF9jb250YWluKHNlbGYsIGxvY2F0b3IsIGV4cGVjdGVkLCBtZXNzYWdlPScnKToKICAgICAgICAiIiJWZXJpZmllcyBlbGVtZW50IGlkZW50aWZpZWQgYnkgYGxvY2F0b3JgIGNvbnRhaW5zIHRleHQgYGV4cGVjdGVkYC4KCiAgICAgICAgSWYgeW91IHdpc2ggdG8gYXNzZXJ0IGFuIGV4YWN0IChub3QgYSBzdWJzdHJpbmcpIG1hdGNoIG9uIHRoZSB0ZXh0CiAgICAgICAgb2YgdGhlIGVsZW1lbnQsIHVzZSBgRWxlbWVudCBUZXh0IFNob3VsZCBCZWAuCgogICAgICAgIGBtZXNzYWdlYCBjYW4gYmUgdXNlZCB0byBvdmVycmlkZSB0aGUgZGVmYXVsdCBlcnJvciBtZXNzYWdlLgoKICAgICAgICBLZXkgYXR0cmlidXRlcyBmb3IgYXJiaXRyYXJ5IGVsZW1lbnRzIGFyZSBgaWRgIGFuZCBgbmFtZWAuIFNlZQogICAgICAgIGBpbnRyb2R1Y3Rpb25gIGZvciBkZXRhaWxzIGFib3V0IGxvY2F0aW5nIGVsZW1lbnRzLgogICAgICAgICIiIgogICAgICAgIHNlbGYuX2luZm8oIlZlcmlmeWluZyBlbGVtZW50ICclcycgY29udGFpbnMgdGV4dCAnJXMnLiIKICAgICAgICAgICAgICAgICAgICAlIChsb2NhdG9yLCBleHBlY3RlZCkpCiAgICAgICAgYWN0dWFsID0gc2VsZi5fZ2V0X3RleHQobG9jYXRvcikKICAgICAgICBpZiBub3QgZXhwZWN0ZWQgaW4gYWN0dWFsOgogICAgICAgICAgICBpZiBub3QgbWVzc2FnZToKICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSAiRWxlbWVudCAnJXMnIHNob3VsZCBoYXZlIGNvbnRhaW5lZCB0ZXh0ICclcycgYnV0ICJcCiAgICAgICAgICAgICAgICAgICAgICAgICAgIml0cyB0ZXh0IHdhcyAnJXMnLiIgJSAobG9jYXRvciwgZXhwZWN0ZWQsIGFjdHVhbCkKICAgICAgICAgICAgcmFpc2UgQXNzZXJ0aW9uRXJyb3IobWVzc2FnZSkK</text>
+        <text encoding="base64">ICBTbGVlcCAgICAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJWZXJpZnlpbmcgZWxlbWVudCAnJXMnIGNvbnRhaW5zIHRleHQgJyVzJy4iCiAgICAgICAgICAgICAgICAgICAlIChsb2NhdG9yLCBleHBlY3RlZCkpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJpb3Mtc2ltdWxhdG9yIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJWZXJpZnlpbmcgZWxlbWVudCAnJXMnIGNvbnRhaW5zIHRleHQgJyVzJy4iCiAgICAgICAgICAgICAgICAgICAlIChsb2NhdG9yLCBleHBlY3RlZCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJpb3Mtc2ltdWxhdG9yIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICBAe2lubmVyX29mZnNldH1beV0gPCAyMAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBJZiAK</text>
+        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICBAe2lubmVyX29mZnNldH1beV0gPCAyMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R3VpZGVsaW5lIE1lbnUgU2hvdWxkIERpc3BsYXkKICBbRG9jdW1lbnRhdGlvbl0gICAgVmVyaWZ5IGd1aWRlbGluZSBtZW51IGlzIGRpc3BsYXllZAogIFtUYWdzXSAgICAzLjUKICAke2Rpc3BsYXl9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJyNidG5fZ3VpZGVsaW5lIC50ZXN0ZXJUaXAnKS5jc3MoJ2Rpc3BsYXknKQogIFNob3VsZCBCZSBFcXVhbCAgICBibG9jayAgICAke2Rpc3BsYXl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBbVGFnc10gICAgMy40Cg==</text>
+        <text encoding="base64">R3VpZGVsaW5lIE1lbnUgU2hvdWxkIERpc3BsYXkKICBbRG9jdW1lbnRhdGlvbl0gICAgVmVyaWZ5IGd1aWRlbGluZSBtZW51IGlzIGRpc3BsYXllZAogIFtUYWdzXSAgICAzLjUKICAke2Rpc3BsYXl9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJyNidG5fZ3VpZGVsaW5lIC50ZXN0ZXJUaXAnKS5jc3MoJ2Rpc3BsYXknKQogIFNob3VsZCBCZSBFcXVhbCAgICBibG9jayAgICAke2Rpc3BsYXl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindNext</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -504,8 +511,8 @@
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>action FindNext</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
