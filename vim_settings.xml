@@ -200,7 +200,9 @@
         <mark key="." line="273" column="0" />
         <mark key="^" line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468316391574" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468389530658">
+        <mark key="'" line="25" column="18" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
@@ -313,9 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
-      <jump line="25" column="29" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
-      <jump line="16" column="28" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
       <jump line="11" column="39" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/utils.robot" />
       <jump line="28" column="72" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
       <jump line="19" column="48" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
@@ -413,6 +412,9 @@
       <jump line="454" column="19" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="198" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="158" column="26" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="42" column="27" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="621" column="12" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="25" column="18" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
