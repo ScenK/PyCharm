@@ -82,6 +82,13 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1468388217359">
+        <mark key="'" line="158" column="26" />
+        <mark key="[" line="156" column="22" />
+        <mark key="]" line="156" column="22" />
+        <mark key="." line="156" column="22" />
+        <mark key="^" line="156" column="25" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1467264849016">
         <mark key="'" line="129" column="44" />
         <mark key="[" line="45" column="0" />
@@ -101,6 +108,10 @@
         <mark key="]" line="84" column="50" />
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1468388141464">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="80" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_general_masking.robot" timestamp="1466581427379">
         <mark key="[" line="37" column="31" />
@@ -302,8 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="94" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
-      <jump line="23" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="208" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="25" column="29" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="16" column="28" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
@@ -402,55 +411,57 @@
       <jump line="118" column="49" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="33" column="22" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="454" column="19" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
+      <jump line="198" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="158" column="26" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbm5lcl9vZmZzZXRcPg==</text>
+        <text>_get_text</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;${mode}&quot;==&quot;ios-simulator&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBlbGVtZW50X3Nob3VsZF9jb250YWluKHNlbGYsIGxvY2F0b3IsIGV4cGVjdGVkLCBtZXNzYWdlPScnKToKICAgICAgICAiIiJWZXJpZmllcyBlbGVtZW50IGlkZW50aWZpZWQgYnkgYGxvY2F0b3JgIGNvbnRhaW5zIHRleHQgYGV4cGVjdGVkYC4KCiAgICAgICAgSWYgeW91IHdpc2ggdG8gYXNzZXJ0IGFuIGV4YWN0IChub3QgYSBzdWJzdHJpbmcpIG1hdGNoIG9uIHRoZSB0ZXh0CiAgICAgICAgb2YgdGhlIGVsZW1lbnQsIHVzZSBgRWxlbWVudCBUZXh0IFNob3VsZCBCZWAuCgogICAgICAgIGBtZXNzYWdlYCBjYW4gYmUgdXNlZCB0byBvdmVycmlkZSB0aGUgZGVmYXVsdCBlcnJvciBtZXNzYWdlLgoKICAgICAgICBLZXkgYXR0cmlidXRlcyBmb3IgYXJiaXRyYXJ5IGVsZW1lbnRzIGFyZSBgaWRgIGFuZCBgbmFtZWAuIFNlZQogICAgICAgIGBpbnRyb2R1Y3Rpb25gIGZvciBkZXRhaWxzIGFib3V0IGxvY2F0aW5nIGVsZW1lbnRzLgogICAgICAgICIiIgogICAgICAgIHNlbGYuX2luZm8oIlZlcmlmeWluZyBlbGVtZW50ICclcycgY29udGFpbnMgdGV4dCAnJXMnLiIKICAgICAgICAgICAgICAgICAgICAlIChsb2NhdG9yLCBleHBlY3RlZCkpCiAgICAgICAgYWN0dWFsID0gc2VsZi5fZ2V0X3RleHQobG9jYXRvcikKICAgICAgICBpZiBub3QgZXhwZWN0ZWQgaW4gYWN0dWFsOgogICAgICAgICAgICBpZiBub3QgbWVzc2FnZToKICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSAiRWxlbWVudCAnJXMnIHNob3VsZCBoYXZlIGNvbnRhaW5lZCB0ZXh0ICclcycgYnV0ICJcCiAgICAgICAgICAgICAgICAgICAgICAgICAgIml0cyB0ZXh0IHdhcyAnJXMnLiIgJSAobG9jYXRvciwgZXhwZWN0ZWQsIGFjdHVhbCkKICAgICAgICAgICAgcmFpc2UgQXNzZXJ0aW9uRXJyb3IobWVzc2FnZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJpb3Mtc2ltdWxhdG9yIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJWZXJpZnlpbmcgZWxlbWVudCAnJXMnIGNvbnRhaW5zIHRleHQgJyVzJy4iCiAgICAgICAgICAgICAgICAgICAlIChsb2NhdG9yLCBleHBlY3RlZCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJpb3Mtc2ltdWxhdG9yIgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICBAe2lubmVyX29mZnNldH1beV0gPCAyMAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBJZiAK</text>
+        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICBAe2lubmVyX29mZnNldH1beV0gPCAyMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R3VpZGVsaW5lIE1lbnUgU2hvdWxkIERpc3BsYXkKICBbRG9jdW1lbnRhdGlvbl0gICAgVmVyaWZ5IGd1aWRlbGluZSBtZW51IGlzIGRpc3BsYXllZAogIFtUYWdzXSAgICAzLjUKICAke2Rpc3BsYXl9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJyNidG5fZ3VpZGVsaW5lIC50ZXN0ZXJUaXAnKS5jc3MoJ2Rpc3BsYXknKQogIFNob3VsZCBCZSBFcXVhbCAgICBibG9jayAgICAke2Rpc3BsYXl9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBbVGFnc10gICAgMy40Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">R3VpZGVsaW5lIE1lbnUgU2hvdWxkIERpc3BsYXkKICBbRG9jdW1lbnRhdGlvbl0gICAgVmVyaWZ5IGd1aWRlbGluZSBtZW51IGlzIGRpc3BsYXllZAogIFtUYWdzXSAgICAzLjUKICAke2Rpc3BsYXl9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJyNidG5fZ3VpZGVsaW5lIC50ZXN0ZXJUaXAnKS5jc3MoJ2Rpc3BsYXknKQogIFNob3VsZCBCZSBFcXVhbCAgICBibG9jayAgICAke2Rpc3BsYXl9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBbVGFnc10gICAgMy40Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbm5lcl9vZmZzZXRcPg==</last-search>
+      <last-search>_get_text</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbm5lcl9vZmZzZXRcPg==</last-pattern>
+      <last-pattern>_get_text</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -477,6 +488,7 @@
         <entry>item 6 shou</entry>
         <entry encoding="base64">XDxjdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxpbm5lcl9vZmZzZXRcPg==</entry>
+        <entry>_get_text</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -488,10 +500,10 @@
         <entry>action FindPrevious</entry>
         <entry>w;w</entry>
         <entry>sp</entry>
-        <entry>action FindNext</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
