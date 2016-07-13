@@ -72,11 +72,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/answer_masking_multi.robot" timestamp="1468391654236">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="11" />
-        <mark key="." line="37" column="11" />
-        <mark key="^" line="37" column="11" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/answer_masking_multi.robot" timestamp="1468393513552">
+        <mark key="'" line="38" column="50" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="39" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/guideline.robot" timestamp="1468303741989" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467698799547">
@@ -99,9 +100,10 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468376912129">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468393509474">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="45" />
         <mark key="^" line="75" column="21" />
         <mark key="." line="75" column="0" />
       </file>
@@ -122,7 +124,8 @@
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1468217364836">
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1468393428215">
+        <mark key="'" line="94" column="36" />
         <mark key="[" line="192" column="16" />
         <mark key="]" line="192" column="23" />
         <mark key="." line="192" column="23" />
@@ -322,9 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="48" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
-      <jump line="22" column="47" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
-      <jump line="6" column="50" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
       <jump line="13" column="52" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
       <jump line="25" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
       <jump line="74" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
@@ -422,43 +422,46 @@
       <jump line="25" column="18" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="70" column="21" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="899" column="29" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="94" column="36" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" />
+      <jump line="37" column="50" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/answer_masking_multi.robot" />
+      <jump line="70" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ANSWER_MASKING.CURRENT_ITEM}</text>
       </register>
       <register name="/" type="4">
         <text>_get_text</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxCg==</text>
+        <text encoding="base64">TGlicmFyeSAgICAuLi8uLi9saWJyYXJpZXMvQXNzaXN0YW50TGlicmFyeS5weQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBTbGVlcCAgICAxCiAgRWxlbWVudCBTaG91bGQgTm90IEJlIFZpc2libGUgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJWZXJpZnlpbmcgZWxlbWVudCAnJXMnIGNvbnRhaW5zIHRleHQgJyVzJy4iCiAgICAgICAgICAgICAgICAgICAlIChsb2NhdG9yLCBleHBlY3RlZCkpCg==</text>
+        <text encoding="base64">ICBTaG91bGQgTm8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJpb3Mtc2ltdWxhdG9yIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJWZXJpZnlpbmcgZWxlbWVudCAnJXMnIGNvbnRhaW5zIHRleHQgJyVzJy4iCiAgICAgICAgICAgICAgICAgICAlIChsb2NhdG9yLCBleHBlY3RlZCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJpb3Mtc2ltdWxhdG9yIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICBAe2lubmVyX29mZnNldH1beV0gPCAyMAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBJZiAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTaG91bGQgQmUgVHJ1ZSAgICBAe2lubmVyX29mZnNldH1beV0gPCAyMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">R3VpZGVsaW5lIE1lbnUgU2hvdWxkIERpc3BsYXkKICBbRG9jdW1lbnRhdGlvbl0gICAgVmVyaWZ5IGd1aWRlbGluZSBtZW51IGlzIGRpc3BsYXllZAogIFtUYWdzXSAgICAzLjUKICAke2Rpc3BsYXl9PSAgICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoJyNidG5fZ3VpZGVsaW5lIC50ZXN0ZXJUaXAnKS5jc3MoJ2Rpc3BsYXknKQogIFNob3VsZCBCZSBFcXVhbCAgICBibG9jayAgICAke2Rpc3BsYXl9Cg==</text>
+        <text encoding="base64">ICBJZiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
