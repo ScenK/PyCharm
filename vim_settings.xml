@@ -132,7 +132,7 @@
         <mark key="." line="192" column="23" />
         <mark key="^" line="192" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" timestamp="1468561261012">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" timestamp="1468562563526">
         <mark key="'" line="131" column="0" />
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="46" />
@@ -481,11 +481,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>outer</entry>
         <entry>Line Reader</entry>
         <entry>drawline</entry>
