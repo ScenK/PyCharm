@@ -84,11 +84,10 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1468567229539">
-        <mark key="[" line="362" column="28" />
-        <mark key="]" line="362" column="34" />
-        <mark key="." line="362" column="34" />
-        <mark key="^" line="362" column="34" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1468568598403">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1467264849016">
         <mark key="'" line="129" column="44" />
@@ -440,42 +439,42 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ZHJhZ19hbmRfZHJvcF9ieV9vZmZzZXQgPSA=</text>
+        <text>elenium2</text>
       </register>
       <register name="/" type="4">
         <text>sti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUb3VjaEFjdGlvbihkcml2ZXIpLmxvbmdfcHJlc3MoZWxlbWVudCkud2FpdCgzMDAwKS4gXAogICAgICAgICAgICBtb3ZlX3RvKGVsZW1lbnQsIHhvZmZzZXQsIHlvZmZzZXQpLnJlbGVhc2UoKS5wZXJmb3JtKCkK</text>
+        <text encoding="base64">TGlicmFyeSAgICBTZWxlbml1bTJMaWJyYXJ5Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBMb25nIFByZXNzICAgICR7UkVWSUVXLk9QRU5fUkVWSUVXX1BBTkVMX0JUTn0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBMCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBMb25nIAo=</text>
+      </register>
+      <register name="4" type="4">
         <text>wait(3000). \
             move_to(element, xoffset, yoffset).release().</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZHJhZ19hbmRfZHJvcF9ieV9vZmZzZXQK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuY29tbW9uLmFjdGlvbl9jaGFpbnMgaW1wb3J0IEFjdGlvbkNoYWlucwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>apu.get_webelement(locator)
         element_size = element.size</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxCiAgRWxlbWVudCBTaG91bGQgTm90IEJlIFZpc2libGUgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBTaG91bGQgTm8K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmZvKCJWZXJpZnlpbmcgZWxlbWVudCAnJXMnIGNvbnRhaW5zIHRleHQgJyVzJy4iCiAgICAgICAgICAgICAgICAgICAlIChsb2NhdG9yLCBleHBlY3RlZCkpCg==</text>
+        <text encoding="base64">ICBTbGVlcCAgICAxCiAgRWxlbWVudCBTaG91bGQgTm90IEJlIFZpc2libGUgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
