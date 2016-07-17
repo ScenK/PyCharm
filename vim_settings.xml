@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" timestamp="1468742681265">
+        <mark key="'" line="92" column="2" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -15,6 +18,9 @@
         <mark key="]" line="42" column="24" />
         <mark key="." line="54" column="82" />
         <mark key="^" line="54" column="82" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" timestamp="1468742708060">
+        <mark key="'" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_handler.py" timestamp="1467885575142">
         <mark key="[" line="45" column="37" />
@@ -96,8 +102,8 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468393509474">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468742666719">
+        <mark key="'" line="118" column="2" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="45" />
         <mark key="^" line="75" column="21" />
@@ -336,13 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
-      <jump line="64" column="39" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
-      <jump line="197" column="38" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
-      <jump line="54" column="55" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
-      <jump line="85" column="44" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
-      <jump line="35" column="109" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" />
-      <jump line="16" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="55" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="58" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="64" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
@@ -436,6 +435,13 @@
       <jump line="77" column="65" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="160" column="40" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="131" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" />
+      <jump line="24" column="41" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="118" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="19" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
+      <jump line="92" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
+      <jump line="128" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -477,7 +483,7 @@
         <text encoding="base64">ICBTbGVlcCAgICAxCiAgRWxlbWVudCBTaG91bGQgTm90IEJlIFZpc2libGUgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -524,8 +530,8 @@
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>action FindNext</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
