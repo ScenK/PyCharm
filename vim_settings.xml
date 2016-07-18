@@ -72,11 +72,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/dictionary.robot" timestamp="1468824973809">
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="38" />
-        <mark key="." line="45" column="38" />
-        <mark key="^" line="45" column="38" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/dictionary.robot" timestamp="1468830383456">
+        <mark key="[" line="44" column="124" />
+        <mark key="]" line="44" column="125" />
+        <mark key="." line="44" column="124" />
+        <mark key="^" line="44" column="79" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1468215784507">
         <mark key="[" line="21" column="0" />
@@ -237,12 +237,12 @@
         <mark key="." line="273" column="0" />
         <mark key="^" line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468826033550">
-        <mark key="'" line="343" column="12" />
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468830846718">
+        <mark key="'" line="458" column="27" />
+        <mark key="[" line="1027" column="0" />
+        <mark key="]" line="1027" column="20" />
         <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="1027" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
@@ -355,7 +355,7 @@
         <mark key="^" line="141" column="69" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" timestamp="1468827189292">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" timestamp="1468830269872">
         <mark key="'" line="13" column="24" />
         <mark key="[" line="81" column="134" />
         <mark key="]" line="81" column="140" />
@@ -370,9 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="41" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
-      <jump line="199" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
-      <jump line="36" column="47" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="8" column="24" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="60" column="13" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
       <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
@@ -470,16 +467,19 @@
       <jump line="13" column="24" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" />
       <jump line="503" column="14" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="343" column="12" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="108" column="19" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="429" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="458" column="27" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>right</text>
+        <text encoding="base64">IGRpdi5jbG9zZUJ1dHRvbg==</text>
       </register>
       <register name="/" type="4">
-        <text>sti</text>
+        <text>remove masking</text>
       </register>
-      <register name="0" type="4">
-        <text>div.definitionBox:eq(${num}) div.closeButton</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBcICAgIENsaWNrIEVsZW1lbnQK</text>
@@ -513,13 +513,13 @@
       </register>
     </registers>
     <search>
-      <last-search>sti</last-search>
+      <last-search>remove masking</last-search>
       <last-offset />
-      <last-pattern>sti</last-pattern>
+      <last-pattern>remove masking</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -543,6 +543,9 @@
         <entry encoding="base64">XDxpbm5lcl9vZmZzZXRcPg==</entry>
         <entry>_get_text</entry>
         <entry>sti</entry>
+        <entry>reference</entry>
+        <entry>masking</entry>
+        <entry>remove masking</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
