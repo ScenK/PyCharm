@@ -334,6 +334,13 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/CalculatorLibrary.py" timestamp="1468808906689">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="141" column="75" />
+        <mark key="]" line="141" column="22" />
+        <mark key="^" line="141" column="22" />
+        <mark key="." line="141" column="22" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467262952619">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="48" column="56" />
@@ -342,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="58" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="64" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
@@ -442,10 +448,11 @@
       <jump line="92" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="128" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/CalculatorLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>elenium2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sti</text>
@@ -483,7 +490,7 @@
         <text encoding="base64">ICBTbGVlcCAgICAxCiAgRWxlbWVudCBTaG91bGQgTm90IEJlIFZpc2libGUgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -530,8 +537,8 @@
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>action FindNext</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
