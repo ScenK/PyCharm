@@ -344,6 +344,13 @@
         <mark key="^" line="141" column="22" />
         <mark key="." line="141" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" timestamp="1468811183221">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="71" column="69" />
+        <mark key="]" line="71" column="70" />
+        <mark key="^" line="67" column="18" />
+        <mark key="." line="71" column="69" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467262952619">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="48" column="56" />
@@ -352,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="5" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="73" column="52" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
       <jump line="75" column="19" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
@@ -452,6 +458,7 @@
       <jump line="37" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/CalculatorLibrary.py" />
       <jump line="294" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="410" column="12" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -460,8 +467,8 @@
       <register name="/" type="4">
         <text>sti</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TGlicmFyeSAgICBTZWxlbml1bTJMaWJyYXJ5Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBMb25nIFByZXNzICAgICR7UkVWSUVXLk9QRU5fUkVWSUVXX1BBTkVMX0JUTn0K</text>
