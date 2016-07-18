@@ -72,6 +72,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/dictionary.robot" timestamp="1468824060087">
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="45" column="38" />
+        <mark key="^" line="45" column="38" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1468215784507">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -175,6 +181,11 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/masking.robot" timestamp="1468824068415">
+        <mark key="[" line="80" column="38" />
+        <mark key="]" line="80" column="38" />
+        <mark key="." line="80" column="38" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml.sample" timestamp="1468215078226">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -226,8 +237,8 @@
         <mark key="." line="273" column="0" />
         <mark key="^" line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468391049822">
-        <mark key="'" line="900" column="29" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468823812817">
+        <mark key="'" line="503" column="14" />
         <mark key="[" line="1" column="30" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -344,12 +355,12 @@
         <mark key="^" line="141" column="69" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" timestamp="1468819188157">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" timestamp="1468823859090">
         <mark key="'" line="13" column="24" />
-        <mark key="[" line="69" column="67" />
-        <mark key="]" line="70" column="13" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="42" />
         <mark key="^" line="70" column="13" />
-        <mark key="." line="70" column="13" />
+        <mark key="." line="80" column="96" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467262952619">
         <mark key="[" line="45" column="0" />
@@ -359,7 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="52" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
       <jump line="75" column="19" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="139" column="41" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="199" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
@@ -459,43 +469,44 @@
       <jump line="410" column="12" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" />
       <jump line="13" column="24" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" />
+      <jump line="503" column="14" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">ICIke21vZGV9Ij09ImlvcyI=</text>
       </register>
       <register name="/" type="4">
         <text>sti</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBFeGVjdXRlIEphdmFzY3JpcHQgICAgcmV0dXJuICQoIi5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KSIpLmNsaWNrKCkK</text>
+      <register name="0" type="4">
+        <text>div.definitionBox:eq(${num}) div.closeButton</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gKHUieHBhdGg9Ly9idXR0b25bY29udGFpbnMoQGNsYXNzLCdjYWxjdWxhdG9yX2J1dHRvbicpICIKICAgICAgICAgICAgICAgICAgICAgIHUiYW5kIHRleHQoKT0nezA6c30nXSIuZm9ybWF0KHN0cmluZykpCg==</text>
+        <text encoding="base64">ICBcICAgIENsaWNrIEVsZW1lbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBcLi4uICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gKHUieHBhdGg9Ly9idXR0b25bY29udGFpbnMoQGNsYXNzLCdjYWxjdWxhdG9yX2J1dHRvbicpICIKICAgICAgICAgICAgICAgICAgICAgIHUiYW5kIHRleHQoKT0nezA6c30nXSIuZm9ybWF0KHN0cmluZykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAke3B1cmVfeHBhdGh9PSAgICAK</text>
+        <text encoding="base64">ICBcLi4uICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCiAgVGFwICAgIGpxdWVyeT0uY2FsY3VsYXRvcl9idXR0b246Y29udGFpbnMoNSkKICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCg==</text>
+        <text encoding="base64">ICAke3B1cmVfeHBhdGh9PSAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBFeAo=</text>
+        <text encoding="base64">ICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCiAgVGFwICAgIGpxdWVyeT0uY2FsY3VsYXRvcl9idXR0b246Y29udGFpbnMoNSkKICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDbGljayBFbGVtZW50ICAgIAogIENsaWNrIEVsZW1lbnQgICAgCiAgQ2xpY2sgRWxlbWVudCAgICAKICBDbGljayBFbGVtZW50ICAgCg==</text>
+        <text encoding="base64">ICBFeAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBMb25nIFByZXNzICAgICR7UkVWSUVXLk9QRU5fUkVWSUVXX1BBTkVMX0JUTn0K</text>
+        <text encoding="base64">ICBDbGljayBFbGVtZW50ICAgIAogIENsaWNrIEVsZW1lbnQgICAgCiAgQ2xpY2sgRWxlbWVudCAgICAKICBDbGljayBFbGVtZW50ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMCg==</text>
+        <text encoding="base64">ICBMb25nIFByZXNzICAgICR7UkVWSUVXLk9QRU5fUkVWSUVXX1BBTkVMX0JUTn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMb25nIAo=</text>
+        <text encoding="base64">ICBMCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -545,6 +556,8 @@
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>action FindNext</entry>
+        <entry>495</entry>
+        <entry>222</entry>
         <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
