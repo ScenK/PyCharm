@@ -90,6 +90,9 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1468809983987">
+        <mark key="'" line="410" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1468648045092">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="47" />
@@ -349,8 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
-      <jump line="64" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="63" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="5" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="73" column="52" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
@@ -449,6 +450,8 @@
       <jump line="128" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/CalculatorLibrary.py" />
+      <jump line="294" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="410" column="12" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
