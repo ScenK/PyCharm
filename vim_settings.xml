@@ -237,8 +237,8 @@
         <mark key="." line="273" column="0" />
         <mark key="^" line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468823812817">
-        <mark key="'" line="503" column="14" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1468826033550">
+        <mark key="'" line="343" column="12" />
         <mark key="[" line="1" column="30" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -256,7 +256,7 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468818624082">
+      <file name="/Dummy.txt" timestamp="1468825787679">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="9" />
         <mark key="." line="6" column="9" />
@@ -355,12 +355,12 @@
         <mark key="^" line="141" column="69" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" timestamp="1468823859090">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" timestamp="1468827189292">
         <mark key="'" line="13" column="24" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="70" column="42" />
-        <mark key="^" line="70" column="13" />
-        <mark key="." line="80" column="96" />
+        <mark key="[" line="81" column="134" />
+        <mark key="]" line="81" column="140" />
+        <mark key="^" line="81" column="140" />
+        <mark key="." line="81" column="140" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467262952619">
         <mark key="[" line="45" column="0" />
@@ -370,7 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="19" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="139" column="41" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="199" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" />
       <jump line="36" column="47" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
@@ -470,10 +469,11 @@
       <jump line="45" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" />
       <jump line="13" column="24" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/calculator.robot" />
       <jump line="503" column="14" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="343" column="12" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICIke21vZGV9Ij09ImlvcyI=</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
         <text>sti</text>
