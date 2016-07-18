@@ -53,11 +53,12 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1468215570465">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1468836027009">
+        <mark key="'" line="0" column="5" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/session.robot" timestamp="1467091745390">
         <mark key="'" line="19" column="0" />
@@ -370,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="24" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="60" column="13" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
       <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
       <jump line="65" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
@@ -470,10 +470,11 @@
       <jump line="108" column="19" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="429" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="458" column="27" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="0" column="5" filename="$USER_HOME$/Develop/AutomationTesting/variables.yaml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IGRpdi5jbG9zZUJ1dHRvbg==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>remove masking</text>
@@ -519,13 +520,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>outer</entry>
-        <entry>Line Reader</entry>
-        <entry>drawline</entry>
         <entry>draw line</entry>
         <entry>scientific</entry>
         <entry>finish</entry>
