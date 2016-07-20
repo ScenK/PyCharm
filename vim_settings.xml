@@ -76,6 +76,12 @@
         <mark key="." line="91" column="32" />
         <mark key="^" line="91" column="32" />
       </file>
+      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_answer_saved_with_multibyte_characters.robot" timestamp="1467703734224">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/dictionary.robot" timestamp="1468830383456">
         <mark key="[" line="44" column="124" />
         <mark key="]" line="44" column="125" />
@@ -163,6 +169,12 @@
         <mark key="]" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/test.robot" timestamp="1468222081507">
+        <mark key="'" line="45" column="25" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1467869256929">
         <mark key="'" line="174" column="2" />
         <mark key="[" line="27" column="0" />
@@ -181,6 +193,12 @@
         <mark key="]" line="35" column="1" />
         <mark key="." line="35" column="1" />
         <mark key="^" line="35" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/03_practice_test.robot" timestamp="1469004790196">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/test_data/regression/tools/general_masking/general_masking_basic.json" timestamp="1467884367067">
         <mark key="[" line="5" column="28" />
@@ -310,6 +328,12 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468316378903">
+        <mark key="'" line="454" column="19" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1467090464982">
         <mark key="'" line="1" column="55" />
         <mark key="[" line="45" column="48" />
@@ -372,8 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
-      <jump line="140" column="91" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" />
       <jump line="39" column="17" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/sketch.robot" />
       <jump line="72" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
@@ -472,40 +494,42 @@
       <jump line="83" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" />
       <jump line="13" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
       <jump line="8" column="35" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
+      <jump line="260" column="11" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/03_practice_test.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/03_practice_test.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IHNob3VsZCBjbG9zZSBhdXRvbWF0aWNhbGx5</text>
+        <text encoding="base64">ICAx</text>
       </register>
       <register name="/" type="4">
         <text>remove masking</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBHbyBUbyBOZXh0IEl0ZW0K</text>
+        <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgTG9nIFRvIENvbnNvbGUgICAgIiM1LiBDb2xvciBjaG9vc2VyIHNob3VsZCBiZSBjbG9zZWQgaW4gbmV3IGl0ZW0uIgojICBDb2xvciBTY2hlbWUgTWVudSBTaG91bGQgTm90IEJlIERpc3BsYXllZAojCiMgIExvZyBUbyBDb25zb2xlICAgICIjNS4gT3BlbiBDb2xvciBjaG9vc2VyIGluIG5ldyBpdGVtLiIKIyAgVG9nZ2xlIENvbG9yIENob29zZXIKIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzYuRG8gbm90IGNsb3NlIGFuZCBCYWNrIHRvIG9yaWdpbiBpdGVtIgojICBKdW1wIERpcmVjdGx5IFRvIEl0ZW0gICAgJHtpdGVtX251bWJlcn0KIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzcuIENvbG9yIGNob29zZXIgc2hvdWxkIGNsb3NlIGF1dG9tYXRpY2FsbHkiCiMgIENvbG9yIFNjaGVtZSBNZW51IFNob3VsZCBOb3QgQmUgRGlzcGxheWVkCiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiM4LiBPcGVuIENvbG9yIGNob29zZXIgYWdhaW4iCiMgIFRvZ2dsZSBDb2xvciBDaG9vc2VyCiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiM5LiBDb2xvciBjaG9vc2VyIHNob3VsZCBiZSBvcGVuIGFnYWluLiIKIyAgQ29sb3IgU2NoZW1lIE1lbnUgU2hvdWxkIEJlIERpc3BsYXllZAojCiMgIExvZyBUbyBDb25zb2xlICAgICIjMTAuIFRoZXJlIHNob3VsZCBiZSAxMiBjb2xvcnMgaW4gQ29sb3IgY2hvb3Nlci4iCiMgICR7bnVtYmVyfT0gICAgR2V0IEF2YWlsYWJsZSBDb2xvciBTY2hlbWVzIE51bWJlcgojICBTaG91bGQgQmUgRXF1YWwgQXMgTnVtYmVycyAgICAke251bWJlcn0gICAgMTIKIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzExLiBEbyBub3QgY2xvc2UgYW5kIGdvIHByZXZpb3VzIGl0ZW0iCiMgIEdvIFRvIFByZXZpb3VzIEl0ZW0KIyAgU2xlZXAgICAgMC41CiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiMxMi4gQ29sb3IgY2hvb3NlciBzaG91bGQgYmUgY2xvc2VkIGluIG5ldyBpdGVtLiIKIyAgQ29sb3IgU2NoZW1lIE1lbnUgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQKIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzEzLkRvIG5vdCBjbG9zZSBhbmQgQmFjayB0byBvcmlnaW4gaXRlbSIKIyAgSnVtcCBEaXJlY3RseSBUbyBJdGVtICAgICR7aXRlbV9udW1iZXJ9CiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiMxNC4gQ29sb3IgY2hvb3NlciBzaG91bGQgY2xvc2UgYXV0b21hdGljYWxseSIKIyAgQ29sb3IgU2NoZW1lIE1lbnUgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQK</text>
+        <text encoding="base64">ICBQYWdlIFNob3VsZCBDb250YWluICAgIE9wdGlvbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBKdW1wIERpcmVjdGx5IFRvIEl0ZW0gICAgJHtpdGVtX251bWJlcn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzEwLiBEbyBub3QgY2xvc2UgYW5kIGdvIHByZXZpb3VzIGl0ZW0iCiAgR28gVG8gUHJldmlvdXMgSXRlbQogIFNsZWVwICAgIDAuNQoKICBMb2cgVG8gQ29uc29sZSAgICAiIzExLiBDb2xvciBjaG9vc2VyIHNob3VsZCBjbG9zZSBhdXRvbWF0aWNhbGx5IgogIENvbG9yIFNjaGVtZSBNZW51IFNob3VsZCBOb3QgQmUgRGlzcGxheWVkCgogIExvZyBUbyBDb25zb2xlICAgICIjMTEuIENvbG9yIGNob29zZXIgc2hvdWxkIGJlIG9wZW4gYWdhaW4uIgogIENvbG9yIFNjaGVtZSBNZW51IFNob3VsZCBCZSBEaXNwbGF5ZWQK</text>
+        <text encoding="base64">SnVtcCBUbyBJdGVtCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
+        <text encoding="base64">ICBQYWdlIFNob3VsZCBDb250YWluICAgIE9wdGlvbnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBcICBTbGVlcCAgICA1Cg==</text>
+        <text encoding="base64">IyAgTG9nIFRvIENvbnNvbGUgICAgIiM1LiBDb2xvciBjaG9vc2VyIHNob3VsZCBiZSBjbG9zZWQgaW4gbmV3IGl0ZW0uIgojICBDb2xvciBTY2hlbWUgTWVudSBTaG91bGQgTm90IEJlIERpc3BsYXllZAojCiMgIExvZyBUbyBDb25zb2xlICAgICIjNS4gT3BlbiBDb2xvciBjaG9vc2VyIGluIG5ldyBpdGVtLiIKIyAgVG9nZ2xlIENvbG9yIENob29zZXIKIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzYuRG8gbm90IGNsb3NlIGFuZCBCYWNrIHRvIG9yaWdpbiBpdGVtIgojICBKdW1wIERpcmVjdGx5IFRvIEl0ZW0gICAgJHtpdGVtX251bWJlcn0KIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzcuIENvbG9yIGNob29zZXIgc2hvdWxkIGNsb3NlIGF1dG9tYXRpY2FsbHkiCiMgIENvbG9yIFNjaGVtZSBNZW51IFNob3VsZCBOb3QgQmUgRGlzcGxheWVkCiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiM4LiBPcGVuIENvbG9yIGNob29zZXIgYWdhaW4iCiMgIFRvZ2dsZSBDb2xvciBDaG9vc2VyCiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiM5LiBDb2xvciBjaG9vc2VyIHNob3VsZCBiZSBvcGVuIGFnYWluLiIKIyAgQ29sb3IgU2NoZW1lIE1lbnUgU2hvdWxkIEJlIERpc3BsYXllZAojCiMgIExvZyBUbyBDb25zb2xlICAgICIjMTAuIFRoZXJlIHNob3VsZCBiZSAxMiBjb2xvcnMgaW4gQ29sb3IgY2hvb3Nlci4iCiMgICR7bnVtYmVyfT0gICAgR2V0IEF2YWlsYWJsZSBDb2xvciBTY2hlbWVzIE51bWJlcgojICBTaG91bGQgQmUgRXF1YWwgQXMgTnVtYmVycyAgICAke251bWJlcn0gICAgMTIKIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzExLiBEbyBub3QgY2xvc2UgYW5kIGdvIHByZXZpb3VzIGl0ZW0iCiMgIEdvIFRvIFByZXZpb3VzIEl0ZW0KIyAgU2xlZXAgICAgMC41CiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiMxMi4gQ29sb3IgY2hvb3NlciBzaG91bGQgYmUgY2xvc2VkIGluIG5ldyBpdGVtLiIKIyAgQ29sb3IgU2NoZW1lIE1lbnUgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQKIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzEzLkRvIG5vdCBjbG9zZSBhbmQgQmFjayB0byBvcmlnaW4gaXRlbSIKIyAgSnVtcCBEaXJlY3RseSBUbyBJdGVtICAgICR7aXRlbV9udW1iZXJ9CiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiMxNC4gQ29sb3IgY2hvb3NlciBzaG91bGQgY2xvc2UgYXV0b21hdGljYWxseSIKIyAgQ29sb3IgU2NoZW1lIE1lbnUgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBcICBTbGVlcCAgICA1Cg==</text>
+        <text encoding="base64">ICBKdW1wIERpcmVjdGx5IFRvIEl0ZW0gICAgJHtpdGVtX251bWJlcn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBSZW1vdmUgVmFsdWVzIEZyb20gTGlzdCAgICAke2NvbG9yc30gICAgRGVmYXVsdAo=</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzEwLiBEbyBub3QgY2xvc2UgYW5kIGdvIHByZXZpb3VzIGl0ZW0iCiAgR28gVG8gUHJldmlvdXMgSXRlbQogIFNsZWVwICAgIDAuNQoKICBMb2cgVG8gQ29uc29sZSAgICAiIzExLiBDb2xvciBjaG9vc2VyIHNob3VsZCBjbG9zZSBhdXRvbWF0aWNhbGx5IgogIENvbG9yIFNjaGVtZSBNZW51IFNob3VsZCBOb3QgQmUgRGlzcGxheWVkCgogIExvZyBUbyBDb25zb2xlICAgICIjMTEuIENvbG9yIGNob29zZXIgc2hvdWxkIGJlIG9wZW4gYWdhaW4uIgogIENvbG9yIFNjaGVtZSBNZW51IFNob3VsZCBCZSBEaXNwbGF5ZWQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
