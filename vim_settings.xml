@@ -100,10 +100,10 @@
       <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1468809983987">
         <mark key="'" line="410" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1468648045092">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="47" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1468985299241">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" timestamp="1467264849016">
         <mark key="'" line="129" column="44" />
@@ -112,7 +112,7 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468742666719">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468984905000">
         <mark key="'" line="118" column="2" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="45" />
@@ -483,31 +483,31 @@
         <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBcICAgIENsaWNrIEVsZW1lbnQK</text>
+        <text encoding="base64">ICAke30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gKHUieHBhdGg9Ly9idXR0b25bY29udGFpbnMoQGNsYXNzLCdjYWxjdWxhdG9yX2J1dHRvbicpICIKICAgICAgICAgICAgICAgICAgICAgIHUiYW5kIHRleHQoKT0nezA6c30nXSIuZm9ybWF0KHN0cmluZykpCg==</text>
+        <text encoding="base64">ICBcICAgIENsaWNrIEVsZW1lbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBcLi4uICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gKHUieHBhdGg9Ly9idXR0b25bY29udGFpbnMoQGNsYXNzLCdjYWxjdWxhdG9yX2J1dHRvbicpICIKICAgICAgICAgICAgICAgICAgICAgIHUiYW5kIHRleHQoKT0nezA6c30nXSIuZm9ybWF0KHN0cmluZykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAke3B1cmVfeHBhdGh9PSAgICAK</text>
+        <text encoding="base64">ICBcLi4uICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCiAgVGFwICAgIGpxdWVyeT0uY2FsY3VsYXRvcl9idXR0b246Y29udGFpbnMoNSkKICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCg==</text>
+        <text encoding="base64">ICAke3B1cmVfeHBhdGh9PSAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBFeAo=</text>
+        <text encoding="base64">ICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCiAgVGFwICAgIGpxdWVyeT0uY2FsY3VsYXRvcl9idXR0b246Y29udGFpbnMoNSkKICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBDbGljayBFbGVtZW50ICAgIAogIENsaWNrIEVsZW1lbnQgICAgCiAgQ2xpY2sgRWxlbWVudCAgICAKICBDbGljayBFbGVtZW50ICAgCg==</text>
+        <text encoding="base64">ICBFeAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMb25nIFByZXNzICAgICR7UkVWSUVXLk9QRU5fUkVWSUVXX1BBTkVMX0JUTn0K</text>
+        <text encoding="base64">ICBDbGljayBFbGVtZW50ICAgIAogIENsaWNrIEVsZW1lbnQgICAgCiAgQ2xpY2sgRWxlbWVudCAgICAKICBDbGljayBFbGVtZW50ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMCg==</text>
+        <text encoding="base64">ICBMb25nIFByZXNzICAgICR7UkVWSUVXLk9QRU5fUkVWSUVXX1BBTkVMX0JUTn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
