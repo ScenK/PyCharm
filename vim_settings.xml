@@ -44,6 +44,11 @@
         <mark key="^" line="113" column="20" />
         <mark key="." line="113" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1468988482018">
+        <mark key="[" line="37" column="205" />
+        <mark key="]" line="37" column="206" />
+        <mark key="." line="37" column="205" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_basic_calculator.robot" timestamp="1466583842688">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="54" />
@@ -476,8 +481,8 @@
       <register name="/" type="4">
         <text>remove masking</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
+      <register name="0" type="4">
+        <text>&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
