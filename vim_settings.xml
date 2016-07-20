@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" timestamp="1468742681265">
-        <mark key="'" line="92" column="2" />
-      </file>
       <file name="/a.dummy" timestamp="1468987664920">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,9 +24,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="^" line="49" column="23" />
         <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" timestamp="1468742708060">
-        <mark key="'" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_handler.py" timestamp="1467885575142">
         <mark key="[" line="45" column="37" />
@@ -106,9 +100,6 @@
         <mark key="]" line="49" column="4" />
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1468809983987">
-        <mark key="'" line="410" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1468986399434">
         <mark key="[" line="104" column="0" />
@@ -372,6 +363,7 @@
         <mark key="^" line="81" column="140" />
         <mark key="." line="81" column="140" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_and_sketch_highlighter.robot" timestamp="1469000011721" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1467262952619">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="48" column="56" />
