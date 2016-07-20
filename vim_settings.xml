@@ -22,6 +22,12 @@
         <mark key="." line="54" column="82" />
         <mark key="^" line="54" column="82" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_navigation.robot" timestamp="1468998123078">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="49" column="23" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" timestamp="1468742708060">
         <mark key="'" line="23" column="0" />
       </file>
@@ -130,7 +136,7 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_general_masking.robot" timestamp="1468987692295">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_general_masking.robot" timestamp="1468996783653">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -161,7 +167,7 @@
         <mark key="." line="192" column="23" />
         <mark key="^" line="192" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" timestamp="1468995753966">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" timestamp="1468996171107">
         <mark key="[" line="5" column="76" />
         <mark key="]" line="5" column="76" />
         <mark key="." line="5" column="76" />
@@ -477,40 +483,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Run Keyword And Ignore Error</text>
+        <text encoding="base64">IHNob3VsZCBjbG9zZSBhdXRvbWF0aWNhbGx5</text>
       </register>
       <register name="/" type="4">
         <text>remove masking</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHtDT0xPUl9DSE9PU0VSLlNUSU1VTFVTfSAgICBjc3M9I3N0aW11bGlAY2xhc3MK</text>
+        <text encoding="base64">ICBHbyBUbyBOZXh0IEl0ZW0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgTG9nIFRvIENvbnNvbGUgICAgIiM1LiBDb2xvciBjaG9vc2VyIHNob3VsZCBiZSBjbG9zZWQgaW4gbmV3IGl0ZW0uIgojICBDb2xvciBTY2hlbWUgTWVudSBTaG91bGQgTm90IEJlIERpc3BsYXllZAojCiMgIExvZyBUbyBDb25zb2xlICAgICIjNS4gT3BlbiBDb2xvciBjaG9vc2VyIGluIG5ldyBpdGVtLiIKIyAgVG9nZ2xlIENvbG9yIENob29zZXIKIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzYuRG8gbm90IGNsb3NlIGFuZCBCYWNrIHRvIG9yaWdpbiBpdGVtIgojICBKdW1wIERpcmVjdGx5IFRvIEl0ZW0gICAgJHtpdGVtX251bWJlcn0KIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzcuIENvbG9yIGNob29zZXIgc2hvdWxkIGNsb3NlIGF1dG9tYXRpY2FsbHkiCiMgIENvbG9yIFNjaGVtZSBNZW51IFNob3VsZCBOb3QgQmUgRGlzcGxheWVkCiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiM4LiBPcGVuIENvbG9yIGNob29zZXIgYWdhaW4iCiMgIFRvZ2dsZSBDb2xvciBDaG9vc2VyCiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiM5LiBDb2xvciBjaG9vc2VyIHNob3VsZCBiZSBvcGVuIGFnYWluLiIKIyAgQ29sb3IgU2NoZW1lIE1lbnUgU2hvdWxkIEJlIERpc3BsYXllZAojCiMgIExvZyBUbyBDb25zb2xlICAgICIjMTAuIFRoZXJlIHNob3VsZCBiZSAxMiBjb2xvcnMgaW4gQ29sb3IgY2hvb3Nlci4iCiMgICR7bnVtYmVyfT0gICAgR2V0IEF2YWlsYWJsZSBDb2xvciBTY2hlbWVzIE51bWJlcgojICBTaG91bGQgQmUgRXF1YWwgQXMgTnVtYmVycyAgICAke251bWJlcn0gICAgMTIKIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzExLiBEbyBub3QgY2xvc2UgYW5kIGdvIHByZXZpb3VzIGl0ZW0iCiMgIEdvIFRvIFByZXZpb3VzIEl0ZW0KIyAgU2xlZXAgICAgMC41CiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiMxMi4gQ29sb3IgY2hvb3NlciBzaG91bGQgYmUgY2xvc2VkIGluIG5ldyBpdGVtLiIKIyAgQ29sb3IgU2NoZW1lIE1lbnUgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQKIwojICBMb2cgVG8gQ29uc29sZSAgICAiIzEzLkRvIG5vdCBjbG9zZSBhbmQgQmFjayB0byBvcmlnaW4gaXRlbSIKIyAgSnVtcCBEaXJlY3RseSBUbyBJdGVtICAgICR7aXRlbV9udW1iZXJ9CiMKIyAgTG9nIFRvIENvbnNvbGUgICAgIiMxNC4gQ29sb3IgY2hvb3NlciBzaG91bGQgY2xvc2UgYXV0b21hdGljYWxseSIKIyAgQ29sb3IgU2NoZW1lIE1lbnUgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
+        <text encoding="base64">ICBKdW1wIERpcmVjdGx5IFRvIEl0ZW0gICAgJHtpdGVtX251bWJlcn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBcICBTbGVlcCAgICA1Cg==</text>
+        <text encoding="base64">ICBMb2cgVG8gQ29uc29sZSAgICAiIzEwLiBEbyBub3QgY2xvc2UgYW5kIGdvIHByZXZpb3VzIGl0ZW0iCiAgR28gVG8gUHJldmlvdXMgSXRlbQogIFNsZWVwICAgIDAuNQoKICBMb2cgVG8gQ29uc29sZSAgICAiIzExLiBDb2xvciBjaG9vc2VyIHNob3VsZCBjbG9zZSBhdXRvbWF0aWNhbGx5IgogIENvbG9yIFNjaGVtZSBNZW51IFNob3VsZCBOb3QgQmUgRGlzcGxheWVkCgogIExvZyBUbyBDb25zb2xlICAgICIjMTEuIENvbG9yIGNob29zZXIgc2hvdWxkIGJlIG9wZW4gYWdhaW4uIgogIENvbG9yIFNjaGVtZSBNZW51IFNob3VsZCBCZSBEaXNwbGF5ZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBcICBTbGVlcCAgICA1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBSZW1vdmUgVmFsdWVzIEZyb20gTGlzdCAgICAke2NvbG9yc30gICAgRGVmYXVsdAo=</text>
+        <text encoding="base64">VGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBcICBTbGVlcCAgICA1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TGlicmFyeSAgICBDb2xsZWN0aW9ucwo=</text>
+        <text encoding="base64">ICBcICBTbGVlcCAgICA1Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBSZW1vdmUgVmFsdWVzIEZyb20gTGlzdCAgICAke2NvbG9yc30gICAgRGVmYXVsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMYXVuY2ggaVRlc3RlciBBbmQgU2V0IEJhc2ljIEVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
