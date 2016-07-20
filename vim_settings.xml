@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" timestamp="1468742681265">
         <mark key="'" line="92" column="2" />
       </file>
+      <file name="/a.dummy" timestamp="1468987664920">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -67,12 +70,6 @@
         <mark key="." line="91" column="32" />
         <mark key="^" line="91" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_answer_saved_with_multibyte_characters.robot" timestamp="1467703734224">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/dictionary.robot" timestamp="1468830383456">
         <mark key="[" line="44" column="124" />
         <mark key="]" line="44" column="125" />
@@ -126,6 +123,11 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_general_masking.robot" timestamp="1468987692295">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/Library/Python/2.7/site-packages/Selenium2Library/keywords/_element.py" timestamp="1468388141464">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="80" column="40" />
@@ -158,12 +160,6 @@
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="46" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/test.robot" timestamp="1468222081507">
-        <mark key="'" line="45" column="25" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1467869256929">
         <mark key="'" line="174" column="2" />
         <mark key="[" line="27" column="0" />
@@ -175,6 +171,13 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_pause_relogin.robot" timestamp="1468987752794">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="34" column="51" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="35" column="1" />
+        <mark key="^" line="35" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/test_data/regression/tools/general_masking/general_masking_basic.json" timestamp="1467884367067">
         <mark key="[" line="5" column="28" />
@@ -304,12 +307,6 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1468316378903">
-        <mark key="'" line="454" column="19" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1467090464982">
         <mark key="'" line="1" column="55" />
         <mark key="[" line="45" column="48" />
@@ -371,7 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="13" filename="$USER_HOME$/Develop/eMetricRobot/resources/items/stimulus.robot" />
       <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
       <jump line="65" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
       <jump line="67" column="63" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_default_setting.robot" />
@@ -471,6 +467,7 @@
       <jump line="429" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="458" column="27" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="0" column="5" filename="$USER_HOME$/Develop/AutomationTesting/variables.yaml" />
+      <jump line="46" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_pause_relogin.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -483,31 +480,31 @@
         <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAke30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBcICAgIENsaWNrIEVsZW1lbnQK</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGY2ZTFjZTE5Yjg3YmQ0NzNlYTBlODYyZTU5MmMyZmYyMzFlN2I1MWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gKHUieHBhdGg9Ly9idXR0b25bY29udGFpbnMoQGNsYXNzLCdjYWxjdWxhdG9yX2J1dHRvbicpICIKICAgICAgICAgICAgICAgICAgICAgIHUiYW5kIHRleHQoKT0nezA6c30nXSIuZm9ybWF0KHN0cmluZykpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBcLi4uICAgIAo=</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGY2ZTFjZTE5Yjg3YmQ0NzNlYTBlODYyZTU5MmMyZmYyMzFlN2I1MWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAke3B1cmVfeHBhdGh9PSAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCiAgVGFwICAgIGpxdWVyeT0uY2FsY3VsYXRvcl9idXR0b246Y29udGFpbnMoNSkKICBUYXAgICAganF1ZXJ5PS5jYWxjdWxhdG9yX2J1dHRvbjpjb250YWlucyg1KQogIFRhcCAgICBqcXVlcnk9LmNhbGN1bGF0b3JfYnV0dG9uOmNvbnRhaW5zKDUpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBFeAo=</text>
+        <text encoding="base64">PT09PT09PQojVGVzdCBUZWFyZG93biAgICBDbG9zZSBpVGVzdGVyIEFuZCBDbGVhciBTZXNzaW9uCj4+Pj4+Pj4gZjZlMWNlMTliODdiZDQ3M2VhMGU4NjJlNTkyYzJmZjIzMWU3YjUxZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBDbGljayBFbGVtZW50ICAgIAogIENsaWNrIEVsZW1lbnQgICAgCiAgQ2xpY2sgRWxlbWVudCAgICAKICBDbGljayBFbGVtZW50ICAgCg==</text>
+        <text encoding="base64">ICAke30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMb25nIFByZXNzICAgICR7UkVWSUVXLk9QRU5fUkVWSUVXX1BBTkVMX0JUTn0K</text>
+        <text encoding="base64">ICBcICAgIENsaWNrIEVsZW1lbnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
