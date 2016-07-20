@@ -94,6 +94,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="39" column="50" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/guideline.robot" timestamp="1468995751927" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467698799547">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="4" />
@@ -134,7 +135,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468994976509">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
         <mark key="[" line="37" column="48" />
         <mark key="]" line="37" column="53" />
         <mark key="." line="37" column="53" />
@@ -160,12 +161,10 @@
         <mark key="." line="192" column="23" />
         <mark key="^" line="192" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" timestamp="1468992468654">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="154" column="76" />
-        <mark key="]" line="154" column="76" />
-        <mark key="." line="154" column="76" />
-        <mark key="^" line="10" column="49" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" timestamp="1468995753966">
+        <mark key="[" line="5" column="76" />
+        <mark key="]" line="5" column="76" />
+        <mark key="." line="5" column="76" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" timestamp="1467869256929">
         <mark key="'" line="174" column="2" />
