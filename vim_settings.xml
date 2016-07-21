@@ -141,12 +141,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1469091378663">
-        <mark key="'" line="301" column="0" />
-        <mark key="[" line="109" column="42" />
-        <mark key="]" line="109" column="56" />
-        <mark key="^" line="109" column="56" />
-        <mark key="." line="109" column="56" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1469094275271">
+        <mark key="'" line="298" column="0" />
+        <mark key="[" line="85" column="40" />
+        <mark key="]" line="85" column="40" />
+        <mark key="^" line="85" column="39" />
+        <mark key="." line="85" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
         <mark key="[" line="37" column="48" />
@@ -307,7 +307,7 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468999001128">
+      <file name="/Dummy.txt" timestamp="1469093875389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -523,7 +523,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>remove masking</text>
@@ -532,28 +532,28 @@
         <text encoding="base64">ICBHdWkgUHJlc3MgSG90a2V5ICAgIGN0cmwgICAgdgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBBcHBlbmQgVGV4dCBSZXNwb25zZSAgICBcXDMyICAgIDEgICAgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmOgogICAgICAgICAgICBqc19lbGVtZW50ID0gImRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCclcycpIiAlIFwKICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0b3IucmVwbGFjZSgnY3NzPSMnLCAnJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgQXBwZW5kIFJhbmRvbSBUZXh0IE9uIE9FIFdpdGggS2V5Ym9hcmQgSW5wdXQgICAgMTAwMAo=</text>
+        <text encoding="base64">ICBBcHBlbmQgVGV4dCBSZXNwb25zZSAgICBcXDMyICAgIDEgICAgdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAgQXBwZW5kIFJhbmRvbSBUZXh0IE9uIE9FIFdpdGggS2V5Ym9hcmQgSW5wdXQgICAgMTAwMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBndWkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBndWlfbW92ZV90byhzZWxmLCBsb2NhdG9yLCBhYnNfeCwgYWJzX3ksIGR1cmF0aW9uPTAuMjUpOgogICAgICAgIGd1aS4K</text>
+        <text encoding="base64">ICAgICAgICBndWkuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBndWlfbW92ZV90byhzZWxmLCBsb2NhdG9yLCBhYnNfeCwgYWJzX3ksIGR1cmF0aW9uPTAuMjUpOgogICAgICAgIGd1aS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
