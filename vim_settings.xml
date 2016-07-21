@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1468987664920">
+      <file name="/Library/Python/2.7/site-packages/pyautogui/__init__.py" timestamp="1469089137768">
+        <mark key="[" line="322" column="24" />
+        <mark key="]" line="322" column="33" />
+      </file>
+      <file name="/a.dummy" timestamp="1469089500173">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
@@ -137,12 +141,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1469088242726">
-        <mark key="'" line="292" column="0" />
-        <mark key="[" line="177" column="59" />
-        <mark key="]" line="178" column="7" />
-        <mark key="." line="178" column="7" />
-        <mark key="^" line="178" column="7" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1469091378663">
+        <mark key="'" line="301" column="0" />
+        <mark key="[" line="109" column="42" />
+        <mark key="]" line="109" column="56" />
+        <mark key="^" line="109" column="56" />
+        <mark key="." line="109" column="56" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
         <mark key="[" line="37" column="48" />
@@ -265,11 +269,11 @@
       <file name="$USER_HOME$/Develop/AutomationTesting/libraries/utils/active_accommodations.py" timestamp="1469085943941">
         <mark key="'" line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/items/oe/oe_copy_long_text.robot" timestamp="1469087927195">
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="50" />
-        <mark key="^" line="23" column="50" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/items/oe/oe_copy_long_text.robot" timestamp="1469090822863">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="27" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_reverse_contrast.robot" timestamp="1466572168360">
         <mark key="[" line="38" column="55" />
@@ -308,11 +312,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/items/open_ended.robot" timestamp="1469087961280">
-        <mark key="'" line="49" column="33" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/items/open_ended.robot" timestamp="1469090441025">
+        <mark key="'" line="51" column="33" />
+        <mark key="[" line="32" column="69" />
+        <mark key="]" line="33" column="41" />
+        <mark key="." line="33" column="41" />
+        <mark key="^" line="33" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" timestamp="1467699862342">
         <mark key="'" line="64" column="0" />
@@ -518,41 +523,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>remove masking</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Rm9jdXMgT2UgQm94CiAgW0RvY3VtZW50YXRpb25dICAgIEZvY3VzIE9lIEJveAogIFtBcmd1bWVudHNdICAgICR7b2VfbnVtYmVyfT0xCiAgV2FpdCBVbnRpbCBFbGVtZW50IElzIFZpc2libGUgICAgJHtPRS5USU5ZX01DRV9GUkFNRX0KICBTZWxlY3QgRnJhbWUgICAgJHtPRS5USU5ZX01DRV9GUkFNRX0KICBGb2N1cyAgICAke09FLlRJTllfTUNFX0NPTlRFTlR9Cg==</text>
+        <text encoding="base64">ICBHdWkgUHJlc3MgSG90a2V5ICAgIGN0cmwgICAgdgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBcHBlbmQgVGV4dCBSZXNwb25zZSAgICBcXDMyICAgIDEgICAgdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgQXBwZW5kIFJhbmRvbSBUZXh0IE9uIE9FIFdpdGggS2V5Ym9hcmQgSW5wdXQgICAgMTAwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBHZXQgRWxlbWVudCBBYnNvbHV0ZSBPZmZzZXQgICAgaWQ9dGlueW1jZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNfZWxlbWVudCA9IE5vbmUK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBndWkuCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>'A very specific bad thing happened', 'foo',
-                             'bar', 'baz'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBndWlfbW92ZV90byhzZWxmLCBsb2NhdG9yLCBhYnNfeCwgYWJzX3ksIGR1cmF0aW9uPTAuMjUpOgogICAgICAgIGd1aS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXhjZXB0aW9uOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNfZWxlbWVudCA9ICJkb2N1bWVudC5nZXRFbGVtZW50QnlJZCglcykiICUgXAogICAgICAgICAgICAgICAgICAgICAgICAgbG9jYXRvci5yZXBsYWNlKCdpZD0nLCAnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
