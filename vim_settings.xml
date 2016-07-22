@@ -141,8 +141,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1469154920746">
-        <mark key="'" line="298" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1469155157214">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="85" column="40" />
         <mark key="]" line="85" column="40" />
         <mark key="^" line="85" column="39" />
@@ -420,8 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="30" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
-      <jump line="70" column="4" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
       <jump line="69" column="4" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
       <jump line="15" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
       <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
@@ -520,6 +518,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/utils/active_accommodations.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/utils/active_accommodations.py" />
       <jump line="290" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
+      <jump line="213" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
