@@ -110,7 +110,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/test_generator.go" timestamp="1469250372496">
+      <file name="$USER_HOME$/Develop/AutomationTesting/test_generator.go" timestamp="1469256346147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -268,6 +268,9 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
       </file>
+      <file name="/Python Console" timestamp="1469257029087">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_pause_relogin.robot" timestamp="1468987752794">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="34" column="51" />
@@ -363,7 +366,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469250404418">
+      <file name="/Dummy.txt" timestamp="1469256976862">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -424,6 +427,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="44" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" timestamp="1469257043302" />
     </filemarks>
     <jumps>
       <jump line="69" column="4" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
@@ -565,7 +569,7 @@
         <text encoding="base64">ICAgICAgICBndWkuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -602,7 +606,6 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
-        <entry>bn!</entry>
         <entry>bp!</entry>
         <entry>%s/Line Reader/Guideline/g</entry>
         <entry>cs</entry>
@@ -613,9 +616,10 @@
         <entry>action FindNext</entry>
         <entry>495</entry>
         <entry>222</entry>
-        <entry>vs</entry>
         <entry>CtrlPBuffer</entry>
         <entry>w</entry>
+        <entry>bn!</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
