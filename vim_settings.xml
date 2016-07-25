@@ -120,6 +120,12 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1469437395962">
+        <mark key="[" line="34" column="76" />
+        <mark key="]" line="34" column="17" />
+        <mark key="^" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
         <mark key="[" line="83" column="42" />
@@ -182,6 +188,9 @@
         <mark key="]" line="27" column="25" />
         <mark key="^" line="30" column="41" />
         <mark key="." line="30" column="41" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/robot/libraries/BuiltIn.py" timestamp="1469437685040">
+        <mark key="'" line="709" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/testGenerator/testGenerator.go" timestamp="1469434667085" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_tabbed_stimulus.robot" timestamp="1469072854434">
@@ -417,7 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_test_answer_saved.robot" />
       <jump line="50" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_test_answer_saved.robot" />
       <jump line="70" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
       <jump line="41" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
@@ -517,13 +525,14 @@
       <jump line="57" column="23" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/ruler.robot" />
       <jump line="272" column="53" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/ruler.robot" />
+      <jump line="709" column="58" filename="/Library/Python/2.7/site-packages/robot/libraries/BuiltIn.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>locator</text>
       </register>
       <register name="/" type="4">
-        <text>remove masking</text>
+        <text>succeed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFwdS5tb3ZlX3RvKGxvY2F0b3IsIHhvZmZzZXQsIHlvZmZzZXQpCg==</text>
@@ -556,17 +565,17 @@
         <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search>remove masking</last-search>
+      <last-search>succeed</last-search>
       <last-offset />
-      <last-pattern>remove masking</last-pattern>
+      <last-pattern>succeed</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -590,6 +599,7 @@
         <entry>reference</entry>
         <entry>masking</entry>
         <entry>remove masking</entry>
+        <entry>succeed</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -602,11 +612,11 @@
         <entry>w;w</entry>
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
-        <entry>action FindNext</entry>
         <entry>495</entry>
         <entry>222</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
