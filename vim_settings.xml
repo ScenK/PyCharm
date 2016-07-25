@@ -93,8 +93,8 @@
         <mark key="." line="44" column="124" />
         <mark key="^" line="44" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469423430009">
-        <mark key="'" line="24" column="20" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469424697936">
+        <mark key="'" line="47" column="0" />
         <mark key="[" line="49" column="68" />
         <mark key="]" line="50" column="61" />
         <mark key="." line="50" column="61" />
@@ -113,8 +113,12 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1469423327187">
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1469424690345">
         <mark key="'" line="76" column="12" />
+        <mark key="[" line="288" column="53" />
+        <mark key="]" line="288" column="53" />
+        <mark key="." line="288" column="53" />
+        <mark key="^" line="288" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1468986399434">
         <mark key="[" line="104" column="0" />
@@ -425,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="27" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
       <jump line="9" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
       <jump line="64" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
@@ -525,6 +528,7 @@
       <jump line="24" column="20" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
       <jump line="359" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="76" column="12" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -537,31 +541,31 @@
         <text>&quot;ios-&quot; not in &quot;${mode}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSIgPT0gImlvcy1zaW11bGF0b3IiICAgIGlPUyBTd2l0Y2ggVG8gV2Vidmlldwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuLi4gICAgQU5EICAgIFNsZWVwICAgIDEwCg==</text>
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSIgPT0gImlvcy1zaW11bGF0b3IiICAgIGlPUyBTd2l0Y2ggVG8gV2Vidmlldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgLi4uICAgIEVsc2UgICAK</text>
+        <text encoding="base64">ICAuLi4gICAgQU5EICAgIFNsZWVwICAgIDEwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgTG9naW4gUGFnZSBTaG91bGQgU2hvdyBVcAo=</text>
+        <text encoding="base64">IyAgLi4uICAgIEVsc2UgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgU2V0IEdsb2JhbCBWYXJpYWJsZSAgICAke2N1cnJlbnRfY29udGV4dH0gICAgJHtjb250ZXh0fQo=</text>
+        <text encoding="base64">IyAgTG9naW4gUGFnZSBTaG91bGQgU2hvdyBVcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgU2V0IEdsb2JhbCBWYXJpYWJsZSAgICAke2N1cnJlbnRfY29udGV4dH0gICAgJHtjb250ZXh0fQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAe2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
