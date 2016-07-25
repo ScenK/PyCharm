@@ -93,11 +93,12 @@
         <mark key="." line="44" column="124" />
         <mark key="^" line="44" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469419836364">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="49" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469422575366">
+        <mark key="'" line="21" column="51" />
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/answer_masking_multi.robot" timestamp="1468393513552">
         <mark key="'" line="38" column="50" />
@@ -124,12 +125,11 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1469416638024">
-        <mark key="'" line="75" column="10" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="75" column="21" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1469422558439">
+        <mark key="'" line="70" column="32" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="20" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
@@ -422,11 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
-      <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
-      <jump line="46" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
-      <jump line="98" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
-      <jump line="112" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="34" column="75" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
       <jump line="28" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
@@ -487,7 +482,6 @@
       <jump line="160" column="40" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="131" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" />
       <jump line="24" column="41" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="118" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="19" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="92" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
@@ -522,43 +516,49 @@
       <jump line="213" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
       <jump line="75" column="10" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="105" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="61" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="71" column="32" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="27" column="1" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
+      <jump line="21" column="51" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgICBMYXVuY2ggaVRlc3RlciBpT1MgU2ltdWxhdG9y</text>
       </register>
       <register name="/" type="4">
         <text>remove masking</text>
       </register>
       <register name="0" type="4">
-        <text>${LOGIN.SIGNOUT_BTN}</text>
+        <text>iOS Switch To Webview</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAke2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
+        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgU2V0IEdsb2JhbCBWYXJpYWJsZSAgICAke2N1cnJlbnRfY29udGV4dH0gICAgJHtjb250ZXh0fQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHRlc3QgZnJvbSB0aGUgc3R1ZGVudCBpbmZvcm1hdGlvbiBwYWdlCiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuLi4gICAgQU5EICAgIFN3aXRjaCBUbyBDb250ZXh0ICAgICR7Y29udGV4dHN9WzFdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnawo=</text>
+        <text encoding="base64">ICBAe2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmOgogICAgICAgICAgICBqc19lbGVtZW50ID0gImRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCclcycpIiAlIFwKICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0b3IucmVwbGFjZSgnY3NzPSMnLCAnJykK</text>
+        <text encoding="base64">ICAke2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBBcHBlbmQgVGV4dCBSZXNwb25zZSAgICBcXDMyICAgIDEgICAgdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgQXBwZW5kIFJhbmRvbSBUZXh0IE9uIE9FIFdpdGggS2V5Ym9hcmQgSW5wdXQgICAgMTAwMAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAke2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHRlc3QgZnJvbSB0aGUgc3R1ZGVudCBpbmZvcm1hdGlvbiBwYWdlCiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
