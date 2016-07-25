@@ -48,6 +48,7 @@
         <mark key="^" line="113" column="20" />
         <mark key="." line="113" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.5/users.yaml" timestamp="1469416292072" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1468991326708">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -92,10 +93,11 @@
         <mark key="." line="44" column="124" />
         <mark key="^" line="44" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1468215784507">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469416505171">
+        <mark key="[" line="53" column="51" />
+        <mark key="]" line="53" column="51" />
+        <mark key="." line="53" column="51" />
+        <mark key="^" line="53" column="49" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/answer_masking_multi.robot" timestamp="1468393513552">
         <mark key="'" line="38" column="50" />
@@ -122,12 +124,12 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1468984905000">
-        <mark key="'" line="118" column="2" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="45" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1469416638024">
+        <mark key="'" line="75" column="10" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="75" column="21" />
-        <mark key="." line="75" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
@@ -420,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="4" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
       <jump line="15" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
       <jump line="11" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
       <jump line="46" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
@@ -520,6 +521,7 @@
       <jump line="290" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
       <jump line="213" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
+      <jump line="75" column="10" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -528,35 +530,35 @@
       <register name="/" type="4">
         <text>remove masking</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBHdWkgUHJlc3MgSG90a2V5ICAgIGN0cmwgICAgdgo=</text>
+      <register name="0" type="4">
+        <text>${LOGIN.SIGNOUT_BTN}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmOgogICAgICAgICAgICBqc19lbGVtZW50ID0gImRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCclcycpIiAlIFwKICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0b3IucmVwbGFjZSgnY3NzPSMnLCAnJykK</text>
+        <text encoding="base64">ICBnawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBBcHBlbmQgVGV4dCBSZXNwb25zZSAgICBcXDMyICAgIDEgICAgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmOgogICAgICAgICAgICBqc19lbGVtZW50ID0gImRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCclcycpIiAlIFwKICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0b3IucmVwbGFjZSgnY3NzPSMnLCAnJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgQXBwZW5kIFJhbmRvbSBUZXh0IE9uIE9FIFdpdGggS2V5Ym9hcmQgSW5wdXQgICAgMTAwMAo=</text>
+        <text encoding="base64">ICBBcHBlbmQgVGV4dCBSZXNwb25zZSAgICBcXDMyICAgIDEgICAgdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAgQXBwZW5kIFJhbmRvbSBUZXh0IE9uIE9FIFdpdGggS2V5Ym9hcmQgSW5wdXQgICAgMTAwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBndWkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBndWlfbW92ZV90byhzZWxmLCBsb2NhdG9yLCBhYnNfeCwgYWJzX3ksIGR1cmF0aW9uPTAuMjUpOgogICAgICAgIGd1aS4K</text>
+        <text encoding="base64">ICAgICAgICBndWkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBndWlfbW92ZV90byhzZWxmLCBsb2NhdG9yLCBhYnNfeCwgYWJzX3ksIGR1cmF0aW9uPTAuMjUpOgogICAgICAgIGd1aS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
