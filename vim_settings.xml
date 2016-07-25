@@ -48,7 +48,7 @@
         <mark key="^" line="113" column="20" />
         <mark key="." line="113" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.5/users.yaml" timestamp="1469417273500" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.5/users.yaml" timestamp="1469419323244" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1468991326708">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -93,11 +93,11 @@
         <mark key="." line="44" column="124" />
         <mark key="^" line="44" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469416505171">
-        <mark key="[" line="53" column="51" />
-        <mark key="]" line="53" column="51" />
-        <mark key="." line="53" column="51" />
-        <mark key="^" line="53" column="49" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469419836364">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="49" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/answer_masking_multi.robot" timestamp="1468393513552">
         <mark key="'" line="38" column="50" />
@@ -525,7 +525,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>remove masking</text>
@@ -534,31 +534,31 @@
         <text>${LOGIN.SIGNOUT_BTN}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnawo=</text>
+        <text encoding="base64">ICAke2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmOgogICAgICAgICAgICBqc19lbGVtZW50ID0gImRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCclcycpIiAlIFwKICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0b3IucmVwbGFjZSgnY3NzPSMnLCAnJykK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHRlc3QgZnJvbSB0aGUgc3R1ZGVudCBpbmZvcm1hdGlvbiBwYWdlCiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBBcHBlbmQgVGV4dCBSZXNwb25zZSAgICBcXDMyICAgIDEgICAgdHJ1ZQo=</text>
+        <text encoding="base64">ICAuLi4gICAgQU5EICAgIFN3aXRjaCBUbyBDb250ZXh0ICAgICR7Y29udGV4dHN9WzFdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgQXBwZW5kIFJhbmRvbSBUZXh0IE9uIE9FIFdpdGggS2V5Ym9hcmQgSW5wdXQgICAgMTAwMAo=</text>
+        <text encoding="base64">ICBnawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmOgogICAgICAgICAgICBqc19lbGVtZW50ID0gImRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCclcycpIiAlIFwKICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0b3IucmVwbGFjZSgnY3NzPSMnLCAnJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBcHBlbmQgVGV4dCBSZXNwb25zZSAgICBcXDMyICAgIDEgICAgdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBndWkuCg==</text>
+        <text encoding="base64">IyAgQXBwZW5kIFJhbmRvbSBUZXh0IE9uIE9FIFdpdGggS2V5Ym9hcmQgSW5wdXQgICAgMTAwMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBndWlfbW92ZV90byhzZWxmLCBsb2NhdG9yLCBhYnNfeCwgYWJzX3ksIGR1cmF0aW9uPTAuMjUpOgogICAgICAgIGd1aS4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
