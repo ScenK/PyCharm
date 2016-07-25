@@ -48,7 +48,6 @@
         <mark key="^" line="113" column="20" />
         <mark key="." line="113" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.5/users.yaml" timestamp="1469429784493" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1468991326708">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -121,7 +120,6 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1469433135400" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
         <mark key="[" line="83" column="42" />
@@ -185,6 +183,7 @@
         <mark key="^" line="30" column="41" />
         <mark key="." line="30" column="41" />
       </file>
+      <file name="$USER_HOME$/Develop/testGenerator/testGenerator.go" timestamp="1469434667085" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_tabbed_stimulus.robot" timestamp="1469072854434">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="15" column="0" />
@@ -305,7 +304,7 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469424935731">
+      <file name="/Dummy.txt" timestamp="1469434613017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -324,7 +323,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/appium/webdriver/common/touch_action.py" timestamp="1469429863965" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1467088858610">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="141" column="0" />
