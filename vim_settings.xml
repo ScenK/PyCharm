@@ -48,7 +48,7 @@
         <mark key="^" line="113" column="20" />
         <mark key="." line="113" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.5/users.yaml" timestamp="1469419323244" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.5/users.yaml" timestamp="1469423776484" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1468991326708">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -93,12 +93,12 @@
         <mark key="." line="44" column="124" />
         <mark key="^" line="44" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469422575366">
-        <mark key="'" line="21" column="51" />
-        <mark key="[" line="21" column="48" />
-        <mark key="]" line="21" column="51" />
-        <mark key="." line="21" column="51" />
-        <mark key="^" line="21" column="51" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469423430009">
+        <mark key="'" line="24" column="20" />
+        <mark key="[" line="49" column="68" />
+        <mark key="]" line="50" column="61" />
+        <mark key="." line="50" column="61" />
+        <mark key="^" line="50" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/answer_masking_multi.robot" timestamp="1468393513552">
         <mark key="'" line="38" column="50" />
@@ -112,6 +112,9 @@
         <mark key="]" line="49" column="4" />
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1469423327187">
+        <mark key="'" line="76" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1468986399434">
         <mark key="[" line="104" column="0" />
@@ -422,10 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
-      <jump line="34" column="75" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
-      <jump line="28" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/tools/color_chooser.robot" />
-      <jump line="129" column="44" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/review.robot" />
       <jump line="68" column="27" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
       <jump line="9" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause _practice_test_answer_saved.robot" />
@@ -522,43 +521,47 @@
       <jump line="71" column="32" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="27" column="1" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
       <jump line="21" column="51" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
+      <jump line="51" column="83" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
+      <jump line="24" column="20" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
+      <jump line="359" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
+      <jump line="76" column="12" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICBMYXVuY2ggaVRlc3RlciBpT1MgU2ltdWxhdG9y</text>
+        <text>Click Element    ${LOGIN.SIGNOUT_BTN}</text>
       </register>
       <register name="/" type="4">
         <text>remove masking</text>
       </register>
       <register name="0" type="4">
-        <text>iOS Switch To Webview</text>
+        <text>&quot;ios-&quot; not in &quot;${mode}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgU2V0IEdsb2JhbCBWYXJpYWJsZSAgICAke2N1cnJlbnRfY29udGV4dH0gICAgJHtjb250ZXh0fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSIgPT0gImlvcy1zaW11bGF0b3IiICAgIGlPUyBTd2l0Y2ggVG8gV2Vidmlldwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAuLi4gICAgQU5EICAgIFNsZWVwICAgIDEwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAe2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
+        <text encoding="base64">IyAgLi4uICAgIEVsc2UgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAke2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
+        <text encoding="base64">IyAgTG9naW4gUGFnZSBTaG91bGQgU2hvdyBVcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAke2NvbnRleHR9PSAgICBHZXQgQ3VycmVudCBDb250ZXh0CiAgU2V0IEdsb2JhbCBWYXJpYWJsZSAgICAke2N1cnJlbnRfY29udGV4dH0gICAgJHtjb250ZXh0fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAke2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHRlc3QgZnJvbSB0aGUgc3R1ZGVudCBpbmZvcm1hdGlvbiBwYWdlCiAgJHtjb250ZXh0c309ICAgIEdldCBDb250ZXh0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBAe2NvbnRleHRzfT0gICAgR2V0IENvbnRleHRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
