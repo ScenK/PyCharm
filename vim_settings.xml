@@ -48,7 +48,7 @@
         <mark key="^" line="113" column="20" />
         <mark key="." line="113" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.5/users.yaml" timestamp="1469428595067" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.5/users.yaml" timestamp="1469429784493" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_icon_shows_tool_name.robot" timestamp="1468991326708">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -94,11 +94,7 @@
         <mark key="^" line="44" column="79" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469425184467">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="65" />
-        <mark key="." line="50" column="66" />
-        <mark key="^" line="53" column="61" />
+        <mark key="^" line="21" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/answer_masking_multi.robot" timestamp="1468393513552">
         <mark key="'" line="38" column="50" />
@@ -113,13 +109,6 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" timestamp="1469426798118">
-        <mark key="'" line="272" column="53" />
-        <mark key="[" line="388" column="26" />
-        <mark key="]" line="390" column="25" />
-        <mark key="." line="390" column="25" />
-        <mark key="^" line="390" column="25" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1468986399434">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
@@ -131,12 +120,6 @@
         <mark key="]" line="45" column="25" />
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1469425286865">
-        <mark key="'" line="70" column="32" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_drag_resize.robot" timestamp="1466664565809">
         <mark key="'" line="24" column="20" />
@@ -243,11 +226,10 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/ruler.robot" timestamp="1469425452633">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/calculator.robot" timestamp="1466584469349">
         <mark key="'" line="91" column="0" />
@@ -305,7 +287,6 @@
         <mark key="^" line="273" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1469426384509">
-        <mark key="'" line="1004" column="23" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="2" column="0" />
@@ -342,6 +323,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/appium/webdriver/common/touch_action.py" timestamp="1469429863965" />
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/tools/guideline.robot" timestamp="1467088858610">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="141" column="0" />
