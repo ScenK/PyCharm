@@ -366,7 +366,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469256976862">
+      <file name="/Dummy.txt" timestamp="1469491346019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -427,7 +427,6 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="44" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" timestamp="1469257043302" />
     </filemarks>
     <jumps>
       <jump line="69" column="4" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
