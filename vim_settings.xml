@@ -79,17 +79,14 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.4/users.yaml" timestamp="1469676485131" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467698799547">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="4" />
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1468986399434">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_with_color_chooser.robot" timestamp="1469676412127" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/basic_calculator.robot" timestamp="1469516680341">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="43" />
@@ -101,11 +98,6 @@
         <mark key="]" line="34" column="17" />
         <mark key="^" line="34" column="17" />
         <mark key="." line="34" column="17" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_general_masking.robot" timestamp="1468996783653">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
         <mark key="[" line="37" column="48" />
@@ -119,48 +111,24 @@
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" timestamp="1468996171107">
-        <mark key="[" line="5" column="76" />
-        <mark key="]" line="5" column="76" />
-        <mark key="." line="5" column="76" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/pager.robot" timestamp="1469513443355">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="44" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_scheme.robot" timestamp="1469516700941">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="43" />
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_operational_answer_saved_with_fx_expressions.robot" timestamp="1467704188946">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1469676551788" />
       <file name="$USER_HOME$/Develop/eMetricRobot/test_data/regression/tools/general_masking/general_masking_basic.json" timestamp="1467884367067">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/masking.robot" timestamp="1468825096839">
-        <mark key="[" line="80" column="38" />
-        <mark key="]" line="80" column="38" />
-        <mark key="." line="80" column="38" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/secure/security_access.robot" timestamp="1469515346650">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="33" />
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml.sample" timestamp="1468215078226">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_with_color_chooser.robot" timestamp="1467015563737">
         <mark key="[" line="33" column="26" />
@@ -216,21 +184,11 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469515174155">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/protractor.robot" timestamp="1469517010860">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="17" column="36" />
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1469072795883">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/items/mc/mc_answer_choice.robot" timestamp="1469516412197">
         <mark key="[" line="7" column="65" />
