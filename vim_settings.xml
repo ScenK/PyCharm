@@ -134,11 +134,11 @@
         <mark key="^" line="22" column="70" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/timeout.robot" timestamp="1470028931464">
-        <mark key="[" line="10" column="64" />
-        <mark key="]" line="10" column="78" />
-        <mark key="." line="10" column="78" />
-        <mark key="^" line="10" column="78" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/timeout.robot" timestamp="1470030971992">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="42" />
+        <mark key="^" line="27" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467698799547">
         <mark key="[" line="49" column="0" />
@@ -151,6 +151,9 @@
         <mark key="]" line="55" column="30" />
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1470031094338">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/protractor.robot" timestamp="1469517010860">
         <mark key="[" line="17" column="36" />
@@ -342,7 +345,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>succeed</text>
