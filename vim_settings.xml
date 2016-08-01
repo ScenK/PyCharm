@@ -93,7 +93,7 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/session.robot" timestamp="1469513577484">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/session.robot" timestamp="1470028923499">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
@@ -127,17 +127,18 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.4/users.yaml" timestamp="1470029221314" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
         <mark key="^" line="22" column="70" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/timeout.robot" timestamp="1470025127095">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/timeout.robot" timestamp="1470028931464">
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="78" />
+        <mark key="." line="10" column="78" />
+        <mark key="^" line="10" column="78" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1467698799547">
         <mark key="[" line="49" column="0" />
@@ -163,9 +164,10 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1469516411966">
-        <mark key="[" line="34" column="76" />
-        <mark key="]" line="34" column="17" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1470029252197">
+        <mark key="'" line="113" column="13" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="16" />
         <mark key="^" line="34" column="17" />
         <mark key="." line="34" column="17" />
       </file>
@@ -193,6 +195,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="59" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1470029075150" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_scheme.robot" timestamp="1469516700941">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="43" />
@@ -237,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
       <jump line="41" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
       <jump line="47" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
@@ -337,43 +339,44 @@
       <jump line="68" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/ruler.robot" />
       <jump line="709" column="58" filename="/Library/Python/2.7/site-packages/robot/libraries/BuiltIn.py" />
       <jump line="6" column="43" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/bookmark.robot" />
+      <jump line="113" column="13" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>default</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>succeed</text>
       </register>
-      <register name="0" type="4">
-        <text>../</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBMb2dpbiAgICBvcGVyYXRpb25hbCAgICBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I1Jlc291cmNlICAgIC4uLy4uLy4uL3Jlc291cmNlcy9pdGVtcy9tdWx0aXBsZV9jaG9pY2VfYnlfaW50ZXJhY3Rpb24ucm9ib3QK</text>
+        <text encoding="base64">ICBMb2dpbiAgICBvcGVyYXRpb25hbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L1VzZXJzL1NjZW4vRGV2ZWxvcC9BdXRvbWF0aW9uVGVzdGluZwo=</text>
+        <text encoding="base64">ICBTbGVlcCAgICAxMjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzICAK</text>
+        <text encoding="base64">ICBXYWl0IFVudGlsIEtleXdvcmQgU3VjY2VlZHMgICAgMjAgbWluICAgIDUgc2VjICAgIFRpbWVvdXQgU2hvdWxkIEJlIERpc3BsYXllZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTZXQgUmVzb3VyY2UgU2VhcmNoIE9yZGVyICAgIG11bHRpcGxlX2Nob2ljZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTZXQgUmVzb3VyY2UgU2VhcmNoIE9yZGVyICAgIG11bHRpcGxlX2Nob2ljZV9ieV9pbnRlcmFjdGlvbgo=</text>
+        <text encoding="base64">ICBJdGVtIE51bWJlciBTaG91bGQgQmUgICAgMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vcmVzb3VyY2VzL2l0ZW1zL211bHRpcGxlX2Nob2ljZS5yb2JvdAo=</text>
+        <text encoding="base64">TG9naW4gQW5kIEdvIFRvIE1hdGggU2Vzc2lvbgogIExvZ2luICAgIG9wZXJhdGlvbmFsCiAgTG9naW4gU2hvdWxkIFN1Y2NlZWQKICBFbnRlciBTZXNzaW9uICAgICJNYXRoIFNlc3Npb24iCiAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAxNDY0MzI1ODA3CiAgUGFnZSBTaG91bGQgQ29udGFpbiAgICBPcHRpb25zCiAgQ29udGludWUgRnJvbSBPcHRpb25zCiAgQ29udGludWUgRnJvbSBEaXJlY3Rpb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUb3VjaEFjdGlvbigpCg==</text>
+        <text encoding="base64">U3VpdGUgU2V0dXAgICAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgUnVuIEtleXdvcmQgSWYgICAgImlvcy0iIGluICIke21vZGV9Igo=</text>
+        <text encoding="base64">UmVzZXQgU3R1ZGV0biBMb2dpbgogIFJlc2V0IFN0dWRlbnQgTG9naW4gICAgb3BlcmF0aW9uYWwKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAe2Nvb3JkfT0gICAgR2V0IEVsZW1lbnQgQWJzb2x1dGUgT2Zmc2V0ICAgICR7UlVMRVIuUlVMRVJfVE9PTH0K</text>
+        <text encoding="base64">I1Jlc291cmNlICAgIC4uLy4uLy4uL3Jlc291cmNlcy9pdGVtcy9tdWx0aXBsZV9jaG9pY2VfYnlfaW50ZXJhY3Rpb24ucm9ib3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
