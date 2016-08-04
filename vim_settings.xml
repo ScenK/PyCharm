@@ -46,6 +46,7 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml.sample" timestamp="1470279224789" />
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_handler.py" timestamp="1467885575142">
         <mark key="[" line="45" column="37" />
         <mark key="]" line="45" column="37" />
@@ -168,7 +169,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1470029252197">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1470279379723">
         <mark key="'" line="113" column="13" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="16" />
