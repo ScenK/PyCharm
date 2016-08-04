@@ -27,6 +27,7 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/masking.robot" timestamp="1470276873032" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -93,6 +94,7 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1470276779778" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/session.robot" timestamp="1470028923499">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="35" />
