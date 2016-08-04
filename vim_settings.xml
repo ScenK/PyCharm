@@ -93,7 +93,6 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1470192479477" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/session.robot" timestamp="1470028923499">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="35" />
@@ -155,7 +154,7 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/items/multiple_choice_by_interaction.robot" timestamp="1470192470965">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/items/multiple_choice_by_interaction.robot" timestamp="1470276076308">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="14" />
         <mark key="^" line="18" column="13" />
