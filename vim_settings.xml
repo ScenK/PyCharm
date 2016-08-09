@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1470725292304">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/ruler.robot" timestamp="1469761412523">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="35" />
@@ -27,7 +30,6 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/masking.robot" timestamp="1470276873032" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_applied_to_items.robot" timestamp="1466490323981">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -46,7 +48,11 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml.sample" timestamp="1470279224789" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" timestamp="1470725091471">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="67" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/test_handler.py" timestamp="1467885575142">
         <mark key="[" line="45" column="37" />
         <mark key="]" line="45" column="37" />
@@ -95,7 +101,6 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1470276779778" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/session.robot" timestamp="1470028923499">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="35" />
@@ -130,7 +135,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.4/users.yaml" timestamp="1470284031520" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
@@ -170,18 +174,24 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1470279379723">
-        <mark key="'" line="113" column="13" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="16" />
-        <mark key="^" line="34" column="17" />
-        <mark key="." line="34" column="17" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1470724925496">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="87" column="8" />
+        <mark key="]" line="87" column="8" />
+        <mark key="." line="87" column="8" />
+        <mark key="^" line="92" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
         <mark key="[" line="37" column="48" />
         <mark key="]" line="37" column="53" />
         <mark key="." line="37" column="53" />
         <mark key="^" line="37" column="53" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_default.robot" timestamp="1470725533754">
+        <mark key="[" line="9" column="102" />
+        <mark key="]" line="9" column="114" />
+        <mark key="^" line="9" column="114" />
+        <mark key="." line="9" column="114" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/items/mc/mc_answer_choice.robot" timestamp="1469516412197">
         <mark key="[" line="7" column="65" />
@@ -200,6 +210,12 @@
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="59" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1470725599045">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_scheme.robot" timestamp="1469516700941">
         <mark key="[" line="5" column="36" />
@@ -245,12 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Develop/eMetricRobot/tests/regression/network/offline_stored_practice_test.robot" />
-      <jump line="47" column="2" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_turn_in_practice_test_answer_saved.robot" />
-      <jump line="43" column="16" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_answer_saved_with_multibyte_characters.robot" />
-      <jump line="8" column="0" filename="$USER_HOME$/Develop/eMetricRobot/templates/regression/network/offline_pause_practice_answer_saved_with_multibyte_characters.robot" />
-      <jump line="99" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="172" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="21" column="19" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" />
       <jump line="20" column="19" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" />
@@ -327,7 +337,6 @@
       <jump line="213" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" />
       <jump line="75" column="10" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="105" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="61" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="71" column="32" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
@@ -345,56 +354,63 @@
       <jump line="709" column="58" filename="/Library/Python/2.7/site-packages/robot/libraries/BuiltIn.py" />
       <jump line="6" column="43" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/bookmark.robot" />
       <jump line="113" column="13" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="140" column="19" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" />
+      <jump line="133" column="8" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" />
+      <jump line="43" column="45" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="106" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
+      <jump line="120" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>succeed</text>
+        <text>ast</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAwLjUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1zID0gYXN0LmxpdGVyYWxfZXZhbChpWydxdWVyeV9zdHJpbmcnXVsnaXRlbXMnXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMb2dpbiAgICBvcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBxdWVyeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxMjAK</text>
+        <text encoding="base64">aW1wb3J0IGFzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBXYWl0IFVudGlsIEtleXdvcmQgU3VjY2VlZHMgICAgMjAgbWluICAgIDUgc2VjICAgIFRpbWVvdXQgU2hvdWxkIEJlIERpc3BsYXllZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBJdGVtIE51bWJlciBTaG91bGQgQmUgICAgMQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TG9naW4gQW5kIEdvIFRvIE1hdGggU2Vzc2lvbgogIExvZ2luICAgIG9wZXJhdGlvbmFsCiAgTG9naW4gU2hvdWxkIFN1Y2NlZWQKICBFbnRlciBTZXNzaW9uICAgICJNYXRoIFNlc3Npb24iCiAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAxNDY0MzI1ODA3CiAgUGFnZSBTaG91bGQgQ29udGFpbiAgICBPcHRpb25zCiAgQ29udGludWUgRnJvbSBPcHRpb25zCiAgQ29udGludWUgRnJvbSBEaXJlY3Rpb25zCg==</text>
+        <text encoding="base64">R2V0IFVzZXIgQnkgUXVlcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U3VpdGUgU2V0dXAgICAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl90eXBlOiAgICB1c2VyIHR5cGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UmVzZXQgU3R1ZGV0biBMb2dpbgogIFJlc2V0IFN0dWRlbnQgTG9naW4gICAgb3BlcmF0aW9uYWwKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JlZWR5OiAgcmV0dXJuIGZ1bGwgcmVzdWx0IG9yIGZpcnN0IG1hdGNoLiBEZWZhdWx0IHNldCB0byBmYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I1Jlc291cmNlICAgIC4uLy4uLy4uL3Jlc291cmNlcy9pdGVtcy9tdWx0aXBsZV9jaG9pY2VfYnlfaW50ZXJhY3Rpb24ucm9ib3QK</text>
+        <text encoding="base64">ICBMb2dpbiAgICBvcGVyYXRpb25hbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>succeed</last-search>
+      <last-search>ast</last-search>
       <last-offset />
-      <last-pattern>succeed</last-pattern>
+      <last-pattern>ast</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -418,6 +434,8 @@
         <entry>masking</entry>
         <entry>remove masking</entry>
         <entry>succeed</entry>
+        <entry encoding="base64">XDxnZXRfdXNlcl9ieV9xdWVyeVw+</entry>
+        <entry>ast</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -432,8 +450,8 @@
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>495</entry>
         <entry>222</entry>
-        <entry>action FindNext</entry>
         <entry>vs</entry>
+        <entry>action FindNext</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
