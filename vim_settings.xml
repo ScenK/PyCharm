@@ -211,12 +211,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1470727761960">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1470727761960" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_scheme.robot" timestamp="1469516700941">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="43" />
