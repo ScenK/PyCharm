@@ -174,12 +174,12 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1470724925496">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1470728448757">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="8" />
-        <mark key="]" line="87" column="8" />
-        <mark key="." line="87" column="8" />
-        <mark key="^" line="92" column="33" />
+        <mark key="[" line="95" column="9" />
+        <mark key="]" line="95" column="15" />
+        <mark key="." line="95" column="15" />
+        <mark key="^" line="95" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
         <mark key="[" line="37" column="48" />
@@ -187,7 +187,7 @@
         <mark key="." line="37" column="53" />
         <mark key="^" line="37" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_default.robot" timestamp="1470725533754">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_default.robot" timestamp="1470728903505">
         <mark key="[" line="9" column="102" />
         <mark key="]" line="9" column="114" />
         <mark key="^" line="9" column="114" />
@@ -211,7 +211,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1470725599045">
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1470727761960">
         <mark key="'" line="121" column="0" />
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
@@ -364,40 +364,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>practice</text>
       </register>
       <register name="/" type="4">
         <text>ast</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1zID0gYXN0LmxpdGVyYWxfZXZhbChpWydxdWVyeV9zdHJpbmcnXVsnaXRlbXMnXSkK</text>
+      <register name="0" type="4">
+        <text>extra_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBxdWVyeQo=</text>
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICBsZW4oQHtsb2dpbn0pID4gMgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFzdAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBxdWVyeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGFzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">R2V0IFVzZXIgQnkgUXVlcnkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl90eXBlOiAgICB1c2VyIHR5cGUK</text>
+        <text encoding="base64">R2V0IFVzZXIgQnkgUXVlcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JlZWR5OiAgcmV0dXJuIGZ1bGwgcmVzdWx0IG9yIGZpcnN0IG1hdGNoLiBEZWZhdWx0IHNldCB0byBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl90eXBlOiAgICB1c2VyIHR5cGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMb2dpbiAgICBvcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JlZWR5OiAgcmV0dXJuIGZ1bGwgcmVzdWx0IG9yIGZpcnN0IG1hdGNoLiBEZWZhdWx0IHNldCB0byBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
