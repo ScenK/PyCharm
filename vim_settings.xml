@@ -6,6 +6,9 @@
       <file name="/Python Console" timestamp="1470725292304">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1471400224607">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/ruler.robot" timestamp="1469761412523">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="35" />
@@ -125,15 +128,18 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/03_operational_test.robot" timestamp="1471400904562" />
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/dictionary.robot" timestamp="1468830383456">
         <mark key="[" line="44" column="124" />
         <mark key="]" line="44" column="125" />
         <mark key="." line="44" column="124" />
         <mark key="^" line="44" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1469761329137">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="31" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1471400538938">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
@@ -153,7 +159,7 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470281476715">
+      <file name="/Dummy.txt" timestamp="1471400496489">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/protractor.robot" timestamp="1469517010860">
@@ -211,7 +217,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1470727761960" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1471400113482" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_scheme.robot" timestamp="1469516700941">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="43" />
@@ -359,7 +365,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>practice</text>
+        <text>==&quot;operational&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ast</text>
@@ -405,12 +411,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scientific</entry>
-        <entry>finish</entry>
         <entry>finish_btn</entry>
         <entry>wait until</entry>
         <entry>not</entry>
