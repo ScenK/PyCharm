@@ -80,6 +80,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="33" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/read_aloud.robot" timestamp="1471944216320" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_and_sketch_highlighter.robot" timestamp="1467191191824">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="28" column="52" />
@@ -122,13 +123,13 @@
         <mark key="." line="38" column="56" />
         <mark key="^" line="36" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1469426384509">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1471943789694">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/03_operational_test.robot" timestamp="1471400904562" />
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/dictionary.robot" timestamp="1468830383456">
         <mark key="[" line="44" column="124" />
         <mark key="]" line="44" column="125" />
@@ -141,6 +142,7 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.4/users.yaml" timestamp="1471943776950" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
@@ -217,7 +219,6 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1471400113482" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_scheme.robot" timestamp="1469516700941">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="43" />
@@ -262,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="2" filename="$USER_HOME$/Develop/eMetricRobot/resources/navigation/offline.robot" />
       <jump line="21" column="19" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" />
       <jump line="20" column="19" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" />
       <jump line="11" column="3" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" />
@@ -362,13 +362,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="120" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>==&quot;operational&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>ast</text>
+        <text>math session test read</text>
       </register>
       <register name="0" type="4">
         <text>extra_</text>
@@ -405,13 +406,13 @@
       </register>
     </registers>
     <search>
-      <last-search>ast</last-search>
+      <last-search>math session test read</last-search>
       <last-offset />
-      <last-pattern>ast</last-pattern>
+      <last-pattern>math session test read</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -435,6 +436,7 @@
         <entry>succeed</entry>
         <entry encoding="base64">XDxnZXRfdXNlcl9ieV9xdWVyeVw+</entry>
         <entry>ast</entry>
+        <entry>math session test read</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
