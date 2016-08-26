@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1472199616632">
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1472199763780">
         <mark key="[" line="191" column="7" />
         <mark key="]" line="192" column="7" />
         <mark key="^" line="192" column="7" />
@@ -141,11 +141,11 @@
         <mark key="." line="44" column="124" />
         <mark key="^" line="44" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1472199181466">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="25" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="25" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1472199996524">
+        <mark key="[" line="59" column="49" />
+        <mark key="]" line="60" column="16" />
+        <mark key="^" line="60" column="16" />
+        <mark key="." line="60" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
@@ -165,7 +165,7 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471400496489">
+      <file name="/Dummy.txt" timestamp="1472199621427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/protractor.robot" timestamp="1469517010860">
@@ -376,31 +376,31 @@
         <text>extra_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICBsZW4oQHtsb2dpbn0pID4gMgo=</text>
+        <text encoding="base64">ICBTZWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBxdWVyeQo=</text>
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICBsZW4oQHtsb2dpbn0pID4gMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFzdAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBxdWVyeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGFzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">R2V0IFVzZXIgQnkgUXVlcnkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl90eXBlOiAgICB1c2VyIHR5cGUK</text>
+        <text encoding="base64">R2V0IFVzZXIgQnkgUXVlcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JlZWR5OiAgcmV0dXJuIGZ1bGwgcmVzdWx0IG9yIGZpcnN0IG1hdGNoLiBEZWZhdWx0IHNldCB0byBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl90eXBlOiAgICB1c2VyIHR5cGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
