@@ -80,7 +80,6 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/read_aloud.robot" timestamp="1471944216320" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/color_chooser/color_chooser_and_sketch_highlighter.robot" timestamp="1467191191824">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="28" column="52" />
@@ -142,7 +141,6 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/3.4/users.yaml" timestamp="1471943776950" />
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_icon_shows_tool_name.robot" timestamp="1466561356812">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="31" />
@@ -189,6 +187,7 @@
         <mark key="." line="95" column="15" />
         <mark key="^" line="95" column="15" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1472196297886" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
         <mark key="[" line="37" column="48" />
         <mark key="]" line="37" column="53" />
@@ -412,11 +411,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>finish_btn</entry>
         <entry>wait until</entry>
         <entry>not</entry>
         <entry>direc</entry>
