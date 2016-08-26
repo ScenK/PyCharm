@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1472199616632">
+        <mark key="[" line="191" column="7" />
+        <mark key="]" line="192" column="7" />
+        <mark key="^" line="192" column="7" />
+        <mark key="." line="192" column="7" />
+      </file>
       <file name="/Python Console" timestamp="1470725292304">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,10 +130,10 @@
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1471943789694">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
         <mark key="^" line="2" column="0" />
-        <mark key="." line="62" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/dictionary.robot" timestamp="1468830383456">
         <mark key="[" line="44" column="124" />
@@ -135,7 +141,7 @@
         <mark key="." line="44" column="124" />
         <mark key="^" line="44" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1471400538938">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1472199181466">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="19" column="25" />
         <mark key="^" line="19" column="25" />
@@ -180,12 +186,8 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1470728448757">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1472199094904">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="9" />
-        <mark key="]" line="95" column="15" />
-        <mark key="." line="95" column="15" />
-        <mark key="^" line="95" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1472197078061" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
