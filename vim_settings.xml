@@ -141,7 +141,7 @@
         <mark key="." line="44" column="124" />
         <mark key="^" line="44" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1472199996524">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1472551492662">
         <mark key="[" line="59" column="49" />
         <mark key="]" line="60" column="16" />
         <mark key="^" line="60" column="16" />
@@ -189,7 +189,6 @@
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1472199094904">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1472197078061" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
         <mark key="[" line="37" column="48" />
         <mark key="]" line="37" column="53" />
