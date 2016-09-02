@@ -9,7 +9,7 @@
         <mark key="^" line="192" column="7" />
         <mark key="." line="192" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog2/blog/runserver.py" timestamp="1472796923385" />
+      <file name="$USER_HOME$/Develop/Dev_Blog2/blog/runserver.py" timestamp="1472800518656" />
       <file name="/Python Console" timestamp="1472795701175">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,7 +221,6 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog2/fabfile/__init__.py" timestamp="1472795705230" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_scheme.robot" timestamp="1469516700941">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="43" />
