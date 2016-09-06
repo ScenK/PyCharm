@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1472199763780">
-        <mark key="[" line="191" column="7" />
-        <mark key="]" line="192" column="7" />
-        <mark key="^" line="192" column="7" />
-        <mark key="." line="192" column="7" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1473155845790">
+        <mark key="'" line="255" column="8" />
+        <mark key="[" line="59" column="51" />
+        <mark key="]" line="59" column="73" />
+        <mark key="^" line="59" column="73" />
+        <mark key="." line="59" column="73" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog2/blog/runserver.py" timestamp="1472800518656" />
       <file name="/Python Console" timestamp="1472795701175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1471400224607">
+      <file name="/a.dummy" timestamp="1473155142099">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/ruler.robot" timestamp="1469761412523">
@@ -167,7 +167,7 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472199621427">
+      <file name="/Dummy.txt" timestamp="1473155850101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/protractor.robot" timestamp="1469517010860">
@@ -191,6 +191,7 @@
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1472199094904">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/setupscript.py" timestamp="1473156037987" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
         <mark key="[" line="37" column="48" />
         <mark key="]" line="37" column="53" />
@@ -265,9 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" />
-      <jump line="56" column="8" filename="$USER_HOME$/Develop/eMetricRobot/fabfile/generator/handler.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Develop/eMetricRobot/resources/helpers/initialize.robot" />
       <jump line="19" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="507" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="152" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
@@ -365,10 +363,13 @@
       <jump line="34" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
       <jump line="50" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
+      <jump line="150" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" />
+      <jump line="59" column="73" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" />
+      <jump line="255" column="8" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>==&quot;operational&quot;</text>
+        <text encoding="base64">IGFuZCBpID09IGV4dA==</text>
       </register>
       <register name="/" type="4">
         <text>math session test read</text>
@@ -445,7 +446,6 @@
         <entry>bp!</entry>
         <entry>%s/Line Reader/Guideline/g</entry>
         <entry>cs</entry>
-        <entry>CtrlPBuffer</entry>
         <entry>action FindPrevious</entry>
         <entry>w;w</entry>
         <entry>sp</entry>
@@ -454,6 +454,7 @@
         <entry>222</entry>
         <entry>vs</entry>
         <entry>action FindNext</entry>
+        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
