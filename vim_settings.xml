@@ -194,7 +194,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1473828302356">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1476336259566">
         <mark key="'" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_item_page.robot" timestamp="1468995728383">
