@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1477792823454">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+      </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/resources/navigation/options.robot" timestamp="1467262929749">
         <mark key="[" line="206" column="47" />
         <mark key="]" line="206" column="60" />
