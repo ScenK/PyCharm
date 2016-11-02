@@ -122,6 +122,9 @@
         <mark key="^" line="86" column="104" />
         <mark key="." line="86" column="104" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" timestamp="1478121152270">
+        <mark key="'" line="49" column="54" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" timestamp="1468306244043">
         <mark key="[" line="24" column="65" />
         <mark key="]" line="24" column="82" />
@@ -283,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="492" column="18" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="48" column="25" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/test.robot" />
       <jump line="48" column="33" filename="$USER_HOME$/Develop/AutomationTesting/resources/items/open_ended.robot" />
       <jump line="28" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
@@ -383,13 +385,14 @@
       <jump line="69" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="8" column="29" filename="$USER_HOME$/Develop/Dev_Blog3/blog/model/models.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Develop/Dev_Blog3/blog/model/models.py" />
+      <jump line="49" column="54" filename="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IGFuZCBpID09IGV4dA==</text>
       </register>
       <register name="/" type="4">
-        <text>sketch with shared</text>
+        <text>actiopn</text>
       </register>
       <register name="0" type="4">
         <text>extra_</text>
@@ -426,13 +429,13 @@
       </register>
     </registers>
     <search>
-      <last-search>sketch with shared</last-search>
+      <last-search>actiopn</last-search>
       <last-offset />
-      <last-pattern>sketch with shared</last-pattern>
+      <last-pattern>actiopn</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -456,6 +459,8 @@
         <entry>ast</entry>
         <entry>math session test read</entry>
         <entry>sketch with shared</entry>
+        <entry>actions</entry>
+        <entry>actiopn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
