@@ -425,7 +425,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdXNlcl90eXBlOiAgICB1c2VyIHR5cGUK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -474,10 +474,10 @@
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>495</entry>
         <entry>222</entry>
-        <entry>vs</entry>
         <entry>action FindNext</entry>
         <entry>CtrlPBuffer</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
