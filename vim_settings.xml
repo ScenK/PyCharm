@@ -465,7 +465,6 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
         <entry>bn!</entry>
-        <entry>bp!</entry>
         <entry>%s/Line Reader/Guideline/g</entry>
         <entry>cs</entry>
         <entry>action FindPrevious</entry>
@@ -478,6 +477,7 @@
         <entry>CtrlPBuffer</entry>
         <entry>w</entry>
         <entry>vs</entry>
+        <entry>bp!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
