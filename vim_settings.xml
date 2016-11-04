@@ -73,10 +73,6 @@
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1471943789694">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/eMetricRobot/templates/regression/tools/guideline/guideline_close_automatically_when_navigating_away.robot" timestamp="1466496871504">
         <mark key="[" line="55" column="0" />
@@ -435,12 +431,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>not</entry>
-        <entry>direc</entry>
         <entry>current</entry>
         <entry>feedback</entry>
         <entry>Review Screen Should Show Item 1 Answered and Bookmarked</entry>
