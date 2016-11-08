@@ -3,20 +3,39 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1473659737904">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1477792823454">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
+      <file name="/Python Console" timestamp="1472795701175">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478641808779">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="48" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/unit.robot" timestamp="1478641962229">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="15" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1473155142099">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/replay/replay1.json" timestamp="1478276123059" />
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_text_saved_review.robot" timestamp="1478277166235" />
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1471943789694">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/Dev_Blog3/blog/model/models.py" timestamp="1476006813954">
+        <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_and_sketch_highlighter.robot" timestamp="1478278399698" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1478641663045">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="55" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1473155845790">
         <mark key="'" line="255" column="8" />
         <mark key="[" line="59" column="51" />
@@ -24,7 +43,16 @@
         <mark key="^" line="59" column="73" />
         <mark key="." line="59" column="73" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_random_text_input.robot" timestamp="1478277158571" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1473828292596">
+        <mark key="'" line="143" column="2" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1472720462784">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="49" />
+        <mark key="]" line="60" column="16" />
+        <mark key="^" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_share_stimulus.robot" timestamp="1473827851739">
         <mark key="'" line="57" column="74" />
         <mark key="[" line="86" column="102" />
@@ -35,35 +63,23 @@
       <file name="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" timestamp="1478121152270">
         <mark key="'" line="49" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1472795701175">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/feature/unit.robot" timestamp="1478641666670">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog3/blog/model/models.py" timestamp="1476006813954">
-        <mark key="'" line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1473828292596">
-        <mark key="'" line="143" column="2" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/keywords_and_events.yaml" timestamp="1478275308658" />
-      <file name="/Dummy.txt" timestamp="1473659737904">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_pause.robot" timestamp="1478276557410" />
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_general_masking.robot" timestamp="1478278556517" />
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1472720462784">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="49" />
-        <mark key="]" line="60" column="16" />
-        <mark key="^" line="60" column="16" />
-        <mark key="." line="60" column="16" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/notepad.robot" timestamp="1478642257061">
+        <mark key="'" line="272" column="0" />
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="51" />
+        <mark key="." line="30" column="51" />
+        <mark key="^" line="30" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" timestamp="1476336259566">
         <mark key="'" line="69" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="25" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/test.robot" />
-      <jump line="48" column="33" filename="$USER_HOME$/Develop/AutomationTesting/resources/items/open_ended.robot" />
       <jump line="28" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="473" column="28" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
@@ -162,46 +178,48 @@
       <jump line="8" column="29" filename="$USER_HOME$/Develop/Dev_Blog3/blog/model/models.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Develop/Dev_Blog3/blog/model/models.py" />
       <jump line="49" column="54" filename="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" />
+      <jump line="262" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/notepad.robot" />
+      <jump line="39" column="17" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_pause.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCBpID09IGV4dA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>actiopn</text>
       </register>
-      <register name="0" type="4">
-        <text>extra_</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIE5vdGVwYWQgU2hvdWxkIE5vdCBCZSBGb2N1c2VkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBTZWxlCg==</text>
+        <text encoding="base64">ICAgIE5vdGVwYWQgU2hvdWxkIEJlIEZvY3VzZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICBsZW4oQHtsb2dpbn0pID4gMgo=</text>
+        <text encoding="base64">ICAgIE5vdGVwYWQgU2hvdWxkIE5vdCBqawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBxdWVyeQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFzdAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE5vdGVwYWQgQXV0b2NhcGl0YWxpemUgU2hvdWxkIEJlIERpc2FibGUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGtrCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">VGVzdCB0aXRsZQogICAgW1RhZ3NdICAgIERFQlVHCiAgICBQcm92aWRlZCBwcmVjb25kaXRpb24KICAgIFdoZW4gYWN0aW9uCiAgICBUaGVuIGNoZWNrIGV4cGVjdGF0aW9ucwoKKioqIEtleXdvcmRzICoqKgpQcm92aWRlZCBwcmVjb25kaXRpb24KICAgIFNldHVwIHN5c3RlbSB1bmRlciB0ZXN0Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vcmVzb3VyY2VzL25hdmlnYXRpb24vcGF1c2Uucm9ib3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R2V0IFVzZXIgQnkgUXVlcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl90eXBlOiAgICB1c2VyIHR5cGUK</text>
+        <text encoding="base64">JHtOT1RFUEFELn0K</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -249,9 +267,9 @@
         <entry>222</entry>
         <entry>action FindNext</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>w</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
