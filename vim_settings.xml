@@ -14,8 +14,8 @@
       <file name="/Python Console" timestamp="1472795701175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478641808779">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478706093721">
+        <mark key="'" line="52" column="56" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="48" />
       </file>
@@ -42,6 +42,12 @@
         <mark key="]" line="59" column="73" />
         <mark key="^" line="59" column="73" />
         <mark key="." line="59" column="73" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/masking.robot" timestamp="1478706484181">
+        <mark key="[" line="142" column="73" />
+        <mark key="]" line="142" column="73" />
+        <mark key="^" line="142" column="56" />
+        <mark key="." line="142" column="73" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1473828292596">
         <mark key="'" line="143" column="2" />
@@ -80,7 +86,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="473" column="28" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
@@ -180,16 +185,17 @@
       <jump line="49" column="54" filename="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" />
       <jump line="262" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/notepad.robot" />
       <jump line="39" column="17" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_pause.robot" />
+      <jump line="52" column="56" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Gui Move To    jquery=${MASKING.CONTAINER}:eq(${number})    1    1</text>
       </register>
       <register name="/" type="4">
         <text>actiopn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE5vdGVwYWQgU2hvdWxkIE5vdCBCZSBGb2N1c2VkCg==</text>
+        <text encoding="base64">ICAuLi4gICAgRUxTRSAgICAgR3VpIE1vdmUgVG8gICAganF1ZXJ5PSR7TUFTS0lORy5DT05UQUlORVJ9OmVxKCR7bnVtYmVyfSkgICAgMSAgICAxCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE5vdGVwYWQgU2hvdWxkIEJlIEZvY3VzZWQK</text>
@@ -267,8 +273,8 @@
         <entry>222</entry>
         <entry>action FindNext</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>bp!</entry>
         <entry>vs</entry>
+        <entry>bp!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
