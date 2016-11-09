@@ -8,21 +8,21 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/CalculatorLibrary.py" timestamp="1478725461836">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1477792823454">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1472795701175">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_reset_hide_all.robot" timestamp="1478712682726">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1473155142099">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_icon.robot" timestamp="1478708507816">
         <mark key="[" line="46" column="111" />
@@ -44,6 +44,12 @@
         <mark key="]" line="88" column="105" />
         <mark key="." line="88" column="105" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" timestamp="1478725398352">
+        <mark key="[" line="139" column="23" />
+        <mark key="]" line="140" column="31" />
+        <mark key="^" line="140" column="31" />
+        <mark key="." line="140" column="31" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_keyboard.robot" timestamp="1478712666615">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -59,8 +65,10 @@
         <mark key="]" line="56" column="105" />
         <mark key="." line="56" column="105" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478712797650">
+      <file name="/Dummy.txt" timestamp="1478725573383">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478710329939">
         <mark key="'" line="156" column="30" />
@@ -76,6 +84,12 @@
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1478724967023">
+        <mark key="[" line="248" column="21" />
+        <mark key="]" line="248" column="21" />
+        <mark key="." line="248" column="21" />
+        <mark key="^" line="162" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_review.robot" timestamp="1478712671722">
         <mark key="[" line="70" column="0" />
@@ -96,6 +110,12 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" timestamp="1478725540186">
+        <mark key="[" line="96" column="41" />
+        <mark key="]" line="96" column="47" />
+        <mark key="^" line="90" column="49" />
+        <mark key="." line="96" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_deselect_hide_all.robot" timestamp="1478712579424">
         <mark key="[" line="61" column="0" />
@@ -222,19 +242,19 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Gui Move To    jquery=${MASKING.CONTAINER}:eq(${number})    1    1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>masking</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Tm90ZXBhZCBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNyAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA3ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
+      <register name="0" type="4">
+        <text>match_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">YWRkIG1pc3NpbmcgaXRlbXMgZm9yIHJlZ3Jlc3Npb24gdGVzdHMuIFJFTEFURUQgVE8gSUFULTM4Mgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
@@ -243,19 +263,19 @@
         <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -268,7 +288,7 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -295,7 +315,6 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
-        <entry>bn!</entry>
         <entry>%s/Line Reader/Guideline/g</entry>
         <entry>cs</entry>
         <entry>action FindPrevious</entry>
@@ -308,6 +327,7 @@
         <entry>CtrlPBuffer</entry>
         <entry>vs</entry>
         <entry>bp!</entry>
+        <entry>bn!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
