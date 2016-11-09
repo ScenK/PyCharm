@@ -16,15 +16,10 @@
       <file name="/Python Console" timestamp="1472795701175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_default.robot" timestamp="1478707818476">
-        <mark key="[" line="46" column="111" />
-        <mark key="]" line="46" column="112" />
-        <mark key="." line="46" column="112" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_reset_hide_all.robot" timestamp="1478708399721">
-        <mark key="[" line="60" column="111" />
-        <mark key="]" line="60" column="112" />
-        <mark key="." line="60" column="112" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_reset_hide_all.robot" timestamp="1478712682726">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1473155142099">
         <mark key="[" line="0" column="0" />
@@ -34,10 +29,10 @@
         <mark key="]" line="46" column="112" />
         <mark key="." line="46" column="112" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_button.robot" timestamp="1478708251163">
-        <mark key="[" line="73" column="122" />
-        <mark key="]" line="73" column="123" />
-        <mark key="." line="73" column="123" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_button.robot" timestamp="1478712656573">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_movable.robot" timestamp="1478707791111">
         <mark key="[" line="64" column="54" />
@@ -49,22 +44,22 @@
         <mark key="]" line="88" column="105" />
         <mark key="." line="88" column="105" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_keyboard.robot" timestamp="1478708347228">
-        <mark key="[" line="75" column="122" />
-        <mark key="]" line="75" column="123" />
-        <mark key="." line="75" column="123" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_keyboard.robot" timestamp="1478712666615">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_icon.robot" timestamp="1478707884224">
-        <mark key="[" line="48" column="111" />
-        <mark key="]" line="48" column="112" />
-        <mark key="." line="48" column="112" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_icon.robot" timestamp="1478712651202">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_icon_shows_tool_name.robot" timestamp="1478708634034">
         <mark key="[" line="56" column="104" />
         <mark key="]" line="56" column="105" />
         <mark key="." line="56" column="105" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478710408714">
+      <file name="/Dummy.txt" timestamp="1478712769933">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478710329939">
@@ -72,20 +67,20 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_pause_relogin.robot" timestamp="1478708384820">
-        <mark key="[" line="78" column="111" />
-        <mark key="]" line="78" column="112" />
-        <mark key="." line="78" column="112" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_pause_relogin.robot" timestamp="1478712677102">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_hide_all.robot" timestamp="1478709816247">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_review.robot" timestamp="1478708368049">
-        <mark key="[" line="71" column="122" />
-        <mark key="]" line="71" column="123" />
-        <mark key="." line="71" column="123" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_review.robot" timestamp="1478712671722">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_random_text_input.robot" timestamp="1478708585855">
         <mark key="[" line="48" column="104" />
@@ -97,30 +92,30 @@
         <mark key="]" line="50" column="46" />
         <mark key="." line="50" column="46" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_show_all.robot" timestamp="1478708525176">
-        <mark key="[" line="66" column="111" />
-        <mark key="]" line="66" column="112" />
-        <mark key="." line="66" column="112" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_show_all.robot" timestamp="1478712716553">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_deselect_hide_all.robot" timestamp="1478707842577">
-        <mark key="[" line="62" column="111" />
-        <mark key="]" line="62" column="112" />
-        <mark key="." line="62" column="112" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_deselect_hide_all.robot" timestamp="1478712579424">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_reset_icon.robot" timestamp="1478708414759">
-        <mark key="[" line="64" column="111" />
-        <mark key="]" line="64" column="112" />
-        <mark key="." line="64" column="112" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_reset_icon.robot" timestamp="1478712690668">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/feature/unit.robot" timestamp="1478641666670">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_deselect_icon.robot" timestamp="1478707858297">
-        <mark key="[" line="70" column="111" />
-        <mark key="]" line="70" column="112" />
-        <mark key="." line="70" column="112" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_deselect_icon.robot" timestamp="1478712646611">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -239,28 +234,28 @@
         <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q29sb3IgQ2hvb3NlciBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQ29sb3IgQ2hvb3NlciBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE5vdGVwYWQgU2hvdWxkIEJlIEZvY3VzZWQK</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE5vdGVwYWQgU2hvdWxkIE5vdCBqawo=</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE5vdGVwYWQgQXV0b2NhcGl0YWxpemUgU2hvdWxkIEJlIERpc2FibGUK</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtrCg==</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGVzdCB0aXRsZQogICAgW1RhZ3NdICAgIERFQlVHCiAgICBQcm92aWRlZCBwcmVjb25kaXRpb24KICAgIFdoZW4gYWN0aW9uCiAgICBUaGVuIGNoZWNrIGV4cGVjdGF0aW9ucwoKKioqIEtleXdvcmRzICoqKgpQcm92aWRlZCBwcmVjb25kaXRpb24KICAgIFNldHVwIHN5c3RlbSB1bmRlciB0ZXN0Cg==</text>
+        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
