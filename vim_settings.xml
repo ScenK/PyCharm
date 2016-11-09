@@ -70,10 +70,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478710329939">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478731635131">
         <mark key="'" line="156" column="30" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="48" />
+        <mark key="[" line="1018" column="0" />
+        <mark key="]" line="1018" column="8" />
+        <mark key="^" line="1018" column="8" />
+        <mark key="." line="1018" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_pause_relogin.robot" timestamp="1478712677102">
         <mark key="[" line="77" column="0" />
