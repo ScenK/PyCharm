@@ -64,8 +64,13 @@
         <mark key="]" line="56" column="105" />
         <mark key="." line="56" column="105" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478709341486">
+      <file name="/Dummy.txt" timestamp="1478710375360">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478710329939">
+        <mark key="'" line="156" column="30" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="48" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_pause_relogin.robot" timestamp="1478708384820">
         <mark key="[" line="78" column="111" />
@@ -119,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="473" column="28" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="55" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
@@ -219,13 +223,14 @@
       <jump line="262" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/notepad.robot" />
       <jump line="39" column="17" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_pause.robot" />
       <jump line="52" column="56" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="156" column="30" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>Gui Move To    jquery=${MASKING.CONTAINER}:eq(${number})    1    1</text>
       </register>
       <register name="/" type="4">
-        <text>actiopn</text>
+        <text>masking</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Tm90ZXBhZCBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNyAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA3ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
@@ -262,13 +267,13 @@
       </register>
     </registers>
     <search>
-      <last-search>actiopn</last-search>
+      <last-search>masking</last-search>
       <last-offset />
-      <last-pattern>actiopn</last-pattern>
+      <last-pattern>masking</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -283,7 +288,6 @@
         <entry>_get_text</entry>
         <entry>sti</entry>
         <entry>reference</entry>
-        <entry>masking</entry>
         <entry>remove masking</entry>
         <entry>succeed</entry>
         <entry encoding="base64">XDxnZXRfdXNlcl9ieV9xdWVyeVw+</entry>
@@ -292,6 +296,7 @@
         <entry>sketch with shared</entry>
         <entry>actions</entry>
         <entry>actiopn</entry>
+        <entry>masking</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
