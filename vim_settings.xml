@@ -87,6 +87,9 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/assets/start-process.js" timestamp="1478797228911">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/libraries/GestureEnhanceLibrary.py" timestamp="1478724967023">
         <mark key="[" line="248" column="21" />
         <mark key="]" line="248" column="21" />
@@ -141,7 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="55" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="16" column="22" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
@@ -241,13 +243,14 @@
       <jump line="39" column="17" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_pause.robot" />
       <jump line="52" column="56" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="156" column="30" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/QABot/assets/start-process.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>masking</text>
+        <text>123123123</text>
       </register>
       <register name="0" type="4">
         <text>match_</text>
@@ -280,17 +283,17 @@
         <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search>masking</last-search>
+      <last-search>123123123</last-search>
       <last-offset />
-      <last-pattern>masking</last-pattern>
+      <last-pattern>123123123</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -314,6 +317,8 @@
         <entry>actions</entry>
         <entry>actiopn</entry>
         <entry>masking</entry>
+        <entry>conso</entry>
+        <entry>123123123</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -325,12 +330,12 @@
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>495</entry>
         <entry>222</entry>
-        <entry>action FindNext</entry>
         <entry>CtrlPBuffer</entry>
         <entry>vs</entry>
         <entry>bp!</entry>
         <entry>bn!</entry>
         <entry>w</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
