@@ -50,6 +50,7 @@
         <mark key="^" line="140" column="31" />
         <mark key="." line="140" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/data-comparison/data-comparison.js" timestamp="1478799070306" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_keyboard.robot" timestamp="1478712666615">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -105,6 +106,12 @@
         <mark key="[" line="48" column="104" />
         <mark key="]" line="48" column="105" />
         <mark key="." line="48" column="105" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ReferenceData.json" timestamp="1478798959380">
+        <mark key="[" line="22" column="143" />
+        <mark key="]" line="22" column="143" />
+        <mark key="^" line="22" column="142" />
+        <mark key="." line="22" column="143" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1478707728810">
         <mark key="[" line="50" column="45" />
@@ -247,7 +254,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
@@ -283,7 +290,7 @@
         <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindNext</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -331,11 +338,11 @@
         <entry>495</entry>
         <entry>222</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>vs</entry>
         <entry>bp!</entry>
         <entry>bn!</entry>
-        <entry>w</entry>
         <entry>action FindNext</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
