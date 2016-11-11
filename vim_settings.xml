@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/Develop/AutomationTesting/libraries/CalculatorLibrary.py" timestamp="1478725461836">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1477792823454">
+      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1478879500658">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
@@ -46,6 +46,7 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/MsSqlLibrary.py" timestamp="1478879091831" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_icon.robot" timestamp="1478712651202">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
