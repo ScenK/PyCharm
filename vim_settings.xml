@@ -61,11 +61,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478731635131">
-        <mark key="[" line="1032" column="0" />
-        <mark key="]" line="1032" column="8" />
-        <mark key="^" line="1032" column="8" />
-        <mark key="." line="1032" column="8" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478878084069">
+        <mark key="'" line="579" column="2" />
+        <mark key="[" line="1028" column="0" />
+        <mark key="]" line="1028" column="0" />
+        <mark key="^" line="1028" column="8" />
+        <mark key="." line="1028" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_pause_relogin.robot" timestamp="1478712677102">
         <mark key="[" line="77" column="0" />
@@ -96,6 +97,12 @@
         <mark key="^" line="22" column="142" />
         <mark key="." line="22" column="143" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/masking.robot" timestamp="1478878317892">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="94" column="12" />
+        <mark key="." line="145" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1478707728810">
         <mark key="[" line="50" column="45" />
         <mark key="]" line="50" column="46" />
@@ -121,6 +128,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1478877833682">
+        <mark key="[" line="392" column="0" />
+        <mark key="]" line="392" column="0" />
+        <mark key="." line="392" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/feature/unit.robot" timestamp="1478641666670">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="56" />
@@ -133,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="55" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="16" column="22" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="28" column="32" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
@@ -233,6 +244,7 @@
       <jump line="52" column="56" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="156" column="30" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="10" column="0" filename="$USER_HOME$/Develop/QABot/assets/start-process.js" />
+      <jump line="584" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -245,31 +257,31 @@
         <text>match_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkIG1pc3NpbmcgaXRlbXMgZm9yIHJlZ3Jlc3Npb24gdGVzdHMuIFJFTEFURUQgVE8gSUFULTM4Mgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJpb3MiICAgIENsaWNrIEVsZW1lbnQgICBqcXVlcnk9JHtNQVNLSU5HLkNPTlRBSU5FUn06ZXEoJHtudW1iZXJ9KQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">ICAuLi4gICAgRUxTRSAgICAgIE1vdXNlIE92ZXIgICAganF1ZXJ5PSR7TUFTS0lORy5DT05UQUlORVJ9OmVxKCR7bnVtYmVyfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">TWF0aCBTZXNzaW9uIEl0ZW0gMTAgQWRkIEFuZCBSZW1vdmUgTWFza2luZwogIEFkZCBNYXNraW5nCiAgTWFza2luZyBDb3VudCBTaG91bGQgQmUgICAgMQogIFJlbW92ZSBNYXNraW5nICAgIDEKICBNYXNraW5nIENvdW50IFNob3VsZCBCZSAgICAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgVXNlciBvcGVyYXRpb25hbCAxIE1hdGggU2Vzc2lvbiBJdGVtIDQgICAgJHt1c2VybmFtZX0gICR7cGFzc3dvcmR9ICAiTWF0aCBTZXNzaW9uIiAgMTQ2NDMyNTgwNyAgNCAgdXNlcl90eXBlPW9wZXJhdGlvbmFsCkFuc3dlciBNYXNraW5nIFVzZXIgb3BlcmF0aW9uYWwgMSBNYXRoIFNlc3Npb24gSXRlbSA1ICAgICR7dXNlcm5hbWV9ICAke3Bhc3N3b3JkfSAgIk1hdGggU2Vzc2lvbiIgIDE0NjQzMjU4MDcgIDUgIHVzZXJfdHlwZT1vcGVyYXRpb25hbAo=</text>
+        <text encoding="base64">TWF0aCBTZXNzaW9uIEl0ZW0gOSBBZGQgQW5kIFJlbW92ZSBNYXNraW5nCiAgQWRkIE1hc2tpbmcKICBNYXNraW5nIENvdW50IFNob3VsZCBCZSAgICAxCiAgUmVtb3ZlIE1hc2tpbmcgICAgMQogIE1hc2tpbmcgQ291bnQgU2hvdWxkIEJlICAgIDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
+        <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
+        <text encoding="base64">TWF0aCBTZXNzaW9uIEl0ZW0gOCBBZGQgQW5kIFJlbW92ZSBNYXNraW5nCiAgQWRkIE1hc2tpbmcKICBNYXNraW5nIENvdW50IFNob3VsZCBCZSAgICAxCiAgUmVtb3ZlIE1hc2tpbmcgICAgMQogIE1hc2tpbmcgQ291bnQgU2hvdWxkIEJlICAgIDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNCAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA0ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwKQW5zd2VyIE1hc2tpbmcgTmF2aWdhdGlvbiBVc2VyIG9wZXJhdGlvbmFsIDEgTWF0aCBTZXNzaW9uIEl0ZW0gNSAgICAke3VzZXJuYW1lfSAgJHtwYXNzd29yZH0gICJNYXRoIFNlc3Npb24iICAxNDY0MzI1ODA3ICA1ICB1c2VyX3R5cGU9b3BlcmF0aW9uYWwK</text>
+        <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
