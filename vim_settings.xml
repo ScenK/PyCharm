@@ -8,9 +8,6 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/CalculatorLibrary.py" timestamp="1478725461836">
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1478879500658">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="22" />
@@ -21,22 +18,27 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/release/variables.yaml" timestamp="1479224363393">
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/release/variables.yaml" timestamp="1479227673418">
         <mark key="'" line="32" column="4" />
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="44" />
-        <mark key="." line="10" column="44" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/reset.robot" timestamp="1479224283329">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="44" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/reset.robot" timestamp="1479228349122">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="50" />
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/develop/variables.yaml" timestamp="1479224237882">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
+      <file name="/a.dummy" timestamp="1479228337140">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/develop/variables.yaml" timestamp="1479228933861">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_icon.robot" timestamp="1478708507816">
         <mark key="[" line="46" column="111" />
@@ -69,6 +71,7 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/MsSqlLibrary.py" timestamp="1479229491603" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_icon.robot" timestamp="1478712651202">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -109,6 +112,12 @@
         <mark key="]" line="1" column="48" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/offline.robot" timestamp="1479228262612">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="47" />
+        <mark key="^" line="1" column="47" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_review.robot" timestamp="1478712671722">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
@@ -118,6 +127,12 @@
         <mark key="[" line="48" column="104" />
         <mark key="]" line="48" column="105" />
         <mark key="." line="48" column="105" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1479228922171">
+        <mark key="[" line="137" column="32" />
+        <mark key="]" line="137" column="40" />
+        <mark key="^" line="114" column="59" />
+        <mark key="." line="137" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/ReferenceData.json" timestamp="1478798959380">
         <mark key="[" line="22" column="143" />
@@ -130,6 +145,12 @@
         <mark key="]" line="145" column="0" />
         <mark key="^" line="94" column="12" />
         <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/layout/qabot.robot" timestamp="1479228303453">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1478707728810">
         <mark key="[" line="50" column="45" />
@@ -161,15 +182,21 @@
         <mark key="]" line="392" column="0" />
         <mark key="." line="392" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/sketch.robot" timestamp="1479228356151">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/feature/unit.robot" timestamp="1478641666670">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" timestamp="1479223972285">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" timestamp="1479228252251">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_deselect_icon.robot" timestamp="1478712646611">
         <mark key="[" line="69" column="0" />
@@ -287,40 +314,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IHN0cihpdGVzdGVyX3ZlcnNpb24pLA==</text>
+        <text>variables</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICdlbnYnLCBlbnYs</text>
+        <text encoding="base64">ICdkYXRhJyw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">V0VCQ09ORklHOgogIExPQ0FUSU9OOiAvVXNlcnMvU2Nlbi9EZXZlbG9wL1dlYi9XZWIuY29uZmlnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vZGF0YS8ke0VOVklST05NRU5UUy5JVEVTVEVSX1ZFUlNJT059L2xvY2F0b3JzLnlhbWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JHt2ZXJ9ICAgICR7RU5WSVJPTk1FTlRTLklURVNURVJWRVJTSU9OfQo=</text>
+        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBSdW4gS2V5d29yZCBJZiAgICAiJHttb2RlfSI9PSJpb3MiICAgIENsaWNrIEVsZW1lbnQgICBqcXVlcnk9JHtNQVNLSU5HLkNPTlRBSU5FUn06ZXEoJHtudW1iZXJ9KQo=</text>
+        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuLi4gICAgRUxTRSAgICAgIE1vdXNlIE92ZXIgICAganF1ZXJ5PSR7TUFTS0lORy5DT05UQUlORVJ9OmVxKCR7bnVtYmVyfSkK</text>
+        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TWF0aCBTZXNzaW9uIEl0ZW0gMTAgQWRkIEFuZCBSZW1vdmUgTWFza2luZwogIEFkZCBNYXNraW5nCiAgTWFza2luZyBDb3VudCBTaG91bGQgQmUgICAgMQogIFJlbW92ZSBNYXNraW5nICAgIDEKICBNYXNraW5nIENvdW50IFNob3VsZCBCZSAgICAwCg==</text>
+        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBbVGFnc10gICAgaU9TLVNraXAK</text>
+        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
