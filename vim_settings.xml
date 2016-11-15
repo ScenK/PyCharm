@@ -92,7 +92,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" timestamp="1479251867225">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" timestamp="1479253723760">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="55" />
         <mark key="]" line="19" column="58" />
         <mark key="^" line="19" column="58" />
@@ -219,10 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="32" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
-      <jump line="105" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
-      <jump line="118" column="49" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
-      <jump line="33" column="22" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/guideline/guideline_not_move_with_scroll_item.robot" />
       <jump line="454" column="19" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
       <jump line="198" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="158" column="26" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
@@ -319,6 +316,10 @@
       <jump line="584" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="32" column="4" filename="$USER_HOME$/Develop/AutomationTesting/data/env/release/variables.yaml" />
       <jump line="23" column="4" filename="$USER_HOME$/Develop/AutomationTesting/.gitignore" />
+      <jump line="4" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
+      <jump line="70" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
+      <jump line="74" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
