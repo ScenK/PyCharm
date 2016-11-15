@@ -92,6 +92,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" timestamp="1479251031914">
+        <mark key="[" line="25" column="67" />
+        <mark key="]" line="25" column="67" />
+        <mark key="^" line="25" column="66" />
+        <mark key="." line="25" column="67" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478878084069">
         <mark key="'" line="579" column="2" />
         <mark key="[" line="1028" column="0" />
@@ -316,13 +322,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ROOT_FOLDER, 'data', 'env'</text>
+        <text encoding="base64">ICdpbnZlcnNlJw==</text>
       </register>
       <register name="/" type="4">
         <text>`12`12`12</text>
       </register>
-      <register name="0" type="4">
-        <text>ROOT_FOLDER, 'data', 'env'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBXYWl0IEZvciBDb25kaXRpb24gICAgcmV0dXJuICQoJ2JvZHknKS5hdHRyKCdjbGFzcycpID09PSAnaW52ZXJzZScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGF0YS9lbnYvCg==</text>
