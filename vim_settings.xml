@@ -35,10 +35,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/develop/variables.yaml" timestamp="1479228933861">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/develop/variables.yaml" timestamp="1479238240660">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/.gitignore" timestamp="1479238577579">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_icon.robot" timestamp="1478708507816">
         <mark key="[" line="46" column="111" />
@@ -71,7 +77,6 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/MsSqlLibrary.py" timestamp="1479229491603" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_icon.robot" timestamp="1478712651202">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -104,9 +109,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/assets/start-process.js" timestamp="1478797228911">
-        <mark key="'" line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/options.robot" timestamp="1479224015516">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="48" />
@@ -128,11 +130,11 @@
         <mark key="]" line="48" column="105" />
         <mark key="." line="48" column="105" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1479228922171">
-        <mark key="[" line="137" column="32" />
-        <mark key="]" line="137" column="40" />
-        <mark key="^" line="114" column="59" />
-        <mark key="." line="137" column="32" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1479238197393">
+        <mark key="[" line="138" column="20" />
+        <mark key="]" line="138" column="27" />
+        <mark key="^" line="138" column="27" />
+        <mark key="." line="138" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/ReferenceData.json" timestamp="1478798959380">
         <mark key="[" line="22" column="143" />
@@ -211,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="22" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="28" column="32" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="105" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="118" column="49" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
@@ -311,40 +312,41 @@
       <jump line="10" column="0" filename="$USER_HOME$/Develop/QABot/assets/start-process.js" />
       <jump line="584" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="32" column="4" filename="$USER_HOME$/Develop/AutomationTesting/data/env/release/variables.yaml" />
+      <jump line="23" column="4" filename="$USER_HOME$/Develop/AutomationTesting/.gitignore" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>variables</text>
+        <text>ROOT_FOLDER, 'data', 'env'</text>
       </register>
       <register name="/" type="4">
-        <text>123123123</text>
+        <text>env</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICdkYXRhJyw=</text>
+        <text>ROOT_FOLDER, 'data', 'env'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0VCQ09ORklHOgogIExPQ0FUSU9OOiAvVXNlcnMvU2Nlbi9EZXZlbG9wL1dlYi9XZWIuY29uZmlnCg==</text>
+        <text encoding="base64">ZGF0YS9lbnYvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGF0YS9lbnYvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vZGF0YS8ke0VOVklST05NRU5UUy5JVEVTVEVSX1ZFUlNJT059L2xvY2F0b3JzLnlhbWwK</text>
+        <text encoding="base64">ZW52Lwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">ICBNQUNfREFUQV9MT0NBVElPTjogfi8uaVRlc3RlcjMuNgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">ICAgIGVudiA9IFsncmVsZWFzZScsICdkZXZlbG9wJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">V0VCQ09ORklHOgogIExPQ0FUSU9OOiAvVXNlcnMvU2Nlbi9EZXZlbG9wL1dlYi9XZWIuY29uZmlnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vZGF0YS8ke0VOVklST05NRU5UUy5JVEVTVEVSX1ZFUlNJT059L2xvY2F0b3JzLnlhbWwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
@@ -354,13 +356,13 @@
       </register>
     </registers>
     <search>
-      <last-search>123123123</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern>123123123</last-pattern>
+      <last-pattern>env</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -384,6 +386,7 @@
         <entry>masking</entry>
         <entry>conso</entry>
         <entry>123123123</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
