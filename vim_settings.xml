@@ -130,7 +130,7 @@
         <mark key="]" line="48" column="105" />
         <mark key="." line="48" column="105" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1479238197393">
+      <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1479241706919">
         <mark key="[" line="138" column="20" />
         <mark key="]" line="138" column="27" />
         <mark key="^" line="138" column="27" />
@@ -319,7 +319,7 @@
         <text>ROOT_FOLDER, 'data', 'env'</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>`12`12`12</text>
       </register>
       <register name="0" type="4">
         <text>ROOT_FOLDER, 'data', 'env'</text>
@@ -356,9 +356,9 @@
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>`12`12`12</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>`12`12`12</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
@@ -387,6 +387,7 @@
         <entry>conso</entry>
         <entry>123123123</entry>
         <entry>env</entry>
+        <entry>`12`12`12</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
