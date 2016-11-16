@@ -13,6 +13,9 @@
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
+      <file name="/Python Console" timestamp="1479310875794">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_reset_hide_all.robot" timestamp="1478712682726">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -369,12 +372,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Review Screen Should Show Item 1 Answered and Bookmarked</entry>
-        <entry>Enter 3 Words To Item 6 OE Box Should Succeed</entry>
         <entry>count</entry>
         <entry>item 6 shou</entry>
         <entry encoding="base64">XDxjdXJyZW50XD4=</entry>
