@@ -50,7 +50,6 @@
         <mark key="^" line="140" column="31" />
         <mark key="." line="140" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/data-comparison/data-comparison.js" timestamp="1478799070306" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_keyboard.robot" timestamp="1478712666615">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -113,6 +112,7 @@
         <mark key="^" line="22" column="142" />
         <mark key="." line="22" column="143" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/masking.robot" timestamp="1479309871122" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1478707728810">
         <mark key="[" line="50" column="45" />
         <mark key="]" line="50" column="46" />
@@ -304,8 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>current</entry>
-        <entry>feedback</entry>
         <entry>Review Screen Should Show Item 1 Answered and Bookmarked</entry>
         <entry>Enter 3 Words To Item 6 OE Box Should Succeed</entry>
         <entry>count</entry>
