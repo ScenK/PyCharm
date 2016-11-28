@@ -65,12 +65,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480364387566">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480365904494">
         <mark key="'" line="10" column="36" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="82" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+        <mark key="^" line="10" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_movable.robot" timestamp="1478707791111">
         <mark key="[" line="64" column="54" />
@@ -341,7 +341,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICR7aW5zcGVjdH0=</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text>`12`12`12</text>
