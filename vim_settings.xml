@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/AutomationTesting/unit/unit.robot" timestamp="1480364399811">
+        <mark key="[" line="22" column="76" />
+        <mark key="]" line="22" column="81" />
+        <mark key="." line="22" column="81" />
+        <mark key="^" line="22" column="81" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_reset.robot" timestamp="1478709766031">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -59,12 +65,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480360808493">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480364387566">
         <mark key="'" line="10" column="36" />
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="50" column="17" />
-        <mark key="." line="50" column="17" />
-        <mark key="^" line="50" column="18" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="82" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_movable.robot" timestamp="1478707791111">
         <mark key="[" line="64" column="54" />
@@ -97,7 +103,7 @@
         <mark key="]" line="56" column="105" />
         <mark key="." line="56" column="105" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479223282060">
+      <file name="/Dummy.txt" timestamp="1480364704296">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,9 +204,9 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1478877833682">
-        <mark key="[" line="392" column="0" />
-        <mark key="]" line="392" column="0" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1480363014873">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="35" column="29" />
         <mark key="." line="392" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/sketch.robot" timestamp="1479228356151">
@@ -335,40 +341,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">ICAgICR7aW5zcGVjdH0=</text>
       </register>
       <register name="/" type="4">
         <text>`12`12`12</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBbRG9jdW1lbnRhdGlvbl0gICAgQ2hlY2sgaWYgdGhlIHRpbWVvdXQgb3ZlcmxheSBpcyBkaXNwbGF5ZWQKICBFbGVtZW50IFNob3VsZCBCZSBWaXNpYmxlICAgICR7dGltZW91dC5vdmVybGF5fQo=</text>
+        <text encoding="base64">SW5hY3Rpdml0eSBUaW1lb3V0IE92ZXJsYXkgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQgVW50aWwgTWludXRlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHttaW51dGVzfQo=</text>
+        <text encoding="base64">IyAgJHtpc19zaG93bn09ICAgIEV4ZWN1dGUgQXN5bmMgSmF2YXNjcmlwdCAgICB2YXIgaXNTaG93biA9IGZhbHNlOwojICAuLi4gICAgZnVuY3Rpb24gY2hlY2soKSB7CiMgIC4uLiAgICAgIGlzU2hvd24gPSAkKCcjb3ZlcmxheS1pbmFjdGl2aXR5JykuaXMoJzp2aXNpYmxlJyk7CiMgIC4uLiAgICAgIHJldHVybiBpc1Nob3duOwojICAuLi4gICAgfTsKIyAgLi4uICAgIHZhciBpbnRlcnZhbElEID0gd2luZG93LnNldEludGVydmFsKGNoZWNrLCAke2luc3BlY3R9KTsKIyAgLi4uICAgIHdpbmRvdy5zZXRUaW1lb3V0KHdpbmRvdy5jbGVhckludGVydmFsKGludGVydmFsSUQpLCAke3RpbWVvdXR9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3ZlcmxheS1pbmFjdGl2aXR5Cg==</text>
+        <text encoding="base64">ICBTaG91bGQgTm90IEJlIFRydWUgICAgJHtpc19zaG93bn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAke2lzX3Nob3dufT0gICAgRmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Rmlyc3Qga2V5d29yZAogICAgRG8gc29tZXRoaW5nCgpTZWNvbmQga2V5d29yZAogICAgRG8gbW9yZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">SW5hY3Rpdml0eSBUaW1lb3V0IE92ZXJsYXkgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQgVW50aWwgTWludXRlcwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0YS9lbnYvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YS9lbnYvCg==</text>
+        <text encoding="base64">U2V0IEluYWN0aXZpdHkgVGltZW91dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW52Lwo=</text>
+        <text encoding="base64">ICBTZXQgSW5hY3Rpdml0eSBUaW1lb3V0IFRpbWUgICAgMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBNQUNfREFUQV9MT0NBVElPTjogfi8uaVRlc3RlcjMuNgo=</text>
+        <text encoding="base64">U2VsZWN0IFNlc3Npb24gMSBTaG91bGQgQ29udGludWUgdG8gT3B0aW9ucyBwYWdlCiAgRW50ZXIgU2Vzc2lvbiAgICAiU2Vzc2lvbiAxIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -417,10 +423,10 @@
         <entry>495</entry>
         <entry>222</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>bp!</entry>
         <entry>bn!</entry>
         <entry>action FindNext</entry>
         <entry>vs</entry>
+        <entry>bp!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
