@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/AutomationTesting/unit/unit.robot" timestamp="1480364399811">
-        <mark key="[" line="22" column="76" />
-        <mark key="]" line="22" column="81" />
-        <mark key="." line="22" column="81" />
-        <mark key="^" line="22" column="81" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/unit/unit.robot" timestamp="1480366930841">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_reset.robot" timestamp="1478709766031">
         <mark key="[" line="61" column="0" />
@@ -65,12 +65,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480366835538">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480367419428">
         <mark key="'" line="10" column="36" />
-        <mark key="[" line="33" column="47" />
-        <mark key="]" line="33" column="48" />
-        <mark key="." line="33" column="48" />
-        <mark key="^" line="32" column="31" />
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="53" />
+        <mark key="." line="43" column="53" />
+        <mark key="^" line="43" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_movable.robot" timestamp="1478707791111">
         <mark key="[" line="64" column="54" />
@@ -103,7 +103,7 @@
         <mark key="]" line="56" column="105" />
         <mark key="." line="56" column="105" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480366563244">
+      <file name="/Dummy.txt" timestamp="1480367445863">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" timestamp="1479253723760">
@@ -124,6 +124,7 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480367026885" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_hide_all.robot" timestamp="1478709816247">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -339,40 +340,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>time</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>`12`12`12</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIElzIFJlc2V0IAo=</text>
+        <text encoding="base64">ICBJbmFjdGl2aXR5IFRpbWVvdXQgVGltZXIgSXMgUmVzZXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIFNob3VsZCBOb3QgQmUgVXBkYXRlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIFNob3VsZCBCZSBVcGRhdGVkCg==</text>
+        <text encoding="base64">SW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIFNob3VsZCBOb3QgQmUgVXBkYXRlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgJHtpc19zaG93bn09ICAgIEV4ZWN1dGUgQXN5bmMgSmF2YXNjcmlwdCAgICB2YXIgaXNTaG93biA9IGZhbHNlOwojICAuLi4gICAgZnVuY3Rpb24gY2hlY2soKSB7CiMgIC4uLiAgICAgIGlzU2hvd24gPSAkKCcjb3ZlcmxheS1pbmFjdGl2aXR5JykuaXMoJzp2aXNpYmxlJyk7CiMgIC4uLiAgICAgIHJldHVybiBpc1Nob3duOwojICAuLi4gICAgfTsKIyAgLi4uICAgIHZhciBpbnRlcnZhbElEID0gd2luZG93LnNldEludGVydmFsKGNoZWNrLCAke2luc3BlY3R9KTsKIyAgLi4uICAgIHdpbmRvdy5zZXRUaW1lb3V0KHdpbmRvdy5jbGVhckludGVydmFsKGludGVydmFsSUQpLCAke3RpbWVvdXR9KTsK</text>
+        <text encoding="base64">SW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIFNob3VsZCBCZSBVcGRhdGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTaG91bGQgTm90IEJlIFRydWUgICAgJHtpc19zaG93bn0K</text>
+        <text encoding="base64">IyAgJHtpc19zaG93bn09ICAgIEV4ZWN1dGUgQXN5bmMgSmF2YXNjcmlwdCAgICB2YXIgaXNTaG93biA9IGZhbHNlOwojICAuLi4gICAgZnVuY3Rpb24gY2hlY2soKSB7CiMgIC4uLiAgICAgIGlzU2hvd24gPSAkKCcjb3ZlcmxheS1pbmFjdGl2aXR5JykuaXMoJzp2aXNpYmxlJyk7CiMgIC4uLiAgICAgIHJldHVybiBpc1Nob3duOwojICAuLi4gICAgfTsKIyAgLi4uICAgIHZhciBpbnRlcnZhbElEID0gd2luZG93LnNldEludGVydmFsKGNoZWNrLCAke2luc3BlY3R9KTsKIyAgLi4uICAgIHdpbmRvdy5zZXRUaW1lb3V0KHdpbmRvdy5jbGVhckludGVydmFsKGludGVydmFsSUQpLCAke3RpbWVvdXR9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAke2lzX3Nob3dufT0gICAgRmFsc2UK</text>
+        <text encoding="base64">ICBTaG91bGQgTm90IEJlIFRydWUgICAgJHtpc19zaG93bn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAke2lzX3Nob3dufT0gICAgRmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW5hY3Rpdml0eSBUaW1lb3V0IE92ZXJsYXkgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQgVW50aWwgTWludXRlcwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">SW5hY3Rpdml0eSBUaW1lb3V0IE92ZXJsYXkgU2hvdWxkIE5vdCBCZSBEaXNwbGF5ZWQgVW50aWwgTWludXRlcwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">U2V0IEluYWN0aXZpdHkgVGltZW91dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
