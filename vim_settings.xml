@@ -103,11 +103,10 @@
         <mark key="." line="19" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" timestamp="1478878084069">
-        <mark key="'" line="579" column="2" />
-        <mark key="[" line="1028" column="0" />
-        <mark key="]" line="1028" column="0" />
-        <mark key="^" line="1028" column="8" />
-        <mark key="." line="1028" column="0" />
+        <mark key="[" line="1038" column="0" />
+        <mark key="]" line="1038" column="0" />
+        <mark key="^" line="1038" column="8" />
+        <mark key="." line="1038" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_pause_relogin.robot" timestamp="1478712677102">
         <mark key="[" line="77" column="0" />
@@ -153,10 +152,9 @@
         <mark key="." line="22" column="143" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/masking.robot" timestamp="1478878317892">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="94" column="12" />
-        <mark key="." line="145" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/layout/qabot.robot" timestamp="1479228303453">
         <mark key="[" line="1" column="0" />
