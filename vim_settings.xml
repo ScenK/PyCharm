@@ -19,7 +19,7 @@
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1480372848857">
+      <file name="/a.dummy" timestamp="1480373787408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -96,12 +96,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480372080812">
-        <mark key="'" line="40" column="50" />
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480373781261">
+        <mark key="'" line="43" column="50" />
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/offline.robot" timestamp="1479228262612">
         <mark key="[" line="1" column="0" />
@@ -120,6 +120,7 @@
         <mark key="^" line="138" column="27" />
         <mark key="." line="138" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/navigation/timeout.robot" timestamp="1480373759787" />
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/layout/qabot.robot" timestamp="1479228303453">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="47" />
@@ -372,34 +373,34 @@
         <text>1231231</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBMb2dpbiAgICBvcGVyYXRpb25hbAogIExvZ2luIFNob3VsZCBTdWNjZWVkCg==</text>
+        <text encoding="base64">IyAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAnMTQ2NDMyNTgwNycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBqCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSBBZ2FpbiBTaG91bGQgUmVzZXQgVGltZXIKICBFbnRlciBTZXNzaW9uICAgICdNYXRoIFNlc3Npb24nCiAgSW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIElzIFJlc2V0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">RW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSBBZ2FpbiBTaG91bGQgUmVzZXQgVGltZXIKICBFbnRlciBTZXNzaW9uICAgICdNYXRoIFNlc3Npb24nCiAgSW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIElzIFJlc2V0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBFbnRlciBTZXNzaW9uICAgICdNYXRoIFNlc3Npb24nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
