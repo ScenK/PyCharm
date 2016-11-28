@@ -59,6 +59,13 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480360808493">
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="17" />
+        <mark key="." line="50" column="17" />
+        <mark key="^" line="50" column="18" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_movable.robot" timestamp="1478707791111">
         <mark key="[" line="64" column="54" />
         <mark key="]" line="64" column="55" />
@@ -172,6 +179,10 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/pager.robot" timestamp="1480354656803">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" timestamp="1478725540186">
         <mark key="[" line="84" column="41" />
         <mark key="]" line="84" column="47" />
@@ -221,9 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="19" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" />
-      <jump line="198" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
-      <jump line="158" column="26" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="42" column="27" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="621" column="12" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="25" column="18" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
@@ -321,43 +329,46 @@
       <jump line="70" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
       <jump line="74" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
+      <jump line="37" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
+      <jump line="45" column="19" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
+      <jump line="10" column="36" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICdpbnZlcnNlJw==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>`12`12`12</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBXYWl0IEZvciBDb25kaXRpb24gICAgcmV0dXJuICQoJ2JvZHknKS5hdHRyKCdjbGFzcycpID09PSAnaW52ZXJzZScK</text>
+        <text encoding="base64">ICBbRG9jdW1lbnRhdGlvbl0gICAgQ2hlY2sgaWYgdGhlIHRpbWVvdXQgb3ZlcmxheSBpcyBkaXNwbGF5ZWQKICBFbGVtZW50IFNob3VsZCBCZSBWaXNpYmxlICAgICR7dGltZW91dC5vdmVybGF5fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF0YS9lbnYvCg==</text>
+        <text encoding="base64">JHttaW51dGVzfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF0YS9lbnYvCg==</text>
+        <text encoding="base64">b3ZlcmxheS1pbmFjdGl2aXR5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW52Lwo=</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBNQUNfREFUQV9MT0NBVElPTjogfi8uaVRlc3RlcjMuNgo=</text>
+        <text encoding="base64">Rmlyc3Qga2V5d29yZAogICAgRG8gc29tZXRoaW5nCgpTZWNvbmQga2V5d29yZAogICAgRG8gbW9yZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudiA9IFsncmVsZWFzZScsICdkZXZlbG9wJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V0VCQ09ORklHOgogIExPQ0FUSU9OOiAvVXNlcnMvU2Nlbi9EZXZlbG9wL1dlYi9XZWIuY29uZmlnCg==</text>
+        <text encoding="base64">ZGF0YS9lbnYvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGF0YS9lbnYvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vZGF0YS8ke0VOVklST05NRU5UUy5JVEVTVEVSX1ZFUlNJT059L2xvY2F0b3JzLnlhbWwK</text>
+        <text encoding="base64">ZW52Lwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VmFyaWFibGVzICAgLi4vLi4vdmFyaWFibGVzLnlhbWwK</text>
+        <text encoding="base64">ICBNQUNfREFUQV9MT0NBVElPTjogfi8uaVRlc3RlcjMuNgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
