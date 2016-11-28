@@ -65,11 +65,11 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480367419428">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480367505956">
         <mark key="'" line="10" column="36" />
-        <mark key="[" line="43" column="50" />
-        <mark key="]" line="43" column="53" />
-        <mark key="." line="43" column="53" />
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="50" column="45" />
+        <mark key="." line="50" column="45" />
         <mark key="^" line="43" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_movable.robot" timestamp="1478707791111">
@@ -340,7 +340,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>`12`12`12</text>
@@ -422,10 +422,10 @@
         <entry>495</entry>
         <entry>222</entry>
         <entry>CtrlPBuffer</entry>
-        <entry>bn!</entry>
         <entry>action FindNext</entry>
         <entry>vs</entry>
         <entry>bp!</entry>
+        <entry>bn!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
