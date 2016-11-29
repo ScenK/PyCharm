@@ -40,7 +40,7 @@
         <mark key="]" line="46" column="112" />
         <mark key="." line="46" column="112" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480440060120">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480441518002">
         <mark key="'" line="10" column="36" />
         <mark key="[" line="50" column="45" />
         <mark key="]" line="50" column="45" />
@@ -97,12 +97,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480440347239">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480441585464">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="43" column="45" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="43" column="46" />
-        <mark key="^" line="43" column="65" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/offline.robot" timestamp="1479228262612">
         <mark key="[" line="1" column="0" />
@@ -368,40 +368,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1231231</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UHJvY3RvciBQYXNzd29yZCBTdWJtaXQK</text>
+        <text encoding="base64">U2Vzc2lvbiBBY2Nlc3MgQ29kZSBTdWJtaXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U2Vzc2lvbiBFbnRlciBTaG91bGQgUmVzZXQgVGltZXIgICAgICAgICAgICAgICAgIFNlc3Npb24gRW50ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UHJvY3RvciBQYXNzd29yZCBQcm9tcHQgU2hvdWxkIFJlc2V0IFRpbWVyICAgICAgIFByb2N0b3IgUGFzc3dvcmQgUHJvbXB0Cg==</text>
+        <text encoding="base64">ICBTZXQgVGltZW91dCBUaW1lIGFuZCBMb2dpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UHJvY3RvciBQYXNzd29yZCBQcm9tcHQKICBTZXNzaW9uIEFjY2VzcyBDb2RlCgo=</text>
+        <text encoding="base64">ICBTZXNzaW9uIEFjY2VzcyBDb2RlIFN1Ym1pdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U2Vzc2lvbiBFbnRlcgogIFByb2N0b3IgUGFzc3dvcmQgU3VibWl0Cgo=</text>
+        <text encoding="base64">U2Vzc2lvbiBFbnRlciBTaG91bGQgUmVzZXQgVGltZXIgICAgICAgICAgICAgICAgIFNlc3Npb24gRW50ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UHJvY3RvciBQYXNzd29yZCBQcm9tcHQgU2hvdWxkIFJlc2V0IFRpbWVyICAgICAgIFByb2N0b3IgUGFzc3dvcmQgUHJvbXB0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I0NhbmNlbCBFbnRlciBTZXNzaW9uIEFjY2VzcyBDb2RlIFNob3VsZCBSZXNldCBUaW1lcgojICBDaG9vc2UgU2hvdyBTZXNzaW9ucyBMaXN0CiMgIEluYWN0aXZpdHkgVGltZW91dCBUaW1lciBJcyBSZXNldAojICBJbmFjdGl2aXR5IFRpbWVvdXQgT3ZlcmxheSBTaG91bGQgTm90IERpc3BsYXkgVW50aWwgTWludXRlcyAgICAxIG1pbiAzMCBzCiMKI0VudGVyIFNlc3Npb24gU2hvdWxkIFJlc2V0IFRpbWVyCiMgIEVudGVyIFNlc3Npb24gICAgJ01hdGggU2Vzc2lvbicKIyAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAnMTQ2NDMyNTgwNycKIyAgSW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIElzIFJlc2V0CiMgIEluYWN0aXZpdHkgVGltZW91dCBPdmVybGF5IFNob3VsZCBOb3QgRGlzcGxheSBVbnRpbCBNaW51dGVzICAgIDEgbWluIDMwIHMK</text>
+        <text encoding="base64">UHJvY3RvciBQYXNzd29yZCBQcm9tcHQKICBTZXNzaW9uIEFjY2VzcyBDb2RlCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">U2Vzc2lvbiBFbnRlcgogIFByb2N0b3IgUGFzc3dvcmQgU3VibWl0Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0NhbmNlbCBFbnRlciBTZXNzaW9uIEFjY2VzcyBDb2RlIFNob3VsZCBSZXNldCBUaW1lcgojICBDaG9vc2UgU2hvdyBTZXNzaW9ucyBMaXN0CiMgIEluYWN0aXZpdHkgVGltZW91dCBUaW1lciBJcyBSZXNldAojICBJbmFjdGl2aXR5IFRpbWVvdXQgT3ZlcmxheSBTaG91bGQgTm90IERpc3BsYXkgVW50aWwgTWludXRlcyAgICAxIG1pbiAzMCBzCiMKI0VudGVyIFNlc3Npb24gU2hvdWxkIFJlc2V0IFRpbWVyCiMgIEVudGVyIFNlc3Npb24gICAgJ01hdGggU2Vzc2lvbicKIyAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAnMTQ2NDMyNTgwNycKIyAgSW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIElzIFJlc2V0CiMgIEluYWN0aXZpdHkgVGltZW91dCBPdmVybGF5IFNob3VsZCBOb3QgRGlzcGxheSBVbnRpbCBNaW51dGVzICAgIDEgbWluIDMwIHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
