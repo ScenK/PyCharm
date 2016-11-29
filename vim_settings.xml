@@ -84,12 +84,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480450024241">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="135" column="63" />
-        <mark key="]" line="135" column="63" />
-        <mark key="." line="135" column="63" />
-        <mark key="^" line="135" column="62" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480451343629">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="113" column="31" />
+        <mark key="]" line="114" column="25" />
+        <mark key="^" line="114" column="25" />
+        <mark key="." line="114" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/offline.robot" timestamp="1479228262612">
         <mark key="[" line="1" column="0" />
@@ -253,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="41" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="118" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="19" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
       <jump line="92" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
@@ -353,16 +352,17 @@
       <jump line="34" column="22" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="76" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="15" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
+      <jump line="110" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>D</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>1231231</text>
       </register>
-      <register name="0" type="4">
-        <text>Masking Disable</text>
+      <register name="0" type="2">
+        <text encoding="base64">U2Vzc2lvbiBBY2NvbW1vZGF0aW9uIE9wdGlvbnMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ClJldmVyc2UgQ29udHJhc3QgRW5hYmxlCiAgU2Vzc2lvbiBBY2Nlc3MgQ29kZSBTdWJtaXQK</text>
