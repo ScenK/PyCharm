@@ -97,12 +97,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480441585464">
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480442229493">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="40" column="25" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/offline.robot" timestamp="1479228262612">
         <mark key="[" line="1" column="0" />
@@ -374,7 +374,7 @@
         <text>1231231</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U2Vzc2lvbiBBY2Nlc3MgQ29kZSBTdWJtaXQK</text>
+        <text encoding="base64">ICBTZXQgSW5hY3Rpdml0eSBUaW1lb3V0IE1pbnV0ZXMgICAgMgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
