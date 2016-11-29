@@ -40,7 +40,7 @@
         <mark key="]" line="46" column="112" />
         <mark key="." line="46" column="112" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480372209514">
+      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" timestamp="1480440060120">
         <mark key="'" line="10" column="36" />
         <mark key="[" line="50" column="45" />
         <mark key="]" line="50" column="45" />
@@ -97,11 +97,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480436450945">
-        <mark key="[" line="69" column="37" />
-        <mark key="]" line="74" column="48" />
-        <mark key="^" line="74" column="48" />
-        <mark key="." line="74" column="48" />
+      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480440347239">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="43" column="45" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="46" />
+        <mark key="^" line="43" column="65" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/offline.robot" timestamp="1479228262612">
         <mark key="[" line="1" column="0" />
@@ -264,7 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" />
       <jump line="24" column="41" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="118" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="19" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/utils.robot" />
@@ -364,10 +364,11 @@
       <jump line="37" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="34" column="22" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="76" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
+      <jump line="15" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>1231231</text>
@@ -376,31 +377,31 @@
         <text encoding="base64">UHJvY3RvciBQYXNzd29yZCBTdWJtaXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I0NhbmNlbCBFbnRlciBTZXNzaW9uIEFjY2VzcyBDb2RlIFNob3VsZCBSZXNldCBUaW1lcgojICBDaG9vc2UgU2hvdyBTZXNzaW9ucyBMaXN0CiMgIEluYWN0aXZpdHkgVGltZW91dCBUaW1lciBJcyBSZXNldAojICBJbmFjdGl2aXR5IFRpbWVvdXQgT3ZlcmxheSBTaG91bGQgTm90IERpc3BsYXkgVW50aWwgTWludXRlcyAgICAxIG1pbiAzMCBzCiMKI0VudGVyIFNlc3Npb24gU2hvdWxkIFJlc2V0IFRpbWVyCiMgIEVudGVyIFNlc3Npb24gICAgJ01hdGggU2Vzc2lvbicKIyAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAnMTQ2NDMyNTgwNycKIyAgSW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIElzIFJlc2V0CiMgIEluYWN0aXZpdHkgVGltZW91dCBPdmVybGF5IFNob3VsZCBOb3QgRGlzcGxheSBVbnRpbCBNaW51dGVzICAgIDEgbWluIDMwIHMK</text>
+        <text encoding="base64">U2Vzc2lvbiBFbnRlciBTaG91bGQgUmVzZXQgVGltZXIgICAgICAgICAgICAgICAgIFNlc3Npb24gRW50ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">UHJvY3RvciBQYXNzd29yZCBQcm9tcHQgU2hvdWxkIFJlc2V0IFRpbWVyICAgICAgIFByb2N0b3IgUGFzc3dvcmQgUHJvbXB0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">UHJvY3RvciBQYXNzd29yZCBQcm9tcHQKICBTZXNzaW9uIEFjY2VzcyBDb2RlCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2Vzc2lvbiBFbnRlcgogIFByb2N0b3IgUGFzc3dvcmQgU3VibWl0Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U3VpdGUgVGVhcmRvd24gICAgQ2xvc2UgaVRlc3RlciBBbmQgQ2xlYXIgU2Vzc2lvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U3VpdGUgU2V0dXAgICAgTGF1bmNoIGlUZXN0ZXIgQW5kIFNldCBCYXNpYyBFbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">I0NhbmNlbCBFbnRlciBTZXNzaW9uIEFjY2VzcyBDb2RlIFNob3VsZCBSZXNldCBUaW1lcgojICBDaG9vc2UgU2hvdyBTZXNzaW9ucyBMaXN0CiMgIEluYWN0aXZpdHkgVGltZW91dCBUaW1lciBJcyBSZXNldAojICBJbmFjdGl2aXR5IFRpbWVvdXQgT3ZlcmxheSBTaG91bGQgTm90IERpc3BsYXkgVW50aWwgTWludXRlcyAgICAxIG1pbiAzMCBzCiMKI0VudGVyIFNlc3Npb24gU2hvdWxkIFJlc2V0IFRpbWVyCiMgIEVudGVyIFNlc3Npb24gICAgJ01hdGggU2Vzc2lvbicKIyAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAnMTQ2NDMyNTgwNycKIyAgSW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIElzIFJlc2V0CiMgIEluYWN0aXZpdHkgVGltZW91dCBPdmVybGF5IFNob3VsZCBOb3QgRGlzcGxheSBVbnRpbCBNaW51dGVzICAgIDEgbWluIDMwIHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTZXNzaW9uIENob29zZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U2Vzc2lvbiBDaG9vc2UgU2hvdWxkIFJlc2V0IFRpbWVyCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTZXNzaW9uIENob29zZQogIEluYWN0aXZpdHkgVGltZW91dCBUaW1lciBJcyBSZXNldAoKICBMb2cgVG8gQ29uc29sZSAgIkJlIGluYWN0aXZlIHZlcmlmeSBkb2VzIG5vdCB0aW1lIG91dCB1bnRpbCB0aW1lb3V0IGhhcyBlbGFwc2VkIgogIEluYWN0aXZpdHkgVGltZW91dCBPdmVybGF5IFNob3VsZCBOb3QgRGlzcGxheSBVbnRpbCBNaW51dGVzICAgIDEgbWluIDMwIHMKCiAgTG9nIFRvIENvbnNvbGUgICAiV2hlbiB0aW1lb3V0IG9jY3VycywgdGltZW91dCBvdmVybGF5IHNob3VsZCBwb3AgdXAiCiAgU2xlZXAgICAgNDAKICBJbmFjdGl2aXR5IFRpbWVvdXQgT3ZlcmxheSBTaG91bGQgRGlzcGxheQoKICBMb2cgVG8gQ29uc29sZSAgICJDbGljayBleGl0IGJ1dHRvbiwgc3R1ZGVudCBzaG91bGQgYmUgbG9nZ2VkIG91dCBvZiBhbmQgc2hvdWxkIGJlIHRha2VuIGJhY2sgdG8gbG9naW4gc2NyZWVuIgogIEV4aXQgRnJvbSBJbmFjdGl2aXR5IFRpbWVvdXQgT3ZlcmxheQogIExvZ2luIFBhZ2UgU2hvdWxkIFNob3cgVXAKCiAgTG9nIFRvIENvbnNvbGUgICAgIldoZW4gc3R1ZGVudCBsb2dzIGJhY2ssIG5vIHByb2N0b3IgcGFzc3dvcmQgaXMgcmVxdWlyZWQgdG8gZW50ZXIgc2Vzc2lvbnMiCiAgTG9naW4gICAgb3BlcmF0aW9uYWwgICAgZmFsc2UKICBFbnRlciBTZXNzaW9uICAgICdNYXRoIFNlc3Npb24nCiAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAnMTQ2NDMyNTgwNycKICBQYWdlIFNob3VsZCBDb250YWluICAgIE9wdGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
