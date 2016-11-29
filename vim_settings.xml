@@ -194,8 +194,10 @@
         <mark key="." line="56" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/data/keywords_and_events.yaml" timestamp="1480368941150" />
-      <file name="/Dummy.txt" timestamp="1480367532869">
+      <file name="/Dummy.txt" timestamp="1480374102324">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_hide_all.robot" timestamp="1478709816247">
         <mark key="[" line="57" column="0" />
@@ -376,31 +378,31 @@
         <text encoding="base64">IyAgRW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSAgICAnMTQ2NDMyNTgwNycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SUFULTU1NyBuYW1pbmcgY2hhbmdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBqCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSBBZ2FpbiBTaG91bGQgUmVzZXQgVGltZXIKICBFbnRlciBTZXNzaW9uICAgICdNYXRoIFNlc3Npb24nCiAgSW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIElzIFJlc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RW50ZXIgU2Vzc2lvbiBBY2Nlc3MgQ29kZSBBZ2FpbiBTaG91bGQgUmVzZXQgVGltZXIKICBFbnRlciBTZXNzaW9uICAgICdNYXRoIFNlc3Npb24nCiAgSW5hY3Rpdml0eSBUaW1lb3V0IFRpbWVyIElzIFJlc2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
