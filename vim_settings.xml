@@ -17,6 +17,7 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/release/variables.yaml" timestamp="1480718857467" />
       <file name="/a.dummy" timestamp="1480373787408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -82,7 +83,6 @@
         <mark key="^" line="1038" column="8" />
         <mark key="." line="1038" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/xplay/action_chains.robot" timestamp="1480432979020" />
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/session.robot" timestamp="1480453769928">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="20" />
@@ -201,7 +201,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/develop/users.yaml" timestamp="1480447573860" />
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_hide_all.robot" timestamp="1478709816247">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -418,11 +417,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxpbm5lcl9vZmZzZXRcPg==</entry>
         <entry>_get_text</entry>
         <entry>sti</entry>
