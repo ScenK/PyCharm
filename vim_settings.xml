@@ -17,7 +17,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/release/variables.yaml" timestamp="1481040598816" />
       <file name="/a.dummy" timestamp="1480373787408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -75,6 +74,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="47" />
         <mark key="." line="56" column="105" />
+      </file>
+      <file name="$USER_HOME$/Develop/Dev_Blog3/.gitignore" timestamp="1481909832687">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" timestamp="1479253723760">
         <mark key="'" line="0" column="0" />
@@ -386,31 +390,31 @@
         <text encoding="base64">UmV0dXJuIFRvIFNlc3Npb24gRmVlZGJhY2sK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBTZXNzaW9uIERpcmVjdGlvbnMK</text>
+        <text encoding="base64">LnZzY29kZS8KZGV2X2Jsb2cvCnJlcXVpcmVtZW50cy50eHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBKdW1wIFRvIExhc3QgSXRlbQo=</text>
+        <text encoding="base64">ICBTZXNzaW9uIERpcmVjdGlvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBKdW1wIFRvIExhc3QgSXRlbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ClJldmVyc2UgQ29udHJhc3QgRW5hYmxlCiAgU2Vzc2lvbiBBY2Nlc3MgQ29kZSBTdWJtaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ClJldmVyc2UgQ29udHJhc3QgRW5hYmxlCiAgU2Vzc2lvbiBBY2Nlc3MgQ29kZSBTdWJtaXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmV2ZXJzZSBDb250cmFzdCBEaXNhYmxlCiAgU2Vzc2lvbiBBY2Nlc3MgQ29kZSBTdWJtaXQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmV2ZXJzZSBDb250cmFzdCBEaXNhYmxlCiAgU2Vzc2lvbiBBY2Nlc3MgQ29kZSBTdWJtaXQKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTbGVlcCAgICAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTbGVlcCAgICAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
