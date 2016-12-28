@@ -3,7 +3,7 @@
     <property name="created">2016-12-28T09:37:37</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2016-12-28T11:13:29</property>
+    <property name="modified">2016-12-28T13:50:28</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -69,6 +69,11 @@
       <value>
         <option name="FOREGROUND" value="bbb529" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ffd998" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -13872,12 +13877,12 @@
     </option>
     <option name="VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f77669" />
+        <option name="FOREGROUND" value="4a91f7" />
       </value>
     </option>
     <option name="VARIABLE_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="f77669" />
+        <option name="FOREGROUND" value="4a91f7" />
       </value>
     </option>
     <option name="VELOCITY_KEYWORD">
