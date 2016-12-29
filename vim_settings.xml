@@ -204,14 +204,17 @@
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/tests_events/events.yaml" timestamp="1480369301809">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/feedback.robot" timestamp="1480453968492">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="25" />
         <mark key="." line="140" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/libraries/MsSqlLibrary.py" timestamp="1483033142567">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1480374102324">
         <mark key="[" line="0" column="0" />
