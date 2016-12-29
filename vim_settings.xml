@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Statical-iTester/resources/items/multiple_choice_by_interaction.robot" timestamp="1483041041771">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="64" />
+        <mark key="." line="3" column="64" />
+        <mark key="^" line="3" column="64" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1478879500658">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="22" />
@@ -12,10 +18,6 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/finish.robot" timestamp="1480453422339">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1482944509521">
         <mark key="[" line="0" column="0" />
@@ -56,6 +58,12 @@
         <mark key="^" line="125" column="62" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/160944109/_mssql.py" timestamp="1483032988861" />
+      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/data/env/develop/variables.yaml.sample" timestamp="1483040549093">
+        <mark key="'" line="12" column="33" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_keyboard.robot" timestamp="1478712666615">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -88,10 +96,6 @@
         <mark key="]" line="1038" column="0" />
         <mark key="^" line="1038" column="8" />
         <mark key="." line="1038" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/session.robot" timestamp="1480453769928">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_pause_relogin.robot" timestamp="1478712677102">
         <mark key="[" line="77" column="0" />
@@ -129,6 +133,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="28" column="52" />
       </file>
+      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/helpers/utils.robot" timestamp="1483040779261">
+        <mark key="'" line="128" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="131" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/layout/qabot.robot" timestamp="1479228303453">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="47" />
@@ -165,10 +175,6 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/network/offline_pause_operational_answer_saved.robot" timestamp="1480367697902">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="52" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/unit/unit.robot" timestamp="1480369690132">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="21" />
@@ -189,6 +195,17 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/Develop/Statical-iTester/resources/helpers/utils.robot" timestamp="1483041005918">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="77" />
+        <mark key="." line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+      </file>
+      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/items/multiple_choice_by_interaction.robot" timestamp="1483040957532">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/items/open_ended.robot" timestamp="1482178435377">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -199,16 +216,22 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" timestamp="1480453513134">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="14" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/feedback.robot" timestamp="1480453968492">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="25" />
         <mark key="." line="140" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/data/env/develop/variables.yaml" timestamp="1483040534966">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/items/access.robot" timestamp="1483040712581">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/libraries/MsSqlLibrary.py" timestamp="1483033142567">
         <mark key="[" line="6" column="0" />
@@ -220,6 +243,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/helpers/initialize.robot" timestamp="1483040774707">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_hide_all.robot" timestamp="1478709816247">
         <mark key="[" line="57" column="0" />
@@ -247,22 +275,16 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/03_operational_test.robot" timestamp="1480369544129">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="27" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" timestamp="1480371887274">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="24" />
+      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/data/env/release/variables.yaml.sample" timestamp="1483040453240">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_show_all.robot" timestamp="1478712716553">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/pager.robot" timestamp="1480354656803">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/sketch.robot" timestamp="1479228356151">
         <mark key="[" line="2" column="0" />
@@ -288,11 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="5" filename="$USER_HOME$/Develop/AutomationTesting/variables.yaml" />
-      <jump line="46" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_pause_relogin.robot" />
-      <jump line="39" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" />
-      <jump line="128" column="62" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" />
-      <jump line="83" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/color_chooser.robot" />
       <jump line="13" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
       <jump line="8" column="35" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_changing_on_option_page.robot" />
       <jump line="260" column="11" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/03_practice_test.robot" />
@@ -388,56 +405,61 @@
       <jump line="84" column="0" filename="$USER_HOME$/Develop/itester-core/.gitignore" />
       <jump line="74" column="0" filename="$USER_HOME$/Develop/itester-core/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/itester-core/.gitignore" />
+      <jump line="7" column="50" filename="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/helpers/utils.robot" />
+      <jump line="126" column="26" filename="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/helpers/utils.robot" />
+      <jump line="128" column="21" filename="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/helpers/utils.robot" />
+      <jump line="10" column="2" filename="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/data/env/release/variables.yaml.sample" />
+      <jump line="12" column="33" filename="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/data/env/develop/variables.yaml.sample" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>helpers/utils</text>
       </register>
       <register name="/" type="4">
-        <text>exit</text>
+        <text>1231231</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UmV0dXJuIFRvIFNlc3Npb24gRmVlZGJhY2sK</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vbGlicmFyaWVzL0NvcmUtaVRlc3Rlci1TdHVkZW50L3Jlc291cmNlcy9oZWxwZXJzL3V0aWxzLnJvYm90Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW52Lwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">RU5WLwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CkFsbCBBbnN3ZXJzIFNob3VsZCBOb3QgQmUgU2VsZWN0YWJsZQogIFtEb2N1bWVudGF0aW9uXSAgICBWZXJpZnkgYWxsIGFuc3dlciBvZiBvbmUgaW50ZXJhY3Rpb24gc2hvdWxkIGJlIHNlbGVjdGFibGUKICBbQXJndW1lbnRzXSAgICAke2ludGVyYWN0aW9uX251bX0KICAke2Fuc3dlcnNfbGlzdH09ICAgICBHZXQgQW5zd2VycyBMaXN0ICAgICR7aW50ZXJhY3Rpb25fbnVtfQogIDpGb3IgICAgJHtsYWJlbH0gICAgSU4gICAgQHthbnN3ZXJzX2xpc3R9CiAgXCAgICBUb2dnbGUgQW5zd2VyIEJ1YmJsZSAgICAke2ludGVyYWN0aW9uX251bX0gICAgJHtsYWJlbH0KICBcICAgIEFuc3dlciBCdWJibGUgU2hvdWxkIE5vdCBCZSBTZWxlY3RlZCAgICAke2ludGVyYWN0aW9uX251bX0gICAgJHtsYWJlbH0KCkFsbCBBbnN3ZXJzIFNob3VsZCBCZSBTZWxlY3RhYmxlCiAgW0RvY3VtZW50YXRpb25dICAgIFZlcmlmeSBhbGwgYW5zd2VyIG9mIG9uZSBpbnRlcmFjdGlvbiBzaG91bGQgYmUgc2VsZWN0YWJsZQogIFtBcmd1bWVudHNdICAgICR7aW50ZXJhY3Rpb25fbnVtfQogICR7YW5zd2Vyc19saXN0fT0gICAgIEdldCBBbnN3ZXJzIExpc3QgICAgJHtpbnRlcmFjdGlvbl9udW19CiAgOkZvciAgICAke2xhYmVsfSAgICBJTiAgICBAe2Fuc3dlcnNfbGlzdH0KICBcICAgIFRvZ2dsZSBBbnN3ZXIgQnViYmxlICAgICR7aW50ZXJhY3Rpb25fbnVtfSAgICAke2xhYmVsfQogIFwgICAgQW5zd2VyIEJ1YmJsZSBTaG91bGQgQmUgU2VsZWN0ZWQgICAgJHtpbnRlcmFjdGlvbl9udW19ICAgICR7bGFiZWx9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">TGlicmFyeSAgICBTdHJpbmcK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBtb2RpZnlfY29uZmlndXJhdGlvbihjb25maWdfZmlsZSwga2V5LCB2YWx1ZSk6CiAgICAgICAgIiIiTW9kaWZ5IHRoZSBjb25maWd1cmF0aW9uIGZpbGUgZm9yIHRoZSBnaXZlbiBrZXkgd2l0aCB0aGUgZ2l2ZW4gdmFsdWUuCgogICAgICAgIFRoaXMgbWV0aG9kIHdpbGwgcHJvdmlkZSBpbnRlcmZhY2UgdG8gcmVhZCBhbmQgcmV0dXJuIGNvbmZpZyB2YWx1ZSB0bwogICAgICAgIHJvYm90IGZyYW1ld29yayB0ZXN0IGNhc2UgdG8gbW9kaWZ5IHZhbHVlcyBpbiB0aGUgd2ViLmNvbmZpZwoKICAgICAgICBFeGFtcGxlczoKICAgICAgICB8IE1vZGlmeSBDb25maWd1cmF0aW9uIHwgL1dlYi9XZWIuY29uZmlnIHwgd2VicGFnZXM6VmVyc2lvbiB8IDIuMi4yLjIgfAogICAgICAgICIiIgogICAgICAgIHRyZWUgPSBldC5wYXJzZShjb25maWdfZmlsZSkKICAgICAgICByb290ID0gdHJlZS5nZXRyb290KCkKICAgICAgICBpdGVtID0gcm9vdC5maW5kYWxsKCIuLy8qW0BrZXk9JyVzJ10iICUga2V5KQoKICAgICAgICBpZiBsZW4oaXRlbSkgPiAwOgogICAgICAgICAgICAjIGJhY2t1cCBvbGQgZmlsZQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oY29uZmlnX2ZpbGUgKyAiLmJhayIpOgogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgICAgICAgICBzaHV0aWwuY29weShjb25maWdfZmlsZSwgY29uZmlnX2ZpbGUgKyAnLmJhaycpCgogICAgICAgICAgICBpdGVtWzBdLnNldCgndmFsdWUnLCB2YWx1ZSkKICAgICAgICAgICAgdHJlZS53cml0ZShjb25maWdfZmlsZSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgcmV2ZXJ0X2NvbmZpZ3VyYXRpb24oY29uZmlnX2ZpbGUpOgogICAgICAgICIiIlJlc3RvcmUgdGhlIGNvbmZpZ3VyYXRpb24gZmlsZSBiYWNrIHRvIG9yaWdpbmFsLgoKICAgICAgICBUaGlzIG1ldGhvZCB3aWxsIHByb3ZpZGUgaW50ZXJmYWNlIHRvIHJlc3RvcmUgY29uZmlnLmluaSBmaWxlIGZyb20KICAgICAgICByb2JvdGZyYW1ld29yayBrZXl3b3JkLgoKICAgICAgICBFeGFtcGxlOgogICAgICAgIHwgUmV2ZXJ0IENvbmZpZ3VyYXRpb24gfAogICAgICAgICIiIgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBvcGVuKGNvbmZpZ19maWxlICsgIi5iYWsiKToKICAgICAgICAgICAgICAgIHNodXRpbC5tb3ZlKGNvbmZpZ19maWxlICsgJy5iYWsnLCBjb25maWdfZmlsZSkKICAgICAgICBleGNlcHQgSU9FcnJvcjoKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBtb2RpZnlfY29uZmlndXJhdGlvbihjb25maWdfZmlsZSwga2V5LCB2YWx1ZSk6CiAgICAgICAgIiIiTW9kaWZ5IHRoZSBjb25maWd1cmF0aW9uIGZpbGUgZm9yIHRoZSBnaXZlbiBrZXkgd2l0aCB0aGUgZ2l2ZW4gdmFsdWUuCgogICAgICAgIFRoaXMgbWV0aG9kIHdpbGwgcHJvdmlkZSBpbnRlcmZhY2UgdG8gcmVhZCBhbmQgcmV0dXJuIGNvbmZpZyB2YWx1ZSB0bwogICAgICAgIHJvYm90IGZyYW1ld29yayB0ZXN0IGNhc2UgdG8gbW9kaWZ5IHZhbHVlcyBpbiB0aGUgd2ViLmNvbmZpZwoKICAgICAgICBFeGFtcGxlczoKICAgICAgICB8IE1vZGlmeSBDb25maWd1cmF0aW9uIHwgL1dlYi9XZWIuY29uZmlnIHwgd2VicGFnZXM6VmVyc2lvbiB8IDIuMi4yLjIgfAogICAgICAgICIiIgogICAgICAgIHRyZWUgPSBldC5wYXJzZShjb25maWdfZmlsZSkKICAgICAgICByb290ID0gdHJlZS5nZXRyb290KCkKICAgICAgICBpdGVtID0gcm9vdC5maW5kYWxsKCIuLy8qW0BrZXk9JyVzJ10iICUga2V5KQoKICAgICAgICBpZiBsZW4oaXRlbSkgPiAwOgogICAgICAgICAgICAjIGJhY2t1cCBvbGQgZmlsZQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oY29uZmlnX2ZpbGUgKyAiLmJhayIpOgogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgICAgICAgICBzaHV0aWwuY29weShjb25maWdfZmlsZSwgY29uZmlnX2ZpbGUgKyAnLmJhaycpCgogICAgICAgICAgICBpdGVtWzBdLnNldCgndmFsdWUnLCB2YWx1ZSkKICAgICAgICAgICAgdHJlZS53cml0ZShjb25maWdfZmlsZSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgcmV2ZXJ0X2NvbmZpZ3VyYXRpb24oY29uZmlnX2ZpbGUpOgogICAgICAgICIiIlJlc3RvcmUgdGhlIGNvbmZpZ3VyYXRpb24gZmlsZSBiYWNrIHRvIG9yaWdpbmFsLgoKICAgICAgICBUaGlzIG1ldGhvZCB3aWxsIHByb3ZpZGUgaW50ZXJmYWNlIHRvIHJlc3RvcmUgY29uZmlnLmluaSBmaWxlIGZyb20KICAgICAgICByb2JvdGZyYW1ld29yayBrZXl3b3JkLgoKICAgICAgICBFeGFtcGxlOgogICAgICAgIHwgUmV2ZXJ0IENvbmZpZ3VyYXRpb24gfAogICAgICAgICIiIgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBvcGVuKGNvbmZpZ19maWxlICsgIi5iYWsiKToKICAgICAgICAgICAgICAgIHNodXRpbC5tb3ZlKGNvbmZpZ19maWxlICsgJy5iYWsnLCBjb25maWdfZmlsZSkKICAgICAgICBleGNlcHQgSU9FcnJvcjoKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZSBhcyBldAo=</text>
+        <text encoding="base64">WFBMQVk6CiAgUEVSQ0VOVElMRTogODAKICBNQVhfVkFMVUU6IDIwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBpbXBvcnQgcmVxdWVzdHMK</text>
+        <text encoding="base64">V0VCQ09ORklHOgogIExPQ0FUSU9OOiAvVXNlcnMvU2Nlbi9EZXZlbG9wL1dlYi9XZWIuY29uZmlnCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>exit</last-search>
+      <last-search>1231231</last-search>
       <last-offset />
-      <last-pattern>exit</last-pattern>
+      <last-pattern>1231231</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -459,8 +481,9 @@
         <entry>env</entry>
         <entry>`12`12`12</entry>
         <entry>session</entry>
-        <entry>1231231</entry>
         <entry>exit</entry>
+        <entry encoding="base64">XDxCSU5BUllfTE9DQVRJT05cPg==</entry>
+        <entry>1231231</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -475,10 +498,10 @@
         <entry>CtrlPBuffer</entry>
         <entry>bp!</entry>
         <entry>bn!</entry>
-        <entry>vs</entry>
         <entry>action FindNext</entry>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
