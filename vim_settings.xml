@@ -141,6 +141,12 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/libraries/MsSqlLibrary.py" timestamp="1483568649358" />
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/navigation/reset.robot" timestamp="1483042118531">
         <mark key="'" line="26" column="0" />
@@ -216,10 +222,10 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/01_navigation.robot" timestamp="1483570765844">
+      <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/01_navigation.robot" timestamp="1483572048271">
         <mark key="'" line="474" column="0" />
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="40" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/layout/qabot.robot" timestamp="1479228303453">
         <mark key="[" line="1" column="0" />
@@ -378,10 +384,10 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/items/oe/oe_copy_long_text.robot" timestamp="1483570927454">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="46" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="46" />
         <mark key="^" line="3" column="0" />
-        <mark key="." line="8" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/navigation/options.robot" timestamp="1483042077830">
         <mark key="'" line="178" column="69" />
@@ -399,6 +405,12 @@
         <mark key="]" line="15" column="39" />
         <mark key="^" line="28" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/navigation/reset.robot" timestamp="1483572137669">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/helpers/initialize.robot" timestamp="1483040774707">
         <mark key="[" line="5" column="0" />
@@ -621,41 +633,44 @@
       <jump line="476" column="0" filename="$USER_HOME$/Develop/Static-iTester/tests/smoke/01_navigation.robot" />
     </jumps>
     <registers>
+      <register name="e" type="4">
+        <text />
+      </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>libraries/Core-iTester/</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
-      <register name="0" type="4">
-        <text>/libraries/Core-iTester</text>
+      <register name="0" type="2">
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vbGlicmFyaWVzL0NvcmUtaVRlc3Rlci9yZXNvdXJjZXMvdG9vbHMvcHJvdHJhY3Rvci5yb2JvdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TGlicmFyeSAgICAuLi8uLi8uLi8uLi9saWJyYXJpZXMvR2VzdHVyZUVuaGFuY2VMaWJyYXJ5LnB5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>/resources/items/open_ended.robot</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVzb3VyY2UgICAgLi4vaGVscGVycy9pbml0aWFsaXplLnJvYm90Cg==</text>
+        <text encoding="base64">TGlicmFyeSAgICAuLi8uLi8uLi8uLi9saWJyYXJpZXMvR2VzdHVyZUVuaGFuY2VMaWJyYXJ5LnB5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TGlicmFyeSAgICAuLi8uLi9saWJyYXJpZXMvTXNTcWxMaWJyYXJ5LnB5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmVzb3VyY2UgICAgLi4vaGVscGVycy9pbml0aWFsaXplLnJvYm90Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8K</text>
+        <text encoding="base64">TGlicmFyeSAgICAuLi8uLi9saWJyYXJpZXMvTXNTcWxMaWJyYXJ5LnB5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TGlicmFyeSAgICBTZWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8KICAgICAgICAgICAgICAgICAgbGlicmFyaWVzL0NvcmUtaVRlc3Rlci8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TGlicmFyeSAgICBTZWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
