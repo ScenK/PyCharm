@@ -206,6 +206,9 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/01_navigation.robot" timestamp="1483566602749">
+        <mark key="'" line="476" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/resources/layout/qabot.robot" timestamp="1479228303453">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="47" />
@@ -481,7 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="12" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AppiumEnhanceLibrary.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
       <jump line="1005" column="23" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="57" column="23" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/ruler.robot" />
@@ -581,13 +583,14 @@
       <jump line="4" column="22" filename="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/reverse_contrast.robot" />
       <jump line="28" column="18" filename="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/ruler.robot" />
       <jump line="45" column="59" filename="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/zoom.robot" />
+      <jump line="476" column="0" filename="$USER_HOME$/Develop/Static-iTester/tests/smoke/01_navigation.robot" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>ultiple_choice_by_interaction</text>
       </register>
       <register name="/" type="4">
-        <text>1231231</text>
+        <text>bookmark</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KioqIFNldHRpbmdzICoqKgpMaWJyYXJ5ICAgIFNlbGVuaXVtMkxpYnJhcnkK</text>
@@ -620,17 +623,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search>1231231</last-search>
+      <last-search>bookmark</last-search>
       <last-offset />
-      <last-pattern>1231231</last-pattern>
+      <last-pattern>bookmark</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -654,6 +657,7 @@
         <entry>exit</entry>
         <entry encoding="base64">XDxCSU5BUllfTE9DQVRJT05cPg==</entry>
         <entry>1231231</entry>
+        <entry>bookmark</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -668,11 +672,11 @@
         <entry>CtrlPBuffer</entry>
         <entry>bp!</entry>
         <entry>bn!</entry>
-        <entry>action FindNext</entry>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
