@@ -16,20 +16,10 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/variables.yaml" timestamp="1478879500658">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/resources/navigation/login.robot" timestamp="1483570235628">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_reset_hide_all.robot" timestamp="1478712682726">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/navigation/section.robot" timestamp="1483042156484">
         <mark key="'" line="31" column="0" />
@@ -42,16 +32,6 @@
         <mark key="]" line="4" column="45" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="7" column="23" />
-      </file>
-      <file name="/a.dummy" timestamp="1482944509521">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/data/env/develop/variables.yaml" timestamp="1479238240660">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/resources/helpers/initialize.robot" timestamp="1483569136268">
         <mark key="[" line="11" column="0" />
@@ -69,11 +49,6 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_icon.robot" timestamp="1478708507816">
-        <mark key="[" line="46" column="111" />
-        <mark key="]" line="46" column="112" />
-        <mark key="." line="46" column="112" />
-      </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/dictionary.robot" timestamp="1483042487855">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="2" column="0" />
@@ -86,16 +61,6 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
         <mark key="^" line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_movable.robot" timestamp="1478707791111">
-        <mark key="[" line="64" column="54" />
-        <mark key="]" line="64" column="55" />
-        <mark key="." line="64" column="55" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_text_saved_review.robot" timestamp="1478709665734">
-        <mark key="[" line="88" column="104" />
-        <mark key="]" line="88" column="105" />
-        <mark key="." line="88" column="105" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/resources/items/open_ended.robot" timestamp="1483041353469">
         <mark key="[" line="45" column="0" />
@@ -115,31 +80,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_keyboard.robot" timestamp="1478712666615">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_icon.robot" timestamp="1478712651202">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/navigation/feedback.robot" timestamp="1483041836461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="27" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_icon_shows_tool_name.robot" timestamp="1480434894371">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="56" column="105" />
-      </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog3/.gitignore" timestamp="1481909832687">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
@@ -168,11 +113,6 @@
         <mark key="^" line="1038" column="8" />
         <mark key="." line="1038" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_pause_relogin.robot" timestamp="1478712677102">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" timestamp="1480453970816">
         <mark key="'" line="10" column="47" />
         <mark key="[" line="150" column="0" />
@@ -193,11 +133,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_random_text_input.robot" timestamp="1478708585855">
-        <mark key="[" line="48" column="104" />
-        <mark key="]" line="48" column="105" />
-        <mark key="." line="48" column="105" />
-      </file>
       <file name="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" timestamp="1479243285193">
         <mark key="[" line="138" column="20" />
         <mark key="]" line="138" column="27" />
@@ -217,11 +152,6 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/answer_masking_multi.robot" timestamp="1483042276537">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/01_navigation.robot" timestamp="1483572048271">
         <mark key="'" line="474" column="0" />
         <mark key="[" line="4" column="18" />
@@ -239,40 +169,11 @@
         <mark key="]" line="57" column="9" />
         <mark key="." line="57" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_reset.robot" timestamp="1478707728810">
-        <mark key="[" line="50" column="45" />
-        <mark key="]" line="50" column="46" />
-        <mark key="." line="50" column="46" />
-      </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/timeout/action_chains.robot" timestamp="1483633364619" />
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/navigation/bookmark.robot" timestamp="1483041761520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="27" />
         <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" timestamp="1478725540186">
-        <mark key="[" line="84" column="41" />
-        <mark key="]" line="84" column="47" />
-        <mark key="." line="84" column="41" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_reset_icon.robot" timestamp="1478712690668">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_deselect_hide_all.robot" timestamp="1478712579424">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/smoke/01_navigation.robot" timestamp="1480363014873">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="29" />
-        <mark key="." line="392" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/feature/unit.robot" timestamp="1478641666670">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="56" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/read_aloud.robot" timestamp="1483043354253">
@@ -287,11 +188,6 @@
         <mark key="]" line="15" column="21" />
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/color_chooser/color_chooser_reset.robot" timestamp="1478709766031">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
@@ -317,31 +213,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/items/multiple_choice_by_interaction.robot" timestamp="1483040957532">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/navigation/timeout.robot" timestamp="1483042254608">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/items/open_ended.robot" timestamp="1482178435377">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/notepad.robot" timestamp="1483043000157">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_button.robot" timestamp="1478712656573">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/navigation/pager.robot" timestamp="1483042082488">
         <mark key="'" line="36" column="26" />
@@ -361,21 +237,11 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/data/env/develop/variables.yaml" timestamp="1483040534966">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/items/access.robot" timestamp="1483040712581">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/masking.robot" timestamp="1483042608172">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/libraries/MsSqlLibrary.py" timestamp="1483033142567">
         <mark key="[" line="6" column="0" />
@@ -395,11 +261,6 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480374102324">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/02_tools.robot" timestamp="1483568032276">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="15" column="39" />
@@ -412,31 +273,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/helpers/initialize.robot" timestamp="1483040774707">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_selectable_hide_all.robot" timestamp="1478709816247">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/navigation/options.robot" timestamp="1480449817776">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="31" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/items/stimulus.robot" timestamp="1483041746968">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="26" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/guideline.robot" timestamp="1483042505539">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/protractor.robot" timestamp="1483042744066">
         <mark key="'" line="21" column="0" />
@@ -445,21 +286,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_navigation_by_review.robot" timestamp="1478712671722">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/ReferenceData.json" timestamp="1478798959380">
         <mark key="[" line="22" column="143" />
         <mark key="]" line="22" column="143" />
         <mark key="^" line="22" column="142" />
         <mark key="." line="22" column="143" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/masking.robot" timestamp="1479309871122">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/data/env/release/variables.yaml.sample" timestamp="1483040453240">
         <mark key="'" line="1" column="2" />
@@ -467,21 +298,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/tools/color_chooser.robot" timestamp="1483042408116">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/items/open_ended.robot" timestamp="1483041675544">
         <mark key="'" line="218" column="0" />
         <mark key="[" line="254" column="0" />
         <mark key="]" line="254" column="0" />
         <mark key="." line="254" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_show_all.robot" timestamp="1478712716553">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Statical-iTester/libraries/Core-iTester-Student/resources/navigation/directions.robot" timestamp="1483041776287">
         <mark key="[" line="0" column="0" />
@@ -502,11 +323,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="246" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/resources/tools/sketch.robot" timestamp="1479228356151">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_operational_test.robot" timestamp="1483570150517">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="15" column="39" />
@@ -523,11 +339,6 @@
         <mark key="]" line="21" column="39" />
         <mark key="^" line="21" column="39" />
         <mark key="." line="21" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/answer_masking/answer_masking_deselect_icon.robot" timestamp="1478712646611">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -640,7 +451,7 @@
         <text>libraries/Core-iTester/</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>12312312312</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UmVzb3VyY2UgICAgLi4vLi4vLi4vbGlicmFyaWVzL0NvcmUtaVRlc3Rlci9yZXNvdXJjZXMvdG9vbHMvcHJvdHJhY3Rvci5yb2JvdAo=</text>
@@ -677,9 +488,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>12312312312</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>12312312312</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
@@ -709,6 +520,7 @@
         <entry>1231231</entry>
         <entry>bookmark</entry>
         <entry>login</entry>
+        <entry>12312312312</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
