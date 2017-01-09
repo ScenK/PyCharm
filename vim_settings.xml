@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483933654499">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="6" />
-        <mark key="." line="9" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483934669188">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
@@ -15,11 +15,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/handlers/diary.py" timestamp="1483930925632">
+      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/handlers/diary.py" timestamp="1483934766459">
         <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="5" />
+        <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="5" />
-        <mark key="^" line="1" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
@@ -34,12 +34,12 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/urls.py" timestamp="1483930912668">
+      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/urls.py" timestamp="1483934721398">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="19" column="5" />
         <mark key="]" line="19" column="5" />
         <mark key="." line="19" column="5" />
-        <mark key="^" line="20" column="0" />
+        <mark key="^" line="19" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/navigation/reset.robot" timestamp="1483572137669">
         <mark key="[" line="3" column="21" />
@@ -62,11 +62,11 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/models.py" timestamp="1483930995515">
+      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/models.py" timestamp="1483934686463">
         <mark key="'" line="80" column="15" />
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
-        <mark key="^" line="4" column="7" />
+        <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/task.py" timestamp="1483929326587">
@@ -206,34 +206,34 @@
         <text>12312312312</text>
       </register>
       <register name="0" type="4">
-        <text>.</text>
+        <text>ws.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV4Y2VwdGlvbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
