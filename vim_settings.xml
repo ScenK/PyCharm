@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483931090587">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483933654499">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
@@ -27,10 +28,10 @@
         <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/exceptions.py" timestamp="1483929935671" />
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/runserver.py" timestamp="1483930876948">
+      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/runserver.py" timestamp="1483933994172">
         <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="5" />
-        <mark key="^" line="7" column="7" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/urls.py" timestamp="1483930912668">
@@ -205,7 +206,7 @@
         <text>12312312312</text>
       </register>
       <register name="0" type="4">
-        <text>ws.</text>
+        <text>.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
