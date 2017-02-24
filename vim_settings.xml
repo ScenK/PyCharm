@@ -87,7 +87,7 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/tslint.json" timestamp="1487977891474">
+      <file name="$USER_HOME$/Develop/QABot/tslint.json" timestamp="1487978457941">
         <mark key="'" line="61" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
@@ -257,11 +257,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>remove masking</entry>
         <entry>succeed</entry>
         <entry encoding="base64">XDxnZXRfdXNlcl9ieV9xdWVyeVw+</entry>
         <entry>ast</entry>
