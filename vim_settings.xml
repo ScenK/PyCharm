@@ -87,6 +87,9 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="17" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/tslint.json" timestamp="1487977891474">
+        <mark key="'" line="61" column="17" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="21" />
@@ -102,7 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/helpers/initialize.robot" />
       <jump line="120" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
@@ -202,6 +204,7 @@
       <jump line="80" column="15" filename="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/models.py" />
       <jump line="0" column="9" filename="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/urls.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/urls.py" />
+      <jump line="61" column="17" filename="$USER_HOME$/Develop/QABot/tslint.json" />
     </jumps>
     <registers>
       <register name="e" type="4">
@@ -211,7 +214,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>12312312312</text>
+        <text>semi</text>
       </register>
       <register name="0" type="4">
         <text>ws.</text>
@@ -244,17 +247,17 @@
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search>12312312312</last-search>
+      <last-search>semi</last-search>
       <last-offset />
-      <last-pattern>12312312312</last-pattern>
+      <last-pattern>semi</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -278,6 +281,7 @@
         <entry>bookmark</entry>
         <entry>login</entry>
         <entry>12312312312</entry>
+        <entry>semi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -294,9 +298,9 @@
         <entry>bn!</entry>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
-        <entry>action FindNext</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
