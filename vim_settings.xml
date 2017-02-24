@@ -87,8 +87,11 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/tslint.json" timestamp="1487978457941">
+      <file name="$USER_HOME$/Develop/QABot/tslint.json" timestamp="1487979650083">
         <mark key="'" line="61" column="17" />
+        <mark key="[" line="61" column="9" />
+        <mark key="]" line="61" column="9" />
+        <mark key="." line="61" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
@@ -211,7 +214,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>semi</text>
@@ -247,7 +250,7 @@
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindNext</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -298,8 +301,8 @@
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>action FindNext</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
