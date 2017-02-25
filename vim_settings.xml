@@ -48,6 +48,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/data-extraction.ts" timestamp="1487980138866">
+        <mark key="[" line="48" column="54" />
+        <mark key="]" line="48" column="70" />
+        <mark key="^" line="48" column="70" />
+        <mark key="." line="48" column="70" />
+      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/handlers/diary.py" timestamp="1483934766459">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="8" />
@@ -65,6 +71,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/grabber.ts" timestamp="1487980579503">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="23" />
@@ -81,6 +92,13 @@
         <mark key="]" line="8" column="6" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/image-generator.ts" timestamp="1487980682480">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_operational_test.robot" timestamp="1483636917692">
         <mark key="[" line="4" column="17" />
@@ -108,8 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/Develop/AutomationTesting/libraries/AssistantLibrary.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/generator/test_generator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="15" column="4" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
       <jump line="34" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
@@ -208,46 +224,48 @@
       <jump line="0" column="9" filename="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/urls.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/urls.py" />
       <jump line="61" column="17" filename="$USER_HOME$/Develop/QABot/tslint.json" />
+      <jump line="38" column="11" filename="$USER_HOME$/Develop/QABot/data-extraction/image-generator.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/Develop/QABot/data-extraction/image-generator.ts" />
     </jumps>
     <registers>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>semi</text>
       </register>
-      <register name="0" type="4">
-        <text>ws.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgKiBAcGFyYW0ge2Z1bmN0aW9ufSBjYWxsYmFjawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uZmlnLnB5Cg==</text>
+        <text encoding="base64">ICAgKiBAY2FsbGJhY2sgcmVxdWVzdENhbGxiYWNrIFtjYWxsYmFjayA9IG51bGxdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGV4Y2VwdGlvbnMK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge09iamVjdH0gY3VycmVudEl0ZW1JbmZvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAY2FsbGJhY2sge0Z1bmN0aW9ufSBjYWxsYmFjazogcmVxdWVzdENhbGxiYWNrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluZm8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge09iamVjdH0gY3VycmVudEl0ZW1JbmZvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGl0ZW1JZCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGVuZ3RoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGhhc1JlZmVyZW5jZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCg==</text>
+        <text encoding="base64">Y29uZmlnLnB5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
