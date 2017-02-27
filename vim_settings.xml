@@ -41,12 +41,12 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" timestamp="1488212400738">
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" timestamp="1488212578814">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="104" column="3" />
-        <mark key="." line="104" column="0" />
+        <mark key="[" line="83" column="16" />
+        <mark key="]" line="83" column="16" />
+        <mark key="^" line="83" column="16" />
+        <mark key="." line="83" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/tslint.json" timestamp="1487979650083">
         <mark key="'" line="61" column="17" />
@@ -54,12 +54,12 @@
         <mark key="]" line="61" column="9" />
         <mark key="." line="61" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/gulpfile.ts" timestamp="1488212350781">
-        <mark key="'" line="9" column="11" />
-        <mark key="[" line="105" column="2" />
-        <mark key="]" line="105" column="2" />
-        <mark key="." line="105" column="2" />
-        <mark key="^" line="105" column="17" />
+      <file name="$USER_HOME$/Develop/QABot/gulpfile.ts" timestamp="1488213791938">
+        <mark key="'" line="27" column="31" />
+        <mark key="[" line="24" column="88" />
+        <mark key="]" line="24" column="88" />
+        <mark key="." line="24" column="88" />
+        <mark key="^" line="35" column="62" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
@@ -73,7 +73,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488209740082">
+      <file name="/Dummy.txt" timestamp="1488213959905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/navigation/reset.robot" timestamp="1483572137669">
@@ -151,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="8" filename="$USER_HOME$/Develop/AutomationTesting/fabfile/__init__.py" />
       <jump line="57" column="74" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/sketch_highlight/sketch_highlight_share_stimulus.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" />
       <jump line="143" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/review.robot" />
@@ -251,46 +250,47 @@
       <jump line="488" column="0" filename="$USER_HOME$/Develop/QABot/data-extraction/navigator/navigator.ts" />
       <jump line="33" column="0" filename="$USER_HOME$/Develop/QABot/gulpfile.ts" />
       <jump line="9" column="11" filename="$USER_HOME$/Develop/QABot/gulpfile.ts" />
+      <jump line="27" column="31" filename="$USER_HOME$/Develop/QABot/gulpfile.ts" />
     </jumps>
     <registers>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!(typings)</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1OYW1lID0gKDxhbnk+dGhpcykuYmF0Y2hVc2Vyc1F1ZWVuWzBdLmZvcm1OYW1lLnRyaW0oKS5yZXBsYWNlKC9bIF0vZywgJ18nKQo=</text>
+      <register name="0" type="4">
+        <text>!(typings)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1OYW1lID0gKDxhbnk+dGhpcykuYmF0Y2hVc2Vyc1F1ZWVuWzBdLmZvcm1OYW1lLnJlcGxhY2UoL1sgXS9nLCAnXycpCg==</text>
+        <text encoding="base64">ICAgICAgY29uY2F0ID0gcmVxdWlyZSgnZ3VscC1jb25jYXQnKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHJlYW0gLy8gYnkgcmV0dXJuaW5nIHN0cmVhbSBndWxwIGNhbiBsaXN0ZW4gdG8gZXZlbnRzIGZyb20gdGhlIHN0cmVhbSBhbmQga25vd3Mgd2hlbiBpdCBpcyBmaW5pc2hlZC4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGZvcm1OYW1lID0gKDxhbnk+dGhpcykuYmF0Y2hVc2Vyc1F1ZWVuWzBdLmZvcm1OYW1lLnJlcGxhY2UoL1sgXS9nLCAnXycpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgJycK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAY2FsbGJhY2sgcmVxdWVzdENhbGxiYWNrIFtjYWxsYmFjayA9IG51bGxdCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdHJlYW0gLy8gYnkgcmV0dXJuaW5nIHN0cmVhbSBndWxwIGNhbiBsaXN0ZW4gdG8gZXZlbnRzIGZyb20gdGhlIHN0cmVhbSBhbmQga25vd3Mgd2hlbiBpdCBpcyBmaW5pc2hlZC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge09iamVjdH0gY3VycmVudEl0ZW1JbmZvCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZvcm1OYW1lID0gKDxhbnk+dGhpcykuYmF0Y2hVc2Vyc1F1ZWVuWzBdLmZvcm1OYW1lLnJlcGxhY2UoL1sgXS9nLCAnXycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAY2FsbGJhY2sge0Z1bmN0aW9ufSBjYWxsYmFjazogcmVxdWVzdENhbGxiYWNrCg==</text>
+        <text encoding="base64">ICAgKiBAY2FsbGJhY2sgcmVxdWVzdENhbGxiYWNrIFtjYWxsYmFjayA9IG51bGxdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluZm8K</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge09iamVjdH0gY3VycmVudEl0ZW1JbmZvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
