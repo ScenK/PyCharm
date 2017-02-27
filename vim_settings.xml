@@ -16,6 +16,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/portal.ts" timestamp="1488209151400" />
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="40" />
@@ -48,9 +49,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/data-extraction/data-extraction.ts" timestamp="1487980138866">
-        <mark key="[" line="48" column="54" />
-        <mark key="]" line="48" column="70" />
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/data-extraction.ts" timestamp="1488208942711">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="71" />
         <mark key="^" line="48" column="70" />
         <mark key="." line="48" column="70" />
       </file>
@@ -86,6 +87,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" timestamp="1488209111274">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="194" column="104" />
+        <mark key="]" line="194" column="117" />
+        <mark key="^" line="194" column="117" />
+        <mark key="." line="194" column="117" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/runserver.py" timestamp="1483933994172">
         <mark key="[" line="8" column="5" />
@@ -124,10 +132,15 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="19" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/navigator.ts" timestamp="1488209047237">
+        <mark key="'" line="93" column="19" />
+        <mark key="[" line="50" column="27" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="50" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
-      <jump line="15" column="4" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
       <jump line="34" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
       <jump line="50" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/login.robot" />
@@ -226,6 +239,8 @@
       <jump line="61" column="17" filename="$USER_HOME$/Develop/QABot/tslint.json" />
       <jump line="38" column="11" filename="$USER_HOME$/Develop/QABot/data-extraction/image-generator.ts" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/QABot/data-extraction/image-generator.ts" />
+      <jump line="95" column="19" filename="$USER_HOME$/Develop/QABot/data-extraction/navigator/navigator.ts" />
+      <jump line="29" column="12" filename="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" />
     </jumps>
     <registers>
       <register name="e" type="4">
@@ -235,10 +250,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>semi</text>
+        <text>123123123</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge2Z1bmN0aW9ufSBjYWxsYmFjawo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gYWNjZXNzQ29kZXMgLSBzZXNzaW9uIGFjY2VzcyBjb2RlLCBzcGxpdGVkIHdpdGggIiwiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgKiBAY2FsbGJhY2sgcmVxdWVzdENhbGxiYWNrIFtjYWxsYmFjayA9IG51bGxdCg==</text>
@@ -272,13 +287,13 @@
       </register>
     </registers>
     <search>
-      <last-search>semi</last-search>
+      <last-search>123123123</last-search>
       <last-offset />
-      <last-pattern>semi</last-pattern>
+      <last-pattern>123123123</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -291,7 +306,6 @@
         <entry>actiopn</entry>
         <entry>masking</entry>
         <entry>conso</entry>
-        <entry>123123123</entry>
         <entry>env</entry>
         <entry>`12`12`12</entry>
         <entry>session</entry>
@@ -302,6 +316,8 @@
         <entry>login</entry>
         <entry>12312312312</entry>
         <entry>semi</entry>
+        <entry>loginType</entry>
+        <entry>123123123</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -318,8 +334,8 @@
         <entry>bn!</entry>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
-        <entry>vs</entry>
         <entry>action FindNext</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
