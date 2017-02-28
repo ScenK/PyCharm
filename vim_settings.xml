@@ -10,7 +10,6 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/portal.ts" timestamp="1488209151400" />
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="40" />
@@ -43,17 +42,22 @@
         <mark key="^" line="64" column="169" />
         <mark key="." line="64" column="169" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/utils.ts" timestamp="1488320737973">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
+        <mark key="." line="266" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" timestamp="1488212578814">
+      <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" timestamp="1488320617965">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="83" column="16" />
-        <mark key="]" line="83" column="16" />
-        <mark key="^" line="83" column="16" />
-        <mark key="." line="83" column="16" />
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="63" />
+        <mark key="^" line="32" column="63" />
+        <mark key="." line="32" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/tslint.json" timestamp="1487979650083">
         <mark key="'" line="61" column="17" />
@@ -80,7 +84,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488214106248">
+      <file name="/Dummy.txt" timestamp="1488321091240">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/navigation/reset.robot" timestamp="1483572137669">
@@ -273,31 +277,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0ic2luZ2xlQmF0Y2hNYXhTY29yZSI+TWF4IFNjb3JlOiA8aW5wdXQgdHlwZT0iY2hlY2tib3giIGRhdGEtaWQ9ImJhdGNoTWF4U2NvcmUiIGNsYXNzPSJiYXRjaC1tYXgtc2NvcmUtY2hlY2tib3giIGlkPSJzaW5nbGVCYXRjaE1heFNjb3JlIj48L2xhYmVsPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uY2F0ID0gcmVxdWlyZSgnZ3VscC1jb25jYXQnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY3VycmVudFNlc3Npb25OYW1lID0gcm93LnZhbHVlc1toZWFkZXJJbmRleFsnU2Vzc2lvbk5hbWUnXV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1OYW1lID0gKDxhbnk+dGhpcykuYmF0Y2hVc2Vyc1F1ZWVuWzBdLmZvcm1OYW1lLnJlcGxhY2UoL1sgXS9nLCAnXycpCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbGFzdFNlc3Npb25OYW1lID0gJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxhc3RTZXNzaW9uTmFtZSA9PT0gJycpIHsKICAgICAgICAgICAgICBsYXN0U2Vzc2lvbk5hbWUgPSBjdXJyZW50U2Vzc2lvbk5hbWUKICAgICAgICAgICAgfQoKICAgICAgICAgICAgbGFzdFNlc3Npb25OYW1lID0gY3VycmVudFNlc3Npb25OYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsYXN0U2Vzc2lvbk5hbWUgPSBjdXJyZW50U2Vzc2lvbk5hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHJlYW0gLy8gYnkgcmV0dXJuaW5nIHN0cmVhbSBndWxwIGNhbiBsaXN0ZW4gdG8gZXZlbnRzIGZyb20gdGhlIHN0cmVhbSBhbmQga25vd3Mgd2hlbiBpdCBpcyBmaW5pc2hlZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc2FtZVNlc3Npb25OYW1lID0gKGN1cnJlbnRTZXNzaW9uTmFtZSA9PT0gbGFzdFNlc3Npb25OYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1OYW1lID0gKDxhbnk+dGhpcykuYmF0Y2hVc2Vyc1F1ZWVuWzBdLmZvcm1OYW1lLnJlcGxhY2UoL1sgXS9nLCAnXycpCg==</text>
+        <text encoding="base64">ICAgICAgY29uY2F0ID0gcmVxdWlyZSgnZ3VscC1jb25jYXQnKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAY2FsbGJhY2sgcmVxdWVzdENhbGxiYWNrIFtjYWxsYmFjayA9IG51bGxdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge09iamVjdH0gY3VycmVudEl0ZW1JbmZvCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZvcm1OYW1lID0gKDxhbnk+dGhpcykuYmF0Y2hVc2Vyc1F1ZWVuWzBdLmZvcm1OYW1lLnJlcGxhY2UoL1sgXS9nLCAnXycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -310,11 +314,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>succeed</entry>
         <entry encoding="base64">XDxnZXRfdXNlcl9ieV9xdWVyeVw+</entry>
         <entry>ast</entry>
         <entry>math session test read</entry>
