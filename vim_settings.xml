@@ -64,6 +64,7 @@
         <mark key="^" line="213" column="79" />
         <mark key="." line="300" column="67" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/data-comparison/logger.ts" timestamp="1488584657385" />
       <file name="$USER_HOME$/Develop/QABot/data-comparison/interfaces/data-comparison.ts" timestamp="1488581786733">
         <mark key="[" line="12" column="67" />
         <mark key="]" line="12" column="79" />
@@ -95,7 +96,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488582096473">
+      <file name="/Dummy.txt" timestamp="1488584681542">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
