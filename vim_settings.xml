@@ -58,6 +58,7 @@
         <mark key="]" line="29" column="30" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/data-comparison/data-comparison.ts" timestamp="1488578013095" />
       <file name="$USER_HOME$/Develop/QABot/tslint.json" timestamp="1487979650083">
         <mark key="'" line="61" column="17" />
         <mark key="[" line="61" column="9" />
@@ -303,7 +304,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -354,8 +355,8 @@
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
         <entry>action FindNext</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
