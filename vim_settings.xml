@@ -65,12 +65,12 @@
         <mark key="." line="12" column="80" />
         <mark key="^" line="4" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/gulpfile.ts" timestamp="1488213791938">
-        <mark key="'" line="27" column="31" />
-        <mark key="[" line="24" column="88" />
-        <mark key="]" line="24" column="88" />
-        <mark key="." line="24" column="88" />
-        <mark key="^" line="35" column="62" />
+      <file name="$USER_HOME$/Develop/QABot/gulpfile.ts" timestamp="1490199700182">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
@@ -280,33 +280,33 @@
         <text encoding="base64">OiBQcm9taXNlPHt9Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9nZ2VyIH0gZnJvbSAnLi9sb2dnZXInCg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTG9nZ2VyIH0gZnJvbSAnLi9sb2dnZXInCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">cmVtb3ZlIHVudXNlZCB2YXJpYWJsZXMK</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>d
 d</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>: voi
 : voi</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzb2x2ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnV0aWxzID0gbmV3IFV0aWxzKCkK</text>
+        <text encoding="base64">ICAgICAgcmVzb2x2ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
