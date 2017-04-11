@@ -28,7 +28,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1490630224426">
+      <file name="/Python Console" timestamp="1491947197770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/items/mc/mc_answer_choice.robot" timestamp="1483570917409">
@@ -65,6 +65,12 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="30" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/fabfile.py" timestamp="1491947185170">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/gulpfile.js" timestamp="1490287466641">
         <mark key="[" line="25" column="25" />
