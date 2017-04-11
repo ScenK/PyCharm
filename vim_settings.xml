@@ -10,6 +10,13 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1491945832226">
+        <mark key="'" line="268" column="0" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="226" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="40" />
@@ -44,6 +51,9 @@
       </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/utils.ts" timestamp="1490123309215">
         <mark key="'" line="255" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
         <mark key="[" line="1" column="22" />
@@ -168,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="29" filename="$USER_HOME$/Develop/Dev_Blog3/blog/model/models.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Develop/Dev_Blog3/blog/model/models.py" />
       <jump line="49" column="54" filename="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" />
       <jump line="262" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/notepad.robot" />
@@ -268,6 +277,7 @@
       <jump line="89" column="0" filename="$USER_HOME$/Develop/QABot/sections/data-extraction/single-user.html" />
       <jump line="97" column="0" filename="$USER_HOME$/Develop/QABot/data-extraction/utils.ts" />
       <jump line="250" column="0" filename="$USER_HOME$/Develop/QABot/data-extraction/utils.ts" />
+      <jump line="271" column="0" filename="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" />
     </jumps>
     <registers>
       <register name="e" type="4">
@@ -283,33 +293,32 @@
         <text encoding="base64">OiBQcm9taXNlPHt9Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9nZ2VyIH0gZnJvbSAnLi9sb2dnZXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVtb3ZlIHVudXNlZCB2YXJpYWJsZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nX2NvbnRlbnQ6IGdlbmVyYXRlZCBieSBBZGFwdGVyCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>d
-d</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>: voi
-: voi</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGV0YWlscyA9IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9nZ2VyIH0gZnJvbSAnLi9sb2dnZXInCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cmVtb3ZlIHVudXNlZCB2YXJpYWJsZXMK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVzb2x2ZSgpCg==</text>
+      <register name="9" type="8">
+        <text>d
+d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
