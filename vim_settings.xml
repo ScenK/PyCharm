@@ -66,11 +66,12 @@
         <mark key="]" line="29" column="30" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/fabfile.py" timestamp="1491947185170">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/Develop/xPlay-iTester/fabfile.py" timestamp="1491947561178">
+        <mark key="'" line="37" column="40" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/gulpfile.js" timestamp="1490287466641">
         <mark key="[" line="25" column="25" />
@@ -179,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/Develop/Dev_Blog3/blog/model/models.py" />
       <jump line="49" column="54" filename="$USER_HOME$/Develop/AutomationTesting/libraries/StringEnhanceLibrary.py" />
       <jump line="262" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/notepad.robot" />
       <jump line="39" column="17" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/tools/notepad/notepad_pause.robot" />
@@ -279,13 +279,14 @@
       <jump line="97" column="0" filename="$USER_HOME$/Develop/QABot/data-extraction/utils.ts" />
       <jump line="250" column="0" filename="$USER_HOME$/Develop/QABot/data-extraction/utils.ts" />
       <jump line="271" column="0" filename="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" />
+      <jump line="36" column="40" filename="$USER_HOME$/Develop/xPlay-iTester/fabfile.py" />
     </jumps>
     <registers>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>any[]</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
@@ -300,26 +301,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX2NvbnRlbnQ6IGdlbmVyYXRlZCBieSBBZGFwdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0YWlscyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nX2NvbnRlbnQ6IGdlbmVyYXRlZCBieSBBZGFwdGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9nZ2VyIH0gZnJvbSAnLi9sb2dnZXInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV0YWlscyA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVtb3ZlIHVudXNlZCB2YXJpYWJsZXMK</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>d
-d</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTG9nZ2VyIH0gZnJvbSAnLi9sb2dnZXInCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
