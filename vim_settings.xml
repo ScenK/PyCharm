@@ -10,6 +10,11 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1492028906245">
+        <mark key="[" line="428" column="0" />
+        <mark key="]" line="428" column="20" />
+        <mark key="." line="428" column="20" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="40" />
