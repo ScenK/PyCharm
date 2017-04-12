@@ -10,8 +10,12 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1491951309359">
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1492009185952">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="426" column="39" />
+        <mark key="]" line="426" column="45" />
+        <mark key="^" line="426" column="45" />
+        <mark key="." line="426" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
@@ -182,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="56" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="156" column="30" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="10" column="0" filename="$USER_HOME$/Develop/QABot/assets/start-process.js" />
       <jump line="584" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
@@ -282,13 +285,14 @@
       <jump line="126" column="11" filename="$USER_HOME$/Develop/xPlay-iTester/fabfile.py" />
       <jump line="8" column="17" filename="$USER_HOME$/Develop/xPlay-iTester/fabfile.py" />
       <jump line="63" column="19" filename="$USER_HOME$/Develop/xPlay-iTester/fabfile.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" />
     </jumps>
     <registers>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
