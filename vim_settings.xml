@@ -10,12 +10,12 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1492011928179">
-        <mark key="'" line="355" column="27" />
-        <mark key="[" line="348" column="8" />
-        <mark key="]" line="348" column="8" />
-        <mark key="^" line="348" column="14" />
-        <mark key="." line="348" column="8" />
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1492012701008">
+        <mark key="'" line="364" column="27" />
+        <mark key="[" line="426" column="27" />
+        <mark key="]" line="426" column="39" />
+        <mark key="^" line="426" column="39" />
+        <mark key="." line="426" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
@@ -292,25 +292,25 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>create_</text>
+        <text>os.path.join(PLAYBACK_FOLDER + batch_folder)</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9uYW1lID0gc2VsZi51bmlxdWVfZmlsZSgKICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBzZWxmLl9maWxlbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuZGF0ZXRpbWUudG9kYXkoKS5zdHJmdGltZSgnJW0tJWQtJVktJUglTScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVuaXF1ZV9maWxlKG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBmaWxlX25hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY2FsUmVwbGF5Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVuaXF1ZV9maWxlKG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBmaWxlX25hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0YXRpY2FsUmVwbGF5Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -319,13 +319,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX2NvbnRlbnQ6IGdlbmVyYXRlZCBieSBBZGFwdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0YWlscyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nX2NvbnRlbnQ6IGdlbmVyYXRlZCBieSBBZGFwdGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -379,8 +379,8 @@
         <entry>bn!</entry>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
-        <entry>vs</entry>
         <entry>action FindNext</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
