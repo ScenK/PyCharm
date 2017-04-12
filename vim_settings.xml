@@ -10,12 +10,11 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1492012701008">
-        <mark key="'" line="364" column="27" />
-        <mark key="[" line="426" column="27" />
-        <mark key="]" line="426" column="39" />
-        <mark key="^" line="426" column="39" />
-        <mark key="." line="426" column="39" />
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1492013734751">
+        <mark key="'" line="366" column="27" />
+        <mark key="[" line="198" column="37" />
+        <mark key="]" line="198" column="37" />
+        <mark key="." line="198" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
@@ -30,6 +29,12 @@
       </file>
       <file name="/Python Console" timestamp="1492010765144">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/tests/playback/template.jinja" timestamp="1492013360433">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1492010620556">
         <mark key="[" line="0" column="0" />
@@ -107,7 +112,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491947576217">
+      <file name="/Dummy.txt" timestamp="1492012807227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/navigation/reset.robot" timestamp="1483572137669">
@@ -292,7 +297,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>os.path.join(PLAYBACK_FOLDER + batch_folder)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
@@ -301,31 +306,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuZGF0ZXRpbWUudG9kYXkoKS5zdHJmdGltZSgnJW0tJWQtJVktJUglTScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2g9YmF0Y2hfcmVuZGVyLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">e3sgYmF0Y2hfcmVuZGVyIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVuaXF1ZV9maWxlKG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBmaWxlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfcmVuZGVyPWJhdGNoX3JlbmRlciwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY2FsUmVwbGF5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVuaXF1ZV9maWxlKG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBmaWxlX25hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0YXRpY2FsUmVwbGF5Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX2NvbnRlbnQ6IGdlbmVyYXRlZCBieSBBZGFwdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -371,7 +376,6 @@
         <entry>action FindPrevious</entry>
         <entry>w;w</entry>
         <entry>sp</entry>
-        <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry>495</entry>
         <entry>222</entry>
         <entry>CtrlPBuffer</entry>
@@ -381,6 +385,8 @@
         <entry>NERDTreeMirror</entry>
         <entry>action FindNext</entry>
         <entry>vs</entry>
+        <entry encoding="base64">JzwsJz5ibiE=</entry>
+        <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
