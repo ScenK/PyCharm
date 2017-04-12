@@ -10,12 +10,6 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1492013734751">
-        <mark key="'" line="366" column="27" />
-        <mark key="[" line="198" column="37" />
-        <mark key="]" line="198" column="37" />
-        <mark key="." line="198" column="37" />
-      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="40" />
@@ -306,28 +300,28 @@
         <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuZGF0ZXRpbWUudG9kYXkoKS5zdHJmdGltZSgnJW0tJWQtJVktJUglTScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2g9YmF0Y2hfcmVuZGVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3sgYmF0Y2hfcmVuZGVyIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2g9YmF0Y2hfcmVuZGVyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfcmVuZGVyPWJhdGNoX3JlbmRlciwK</text>
+        <text encoding="base64">e3sgYmF0Y2hfcmVuZGVyIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfcmVuZGVyPWJhdGNoX3JlbmRlciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVuaXF1ZV9maWxlKG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBmaWxlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY2FsUmVwbGF5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVuaXF1ZV9maWxlKG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBmaWxlX25hbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0YXRpY2FsUmVwbGF5Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -343,11 +337,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfdXNlcl9ieV9xdWVyeVw+</entry>
         <entry>ast</entry>
         <entry>math session test read</entry>
         <entry>sketch with shared</entry>
