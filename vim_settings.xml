@@ -16,16 +16,12 @@
         <mark key="." line="202" column="18" />
         <mark key="^" line="202" column="18" />
       </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493046028795" />
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="40" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="18" column="17" />
-      </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/resources/navigation/login.robot" timestamp="1485374271673">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/Python Console" timestamp="1492453087996">
         <mark key="[" line="0" column="0" />
@@ -45,11 +41,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/__init__.py" timestamp="1483930868417">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/QABot/sections/data-extraction/single-user.html" timestamp="1488214634044">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="64" column="163" />
@@ -62,11 +53,6 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" timestamp="1488401567775">
         <mark key="'" line="10" column="0" />
@@ -157,6 +143,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/Desktop/130069003-QE-ME-561841_04-18-2017-1112.log" timestamp="1493045643582" />
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/runserver.py" timestamp="1483933994172">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="6" />
@@ -170,10 +157,17 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_operational_test.robot" timestamp="1483636917692">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="17" column="27" />
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/mapping.json" timestamp="1493045992417">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="31" />
+        <mark key="^" line="71" column="31" />
+        <mark key="." line="71" column="31" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/adapter.py" timestamp="1493046100974">
+        <mark key="[" line="131" column="14" />
+        <mark key="]" line="131" column="12" />
+        <mark key="^" line="131" column="12" />
+        <mark key="." line="131" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/urls.py" timestamp="1483934721398">
         <mark key="'" line="2" column="0" />
@@ -297,13 +291,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIGU=</text>
+        <text>['tool']['readAloud']['volume']</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuZGF0ZXRpbWUudG9kYXkoKS5zdHJmdGltZSgnJW0tJWQtJVktJUglTScpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXZlbnRbJ3Rvb2wnXVsncmVhZEFsb3VkJ11bJ3ZvbHVtZSddCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
