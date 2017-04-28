@@ -10,10 +10,16 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1492028906245">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="20" />
-        <mark key="." line="76" column="20" />
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" timestamp="1493048685295">
+        <mark key="[" line="202" column="18" />
+        <mark key="]" line="202" column="18" />
+        <mark key="." line="202" column="18" />
+        <mark key="^" line="202" column="18" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
         <mark key="[" line="18" column="17" />
@@ -26,7 +32,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1492010765144">
+      <file name="/Python Console" timestamp="1492453087996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/tests/playback/template.jinja" timestamp="1492013360433">
@@ -67,6 +73,7 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/tests/playback/130069003-QE-ME-561841_04-24-2017-1001.robot" timestamp="1493046734434" />
       <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" timestamp="1488401567775">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="29" column="0" />
@@ -156,6 +163,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/Desktop/130069003-QE-ME-561841_04-18-2017-1112.log" timestamp="1493046929199" />
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/runserver.py" timestamp="1483933994172">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="6" />
@@ -168,6 +176,18 @@
         <mark key="]" line="38" column="32" />
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/mapping.json" timestamp="1493045992417">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="31" />
+        <mark key="^" line="71" column="31" />
+        <mark key="." line="71" column="31" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/adapter.py" timestamp="1493046100974">
+        <mark key="[" line="131" column="14" />
+        <mark key="]" line="131" column="12" />
+        <mark key="^" line="131" column="12" />
+        <mark key="." line="131" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_operational_test.robot" timestamp="1483636917692">
         <mark key="[" line="4" column="17" />
@@ -296,40 +316,40 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>['tool']['readAloud']['volume']</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuZGF0ZXRpbWUudG9kYXkoKS5zdHJmdGltZSgnJW0tJWQtJVktJUglTScpCg==</text>
+        <text encoding="base64">LSB1c2VybmFtZTogJzEzMDA2OTAwMycKICBwYXNzd29yZDogQTRERDU1REYKICB0eXBlOiB4cGxheV9wbGF5YmFjawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSB1c2VybmFtZTogJzEzMDA2OTAwMycKICBwYXNzd29yZDogQTRERDU1REYKICB0eXBlOiB4cGxheV9wbGF5YmFjawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2g9YmF0Y2hfcmVuZGVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">e3sgYmF0Y2hfcmVuZGVyIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2g9YmF0Y2hfcmVuZGVyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfcmVuZGVyPWJhdGNoX3JlbmRlciwK</text>
+        <text encoding="base64">e3sgYmF0Y2hfcmVuZGVyIH19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfcmVuZGVyPWJhdGNoX3JlbmRlciwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVuaXF1ZV9maWxlKG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBmaWxlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY2FsUmVwbGF5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVuaXF1ZV9maWxlKG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBmaWxlX25hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0YXRpY2FsUmVwbGF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
