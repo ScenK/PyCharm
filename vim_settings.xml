@@ -73,7 +73,6 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/tests/playback/130069003-QE-ME-561841_04-24-2017-1001.robot" timestamp="1493046734434" />
       <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" timestamp="1488401567775">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="29" column="0" />
@@ -111,6 +110,9 @@
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/tests/playback/1002182799-QE-OK-2438195_05-02-2017-0957.robot" timestamp="1493837197443">
+        <mark key="'" line="616" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/02_tools.robot" timestamp="1483568032276">
         <mark key="[" line="4" column="27" />
@@ -163,7 +165,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/130069003-QE-ME-561841_04-18-2017-1112.log" timestamp="1493046929199" />
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/runserver.py" timestamp="1483933994172">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="6" />
@@ -210,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Develop/QABot/assets/start-process.js" />
       <jump line="584" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="32" column="4" filename="$USER_HOME$/Develop/AutomationTesting/data/env/release/variables.yaml" />
       <jump line="23" column="4" filename="$USER_HOME$/Develop/AutomationTesting/.gitignore" />
@@ -310,6 +310,7 @@
       <jump line="63" column="19" filename="$USER_HOME$/Develop/xPlay-iTester/fabfile.py" />
       <jump line="6" column="6" filename="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" />
       <jump line="351" column="27" filename="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" />
+      <jump line="616" column="18" filename="$USER_HOME$/Develop/xPlay-iTester/tests/playback/1002182799-QE-OK-2438195_05-02-2017-0957.robot" />
     </jumps>
     <registers>
       <register name="e" type="4">
