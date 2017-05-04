@@ -105,14 +105,17 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/linter.py" timestamp="1493933130900">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="14" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
         <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/tests/playback/1002182799-QE-OK-2438195_05-02-2017-0957.robot" timestamp="1493837197443">
-        <mark key="'" line="616" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/02_tools.robot" timestamp="1483568032276">
         <mark key="[" line="4" column="27" />
@@ -326,31 +329,31 @@
         <text encoding="base64">LSB1c2VybmFtZTogJzEzMDA2OTAwMycKICBwYXNzd29yZDogQTRERDU1REYKICB0eXBlOiB4cGxheV9wbGF5YmFjawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSB1c2VybmFtZTogJzEzMDA2OTAwMycKICBwYXNzd29yZDogQTRERDU1REYKICB0eXBlOiB4cGxheV9wbGF5YmFjawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19maWxlX18gPT0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2g9YmF0Y2hfcmVuZGVyLAo=</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e3sgYmF0Y2hfcmVuZGVyIH19Cg==</text>
+        <text encoding="base64">LSB1c2VybmFtZTogJzEzMDA2OTAwMycKICBwYXNzd29yZDogQTRERDU1REYKICB0eXBlOiB4cGxheV9wbGF5YmFjawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfcmVuZGVyPWJhdGNoX3JlbmRlciwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2g9YmF0Y2hfcmVuZGVyLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">e3sgYmF0Y2hfcmVuZGVyIH19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVuaXF1ZV9maWxlKG9zLnBhdGguam9pbih0YXJnZXRfZm9sZGVyLCBmaWxlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfcmVuZGVyPWJhdGNoX3JlbmRlciwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY2FsUmVwbGF5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
