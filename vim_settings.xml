@@ -106,10 +106,10 @@
         <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/linter.py" timestamp="1493933130900">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="14" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="87" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
