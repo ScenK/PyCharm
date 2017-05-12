@@ -68,6 +68,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/parser/parser.py" timestamp="1494606545819">
+        <mark key="[" line="105" column="28" />
+        <mark key="]" line="105" column="28" />
+        <mark key="^" line="105" column="28" />
+        <mark key="." line="105" column="28" />
+      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="23" />
@@ -98,6 +104,12 @@
         <mark key="." line="12" column="80" />
         <mark key="^" line="4" column="80" />
       </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/common.py" timestamp="1494605466642">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="10" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/gulpfile.ts" timestamp="1490199700182">
         <mark key="'" line="24" column="31" />
         <mark key="[" line="6" column="7" />
@@ -105,11 +117,18 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/linter.py" timestamp="1493933130900">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="87" column="14" />
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/parser/tables.py" timestamp="1494605820834">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/linter.py" timestamp="1494605066261">
+        <mark key="'" line="130" column="39" />
+        <mark key="[" line="89" column="74" />
+        <mark key="]" line="90" column="11" />
+        <mark key="." line="90" column="11" />
+        <mark key="^" line="90" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
@@ -214,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="584" column="2" filename="$USER_HOME$/Develop/AutomationTesting/tests/smoke/02_tools.robot" />
       <jump line="32" column="4" filename="$USER_HOME$/Develop/AutomationTesting/data/env/release/variables.yaml" />
       <jump line="23" column="4" filename="$USER_HOME$/Develop/AutomationTesting/.gitignore" />
       <jump line="4" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
@@ -314,13 +332,14 @@
       <jump line="6" column="6" filename="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" />
       <jump line="351" column="27" filename="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/replay_generator.py" />
       <jump line="616" column="18" filename="$USER_HOME$/Develop/xPlay-iTester/tests/playback/1002182799-QE-OK-2438195_05-02-2017-0957.robot" />
+      <jump line="130" column="39" filename="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/linter.py" />
     </jumps>
     <registers>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>['tool']['readAloud']['volume']</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>123123123</text>
@@ -329,28 +348,28 @@
         <text encoding="base64">LSB1c2VybmFtZTogJzEzMDA2OTAwMycKICBwYXNzd29yZDogQTRERDU1REYKICB0eXBlOiB4cGxheV9wbGF5YmFjawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgX19maWxlX18gPT0gCg==</text>
+        <text encoding="base64">ICAgICAgICBjZWxsWydrZXl3b3JkJ10gPSBzZWxmLmdldF9rZXl3b3JkKHJhd190ZXh0KQogICAgICAgIGNlbGxbJ2V2ZW50J10gPSBzZWxmLmdldF9ldmVudChyYXdfdGV4dCkKICAgICAgICBjZWxsWydzdGVwX251bSddID0gc2VsZi5nZXRfc3RlcF9udW1iZXIocmF3X3RleHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LSB1c2VybmFtZTogJzEzMDA2OTAwMycKICBwYXNzd29yZDogQTRERDU1REYKICB0eXBlOiB4cGxheV9wbGF5YmFjawo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKFJ1bGUpLl9faW5pdF9fKGFyZ3VtZW50cywgdGhhdCwgZ29lcywgdG8sIHBhcmVudHMpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2g9YmF0Y2hfcmVuZGVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">e3sgYmF0Y2hfcmVuZGVyIH19Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N1Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfcmVuZGVyPWJhdGNoX3JlbmRlciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYuY29uZmlnWydSVUxFUyddLmhhc19rZXkocnVsZS5uYW1lKToK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
