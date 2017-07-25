@@ -1,6 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="PALENIGHT" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="accentColor" value="ff7042" />
     <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60" />
+    <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
