@@ -260,6 +260,7 @@
         <mark key="^" line="131" column="12" />
         <mark key="." line="131" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/image-generator.ts" timestamp="1502745602972" />
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_operational_test.robot" timestamp="1483636917692">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="15" column="39" />
