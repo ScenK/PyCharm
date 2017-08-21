@@ -260,7 +260,6 @@
         <mark key="^" line="131" column="12" />
         <mark key="." line="131" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/image-generator.ts" timestamp="1502745602972" />
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_operational_test.robot" timestamp="1483636917692">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="15" column="39" />
@@ -284,7 +283,7 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1499376011236">
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1503325671752">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -433,7 +432,7 @@
         <text encoding="base64">ICAgIHJldHVybiBodG1sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -483,10 +482,10 @@
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
         <entry>action FindNext</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
