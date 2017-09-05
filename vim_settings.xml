@@ -83,11 +83,6 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/navigator.ts" timestamp="1499376045053">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/QABot/updater/process/detect-dependance.js" timestamp="1499375612199">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -224,11 +219,6 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1502741194342">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/QABot/modules/downloader/downloader.ts" timestamp="1499375848427">
         <mark key="'" line="74" column="51" />
         <mark key="[" line="54" column="51" />
@@ -282,11 +272,6 @@
         <mark key="]" line="50" column="28" />
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1503325671752">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
     </filemarks>
     <jumps>
