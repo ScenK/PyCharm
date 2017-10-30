@@ -27,6 +27,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="18" column="17" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394094042">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/resources/navigation/login.robot" timestamp="1485374271673">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -397,31 +402,31 @@
         <text encoding="base64">T2JqZWN0LnNlYWwoUG9ydGFsRW50cnkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR3JhYmJlciBhcyBJR3JhYmJlciB9IGZyb20gJy4uL2ludGVyZmFjZXMvZ3JhYmJlcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBodG1sCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgR3JhYmJlciBhcyBJR3JhYmJlciB9IGZyb20gJy4uL2ludGVyZmFjZXMvZ3JhYmJlcicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb3V0cHV0ID0gW10K</text>
+        <text encoding="base64">ICAgIHJldHVybiBodG1sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgb3MgZnJvbSAnb3MnCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgb3V0cHV0ID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge1N0cmluZ30gYW5zd2Vyc0ZpbGUgLSBhbnN3ZXJzIGZpbGUgcGF0aCBmb3IgYW5zd2VyaW5nIGl0ZW1zCiAgICogQHBhcmFtIHtTdHJpbmd9IGJhdGNoTG9naW5GaWxlIC0gYmF0Y2ggZmlsZSBwYXRoIGZvciBtdWx0aSBmb3JtcwogICAqIEBwYXJhbSB7U3RyaW5nfSBiYXRjaEZvcm1GaWxlIC0gYmF0Y2ggZmlsZSBwYXRoIGZvciBtdWx0aSBmb3Jtcwo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgb3MgZnJvbSAnb3MnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge1N0cmluZ30gdXNlcklEIC0gUG9ydGFsIHNpdGUgZm9ybSBwcmV2aWV3IHVzZXJJRCAtIHBvcnRhbCBsb2dpbiByZXF1aXJlZAogICAqIEBwYXJhbSB7U3RyaW5nfSBmb3JtSUQgLSBQb3J0YWwgc2l0ZSBmb3JtIHByZXZpZXcgZm9ybUlEIC0gcG9ydGFsIGxvZ2luIHJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge1N0cmluZ30gYW5zd2Vyc0ZpbGUgLSBhbnN3ZXJzIGZpbGUgcGF0aCBmb3IgYW5zd2VyaW5nIGl0ZW1zCiAgICogQHBhcmFtIHtTdHJpbmd9IGJhdGNoTG9naW5GaWxlIC0gYmF0Y2ggZmlsZSBwYXRoIGZvciBtdWx0aSBmb3JtcwogICAqIEBwYXJhbSB7U3RyaW5nfSBiYXRjaEZvcm1GaWxlIC0gYmF0Y2ggZmlsZSBwYXRoIGZvciBtdWx0aSBmb3Jtcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXRpbHMgYXMgSVV0aWxzIH0gZnJvbSAnLi4vaW50ZXJmYWNlcy91dGlscycK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge1N0cmluZ30gdXNlcklEIC0gUG9ydGFsIHNpdGUgZm9ybSBwcmV2aWV3IHVzZXJJRCAtIHBvcnRhbCBsb2dpbiByZXF1aXJlZAogICAqIEBwYXJhbSB7U3RyaW5nfSBmb3JtSUQgLSBQb3J0YWwgc2l0ZSBmb3JtIHByZXZpZXcgZm9ybUlEIC0gcG9ydGFsIGxvZ2luIHJlcXVpcmVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRSZWZlcmVuY2U6IG51bWJlcgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVXRpbHMgYXMgSVV0aWxzIH0gZnJvbSAnLi4vaW50ZXJmYWNlcy91dGlscycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBodG1sCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRSZWZlcmVuY2U6IG51bWJlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -434,11 +439,10 @@
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ast</entry>
         <entry>math session test read</entry>
         <entry>sketch with shared</entry>
         <entry>actions</entry>
