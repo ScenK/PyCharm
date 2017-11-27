@@ -83,6 +83,16 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/utils.ts" timestamp="1511366077732">
+        <mark key="[" line="724" column="0" />
+        <mark key="]" line="724" column="0" />
+        <mark key="." line="724" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/navigator.ts" timestamp="1511365062775">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/updater/process/detect-dependance.js" timestamp="1499375612199">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -112,6 +122,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="1008" column="21" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/answer.ts" timestamp="1511365773782">
+        <mark key="[" line="213" column="10" />
+        <mark key="]" line="213" column="21" />
+        <mark key="." line="213" column="21" />
+        <mark key="^" line="213" column="21" />
+      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483934669188">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -135,11 +151,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="18" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1501531558346">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,6 +162,11 @@
       </file>
       <file name="/fragment.py" timestamp="1492010620556">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/fabfile.py" timestamp="1508444176060">
         <mark key="'" line="126" column="20" />
@@ -291,6 +307,12 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1511365913875">
+        <mark key="[" line="1106" column="0" />
+        <mark key="]" line="1106" column="0" />
+        <mark key="." line="1106" column="0" />
+        <mark key="^" line="1105" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="4" filename="$USER_HOME$/Develop/AutomationTesting/.gitignore" />
@@ -399,40 +421,40 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>const html =</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">T2JqZWN0LnNlYWwoUG9ydGFsRW50cnkpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2hhZG93TG9nZ2VyID0gdGhpcy5sb2dnZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbGUubGFmLnVzZVNjcmVlbk1lbnVCYXI9dHJ1ZQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHNpbmdsZUl0ZW1SdWJyaWMgPSByb3cudmFsdWVzW2hlYWRlckluZGV4WydTY29yaW5nUnVicmljJ11dCiAgICAgICAgICBjb25zdCBzaW5nbGVJdGVtUG9zaXRpb24gPSBwYXJzZUludChyb3cudmFsdWVzW2hlYWRlckluZGV4WydJdGVtUG9zaXRpb24nXV0sIDEwKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR3JhYmJlciBhcyBJR3JhYmJlciB9IGZyb20gJy4uL2ludGVyZmFjZXMvZ3JhYmJlcicK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBUVFNPYmoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBodG1sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaXRlbUFTTERpciA9IHBhdGguam9pbih0aGlzLml0ZW1EaXIsICdzY3JlZW5zaG90JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb3V0cHV0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgb3MgZnJvbSAnb3MnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge1N0cmluZ30gYW5zd2Vyc0ZpbGUgLSBhbnN3ZXJzIGZpbGUgcGF0aCBmb3IgYW5zd2VyaW5nIGl0ZW1zCiAgICogQHBhcmFtIHtTdHJpbmd9IGJhdGNoTG9naW5GaWxlIC0gYmF0Y2ggZmlsZSBwYXRoIGZvciBtdWx0aSBmb3JtcwogICAqIEBwYXJhbSB7U3RyaW5nfSBiYXRjaEZvcm1GaWxlIC0gYmF0Y2ggZmlsZSBwYXRoIGZvciBtdWx0aSBmb3Jtcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge1N0cmluZ30gdXNlcklEIC0gUG9ydGFsIHNpdGUgZm9ybSBwcmV2aWV3IHVzZXJJRCAtIHBvcnRhbCBsb2dpbiByZXF1aXJlZAogICAqIEBwYXJhbSB7U3RyaW5nfSBmb3JtSUQgLSBQb3J0YWwgc2l0ZSBmb3JtIHByZXZpZXcgZm9ybUlEIC0gcG9ydGFsIGxvZ2luIHJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXRpbHMgYXMgSVV0aWxzIH0gZnJvbSAnLi4vaW50ZXJmYWNlcy91dGlscycK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
