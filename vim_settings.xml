@@ -122,12 +122,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="1008" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/answer.ts" timestamp="1511365773782">
-        <mark key="[" line="213" column="10" />
-        <mark key="]" line="213" column="21" />
-        <mark key="." line="213" column="21" />
-        <mark key="^" line="213" column="21" />
-      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483934669188">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -242,9 +236,9 @@
         <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-comparison/data-comparison.ts" timestamp="1499376154270">
-        <mark key="[" line="472" column="0" />
-        <mark key="]" line="472" column="0" />
-        <mark key="." line="472" column="0" />
+        <mark key="[" line="501" column="0" />
+        <mark key="]" line="501" column="0" />
+        <mark key="." line="501" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/image-generator.ts" timestamp="1487980682480">
         <mark key="'" line="23" column="0" />
@@ -308,10 +302,10 @@
         <mark key="^" line="50" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1511365913875">
-        <mark key="[" line="1106" column="0" />
-        <mark key="]" line="1106" column="0" />
-        <mark key="." line="1106" column="0" />
-        <mark key="^" line="1105" column="15" />
+        <mark key="[" line="1104" column="0" />
+        <mark key="]" line="1104" column="0" />
+        <mark key="." line="1104" column="0" />
+        <mark key="^" line="200" column="15" />
       </file>
     </filemarks>
     <jumps>
