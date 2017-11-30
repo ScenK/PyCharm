@@ -302,9 +302,9 @@
         <mark key="^" line="50" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1511365913875">
-        <mark key="[" line="1104" column="0" />
-        <mark key="]" line="1104" column="0" />
-        <mark key="." line="1104" column="0" />
+        <mark key="[" line="1106" column="0" />
+        <mark key="]" line="1106" column="0" />
+        <mark key="." line="1106" column="0" />
         <mark key="^" line="200" column="15" />
       </file>
     </filemarks>
