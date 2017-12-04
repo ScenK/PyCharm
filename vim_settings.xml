@@ -116,6 +116,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/libraries/StringEnhanceLibrary.py" timestamp="1512416384736">
+        <mark key="[" line="131" column="70" />
+        <mark key="]" line="132" column="11" />
+        <mark key="^" line="132" column="11" />
+        <mark key="." line="132" column="11" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/grabber.ts" timestamp="1488902876355">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -127,6 +133,11 @@
         <mark key="]" line="213" column="21" />
         <mark key="." line="213" column="21" />
         <mark key="^" line="213" column="21" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483934669188">
         <mark key="[" line="7" column="0" />
@@ -162,11 +173,6 @@
       </file>
       <file name="/fragment.py" timestamp="1492010620556">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/fabfile.py" timestamp="1508444176060">
         <mark key="'" line="126" column="20" />
