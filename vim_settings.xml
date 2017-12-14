@@ -83,11 +83,6 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/utils.ts" timestamp="1512426413273">
-        <mark key="[" line="723" column="30" />
-        <mark key="]" line="723" column="30" />
-        <mark key="." line="723" column="30" />
-      </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/navigator.ts" timestamp="1511365062775">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -126,11 +121,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="1008" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/answer.ts" timestamp="1512426455578">
-        <mark key="[" line="182" column="31" />
-        <mark key="]" line="182" column="31" />
-        <mark key="." line="182" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483934669188">
         <mark key="[" line="7" column="0" />
@@ -253,9 +243,9 @@
         <mark key="." line="38" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1512426472419">
-        <mark key="[" line="927" column="70" />
-        <mark key="]" line="927" column="70" />
-        <mark key="." line="927" column="70" />
+        <mark key="[" line="954" column="70" />
+        <mark key="]" line="954" column="70" />
+        <mark key="." line="954" column="70" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/downloader/downloader.ts" timestamp="1499375848427">
         <mark key="'" line="74" column="51" />
