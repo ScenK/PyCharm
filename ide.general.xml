@@ -6,5 +6,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.tooltip.initialDelay" value="105" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
   </component>
 </application>
