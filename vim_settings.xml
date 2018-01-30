@@ -32,7 +32,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/resources/helpers/initialize.robot" timestamp="1516377510769" />
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/parser/parser.py" timestamp="1494606545819">
         <mark key="[" line="105" column="28" />
         <mark key="]" line="105" column="28" />
@@ -111,16 +110,16 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/grabber.ts" timestamp="1488902876355">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="1008" column="21" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483934669188">
         <mark key="[" line="7" column="0" />
@@ -182,6 +181,17 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/interfaces/extractors/answer-screenshot.ts" timestamp="1517238949754">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/answer-screenshot.ts" timestamp="1517238919251">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="81" column="11" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/common.py" timestamp="1494605466642">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="12" />
@@ -207,7 +217,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496860549585">
+      <file name="/Dummy.txt" timestamp="1517238491651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -242,7 +252,7 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1513785003150">
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1516377290783">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -412,6 +422,9 @@
       <jump line="126" column="20" filename="$USER_HOME$/Develop/Static-iTester/fabfile.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="e" type="4">
         <text />
       </register>
@@ -425,31 +438,31 @@
         <text encoding="base64">ICAgICAgY29uc3Qgc2hhZG93TG9nZ2VyID0gdGhpcy5sb2dnZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGV4cGVjdGVkU3R1ZGVudFNjb3JlOiBudW1iZXIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGV4cGVjdGVkU3R1ZGVudFNjb3JlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VHZW5lcmF0b3IgYXMgSUltYWdlR2VuZXJhdG9yIH0gZnJvbSAnLi4vaW1hZ2UtZ2VuZXJhdG9yJwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbG9jYXRvcnMgfSBmcm9tICcuLi9kYXRhL2xvY2F0b3JzJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGV4cGVjdGVkU3R1ZGVudFNjb3JlOiBudW1iZXIK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHNpbmdsZUl0ZW1SdWJyaWMgPSByb3cudmFsdWVzW2hlYWRlckluZGV4WydTY29yaW5nUnVicmljJ11dCiAgICAgICAgICBjb25zdCBzaW5nbGVJdGVtUG9zaXRpb24gPSBwYXJzZUludChyb3cudmFsdWVzW2hlYWRlckluZGV4WydJdGVtUG9zaXRpb24nXV0sIDEwKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGV4cGVjdGVkU3R1ZGVudFNjb3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBUVFNPYmoK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaXRlbUFTTERpciA9IHBhdGguam9pbih0aGlzLml0ZW1EaXIsICdzY3JlZW5zaG90JykK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
