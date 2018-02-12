@@ -298,6 +298,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/helpers/excel-operator.ts" timestamp="1518467650522">
+        <mark key="'" line="56" column="28" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/urls.py" timestamp="1483934721398">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="19" column="5" />
@@ -319,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="4" filename="$USER_HOME$/Develop/AutomationTesting/.gitignore" />
       <jump line="4" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
       <jump line="70" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
       <jump line="74" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
@@ -419,16 +424,17 @@
       <jump line="104" column="0" filename="$USER_HOME$/Develop/QABot/modules/data-extraction/entry/student.ts" />
       <jump line="118" column="0" filename="$USER_HOME$/Develop/QABot/modules/data-extraction/entry/student.ts" />
       <jump line="126" column="20" filename="$USER_HOME$/Develop/Static-iTester/fabfile.py" />
+      <jump line="56" column="28" filename="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/helpers/excel-operator.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRJdGVtSW1hZ2VzOiBBcnJheTxzdHJpbmc+CiAgcHJpdmF0ZSBjdXJyZW50U3RpbXVsdXNJbWFnZXM6IEFycmF5PHN0cmluZz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>, Answer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
@@ -437,28 +443,28 @@
         <text encoding="base64">aW1wb3J0IHsgQW5zd2VyU2NyZWVuc2hvdCB9IGZyb20gJy4vZXh0cmFjdG9ycy9hbnN3ZXItc2NyZWVuc2hvdCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRJdGVtSW1hZ2VzOiBBcnJheTxzdHJpbmc+CiAgcHJpdmF0ZSBjdXJyZW50U3RpbXVsdXNJbWFnZXM6IEFycmF5PHN0cmluZz4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRTY3JvbGxUaW1lOiBudW1iZXIKICBwcml2YXRlIHNjcm9sbFRpbWVzOiBudW1iZXIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRUYWJOdW06IG51bWJlcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNjcmVlbnNob3RGb2xkZXI6IHN0cmluZwogIHByaXZhdGUgcm9vdFNjcmVlbnNob3Q6IHN0cmluZwogIHByaXZhdGUgbGVmdFBhcnRJbWFnZTogc3RyaW5nCiAgcHJpdmF0ZSByaWdodFBhcnRJbWFnZTogc3RyaW5nCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VHZW5lcmF0b3IgYXMgSUltYWdlR2VuZXJhdG9yIH0gZnJvbSAnLi9pbnRlcmZhY2VzL2ltYWdlLWdlbmVyYXRvcicK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VHZW5lcmF0b3IgfSBmcm9tICcuL2ltYWdlLWdlbmVyYXRvcicK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHdvcmtTaGVldCA9IHdvcmtib29rLlNoZWV0c1t3b3JrYm9vay5TaGVldE5hbWVzWzBdXQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRJdGVtSW1hZ2VzOiBBcnJheTxzdHJpbmc+CiAgcHJpdmF0ZSBjdXJyZW50U3RpbXVsdXNJbWFnZXM6IEFycmF5PHN0cmluZz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRTY3JvbGxUaW1lOiBudW1iZXIKICBwcml2YXRlIHNjcm9sbFRpbWVzOiBudW1iZXIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRUYWJOdW06IG51bWJlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHNjcmVlbnNob3RGb2xkZXI6IHN0cmluZwogIHByaXZhdGUgcm9vdFNjcmVlbnNob3Q6IHN0cmluZwogIHByaXZhdGUgbGVmdFBhcnRJbWFnZTogc3RyaW5nCiAgcHJpdmF0ZSByaWdodFBhcnRJbWFnZTogc3RyaW5nCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VHZW5lcmF0b3IgYXMgSUltYWdlR2VuZXJhdG9yIH0gZnJvbSAnLi9pbnRlcmZhY2VzL2ltYWdlLWdlbmVyYXRvcicK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VHZW5lcmF0b3IgYXMgSUltYWdlR2VuZXJhdG9yIH0gZnJvbSAnLi4vaW1hZ2UtZ2VuZXJhdG9yJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VHZW5lcmF0b3IgfSBmcm9tICcuL2ltYWdlLWdlbmVyYXRvcicK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
