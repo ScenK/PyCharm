@@ -16,6 +16,11 @@
         <mark key="." line="202" column="18" />
         <mark key="^" line="202" column="18" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/helpers/image-generator.ts" timestamp="1518557953506">
+        <mark key="[" line="400" column="31" />
+        <mark key="]" line="400" column="31" />
+        <mark key="." line="400" column="31" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/resources/navigation/login.robot" timestamp="1485374271673">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -38,12 +43,6 @@
         <mark key="^" line="105" column="28" />
         <mark key="." line="105" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/data-extraction/navigator/student.ts" timestamp="1488401567775">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/fabfile.py" timestamp="1492010459793">
         <mark key="'" line="63" column="19" />
         <mark key="[" line="144" column="37" />
@@ -63,11 +62,11 @@
         <mark key="." line="12" column="80" />
         <mark key="^" line="4" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/entry/student.ts" timestamp="1512426489384">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="23" />
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/entry/student.ts" timestamp="1518557372874">
+        <mark key="[" line="59" column="3" />
+        <mark key="]" line="59" column="7" />
+        <mark key="." line="59" column="7" />
+        <mark key="^" line="59" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/linter.py" timestamp="1495203899559">
         <mark key="'" line="130" column="39" />
@@ -121,11 +120,22 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="1008" column="21" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/answer.ts" timestamp="1518557058410">
+        <mark key="[" line="378" column="20" />
+        <mark key="]" line="378" column="23" />
+        <mark key="^" line="378" column="23" />
+        <mark key="." line="378" column="23" />
+      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483934669188">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/driver.ts" timestamp="1518557222732">
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="62" />
+        <mark key="." line="5" column="62" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/runserver.py" timestamp="1483933994172">
         <mark key="[" line="8" column="5" />
@@ -169,12 +179,6 @@
         <mark key="]" line="64" column="169" />
         <mark key="^" line="64" column="169" />
         <mark key="." line="64" column="169" />
-      </file>
-      <file name="$USER_HOME$/Develop/QABot/data-extraction/utils.ts" timestamp="1496863079278">
-        <mark key="'" line="620" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
         <mark key="[" line="1" column="22" />
@@ -240,10 +244,10 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-comparison/data-comparison.ts" timestamp="1514302362904">
-        <mark key="[" line="501" column="0" />
-        <mark key="]" line="501" column="0" />
-        <mark key="." line="501" column="0" />
+      <file name="$USER_HOME$/Develop/QABot/modules/data-comparison/data-comparison.ts" timestamp="1518558228528">
+        <mark key="[" line="449" column="0" />
+        <mark key="]" line="449" column="0" />
+        <mark key="." line="449" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/image-generator.ts" timestamp="1487980682480">
         <mark key="'" line="23" column="0" />
@@ -252,10 +256,11 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1516377290783">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1518557497504">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="104" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/downloader/downloader.ts" timestamp="1499375848427">
         <mark key="'" line="74" column="51" />
@@ -293,10 +298,11 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/entry/portal.ts" timestamp="1512426495899">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/entry/portal.ts" timestamp="1518557543038">
+        <mark key="[" line="48" column="10" />
+        <mark key="]" line="48" column="10" />
+        <mark key="." line="48" column="10" />
+        <mark key="^" line="48" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/helpers/excel-operator.ts" timestamp="1518467650522">
         <mark key="[" line="47" column="0" />
@@ -317,10 +323,11 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1517935978972">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1518557642052">
+        <mark key="[" line="1292" column="6" />
+        <mark key="]" line="1292" column="11" />
+        <mark key="." line="1292" column="11" />
+        <mark key="^" line="1292" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -427,13 +434,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0YXJnZXRCYXNlbmFtZSA9IHBhdGguYmFzZW5hbWUodGFyZ2V0KQogICAgICAgIGNvbnN0IHNvdXJjZUJhc2VuYW1lID0gcGF0aC5iYXNlbmFtZShzb3VyY2UpCg==</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, Answer</text>
+        <text>, reject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
@@ -442,31 +449,31 @@
         <text encoding="base64">aW1wb3J0IHsgQW5zd2VyU2NyZWVuc2hvdCB9IGZyb20gJy4vZXh0cmFjdG9ycy9hbnN3ZXItc2NyZWVuc2hvdCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0YXJnZXRCYXNlbmFtZSA9IHBhdGguYmFzZW5hbWUodGFyZ2V0KQogICAgICAgIGNvbnN0IHNvdXJjZUJhc2VuYW1lID0gcGF0aC5iYXNlbmFtZShzb3VyY2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdvcmtTaGVldCA9IHdvcmtib29rLlNoZWV0c1t3b3JrYm9vay5TaGVldE5hbWVzWzBdXQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZm9sZGVyRmlsZXMgPSBmcy5yZWFkZGlyU3luYyhwYXRoLmRpcm5hbWUodGFyZ2V0KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRJdGVtSW1hZ2VzOiBBcnJheTxzdHJpbmc+CiAgcHJpdmF0ZSBjdXJyZW50U3RpbXVsdXNJbWFnZXM6IEFycmF5PHN0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgaXRlbUNvbnRlbnRIZWlnaHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRTY3JvbGxUaW1lOiBudW1iZXIKICBwcml2YXRlIHNjcm9sbFRpbWVzOiBudW1iZXIK</text>
+        <text encoding="base64">ICAgICAgc3RpbXVsdXNTaXplLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGN1cnJlbnRUYWJOdW06IG51bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgLAogICAgICBpdGVtSGFzU2Nyb2xsQmFyLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNjcmVlbnNob3RGb2xkZXI6IHN0cmluZwogIHByaXZhdGUgcm9vdFNjcmVlbnNob3Q6IHN0cmluZwogIHByaXZhdGUgbGVmdFBhcnRJbWFnZTogc3RyaW5nCiAgcHJpdmF0ZSByaWdodFBhcnRJbWFnZTogc3RyaW5nCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgSW1hZ2VHZW5lcmF0b3IgYXMgSUltYWdlR2VuZXJhdG9yIH0gZnJvbSAnLi9pbnRlcmZhY2VzL2ltYWdlLWdlbmVyYXRvcicK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgd2ViZHJpdmVyIGZyb20gJ3NlbGVuaXVtLXdlYmRyaXZlcicK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VHZW5lcmF0b3IgfSBmcm9tICcuL2ltYWdlLWdlbmVyYXRvcicK</text>
+        <text encoding="base64">ICBwcml2YXRlIGNhbGxiYWNrOiBGdW5jdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge0Z1bmN0aW9ufSBbcmVzdGFydF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
