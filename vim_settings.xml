@@ -210,10 +210,11 @@
         <mark key="]" line="449" column="0" />
         <mark key="." line="449" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1518727567681">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1518729916426">
+        <mark key="[" line="601" column="30" />
+        <mark key="]" line="601" column="55" />
+        <mark key="." line="601" column="55" />
+        <mark key="^" line="601" column="55" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/logger.ts" timestamp="1499375990686">
         <mark key="[" line="189" column="20" />
