@@ -250,6 +250,11 @@
         <mark key="^" line="98" column="11" />
         <mark key="." line="98" column="11" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/libraries/model.ts" timestamp="1520012248738">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1518559867004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -361,13 +366,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
