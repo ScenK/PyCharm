@@ -47,6 +47,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/parser/parser.py" timestamp="1494606545819">
         <mark key="[" line="105" column="28" />
         <mark key="]" line="105" column="28" />
@@ -153,11 +158,6 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/grabber.ts" timestamp="1488902876355">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -244,7 +244,7 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/portal.ts" timestamp="1518559158508">
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/portal.ts" timestamp="1522189278428">
         <mark key="[" line="98" column="6" />
         <mark key="]" line="98" column="11" />
         <mark key="^" line="98" column="11" />
