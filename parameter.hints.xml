@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="ObjectConstructor.is(value1,value2)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
