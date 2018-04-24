@@ -86,6 +86,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Model/app.py" timestamp="1524599027981">
+        <mark key="'" line="96" column="36" />
+        <mark key="[" line="129" column="36" />
+        <mark key="]" line="129" column="36" />
+        <mark key="." line="129" column="36" />
+        <mark key="^" line="129" column="36" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/data-extraction.ts" timestamp="1488208942711">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="71" />
@@ -163,6 +170,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="42" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1524598595625">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
         <mark key="[" line="1" column="22" />
@@ -285,8 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
-      <jump line="70" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
       <jump line="74" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
@@ -385,16 +393,18 @@
       <jump line="118" column="0" filename="$USER_HOME$/Develop/QABot/modules/data-extraction/entry/student.ts" />
       <jump line="126" column="20" filename="$USER_HOME$/Develop/Static-iTester/fabfile.py" />
       <jump line="56" column="28" filename="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/helpers/excel-operator.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
+      <jump line="96" column="36" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHByaXZhdGU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByaXZhdGU=</text>
+        <text>, request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
@@ -403,31 +413,31 @@
         <text encoding="base64">IHRpdGxlPSIi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAodGhpcy5jaGVja2VkT3B0aW9ucy5pbmNsdWRlcygnbWF4U2NvcmUnKSB8fCB0aGlzLmNoZWNrZWRPcHRpb25zLmluY2x1ZGVzKCdwZXJmZWN0U2NvcmUnKSkgewogICAgICAgICAgICAgICAgY29uc3QgYW5zd2VyczogSUFuc3dlclsnc2Vzc2lvblRlaUFuc3dlcnMnXSA9IHRoaXMuZXhjZWwuZ2V0VEVJdGVtQW5zd2Vycyh0aGlzLmJhdGNoVXNlcnNRdWV1ZVswXVsnZm9ybUlEJ10pCiAgICAgICAgICAgICAgICBpZiAoYW5zd2Vycy5sZW5ndGgpIHsKICAgICAgICAgICAgICAgICAgdGhpcy5hbnN3ZXIuc2V0VEVJdGVtQW5zd2VycyhhbnN3ZXJzKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoTG9naW5GaWxlOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoRm9ybUZpbGU6IHN0cmluZwogIHByaXZhdGUgcmVhZG9ubHkgcHJvY3RvclBhc3N3b3JkOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGVudmlyb25tZW50OiBzdHJpbmcK</text>
+        <text encoding="base64">ICAgIGRlZiBhY3Rpb25fc3RyaW5nX2Zyb21fbWF4KG1heF9vZl9wcmVkKToKICAgICAgICByZXR1cm4gWyhyZXZlY1t2YWx1ZVswXV0sIHZhbHVlWzFdKSBmb3IgdmFsdWUgaW4gbWF4X29mX3ByZWRdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IHByb2N0b3JQYXNzd29yZDogc3RyaW5nCiAgcHJpdmF0ZSByZWFkb25seSBlbnZpcm9ubWVudDogc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIHNwID0gYWN0aW9uX3N0cmluZ19mcm9tX21heChtcCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQW5zd2VyIGFzIElBbnN3ZXIgfSBmcm9tICcuLi9pbnRlcmZhY2VzL2Fuc3dlcicK</text>
+        <text encoding="base64">amtqamoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc2lnbkluRXJyb3IgfSA9IGxvY2F0b3JzLmxvZ2luCiAgICBjb25zdCB7IHNlc3Npb25MaXN0IH0gPSBsb2NhdG9ycy5zZXNzaW9uCg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5jbGllbnQgaW1wb3J0IGRldmljZV9saWIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaXNTa2V0Y2hQYWQ6IGJvb2xlYW4KICBwdWJsaWMgaXRlbVR5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaXNNYzogYm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAodGhpcy5jaGVja2VkT3B0aW9ucy5pbmNsdWRlcygnbWF4U2NvcmUnKSB8fCB0aGlzLmNoZWNrZWRPcHRpb25zLmluY2x1ZGVzKCdwZXJmZWN0U2NvcmUnKSkgewogICAgICAgICAgICAgICAgY29uc3QgYW5zd2VyczogSUFuc3dlclsnc2Vzc2lvblRlaUFuc3dlcnMnXSA9IHRoaXMuZXhjZWwuZ2V0VEVJdGVtQW5zd2Vycyh0aGlzLmJhdGNoVXNlcnNRdWV1ZVswXVsnZm9ybUlEJ10pCiAgICAgICAgICAgICAgICBpZiAoYW5zd2Vycy5sZW5ndGgpIHsKICAgICAgICAgICAgICAgICAgdGhpcy5hbnN3ZXIuc2V0VEVJdGVtQW5zd2VycyhhbnN3ZXJzKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGl0ZW1UeXBlOiBzdHJpbmcKICBwcml2YXRlIGN1cnJlbnRTZXNzaW9uSW5kZXg6IG51bWJlcgogIHByaXZhdGUgY3VycmVudEFuc3dlckluZGV4OiBudW1iZXIK</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoTG9naW5GaWxlOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoRm9ybUZpbGU6IHN0cmluZwogIHByaXZhdGUgcmVhZG9ubHkgcHJvY3RvclBhc3N3b3JkOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGVudmlyb25tZW50OiBzdHJpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZnMgZnJvbSAnZnMnCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IHByb2N0b3JQYXNzd29yZDogc3RyaW5nCiAgcHJpdmF0ZSByZWFkb25seSBlbnZpcm9ubWVudDogc3RyaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
