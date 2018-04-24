@@ -14,27 +14,10 @@
         <mark key="]" line="400" column="31" />
         <mark key="." line="400" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="40" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="18" column="17" />
-      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/resources/navigation/login.robot" timestamp="1485374271673">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/tests/playback/template.jinja" timestamp="1492013360433">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/items/mc/mc_answer_choice.robot" timestamp="1483570917409">
         <mark key="[" line="4" column="23" />
@@ -58,21 +41,17 @@
         <mark key="^" line="105" column="28" />
         <mark key="." line="105" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/pages/settings.vue" timestamp="1523643420084">
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="4" />
+        <mark key="." line="93" column="4" />
+        <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/interfaces/extractors/answer-screenshot.ts" timestamp="1517238949754">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/fragment.ts" timestamp="1522773033103">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/answer-screenshot.ts" timestamp="1517867244123">
-        <mark key="^" line="81" column="11" />
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/pages/main.vue" timestamp="1523643278602">
+        <mark key="[" line="34" column="47" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/data-comparison/interfaces/data-comparison.ts" timestamp="1488581786733">
         <mark key="[" line="12" column="67" />
@@ -85,40 +64,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/common.py" timestamp="1494605466642">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="10" />
-      </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/entry/student.ts" timestamp="1518559024911">
         <mark key="[" line="60" column="4" />
         <mark key="]" line="60" column="9" />
         <mark key="^" line="60" column="9" />
         <mark key="." line="60" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/parser/tables.py" timestamp="1494605820834">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/tools/protractor.robot" timestamp="1483572156350">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
         <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/02_tools.robot" timestamp="1483568032276">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="15" column="39" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1517238491651">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/navigator.ts" timestamp="1522772439751">
         <mark key="[" line="45" column="0" />
@@ -129,18 +85,6 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/navigation/reset.robot" timestamp="1483572137669">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/.gitignore" timestamp="1483936676271">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="38" column="4" />
-        <mark key="^" line="38" column="4" />
-        <mark key="." line="38" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/data-extraction.ts" timestamp="1488208942711">
         <mark key="[" line="48" column="0" />
@@ -160,12 +104,6 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/setup.py" timestamp="1509654660688">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-      </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/grabber.ts" timestamp="1488902876355">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -175,10 +113,11 @@
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/answer.ts" timestamp="1522771299383">
         <mark key="^" line="350" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-comparison/data-comparison.ts" timestamp="1518558228528">
-        <mark key="[" line="449" column="0" />
-        <mark key="]" line="449" column="0" />
-        <mark key="." line="449" column="0" />
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/runner.ts" timestamp="1523643494423">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483934669188">
         <mark key="[" line="7" column="0" />
@@ -197,14 +136,106 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/portal.ts" timestamp="1522189278428">
+        <mark key="[" line="98" column="6" />
+        <mark key="]" line="98" column="11" />
+        <mark key="^" line="98" column="11" />
+        <mark key="." line="98" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/libraries/model.ts" timestamp="1520012248738">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_practice_test.robot" timestamp="1483570164166">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/tests/playback/template.jinja" timestamp="1492013360433">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/interfaces/extractors/answer-screenshot.ts" timestamp="1517238949754">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fragment.ts" timestamp="1522773033103">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/answer-screenshot.ts" timestamp="1517867244123">
+        <mark key="^" line="81" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/common.py" timestamp="1494605466642">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/parser/tables.py" timestamp="1494605820834">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/02_tools.robot" timestamp="1483568032276">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="15" column="39" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1517238491651">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/tests/regression/navigation/reset.robot" timestamp="1483572137669">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/.gitignore" timestamp="1483936676271">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/setup.py" timestamp="1509654660688">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/Develop/QABot/modules/data-comparison/data-comparison.ts" timestamp="1518558228528">
+        <mark key="[" line="449" column="0" />
+        <mark key="]" line="449" column="0" />
+        <mark key="." line="449" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/common/autoupdater.js" timestamp="1519847563869">
         <mark key="[" line="41" column="9" />
         <mark key="]" line="41" column="10" />
         <mark key="." line="41" column="10" />
         <mark key="^" line="41" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1522773002189">
-        <mark key="[" line="742" column="85" />
+      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/student.ts" timestamp="1523045322216">
+        <mark key="[" line="978" column="0" />
+        <mark key="]" line="978" column="0" />
+        <mark key="." line="978" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/logger.ts" timestamp="1499375990686">
         <mark key="[" line="180" column="20" />
@@ -245,17 +276,6 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/portal.ts" timestamp="1522189278428">
-        <mark key="[" line="98" column="6" />
-        <mark key="]" line="98" column="11" />
-        <mark key="^" line="98" column="11" />
-        <mark key="." line="98" column="11" />
-      </file>
-      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/libraries/model.ts" timestamp="1520012248738">
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1518559867004">
         <mark key="[" line="0" column="0" />
@@ -367,47 +387,47 @@
       <jump line="56" column="28" filename="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/helpers/excel-operator.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoTG9naW5GaWxlOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoRm9ybUZpbGU6IHN0cmluZwogIHByaXZhdGUgcmVhZG9ubHkgcHJvY3RvclBhc3N3b3JkOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGVudmlyb25tZW50OiBzdHJpbmcK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHByaXZhdGU=</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHByaXZhdGU=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQW5zd2VyU2NyZWVuc2hvdCB9IGZyb20gJy4vZXh0cmFjdG9ycy9hbnN3ZXItc2NyZWVuc2hvdCcK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHRpdGxlPSIi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoTG9naW5GaWxlOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoRm9ybUZpbGU6IHN0cmluZwogIHByaXZhdGUgcmVhZG9ubHkgcHJvY3RvclBhc3N3b3JkOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGVudmlyb25tZW50OiBzdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAodGhpcy5jaGVja2VkT3B0aW9ucy5pbmNsdWRlcygnbWF4U2NvcmUnKSB8fCB0aGlzLmNoZWNrZWRPcHRpb25zLmluY2x1ZGVzKCdwZXJmZWN0U2NvcmUnKSkgewogICAgICAgICAgICAgICAgY29uc3QgYW5zd2VyczogSUFuc3dlclsnc2Vzc2lvblRlaUFuc3dlcnMnXSA9IHRoaXMuZXhjZWwuZ2V0VEVJdGVtQW5zd2Vycyh0aGlzLmJhdGNoVXNlcnNRdWV1ZVswXVsnZm9ybUlEJ10pCiAgICAgICAgICAgICAgICBpZiAoYW5zd2Vycy5sZW5ndGgpIHsKICAgICAgICAgICAgICAgICAgdGhpcy5hbnN3ZXIuc2V0VEVJdGVtQW5zd2VycyhhbnN3ZXJzKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IHByb2N0b3JQYXNzd29yZDogc3RyaW5nCiAgcHJpdmF0ZSByZWFkb25seSBlbnZpcm9ubWVudDogc3RyaW5nCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoTG9naW5GaWxlOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoRm9ybUZpbGU6IHN0cmluZwogIHByaXZhdGUgcmVhZG9ubHkgcHJvY3RvclBhc3N3b3JkOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGVudmlyb25tZW50OiBzdHJpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQW5zd2VyIGFzIElBbnN3ZXIgfSBmcm9tICcuLi9pbnRlcmZhY2VzL2Fuc3dlcicK</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IHByb2N0b3JQYXNzd29yZDogc3RyaW5nCiAgcHJpdmF0ZSByZWFkb25seSBlbnZpcm9ubWVudDogc3RyaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc2lnbkluRXJyb3IgfSA9IGxvY2F0b3JzLmxvZ2luCiAgICBjb25zdCB7IHNlc3Npb25MaXN0IH0gPSBsb2NhdG9ycy5zZXNzaW9uCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQW5zd2VyIGFzIElBbnN3ZXIgfSBmcm9tICcuLi9pbnRlcmZhY2VzL2Fuc3dlcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaXNTa2V0Y2hQYWQ6IGJvb2xlYW4KICBwdWJsaWMgaXRlbVR5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc2lnbkluRXJyb3IgfSA9IGxvY2F0b3JzLmxvZ2luCiAgICBjb25zdCB7IHNlc3Npb25MaXN0IH0gPSBsb2NhdG9ycy5zZXNzaW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaXNNYzogYm9vbGVhbgo=</text>
+        <text encoding="base64">ICBwdWJsaWMgaXNTa2V0Y2hQYWQ6IGJvb2xlYW4KICBwdWJsaWMgaXRlbVR5cGU6IHN0cmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGl0ZW1UeXBlOiBzdHJpbmcKICBwcml2YXRlIGN1cnJlbnRTZXNzaW9uSW5kZXg6IG51bWJlcgogIHByaXZhdGUgY3VycmVudEFuc3dlckluZGV4OiBudW1iZXIK</text>
+        <text encoding="base64">ICBwdWJsaWMgaXNNYzogYm9vbGVhbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZnMgZnJvbSAnZnMnCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGl0ZW1UeXBlOiBzdHJpbmcKICBwcml2YXRlIGN1cnJlbnRTZXNzaW9uSW5kZXg6IG51bWJlcgogIHByaXZhdGUgY3VycmVudEFuc3dlckluZGV4OiBudW1iZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9jYXRvcnMgfSBmcm9tICcuL2RhdGEvbG9jYXRvcnMnCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgZnMgZnJvbSAnZnMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
