@@ -14,11 +14,6 @@
         <mark key="]" line="400" column="31" />
         <mark key="." line="400" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/resources/navigation/login.robot" timestamp="1485374271673">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -29,6 +24,11 @@
         <mark key="]" line="4" column="45" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="7" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/__init__.py" timestamp="1483930868417">
         <mark key="[" line="0" column="0" />
@@ -216,6 +216,7 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/index.ts" timestamp="1524681056457" />
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/setup.py" timestamp="1509654660688">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="3" />
