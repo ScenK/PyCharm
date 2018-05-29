@@ -14,6 +14,11 @@
         <mark key="]" line="400" column="31" />
         <mark key="." line="400" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/resources/navigation/login.robot" timestamp="1485374271673">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -25,17 +30,17 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/__init__.py" timestamp="1483930868417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/data/states.ts" timestamp="1526918349916" />
+      <file name="$USER_HOME$/Develop/iQBot-Model/service/app.py" timestamp="1527093324536">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/parser/parser.py" timestamp="1494606545819">
         <mark key="[" line="105" column="28" />
         <mark key="]" line="105" column="28" />
