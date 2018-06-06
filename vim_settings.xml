@@ -233,6 +233,11 @@
         <mark key="]" line="449" column="0" />
         <mark key="." line="449" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/workflow/index.ts" timestamp="1528300212837">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/common/autoupdater.js" timestamp="1519847563869">
         <mark key="[" line="41" column="9" />
         <mark key="]" line="41" column="10" />
@@ -394,14 +399,14 @@
       <jump line="96" column="36" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, request</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
