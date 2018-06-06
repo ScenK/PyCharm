@@ -233,10 +233,10 @@
         <mark key="]" line="449" column="0" />
         <mark key="." line="449" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/workflow/index.ts" timestamp="1528300212837">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/workflow/index.ts" timestamp="1528302229793">
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="0" />
+        <mark key="." line="332" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/common/autoupdater.js" timestamp="1519847563869">
         <mark key="[" line="41" column="9" />
@@ -399,8 +399,8 @@
       <jump line="96" column="36" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="e" type="4">
         <text />
@@ -415,31 +415,31 @@
         <text encoding="base64">IHRpdGxlPSIi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBhY3Rpb25fc3RyaW5nX2Zyb21fbWF4KG1heF9vZl9wcmVkKToKICAgICAgICByZXR1cm4gWyhyZXZlY1t2YWx1ZVswXV0sIHZhbHVlWzFdKSBmb3IgdmFsdWUgaW4gbWF4X29mX3ByZWRdCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHByZWRpY3Rpb25SZXN1bHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNwID0gYWN0aW9uX3N0cmluZ19mcm9tX21heChtcCkK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGZpbmFsbHkgewogICAgICBjb25zb2xlLmxvZygyKQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">amtqamoK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5jbGllbnQgaW1wb3J0IGRldmljZV9saWIK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGNvbnNvbGUubG9nKDEpCiAgICB9IGZpbmFsbHkgewogICAgICBjb25zb2xlLmxvZygyKQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAodGhpcy5jaGVja2VkT3B0aW9ucy5pbmNsdWRlcygnbWF4U2NvcmUnKSB8fCB0aGlzLmNoZWNrZWRPcHRpb25zLmluY2x1ZGVzKCdwZXJmZWN0U2NvcmUnKSkgewogICAgICAgICAgICAgICAgY29uc3QgYW5zd2VyczogSUFuc3dlclsnc2Vzc2lvblRlaUFuc3dlcnMnXSA9IHRoaXMuZXhjZWwuZ2V0VEVJdGVtQW5zd2Vycyh0aGlzLmJhdGNoVXNlcnNRdWV1ZVswXVsnZm9ybUlEJ10pCiAgICAgICAgICAgICAgICBpZiAoYW5zd2Vycy5sZW5ndGgpIHsKICAgICAgICAgICAgICAgICAgdGhpcy5hbnN3ZXIuc2V0VEVJdGVtQW5zd2VycyhhbnN3ZXJzKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoTG9naW5GaWxlOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGJhdGNoRm9ybUZpbGU6IHN0cmluZwogIHByaXZhdGUgcmVhZG9ubHkgcHJvY3RvclBhc3N3b3JkOiBzdHJpbmcKICBwcml2YXRlIHJlYWRvbmx5IGVudmlyb25tZW50OiBzdHJpbmcK</text>
+        <text encoding="base64">ICAgIGRlZiBhY3Rpb25fc3RyaW5nX2Zyb21fbWF4KG1heF9vZl9wcmVkKToKICAgICAgICByZXR1cm4gWyhyZXZlY1t2YWx1ZVswXV0sIHZhbHVlWzFdKSBmb3IgdmFsdWUgaW4gbWF4X29mX3ByZWRdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
