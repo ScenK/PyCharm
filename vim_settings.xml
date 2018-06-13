@@ -199,6 +199,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/keywords/item.ts" timestamp="1528915539918">
+        <mark key="[" line="90" column="334" />
+        <mark key="]" line="90" column="26" />
+        <mark key="^" line="90" column="26" />
+        <mark key="." line="90" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/02_tools.robot" timestamp="1483568032276">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="15" column="39" />
