@@ -222,10 +222,11 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/prediction/model-provider.ts" timestamp="1528313389408">
-        <mark key="[" line="109" column="13" />
-        <mark key="]" line="109" column="13" />
-        <mark key="." line="109" column="13" />
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/prediction/model-provider.ts" timestamp="1529511309148">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/setup.py" timestamp="1509654660688">
         <mark key="[" line="21" column="37" />
@@ -237,6 +238,12 @@
         <mark key="[" line="449" column="0" />
         <mark key="]" line="449" column="0" />
         <mark key="." line="449" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/workflow/index.ts" timestamp="1529511263711">
+        <mark key="[" line="390" column="6" />
+        <mark key="]" line="390" column="11" />
+        <mark key="^" line="390" column="11" />
+        <mark key="." line="390" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/common/autoupdater.js" timestamp="1519847563869">
         <mark key="[" line="41" column="9" />
@@ -400,7 +407,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Browser</text>
+        <text encoding="base64">cmVhZG9ubHkg</text>
       </register>
       <register name="e" type="4">
         <text />
@@ -412,7 +419,7 @@
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHRpdGxlPSIi</text>
+        <text encoding="base64">cmVhZG9ubHkg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
