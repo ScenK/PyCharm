@@ -61,6 +61,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/interfaces/navigation.ts" timestamp="1530211754811">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/entry/student.ts" timestamp="1518559024911">
         <mark key="[" line="60" column="4" />
         <mark key="]" line="60" column="9" />
@@ -140,6 +145,7 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/mappings.ts" timestamp="1530211795357" />
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/portal.ts" timestamp="1522189278428">
         <mark key="[" line="98" column="6" />
         <mark key="]" line="98" column="11" />
@@ -199,6 +205,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/keywords/item.ts" timestamp="1530211676743">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/02_tools.robot" timestamp="1483568032276">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="15" column="39" />
@@ -239,11 +250,11 @@
         <mark key="]" line="449" column="0" />
         <mark key="." line="449" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/workflow/index.ts" timestamp="1529511263711">
-        <mark key="[" line="394" column="6" />
-        <mark key="]" line="394" column="11" />
-        <mark key="^" line="394" column="11" />
-        <mark key="." line="394" column="11" />
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/workflow/index.ts" timestamp="1530211437230">
+        <mark key="[" line="507" column="8" />
+        <mark key="]" line="507" column="13" />
+        <mark key="^" line="507" column="13" />
+        <mark key="." line="507" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/common/autoupdater.js" timestamp="1519847563869">
         <mark key="[" line="41" column="9" />
@@ -406,8 +417,8 @@
       <jump line="96" column="36" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVhZG9ubHkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBmaW5pc2goKTogUHJvbWlzZTx2b2lkPgo=</text>
       </register>
       <register name="e" type="4">
         <text />
@@ -422,31 +433,31 @@
         <text encoding="base64">cmVhZG9ubHkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAvLyBmaW5pc2goKTogUHJvbWlzZTx2b2lkPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAvLyBvcGVuUmV2aWV3UGFuZWwoKTogUHJvbWlzZTx2b2lkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gZXZlbnROYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByZWRpY3Rpb25SZXN1bHQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGZpbmFsbHkgewogICAgICBjb25zb2xlLmxvZygyKQogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGNvbnNvbGUubG9nKDEpCiAgICB9IGZpbmFsbHkgewogICAgICBjb25zb2xlLmxvZygyKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHByZWRpY3Rpb25SZXN1bHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGZpbmFsbHkgewogICAgICBjb25zb2xlLmxvZygyKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
