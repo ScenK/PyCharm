@@ -53,12 +53,6 @@
         <mark key="^" line="105" column="28" />
         <mark key="." line="105" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/pages/settings.vue" timestamp="1531413942209">
-        <mark key="[" line="200" column="6" />
-        <mark key="]" line="200" column="11" />
-        <mark key="^" line="200" column="11" />
-        <mark key="." line="200" column="11" />
-      </file>
       <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/utils/setting-validations.ts" timestamp="1531413868609">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -137,10 +131,10 @@
         <mark key="^" line="350" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/runner.ts" timestamp="1528313416824">
-        <mark key="[" line="195" column="24" />
-        <mark key="]" line="195" column="30" />
-        <mark key="^" line="195" column="30" />
-        <mark key="." line="195" column="30" />
+        <mark key="[" line="199" column="24" />
+        <mark key="]" line="199" column="30" />
+        <mark key="^" line="199" column="30" />
+        <mark key="." line="199" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/base.py" timestamp="1483934669188">
         <mark key="[" line="7" column="0" />
@@ -190,6 +184,7 @@
       <file name="/Python Console" timestamp="1524598595625">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/ui/snack-bar/snack-item.vue" timestamp="1531428560295" />
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="23" />
