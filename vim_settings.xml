@@ -25,6 +25,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/setting-storage.ts" timestamp="1531413699532">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="74" column="28" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -47,8 +53,16 @@
         <mark key="^" line="105" column="28" />
         <mark key="." line="105" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/pages/settings.vue" timestamp="1523643420084">
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/pages/settings.vue" timestamp="1531413942209">
+        <mark key="[" line="200" column="6" />
+        <mark key="]" line="200" column="11" />
+        <mark key="^" line="200" column="11" />
+        <mark key="." line="200" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/utils/setting-validations.ts" timestamp="1531413868609">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/data-comparison/interfaces/data-comparison.ts" timestamp="1488581786733">
         <mark key="[" line="12" column="67" />
@@ -145,7 +159,6 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/libraries/mappings.ts" timestamp="1530211795357" />
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/portal.ts" timestamp="1522189278428">
         <mark key="[" line="98" column="6" />
         <mark key="]" line="98" column="11" />
@@ -418,46 +431,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBmaW5pc2goKTogUHJvbWlzZTx2b2lkPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Browser</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVhZG9ubHkg</text>
+        <text encoding="base64">IHJlYWRvbmx5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBmaW5pc2goKTogUHJvbWlzZTx2b2lkPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBvcGVuUmV2aWV3UGFuZWwoKTogUHJvbWlzZTx2b2lkPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gZXZlbnROYW1lCg==</text>
+        <text encoding="base64">ICAvLyBmaW5pc2goKTogUHJvbWlzZTx2b2lkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAvLyBvcGVuUmV2aWV3UGFuZWwoKTogUHJvbWlzZTx2b2lkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gZXZlbnROYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByZWRpY3Rpb25SZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGZpbmFsbHkgewogICAgICBjb25zb2xlLmxvZygyKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHByZWRpY3Rpb25SZXN1bHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
