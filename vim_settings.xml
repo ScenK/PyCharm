@@ -31,11 +31,6 @@
         <mark key="^" line="74" column="28" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/__init__.py" timestamp="1483930868417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -85,6 +80,11 @@
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot/runner.ts" timestamp="1536091522867">
+        <mark key="[" line="198" column="42" />
+        <mark key="]" line="198" column="42" />
+        <mark key="." line="198" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/navigator.ts" timestamp="1522772439751">
         <mark key="[" line="45" column="0" />
@@ -184,7 +184,6 @@
       <file name="/Python Console" timestamp="1524598595625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot/src/renderer/components/ui/snack-bar/snack-item.vue" timestamp="1531428560295" />
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/config.py" timestamp="1483930515949">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="23" />
@@ -246,6 +245,11 @@
         <mark key="]" line="32" column="19" />
         <mark key="." line="32" column="10" />
         <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/setup.py" timestamp="1509654660688">
         <mark key="[" line="21" column="37" />
@@ -425,8 +429,8 @@
       <jump line="96" column="36" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="e" type="4">
         <text />
