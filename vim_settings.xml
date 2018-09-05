@@ -319,6 +319,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot-client/src/core/extractor/extractor.ts" timestamp="1536177457764">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1518559867004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -429,14 +435,14 @@
       <jump line="96" column="36" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGVzIH0gZnJvbSAnLi4vZGF0YScK</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
@@ -445,31 +451,31 @@
         <text encoding="base64">IHJlYWRvbmx5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogdHNsaW50OmRpc2FibGUgKi8K</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGVzIH0gZnJvbSAnLi4vZGF0YScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LyogdHNsaW50OmRpc2FibGUgKi8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBmaW5pc2goKTogUHJvbWlzZTx2b2lkPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBvcGVuUmV2aWV3UGFuZWwoKTogUHJvbWlzZTx2b2lkPgo=</text>
+        <text encoding="base64">ICAvLyBmaW5pc2goKTogUHJvbWlzZTx2b2lkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gZXZlbnROYW1lCg==</text>
+        <text encoding="base64">ICAvLyBvcGVuUmV2aWV3UGFuZWwoKTogUHJvbWlzZTx2b2lkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gZXZlbnROYW1lCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
