@@ -91,13 +91,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Model/app.py" timestamp="1524599027981">
-        <mark key="'" line="96" column="36" />
-        <mark key="[" line="129" column="36" />
-        <mark key="]" line="129" column="36" />
-        <mark key="." line="129" column="36" />
-        <mark key="^" line="129" column="36" />
-      </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot-client/src/core/mappings/mappings.ts" timestamp="1536175754154">
         <mark key="[" line="213" column="37" />
         <mark key="]" line="213" column="37" />
@@ -234,11 +227,24 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot-client/src/core/keywords/tools.ts" timestamp="1536176607023">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/prediction/model-provider.ts" timestamp="1529511309148">
         <mark key="[" line="32" column="10" />
         <mark key="]" line="32" column="19" />
         <mark key="." line="32" column="10" />
         <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot-client/src/core/keywords/item.ts" timestamp="1536176802989">
+        <mark key="[" line="161" column="52" />
+        <mark key="]" line="161" column="52" />
+        <mark key="." line="161" column="52" />
+      </file>
+      <file name="/JSRegexp Fragment (item.ts:5063).regexp" timestamp="1536176702105">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
         <mark key="[" line="1" column="0" />
@@ -424,13 +430,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>values</text>
+        <text>\</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
@@ -439,31 +445,31 @@
         <text encoding="base64">IHJlYWRvbmx5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LyogdHNsaW50OmRpc2FibGUgKi8K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBmaW5pc2goKTogUHJvbWlzZTx2b2lkPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBvcGVuUmV2aWV3UGFuZWwoKTogUHJvbWlzZTx2b2lkPgo=</text>
+        <text encoding="base64">ICAvLyBmaW5pc2goKTogUHJvbWlzZTx2b2lkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gZXZlbnROYW1lCg==</text>
+        <text encoding="base64">ICAvLyBvcGVuUmV2aWV3UGFuZWwoKTogUHJvbWlzZTx2b2lkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gZXZlbnROYW1lCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByZWRpY3Rpb25SZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
