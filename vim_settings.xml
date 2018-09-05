@@ -98,6 +98,11 @@
         <mark key="." line="129" column="36" />
         <mark key="^" line="129" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot-client/src/core/mappings/mappings.ts" timestamp="1536175754154">
+        <mark key="[" line="213" column="37" />
+        <mark key="]" line="213" column="37" />
+        <mark key="." line="213" column="37" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/data-extraction.ts" timestamp="1488208942711">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="71" />
@@ -121,9 +126,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="1008" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/answer.ts" timestamp="1522771299383">
-        <mark key="^" line="350" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot/src/renderer/modules/runner.ts" timestamp="1528313416824">
         <mark key="[" line="199" column="24" />
@@ -191,9 +193,6 @@
       </file>
       <file name="/fragment.ts" timestamp="1522773033103">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/answer-screenshot.ts" timestamp="1517867244123">
-        <mark key="^" line="81" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/common.py" timestamp="1494605466642">
         <mark key="[" line="11" column="11" />
@@ -425,13 +424,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>values</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
