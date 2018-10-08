@@ -160,6 +160,7 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1539012101186" />
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -193,7 +194,7 @@
       <file name="/fragment.ts" timestamp="1522773033103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1539010879706">
+      <file name="/JavaScript Console" timestamp="1539012141261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/common.py" timestamp="1494605466642">
