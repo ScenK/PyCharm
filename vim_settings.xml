@@ -53,6 +53,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" timestamp="1537473429918">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="6" column="2" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/data-comparison/interfaces/data-comparison.ts" timestamp="1488581786733">
         <mark key="[" line="12" column="67" />
         <mark key="]" line="12" column="79" />
@@ -154,6 +160,7 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1539012101186" />
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -187,6 +194,9 @@
       <file name="/fragment.ts" timestamp="1522773033103">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1539012141261">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Linter/common.py" timestamp="1494605466642">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="12" />
@@ -210,7 +220,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524596666107">
+      <file name="/Dummy.txt" timestamp="1539011284357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -333,8 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="2" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/tools/reverse_contrast.robot" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
       <jump line="45" column="19" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
       <jump line="10" column="36" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
@@ -433,16 +441,18 @@
       <jump line="56" column="28" filename="$USER_HOME$/Develop/QABot/modules/data-extraction/extractors/helpers/excel-operator.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
       <jump line="96" column="36" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
+      <jump line="6" column="2" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" />
+      <jump line="63" column="0" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhdGVzIH0gZnJvbSAnLi4vZGF0YScK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
