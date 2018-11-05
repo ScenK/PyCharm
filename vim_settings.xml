@@ -114,11 +114,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" timestamp="1541449485569">
-        <mark key="[" line="305" column="8" />
-        <mark key="]" line="305" column="8" />
-        <mark key="^" line="404" column="13" />
-        <mark key="." line="305" column="8" />
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" timestamp="1541451537139">
+        <mark key="'" line="538" column="0" />
+        <mark key="[" line="400" column="10" />
+        <mark key="]" line="400" column="16" />
+        <mark key="^" line="398" column="15" />
+        <mark key="." line="400" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/task.py" timestamp="1483929326587">
         <mark key="[" line="0" column="14" />
@@ -167,11 +168,11 @@
         <mark key="." line="32" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1541449736093">
-        <mark key="'" line="300" column="29" />
-        <mark key="[" line="339" column="6" />
-        <mark key="]" line="339" column="11" />
-        <mark key="^" line="339" column="11" />
-        <mark key="." line="339" column="11" />
+        <mark key="'" line="303" column="29" />
+        <mark key="[" line="342" column="6" />
+        <mark key="]" line="342" column="11" />
+        <mark key="^" line="342" column="11" />
+        <mark key="." line="342" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
         <mark key="[" line="7" column="0" />
@@ -290,11 +291,10 @@
         <mark key="^" line="507" column="13" />
         <mark key="." line="507" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/grabber.ts" timestamp="1541449987368">
-        <mark key="[" line="963" column="6" />
-        <mark key="]" line="963" column="12" />
-        <mark key="." line="963" column="6" />
-        <mark key="^" line="959" column="13" />
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/grabber.ts" timestamp="1541451658549">
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="0" />
+        <mark key="." line="278" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/common/autoupdater.js" timestamp="1519847563869">
         <mark key="[" line="41" column="9" />
@@ -367,7 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="19" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
       <jump line="10" column="36" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
       <jump line="42" column="16" filename="$USER_HOME$/Develop/AutomationTesting/data/tests_events/events.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/data/tests_events/events.yaml" />
@@ -467,10 +466,11 @@
       <jump line="6" column="2" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" />
       <jump line="63" column="0" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" />
       <jump line="300" column="29" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" />
+      <jump line="539" column="0" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGZvciAoY29uc3QgaSBvZiBvcGl0b24pCg==</text>
       </register>
       <register name="e" type="4">
         <text />
@@ -479,46 +479,46 @@
         <text encoding="base64">LnRoZW4oKCkgPT4gew==</text>
       </register>
       <register name="/" type="4">
-        <text>this.client</text>
+        <text>itemsWalk</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGZvciAoY29uc3QgaSBvZiBvcGl0b24pCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKHJlcykgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKHJlcykgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGprCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgfSkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGprCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oYXN5bmMgKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search>this.client</last-search>
+      <last-search>itemsWalk</last-search>
       <last-offset />
-      <last-pattern>this.client</last-pattern>
+      <last-pattern>itemsWalk</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>this.client</last-substitute>
       <last-dir>1</last-dir>
@@ -526,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sketch with shared</entry>
         <entry>actions</entry>
         <entry>actiopn</entry>
         <entry>masking</entry>
@@ -546,6 +545,7 @@
         <entry>123123123</entry>
         <entry encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</entry>
         <entry>this.client</entry>
+        <entry>itemsWalk</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
