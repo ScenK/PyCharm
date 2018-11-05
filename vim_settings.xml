@@ -114,6 +114,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" timestamp="1541449485569">
+        <mark key="[" line="305" column="8" />
+        <mark key="]" line="305" column="8" />
+        <mark key="^" line="404" column="13" />
+        <mark key="." line="305" column="8" />
+      </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/task.py" timestamp="1483929326587">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -160,12 +166,12 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1541442968423">
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1541449736093">
         <mark key="'" line="300" column="29" />
-        <mark key="[" line="397" column="40" />
-        <mark key="]" line="397" column="45" />
-        <mark key="^" line="397" column="45" />
-        <mark key="." line="397" column="45" />
+        <mark key="[" line="339" column="6" />
+        <mark key="]" line="339" column="11" />
+        <mark key="^" line="339" column="11" />
+        <mark key="." line="339" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
         <mark key="[" line="7" column="0" />
@@ -284,6 +290,12 @@
         <mark key="^" line="507" column="13" />
         <mark key="." line="507" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/grabber.ts" timestamp="1541449987368">
+        <mark key="[" line="963" column="6" />
+        <mark key="]" line="963" column="12" />
+        <mark key="." line="963" column="6" />
+        <mark key="^" line="959" column="13" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/common/autoupdater.js" timestamp="1519847563869">
         <mark key="[" line="41" column="9" />
         <mark key="]" line="41" column="10" />
@@ -340,6 +352,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/portal.ts" timestamp="1541450404421">
+        <mark key="[" line="162" column="10" />
+        <mark key="]" line="162" column="15" />
+        <mark key="." line="162" column="15" />
+        <mark key="^" line="162" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/grabber.ts" timestamp="1518559867004">
         <mark key="[" line="0" column="0" />
@@ -451,14 +469,14 @@
       <jump line="300" column="29" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">LnRoZW4oKCkgPT4gew==</text>
       </register>
       <register name="/" type="4">
         <text>this.client</text>
@@ -467,31 +485,31 @@
         <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKHJlcykgPT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKGhhc1NpZ25PdXRCdG4pID0+IHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgfSkK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIGprCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oYXN5bmMgKCkgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
@@ -502,7 +520,7 @@
       <last-offset />
       <last-pattern>this.client</last-pattern>
       <last-replace>Guideline</last-replace>
-      <last-substitute>Line Reader</last-substitute>
+      <last-substitute>this.client</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
