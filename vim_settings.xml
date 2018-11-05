@@ -160,11 +160,12 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1541440032981">
-        <mark key="[" line="110" column="6" />
-        <mark key="]" line="110" column="12" />
-        <mark key="^" line="104" column="15" />
-        <mark key="." line="110" column="6" />
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1541442968423">
+        <mark key="'" line="300" column="29" />
+        <mark key="[" line="397" column="40" />
+        <mark key="]" line="397" column="45" />
+        <mark key="^" line="397" column="45" />
+        <mark key="." line="397" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
         <mark key="[" line="7" column="0" />
@@ -225,7 +226,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539011284357">
+      <file name="/Dummy.txt" timestamp="1541442820980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -348,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
       <jump line="45" column="19" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
       <jump line="10" column="36" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
       <jump line="42" column="16" filename="$USER_HOME$/Develop/AutomationTesting/data/tests_events/events.yaml" />
@@ -448,6 +448,7 @@
       <jump line="96" column="36" filename="$USER_HOME$/Develop/iQBot-Model/app.py" />
       <jump line="6" column="2" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" />
       <jump line="63" column="0" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" />
+      <jump line="300" column="29" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -460,7 +461,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</text>
+        <text>this.client</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YXdhaXQg</text>
@@ -493,21 +494,20 @@
         <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</last-search>
+      <last-search>this.client</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</last-pattern>
+      <last-pattern>this.client</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>Line Reader</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>math session test read</entry>
         <entry>sketch with shared</entry>
         <entry>actions</entry>
         <entry>actiopn</entry>
@@ -527,6 +527,7 @@
         <entry>scrub</entry>
         <entry>123123123</entry>
         <entry encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</entry>
+        <entry>this.client</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
@@ -542,11 +543,11 @@
         <entry>bn!</entry>
         <entry>NERDTreeToggle</entry>
         <entry>NERDTreeMirror</entry>
-        <entry>action FindNext</entry>
         <entry encoding="base64">JzwsJz5ibiE=</entry>
         <entry encoding="base64">JzwsJz5icCE=</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
