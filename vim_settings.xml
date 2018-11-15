@@ -87,6 +87,11 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot/runner.ts" timestamp="1542297494080">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/navigator.ts" timestamp="1522772439751">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -470,7 +475,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uc3QgaSBvZiBvcGl0b24pCg==</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="e" type="4">
         <text />
@@ -485,31 +490,31 @@
         <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uc3QgaSBvZiBvcGl0b24pCg==</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGZvciAoY29uc3QgaSBvZiBvcGl0b24pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKHJlcykgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKHJlcykgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGprCg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGprCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
