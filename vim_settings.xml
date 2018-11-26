@@ -202,7 +202,7 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1524598595625">
+      <file name="/Python Console" timestamp="1543252275376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/runner.ts" timestamp="1542314636248">
@@ -214,6 +214,11 @@
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/interfaces/extractors/answer-screenshot.ts" timestamp="1517238949754">
         <mark key="[" line="0" column="0" />
@@ -291,11 +296,6 @@
       <file name="/JSRegexp Fragment (item.ts:5063).regexp" timestamp="1536176702105">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1509394211289">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/setup.py" timestamp="1509654660688">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="3" />
@@ -329,6 +329,7 @@
         <mark key="]" line="978" column="0" />
         <mark key="." line="978" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/libraries/ChromeLibrary.py" timestamp="1543252129939" />
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/logger.ts" timestamp="1499375990686">
         <mark key="[" line="180" column="20" />
         <mark key="]" line="180" column="24" />
