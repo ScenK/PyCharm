@@ -126,12 +126,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" timestamp="1541451537139">
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" timestamp="1543445838090">
         <mark key="'" line="538" column="0" />
-        <mark key="[" line="400" column="10" />
-        <mark key="]" line="400" column="16" />
-        <mark key="^" line="398" column="15" />
-        <mark key="." line="400" column="10" />
+        <mark key="[" line="362" column="8" />
+        <mark key="]" line="362" column="13" />
+        <mark key="^" line="362" column="13" />
+        <mark key="." line="362" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/task.py" timestamp="1483929326587">
         <mark key="[" line="0" column="14" />
@@ -179,12 +179,12 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1541449736093">
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1543445875639">
         <mark key="'" line="303" column="29" />
-        <mark key="[" line="342" column="6" />
-        <mark key="]" line="342" column="11" />
-        <mark key="^" line="342" column="11" />
-        <mark key="." line="342" column="11" />
+        <mark key="[" line="523" column="6" />
+        <mark key="]" line="523" column="11" />
+        <mark key="^" line="523" column="11" />
+        <mark key="." line="523" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
         <mark key="[" line="7" column="0" />
