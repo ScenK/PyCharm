@@ -216,6 +216,9 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot/utils/excel-operator.ts" timestamp="1543435073428">
+        <mark key="[" line="2" column="8" />
+      </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/interfaces/extractors/answer-screenshot.ts" timestamp="1517238949754">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -341,6 +344,11 @@
         <mark key="]" line="180" column="24" />
         <mark key="." line="180" column="24" />
         <mark key="^" line="180" column="24" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot/utils/controller.ts" timestamp="1543434908201">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/mapping.json" timestamp="1493045992417">
         <mark key="[" line="71" column="24" />
