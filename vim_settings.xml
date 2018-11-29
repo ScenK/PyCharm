@@ -126,12 +126,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" timestamp="1543445838090">
-        <mark key="'" line="538" column="0" />
-        <mark key="[" line="362" column="8" />
-        <mark key="]" line="362" column="13" />
-        <mark key="^" line="362" column="13" />
-        <mark key="." line="362" column="13" />
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" timestamp="1543509045263">
+        <mark key="'" line="346" column="90" />
+        <mark key="[" line="417" column="4" />
+        <mark key="]" line="417" column="9" />
+        <mark key="^" line="417" column="9" />
+        <mark key="." line="417" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/Dev_Blog_Webservice/ws/task.py" timestamp="1483929326587">
         <mark key="[" line="0" column="14" />
@@ -410,7 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="21" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="40" column="50" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="5" column="27" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
@@ -510,6 +509,7 @@
       <jump line="322" column="6" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/iqbot/main.vue" />
       <jump line="134" column="2" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/iqbot/main.vue" />
       <jump line="396" column="9" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/iqbot/main.vue" />
+      <jump line="346" column="90" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -522,7 +522,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>this.excel</text>
+        <text>batchAnswerMC</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YXdhaXQg</text>
@@ -559,9 +559,9 @@
       </register>
     </registers>
     <search>
-      <last-search>this.excel</last-search>
+      <last-search>batchAnswerMC</last-search>
       <last-offset />
-      <last-pattern>this.excel</last-pattern>
+      <last-pattern>batchAnswerMC</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>this.client</last-substitute>
       <last-dir>1</last-dir>
@@ -569,8 +569,6 @@
     </search>
     <history>
       <history-search>
-        <entry>masking</entry>
-        <entry>conso</entry>
         <entry>env</entry>
         <entry>`12`12`12</entry>
         <entry>session</entry>
@@ -589,6 +587,8 @@
         <entry>itemsWalk</entry>
         <entry>this.mode === '</entry>
         <entry>this.excel</entry>
+        <entry>detectOeItem</entry>
+        <entry>batchAnswerMC</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
