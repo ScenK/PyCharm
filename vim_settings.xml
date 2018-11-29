@@ -94,10 +94,10 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot/runner.ts" timestamp="1542298853395">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/iqbot/runner.ts" timestamp="1543524008889">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/navigator/navigator.ts" timestamp="1522772439751">
         <mark key="[" line="45" column="0" />
@@ -512,8 +512,8 @@
       <jump line="346" column="90" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZQo=</text>
       </register>
       <register name="e" type="4">
         <text />
@@ -522,46 +522,46 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>batchAnswerMC</text>
+        <text>clientSessionStart</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBiYXRjaEluZm86IEFycmF5PHNpbmdsZVVzZXI+ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29udGVudCB9ID0gcGF5bG9hZAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBiYXRjaEluZm86IEFycmF5PHNpbmdsZVVzZXI+ID0gW10K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBsb2cgPSBgWyR7bGV2ZWx9XSAke2NvbnRlbnR9YAogICAgaWYgKGxldmVsID09PSAndmVyYm9zZScpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY29udGVudCB9ID0gcGF5bG9hZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZlcmJvc2U/OiBhbnkKICBwcml2YXRlIGVtaXQ/OiBhbnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBqa2pqampqago=</text>
+        <text encoding="base64">ICAgIGxldCBsb2cgPSBgWyR7bGV2ZWx9XSAke2NvbnRlbnR9YAogICAgaWYgKGxldmVsID09PSAndmVyYm9zZScpIHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZlcmJvc2U/OiBhbnkKICBwcml2YXRlIGVtaXQ/OiBhbnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uc3QgaSBvZiBvcGl0b24pCg==</text>
+        <text encoding="base64">ICBqa2pqampqago=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search>batchAnswerMC</last-search>
+      <last-search>clientSessionStart</last-search>
       <last-offset />
-      <last-pattern>batchAnswerMC</last-pattern>
+      <last-pattern>clientSessionStart</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>this.client</last-substitute>
       <last-dir>1</last-dir>
@@ -569,7 +569,6 @@
     </search>
     <history>
       <history-search>
-        <entry>env</entry>
         <entry>`12`12`12</entry>
         <entry>session</entry>
         <entry>exit</entry>
@@ -589,6 +588,7 @@
         <entry>this.excel</entry>
         <entry>detectOeItem</entry>
         <entry>batchAnswerMC</entry>
+        <entry>clientSessionStart</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
