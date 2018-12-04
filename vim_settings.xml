@@ -205,6 +205,13 @@
       <file name="/Python Console" timestamp="1543252275376">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/fabfile.py" timestamp="1543939778705">
+        <mark key="'" line="11" column="57" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="62" column="66" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/runner.ts" timestamp="1542314636248">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -253,6 +260,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
         <mark key="^" line="455" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/reporter/JIRAReporter.py" timestamp="1543939976211">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/02_tools.robot" timestamp="1483568032276">
         <mark key="[" line="4" column="27" />
@@ -329,12 +342,23 @@
         <mark key="]" line="978" column="0" />
         <mark key="." line="978" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/libraries/Core-iTester/libraries/ChromeLibrary.py" timestamp="1543252129939" />
       <file name="$USER_HOME$/Develop/QABot/modules/data-extraction/logger.ts" timestamp="1499375990686">
         <mark key="[" line="180" column="20" />
         <mark key="]" line="180" column="24" />
         <mark key="." line="180" column="24" />
         <mark key="^" line="180" column="24" />
+      </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/reporter/ConfluenceReporter.py" timestamp="1543940280828">
+        <mark key="[" line="54" column="83" />
+        <mark key="]" line="54" column="84" />
+        <mark key="^" line="54" column="84" />
+        <mark key="." line="54" column="84" />
+      </file>
+      <file name="$USER_HOME$/Develop/Static-iTester/reporter/Reporter.py" timestamp="1543940434642">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="40" />
+        <mark key="^" line="22" column="48" />
+        <mark key="." line="28" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Generator/mapping.json" timestamp="1493045992417">
         <mark key="[" line="71" column="24" />
@@ -390,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="36" filename="$USER_HOME$/Develop/AutomationTesting/resources/navigation/timeout.robot" />
       <jump line="42" column="16" filename="$USER_HOME$/Develop/AutomationTesting/data/tests_events/events.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/AutomationTesting/data/tests_events/events.yaml" />
       <jump line="20" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
@@ -490,58 +513,59 @@
       <jump line="63" column="0" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" />
       <jump line="300" column="29" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" />
       <jump line="539" column="0" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" />
+      <jump line="12" column="57" filename="$USER_HOME$/Develop/Static-iTester/fabfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">J2xpYnJhcmllcycsIA==</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">J2xpYnJhcmllcycsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>itemsWalk</text>
+        <text>re</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YXdhaXQg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bHRvZGljdC5leHBhdC5FeHBhdEVycm9yOgogICAgICAgICAgICBwcmludCA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29udGVudCB9ID0gcGF5bG9hZAo=</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBsb2cgPSBgWyR7bGV2ZWx9XSAke2NvbnRlbnR9YAogICAgaWYgKGxldmVsID09PSAndmVyYm9zZScpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY29udGVudCB9ID0gcGF5bG9hZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZlcmJvc2U/OiBhbnkKICBwcml2YXRlIGVtaXQ/OiBhbnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBqa2pqampqago=</text>
+        <text encoding="base64">ICAgIGxldCBsb2cgPSBgWyR7bGV2ZWx9XSAke2NvbnRlbnR9YAogICAgaWYgKGxldmVsID09PSAndmVyYm9zZScpIHsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZlcmJvc2U/OiBhbnkKICBwcml2YXRlIGVtaXQ/OiBhbnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uc3QgaSBvZiBvcGl0b24pCg==</text>
+        <text encoding="base64">ICBqa2pqampqago=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-search>itemsWalk</last-search>
+      <last-search>re</last-search>
       <last-offset />
-      <last-pattern>itemsWalk</last-pattern>
+      <last-pattern>re</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>this.client</last-substitute>
       <last-dir>1</last-dir>
@@ -549,7 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>actions</entry>
         <entry>actiopn</entry>
         <entry>masking</entry>
         <entry>conso</entry>
@@ -569,6 +592,7 @@
         <entry encoding="base64">XDxDaHJvbWVEcml2ZXJcPg==</entry>
         <entry>this.client</entry>
         <entry>itemsWalk</entry>
+        <entry>re</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
