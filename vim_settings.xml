@@ -261,8 +261,8 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="455" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/reporter/JIRAReporter.py" timestamp="1543939976211">
-        <mark key="[" line="6" column="5" />
+      <file name="$USER_HOME$/Develop/Static-iTester/reporter/JIRAReporter.py" timestamp="1543941248050">
+        <mark key="[" line="40" column="18" />
         <mark key="]" line="6" column="21" />
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
@@ -348,11 +348,11 @@
         <mark key="." line="180" column="24" />
         <mark key="^" line="180" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/Static-iTester/reporter/ConfluenceReporter.py" timestamp="1543940280828">
-        <mark key="[" line="54" column="83" />
-        <mark key="]" line="54" column="84" />
-        <mark key="^" line="54" column="84" />
-        <mark key="." line="54" column="84" />
+      <file name="$USER_HOME$/Develop/Static-iTester/reporter/ConfluenceReporter.py" timestamp="1543941513243">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="42" />
+        <mark key="^" line="68" column="42" />
+        <mark key="." line="68" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/reporter/Reporter.py" timestamp="1543940434642">
         <mark key="[" line="28" column="40" />
@@ -517,13 +517,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">J2xpYnJhcmllcycsIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J2xpYnJhcmllcycsIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>re</text>
@@ -531,32 +531,32 @@
       <register name="0" type="4">
         <text encoding="base64">YXdhaXQg</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZSA9IHNlbGYuajJfZW52LmdldF90ZW1wbGF0ZSgnY29uZl9yZXBvcnRfdGVtcC5qMicpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">bHRvZGljdC5leHBhdC5FeHBhdEVycm9yOgogICAgICAgICAgICBwcmludCA=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29udGVudCB9ID0gcGF5bG9hZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY29udGVudCB9ID0gcGF5bG9hZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBsb2cgPSBgWyR7bGV2ZWx9XSAke2NvbnRlbnR9YAogICAgaWYgKGxldmVsID09PSAndmVyYm9zZScpIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZlcmJvc2U/OiBhbnkKICBwcml2YXRlIGVtaXQ/OiBhbnkK</text>
+        <text encoding="base64">ICAgIGxldCBsb2cgPSBgWyR7bGV2ZWx9XSAke2NvbnRlbnR9YAogICAgaWYgKGxldmVsID09PSAndmVyYm9zZScpIHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBqa2pqampqago=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZlcmJvc2U/OiBhbnkKICBwcml2YXRlIGVtaXQ/OiBhbnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICBqa2pqampqago=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
