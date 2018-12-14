@@ -81,6 +81,13 @@
         <mark key="^" line="60" column="9" />
         <mark key="." line="60" column="9" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/entry/portal.ts" timestamp="1544820256180">
+        <mark key="'" line="78" column="7" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="100" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/iqbot/main.vue" timestamp="1543433677482">
         <mark key="'" line="396" column="9" />
         <mark key="[" line="124" column="40" />
@@ -108,6 +115,11 @@
         <mark key="[" line="213" column="37" />
         <mark key="]" line="213" column="37" />
         <mark key="." line="213" column="37" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/locators.ts" timestamp="1544819412478">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/QABot/data-extraction/data-extraction.ts" timestamp="1488208942711">
         <mark key="[" line="48" column="0" />
@@ -369,6 +381,12 @@
         <mark key="^" line="131" column="12" />
         <mark key="." line="131" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/entry/student.ts" timestamp="1544820038143">
+        <mark key="[" line="205" column="6" />
+        <mark key="]" line="205" column="11" />
+        <mark key="^" line="205" column="11" />
+        <mark key="." line="205" column="11" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_operational_test.robot" timestamp="1483636917692">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="15" column="39" />
@@ -405,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="40" column="50" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="5" column="27" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="7" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
@@ -505,49 +522,50 @@
       <jump line="134" column="2" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/iqbot/main.vue" />
       <jump line="396" column="9" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/iqbot/main.vue" />
       <jump line="346" column="90" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" />
+      <jump line="78" column="7" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/entry/portal.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>clientSessionStart</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IHVybDogc3RyaW5nCiAgcHJpdmF0ZSB1c2VybmFtZTogc3RyaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBiYXRjaEluZm86IEFycmF5PHNpbmdsZVVzZXI+ID0gW10K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGpramoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGpramoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc3RhcnRDaHJvbWVkcml2ZXIoKS5jYXRjaCgoZXJyKSA9PiB7CiAgICAgIAogICAgfSkKCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29udGVudCB9ID0gcGF5bG9hZAo=</text>
+        <text encoding="base64">ICAgICAgLy8gLndpbmRvd0hhbmRsZU1heGltaXplKCkKICAgICAgLy8gSUFULTcyNSBjb21tZW50CiAgICAgIC8vIC50aW1lb3V0cygncGFnZSBsb2FkJywgKDxhbnk+bG9jYWxWYXJpYWJsZXMpLnBhZ2VMb2FkIHx8IHZhcmlhYmxlcy5wYWdlTG9hZCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBsb2cgPSBgWyR7bGV2ZWx9XSAke2NvbnRlbnR9YAogICAgaWYgKGxldmVsID09PSAndmVyYm9zZScpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGMgPSB0aGlzLmNocm9tZWRyaXZlci5zdGFydChjaGlsZEFyZ3MpCiAgICAvLyBpZiAoIWMpIHsKICAgIC8vICAgY29uc29sZS5sb2coJ0Nocm9tZWRyaXZlciBkaWRuXCd0IHN0YXJ0IHN1Y2Nlc3NmdWxseSwgcmV0cnlpbmcuLi4nKQogICAgLy8gICB0aGlzLnN0YXJ0Q2hyb21lZHJpdmVyKCkKICAgIC8vIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZlcmJvc2U/OiBhbnkKICBwcml2YXRlIGVtaXQ/OiBhbnkK</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5pdFdlYkRyaXZlckNsaWVudCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqa2pqampqago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
