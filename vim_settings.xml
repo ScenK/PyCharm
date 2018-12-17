@@ -83,10 +83,6 @@
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/entry/portal.ts" timestamp="1544820256180">
         <mark key="'" line="78" column="7" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="100" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/iqbot/main.vue" timestamp="1543433677482">
         <mark key="'" line="396" column="9" />
@@ -382,10 +378,10 @@
         <mark key="." line="131" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/entry/student.ts" timestamp="1544820038143">
-        <mark key="[" line="205" column="6" />
-        <mark key="]" line="205" column="11" />
-        <mark key="^" line="205" column="11" />
-        <mark key="." line="205" column="11" />
+        <mark key="[" line="202" column="6" />
+        <mark key="]" line="202" column="11" />
+        <mark key="^" line="202" column="11" />
+        <mark key="." line="202" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/Static-iTester/tests/smoke/03_operational_test.robot" timestamp="1483636917692">
         <mark key="[" line="4" column="17" />
