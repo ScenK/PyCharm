@@ -182,8 +182,8 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1543445875639">
-        <mark key="'" line="303" column="29" />
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1545168241537">
+        <mark key="'" line="633" column="0" />
         <mark key="[" line="523" column="6" />
         <mark key="]" line="523" column="11" />
         <mark key="^" line="523" column="11" />
@@ -419,7 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="50" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="5" column="27" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="7" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/AutomationTesting/tests/regression/timeout/timeout_occurs_when_student_is_online_and_outside_of_session.robot" />
@@ -519,6 +518,7 @@
       <jump line="396" column="9" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/iqbot/main.vue" />
       <jump line="346" column="90" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" />
       <jump line="78" column="7" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/entry/portal.ts" />
+      <jump line="633" column="0" filename="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -531,7 +531,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>clientSessionStart</text>
+        <text>batchAnswerMc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IHVybDogc3RyaW5nCiAgcHJpdmF0ZSB1c2VybmFtZTogc3RyaW5nCg==</text>
@@ -568,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clientSessionStart</last-search>
+      <last-search>batchAnswerMc</last-search>
       <last-offset />
-      <last-pattern>clientSessionStart</last-pattern>
+      <last-pattern>batchAnswerMc</last-pattern>
       <last-replace>Guideline</last-replace>
       <last-substitute>this.client</last-substitute>
       <last-dir>1</last-dir>
@@ -578,8 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry>`12`12`12</entry>
-        <entry>session</entry>
         <entry>exit</entry>
         <entry encoding="base64">XDxCSU5BUllfTE9DQVRJT05cPg==</entry>
         <entry>1231231</entry>
@@ -598,6 +596,8 @@
         <entry>detectOeItem</entry>
         <entry>batchAnswerMC</entry>
         <entry>clientSessionStart</entry>
+        <entry>grabanswers</entry>
+        <entry>batchAnswerMc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlYXJjaCgnYicp</entry>
