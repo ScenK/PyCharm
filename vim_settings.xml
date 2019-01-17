@@ -129,7 +129,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" timestamp="1543509045263">
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/navigator.ts" timestamp="1547742367933">
         <mark key="'" line="346" column="90" />
         <mark key="[" line="417" column="4" />
         <mark key="]" line="417" column="9" />
@@ -181,13 +181,6 @@
         <mark key="[" line="32" column="28" />
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-extraction/navigator/student.ts" timestamp="1545168241537">
-        <mark key="'" line="633" column="0" />
-        <mark key="[" line="523" column="6" />
-        <mark key="]" line="523" column="11" />
-        <mark key="^" line="523" column="11" />
-        <mark key="." line="523" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/xPlay-iTester/libraries/Core_iTester/data/env/QE-ME/users.yaml" timestamp="1493047730590">
         <mark key="[" line="7" column="0" />
