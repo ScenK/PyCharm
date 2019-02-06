@@ -9,16 +9,56 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/keywords/custom.ts" timestamp="1549470661725">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYnVmZmVyOiBjYW52YXNCdWZmZXIsCiAgICAgIHdpZHRoOiBzY3JvbGxXaWR0aCAqIGN1cnJlbnREZXZpY2VQaXhlbFJhdGlvbiwKICAgICAgaGVpZ2h0OiBzY3JvbGxIZWlnaHQgKiBjdXJyZW50RGV2aWNlUGl4ZWxSYXRpb24sCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>scrollHeight * currentDevicePixelRation</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1ldGFkYXRhID0gYXdhaXQgc2hhcnAoY2FudmFzQnVmZmVyKS5tZXRhZGF0YSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudERldmljZVBpeGVsUmF0aW9uID0K</text>
+      </register>
+      <register name=":" type="4">
+        <text>sp</text>
+      </register>
+      <register name="-" type="4">
+        <text>scrollHeight * currentDevicePixelRation</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>vs</entry>
+        <entry>sp</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
