@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/modules/qabot/libraries/data-comparison/data-comparison.ts" timestamp="1550084920640">
+        <mark key="[" line="266" column="37" />
+        <mark key="]" line="266" column="39" />
+        <mark key="^" line="266" column="39" />
+        <mark key="." line="266" column="39" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/FxLibrary.py" timestamp="1548963964043">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
@@ -12,14 +18,14 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYnVmZmVyOiBjYW52YXNCdWZmZXIsCiAgICAgIHdpZHRoOiBzY3JvbGxXaWR0aCAqIGN1cnJlbnREZXZpY2VQaXhlbFJhdGlvbiwKICAgICAgaGVpZ2h0OiBzY3JvbGxIZWlnaHQgKiBjdXJyZW50RGV2aWNlUGl4ZWxSYXRpb24sCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVhZG9ubHkg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>: To support 4K and retina display</text>
+        <text encoding="base64">cmVhZG9ubHkg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
