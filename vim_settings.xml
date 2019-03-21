@@ -3,53 +3,72 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/keywords/item.ts" timestamp="1553203413474" />
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/utils/log-decorator.ts" timestamp="1553203505397">
+        <mark key="[" line="1" column="54" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+      </file>
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" timestamp="1553201653228" />
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/prediction/provider-qabot-student/index.ts" timestamp="1553203583303">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/FxLibrary.py" timestamp="1548963964043">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/keywords/custom.ts" timestamp="1553202024026">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/keywords/custom.ts" timestamp="1553203280291">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1553203687512" />
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmVhZG9ubHkg</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
       <register name="0" type="4">
         <text encoding="base64">cmVhZG9ubHkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50V2lkdGgsCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVhZG9ubHkg</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY3VycmVudERldmljZVBpeGVsUmF0aW9uCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2xpZW50V2lkdGgsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1ldGFkYXRhID0gYXdhaXQgc2hhcnAoY2FudmFzQnVmZmVyKS5tZXRhZGF0YSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1ldGFkYXRhID0gYXdhaXQgc2hhcnAoY2FudmFzQnVmZmVyKS5tZXRhZGF0YSgpCg==</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudERldmljZVBpeGVsUmF0aW9uID0K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
-      </register>
-      <register name="-" type="4">
-        <text>: To support 4K and retina display</text>
       </register>
     </registers>
     <search>
