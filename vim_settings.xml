@@ -3,22 +3,99 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" timestamp="1554145783288">
+        <mark key="'" line="537" column="11" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1554145687288">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/qabot/data-extraction.vue" timestamp="1553884849530">
+        <mark key="[" line="533" column="0" />
+        <mark key="]" line="533" column="0" />
+        <mark key="." line="533" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/prediction/provider-qabot-student/index.ts" timestamp="1553203583303">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/iqbot/main.vue" timestamp="1553884991468">
+        <mark key="[" line="312" column="0" />
+        <mark key="]" line="312" column="0" />
+        <mark key="." line="312" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/FxLibrary.py" timestamp="1548963964043">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/utils/log-decorator.ts" timestamp="1553203505397">
+        <mark key="[" line="1" column="54" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/keywords/custom.ts" timestamp="1553203280291">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="520" column="11" filename="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmVhZG9ubHkg</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">cmVhZG9ubHkg</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHRlc3Qgc3RhcnQKCiAgICAgICAgICAvLyBpbml0IGxvZyBjb250YWluZXIgZm9yIHJlY2V2aWUgdmFsaWRhdGlvbiByZXN1bHQKICAgICAgICAgIHRoaXMuJGxvZ2JveC5pbml0KFNldHRpbmdTdG9yYWdlLnNldHRpbmdzRGF0YS52YXJpYWJsZXMuY2xpZW50cykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHNvbWUgdmFsaWRhdGlvbiByZXN1bHQgd2lsbCBiZSBhZGQgdG8gdGhlIGxvZyBib3gKICAgICAgICAgIC8vIGNsZWFuIGFuZCBpbml0IHRoZSBsb2cgY29udGFpbmVyIGJlZm9yZSB2YWxpZGF0aW9uCiAgICAgICAgICB0aGlzLiRsb2dib3guaW5pdChTZXR0aW5nU3RvcmFnZS5zZXR0aW5nc0RhdGEudmFyaWFibGVzLmNsaWVudHMpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY3VycmVudERldmljZVBpeGVsUmF0aW9uCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY2xpZW50V2lkdGgsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1ldGFkYXRhID0gYXdhaXQgc2hhcnAoY2FudmFzQnVmZmVyKS5tZXRhZGF0YSgpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>vs</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>sp</entry>
+        <entry>vs</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
