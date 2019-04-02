@@ -5,12 +5,12 @@
     <filemarks>
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" timestamp="1554238639400">
         <mark key="'" line="537" column="11" />
-        <mark key="[" line="601" column="2" />
-        <mark key="]" line="601" column="2" />
-        <mark key="." line="601" column="2" />
-        <mark key="^" line="601" column="9" />
+        <mark key="[" line="592" column="2" />
+        <mark key="]" line="592" column="2" />
+        <mark key="." line="592" column="2" />
+        <mark key="^" line="592" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1554239256796">
+      <file name="/JavaScript Console" timestamp="1554241807301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/qabot/data-extraction.vue" timestamp="1553884849530">
@@ -48,7 +48,7 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1554239117303">
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1554241916970">
         <mark key="'" line="559" column="4" />
         <mark key="[" line="530" column="0" />
         <mark key="]" line="530" column="0" />
