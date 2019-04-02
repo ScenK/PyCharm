@@ -3,10 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" timestamp="1554145783288">
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" timestamp="1554238639400">
         <mark key="'" line="537" column="11" />
+        <mark key="[" line="601" column="2" />
+        <mark key="]" line="601" column="2" />
+        <mark key="." line="601" column="2" />
+        <mark key="^" line="601" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1554221751791">
+      <file name="/JavaScript Console" timestamp="1554239256796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/qabot/data-extraction.vue" timestamp="1553884849530">
@@ -25,6 +29,9 @@
         <mark key="]" line="312" column="0" />
         <mark key="." line="312" column="0" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1554239358373">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Static-iTester/libraries/FxLibrary.py" timestamp="1548963964043">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
@@ -41,65 +48,87 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1554222216559" />
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1554239117303">
+        <mark key="'" line="559" column="4" />
+        <mark key="[" line="530" column="0" />
+        <mark key="]" line="530" column="0" />
+        <mark key="." line="530" column="0" />
+        <mark key="^" line="526" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="520" column="11" filename="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" />
+      <jump line="519" column="0" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
+      <jump line="559" column="4" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">cmVhZG9ubHkg</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cmVhZG9ubHkg</text>
+      <register name="/" type="4">
+        <text>turnIn</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgIGlmICghY2xhc3NOYW1lLmluY2x1ZGVzKCdpbnZpc2libGUnKSkgewogICAgICAgIC8vICAgICB0aGlzLmVycm9yKCdDdXJyZW50IHNlc3Npb24gcHJvY3RvciBwYXNzd29yZCBpcyBub3QgY29ycmVjdCcpCiAgICAgICAgLy8gICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHRlc3Qgc3RhcnQKCiAgICAgICAgICAvLyBpbml0IGxvZyBjb250YWluZXIgZm9yIHJlY2V2aWUgdmFsaWRhdGlvbiByZXN1bHQKICAgICAgICAgIHRoaXMuJGxvZ2JveC5pbml0KFNldHRpbmdTdG9yYWdlLnNldHRpbmdzRGF0YS52YXJpYWJsZXMuY2xpZW50cykK</text>
+        <text encoding="base64">ICAgICAgICAvLyAoPGFueT50aGlzKS5jbGllbnQuZ2V0QXR0cmlidXRlKGxvY2F0b3JzLnNlc3Npb24ucHJvY01lc3NhZ2UsICdjbGFzcycpLnRoZW4oKGNsYXNzTmFtZTogYW55KSA9PiB7CiAgICAgICAgLy8gICBpZiAoIWNsYXNzTmFtZS5pbmNsdWRlcygnaW52aXNpYmxlJykpIHsKICAgICAgICAvLyAgICAgdGhpcy5lcnJvcignQ3VycmVudCBzZXNzaW9uIHByb2N0b3IgcGFzc3dvcmQgaXMgbm90IGNvcnJlY3QnKQogICAgICAgIC8vICAgfQogICAgICAgIC8vIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHNvbWUgdmFsaWRhdGlvbiByZXN1bHQgd2lsbCBiZSBhZGQgdG8gdGhlIGxvZyBib3gKICAgICAgICAgIC8vIGNsZWFuIGFuZCBpbml0IHRoZSBsb2cgY29udGFpbmVyIGJlZm9yZSB2YWxpZGF0aW9uCiAgICAgICAgICB0aGlzLiRsb2dib3guaW5pdChTZXR0aW5nU3RvcmFnZS5zZXR0aW5nc0RhdGEudmFyaWFibGVzLmNsaWVudHMpCg==</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvblByb2NNc2cuZ2V0QXR0cmlidXRlKCdjbGFzcycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvblByb2NNc2cuZ2V0QXR0cmlidXRlKCdjbGFzcycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudERldmljZVBpeGVsUmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjbGFzc05hbWUgPSBhd2FpdCB0aGlzLmNsaWVudC4kKGxvY2F0b3JzLnNlc3Npb24ucHJvY01lc3NhZ2UpLnRoZW4oKGVsZWtrKSlnZXRBdHRyaWJ1dGUoJ2NsYXNzJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50V2lkdGgsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHRlc3Qgc3RhcnQKCiAgICAgICAgICAvLyBpbml0IGxvZyBjb250YWluZXIgZm9yIHJlY2V2aWUgdmFsaWRhdGlvbiByZXN1bHQKICAgICAgICAgIHRoaXMuJGxvZ2JveC5pbml0KFNldHRpbmdTdG9yYWdlLnNldHRpbmdzRGF0YS52YXJpYWJsZXMuY2xpZW50cykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHNvbWUgdmFsaWRhdGlvbiByZXN1bHQgd2lsbCBiZSBhZGQgdG8gdGhlIGxvZyBib3gKICAgICAgICAgIC8vIGNsZWFuIGFuZCBpbml0IHRoZSBsb2cgY29udGFpbmVyIGJlZm9yZSB2YWxpZGF0aW9uCiAgICAgICAgICB0aGlzLiRsb2dib3guaW5pdChTZXR0aW5nU3RvcmFnZS5zZXR0aW5nc0RhdGEudmFyaWFibGVzLmNsaWVudHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1ldGFkYXRhID0gYXdhaXQgc2hhcnAoY2FudmFzQnVmZmVyKS5tZXRhZGF0YSgpCg==</text>
+        <text encoding="base64">ICAgICAgY3VycmVudERldmljZVBpeGVsUmF0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgY2xpZW50V2lkdGgsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>turnIn</last-search>
+      <last-offset />
+      <last-pattern>turnIn</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>turnIn</entry>
+      </history-search>
       <history-cmd>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
