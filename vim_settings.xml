@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" timestamp="1554145783288">
         <mark key="'" line="537" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1554149203552">
+      <file name="/JavaScript Console" timestamp="1554221049571">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/qabot/data-extraction.vue" timestamp="1553884849530">
@@ -41,6 +41,7 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1554221022904" />
     </filemarks>
     <jumps>
       <jump line="520" column="11" filename="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" />
