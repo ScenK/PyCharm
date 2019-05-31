@@ -18,6 +18,13 @@
       <file name="/JavaScript Console" timestamp="1554241807301">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/runner-manager.ts" timestamp="1559328473275">
+        <mark key="'" line="62" column="16" />
+        <mark key="[" line="169" column="66" />
+        <mark key="]" line="169" column="66" />
+        <mark key="^" line="169" column="66" />
+        <mark key="." line="169" column="66" />
+      </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/qabot/data-extraction.vue" timestamp="1553884849530">
         <mark key="[" line="533" column="0" />
         <mark key="]" line="533" column="0" />
@@ -66,6 +73,7 @@
       <jump line="519" column="0" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
       <jump line="559" column="4" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
+      <jump line="62" column="16" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/runner-manager.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -75,7 +83,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>turnIn</text>
+        <text>23123</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgIGlmICghY2xhc3NOYW1lLmluY2x1ZGVzKCdpbnZpc2libGUnKSkgewogICAgICAgIC8vICAgICB0aGlzLmVycm9yKCdDdXJyZW50IHNlc3Npb24gcHJvY3RvciBwYXNzd29yZCBpcyBub3QgY29ycmVjdCcpCiAgICAgICAgLy8gICB9Cg==</text>
@@ -112,15 +120,17 @@
       </register>
     </registers>
     <search>
-      <last-search>turnIn</last-search>
+      <last-search>23123</last-search>
       <last-offset />
-      <last-pattern>turnIn</last-pattern>
+      <last-pattern>23123</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>turnIn</entry>
+        <entry>runner</entry>
+        <entry>23123</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
