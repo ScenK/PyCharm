@@ -8,7 +8,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor.ts" timestamp="1560371826648" />
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/qabot/data-extraction.vue" timestamp="1553884849530">
         <mark key="[" line="533" column="0" />
         <mark key="]" line="533" column="0" />
@@ -20,13 +19,6 @@
         <mark key="." line="1" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/prediction/provider-qabot-all-score-groups.ts" timestamp="1560355757062" />
-      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" timestamp="1560365824053">
-        <mark key="'" line="537" column="11" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="108" column="21" />
-        <mark key="." line="146" column="0" />
-      </file>
       <file name="/JavaScript Console" timestamp="1560371403776">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,13 +53,6 @@
         <mark key="[" line="241" column="0" />
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1560371463876">
-        <mark key="'" line="640" column="0" />
-        <mark key="[" line="530" column="0" />
-        <mark key="]" line="530" column="0" />
-        <mark key="." line="530" column="0" />
-        <mark key="^" line="526" column="31" />
       </file>
     </filemarks>
     <jumps>
