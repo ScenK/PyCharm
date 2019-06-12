@@ -8,6 +8,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor.ts" timestamp="1560371826648" />
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/qabot/data-extraction.vue" timestamp="1553884849530">
         <mark key="[" line="533" column="0" />
         <mark key="]" line="533" column="0" />
@@ -20,13 +21,13 @@
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/prediction/provider-qabot-all-score-groups.ts" timestamp="1560355757062" />
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" timestamp="1560365824053">
-        <mark key="'" line="524" column="11" />
+        <mark key="'" line="537" column="11" />
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="^" line="108" column="21" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1560356742218">
+      <file name="/JavaScript Console" timestamp="1560371403776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/runner-manager.ts" timestamp="1559328473275">
@@ -61,8 +62,8 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1554241916970">
-        <mark key="'" line="559" column="4" />
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1560371463876">
+        <mark key="'" line="640" column="0" />
         <mark key="[" line="530" column="0" />
         <mark key="]" line="530" column="0" />
         <mark key="." line="530" column="0" />
@@ -75,6 +76,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
       <jump line="559" column="4" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
       <jump line="62" column="16" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/runner-manager.ts" />
+      <jump line="640" column="0" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -84,7 +86,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>23123</text>
+        <text>takepre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgIGlmICghY2xhc3NOYW1lLmluY2x1ZGVzKCdpbnZpc2libGUnKSkgewogICAgICAgIC8vICAgICB0aGlzLmVycm9yKCdDdXJyZW50IHNlc3Npb24gcHJvY3RvciBwYXNzd29yZCBpcyBub3QgY29ycmVjdCcpCiAgICAgICAgLy8gICB9Cg==</text>
@@ -121,17 +123,18 @@
       </register>
     </registers>
     <search>
-      <last-search>23123</last-search>
+      <last-search>takepre</last-search>
       <last-offset />
-      <last-pattern>23123</last-pattern>
+      <last-pattern>takepre</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>turnIn</entry>
         <entry>runner</entry>
         <entry>23123</entry>
+        <entry>takepre</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
