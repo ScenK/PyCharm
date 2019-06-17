@@ -27,11 +27,19 @@
         <mark key="]" line="1" column="54" />
         <mark key="." line="1" column="54" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/modules/iqbot/runner.ts" timestamp="1560788759852">
+        <mark key="[" line="658" column="6" />
+        <mark key="]" line="658" column="11" />
+        <mark key="." line="658" column="11" />
+        <mark key="^" line="658" column="11" />
+      </file>
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/prediction/provider-qabot-all-score-groups.ts" timestamp="1560788003476">
         <mark key="[" line="161" column="94" />
         <mark key="]" line="161" column="94" />
         <mark key="." line="161" column="94" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/modules/common/excel/login-file-operator.ts" timestamp="1560788555112" />
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" timestamp="1560788401018" />
       <file name="/JavaScript Console" timestamp="1560371403776">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,7 +103,7 @@
         <text encoding="base64">cmVhZG9ubHkg</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>takepre</text>
@@ -159,6 +167,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
