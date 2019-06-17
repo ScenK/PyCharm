@@ -8,19 +8,37 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor.ts" timestamp="1560788092981">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/renderer/components/pages/qabot/data-extraction.vue" timestamp="1553884849530">
         <mark key="[" line="533" column="0" />
         <mark key="]" line="533" column="0" />
         <mark key="." line="533" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/runner.ts" timestamp="1560787850101">
+        <mark key="'" line="100" column="73" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/utils/log-decorator.ts" timestamp="1553203505397">
         <mark key="[" line="1" column="54" />
         <mark key="]" line="1" column="54" />
         <mark key="." line="1" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/prediction/provider-qabot-all-score-groups.ts" timestamp="1560355757062" />
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/prediction/provider-qabot-all-score-groups.ts" timestamp="1560788003476">
+        <mark key="[" line="161" column="94" />
+        <mark key="]" line="161" column="94" />
+        <mark key="." line="161" column="94" />
+      </file>
       <file name="/JavaScript Console" timestamp="1560371403776">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" timestamp="1560788163594">
+        <mark key="[" line="235" column="14" />
+        <mark key="]" line="235" column="14" />
+        <mark key="." line="235" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/runner-manager.ts" timestamp="1559328473275">
         <mark key="'" line="62" column="16" />
@@ -54,6 +72,13 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" timestamp="1560787890743">
+        <mark key="'" line="995" column="0" />
+        <mark key="[" line="1013" column="0" />
+        <mark key="]" line="1013" column="0" />
+        <mark key="^" line="810" column="15" />
+        <mark key="." line="1013" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="520" column="11" filename="$USER_HOME$/Develop/iQBot-Client/src/core/extractor/extractor-qabot.ts" />
@@ -62,13 +87,15 @@
       <jump line="559" column="4" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
       <jump line="62" column="16" filename="$USER_HOME$/Develop/iQBot-Controller/src/main/runner-manager.ts" />
       <jump line="640" column="0" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
+      <jump line="100" column="73" filename="$USER_HOME$/Develop/iQBot-Client/src/core/runner.ts" />
+      <jump line="995" column="0" filename="$USER_HOME$/Develop/iQBot-Client/src/core/workflow.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">cmVhZG9ubHkg</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>takepre</text>
@@ -77,31 +104,31 @@
         <text encoding="base64">ICAgICAgICAvLyAgIGlmICghY2xhc3NOYW1lLmluY2x1ZGVzKCdpbnZpc2libGUnKSkgewogICAgICAgIC8vICAgICB0aGlzLmVycm9yKCdDdXJyZW50IHNlc3Npb24gcHJvY3RvciBwYXNzd29yZCBpcyBub3QgY29ycmVjdCcpCiAgICAgICAgLy8gICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBSZXBvcnQgdGhlIHRlc3Rpbmcgc2Vzc2lvbiBzdGF0dXMod2FybmluZyBjb3VudHMpCiAgICogU2hvdWxkIGJlIGNhbGxlZCBieSBhIHVzZXIgcG9zaXRpdmUgc3RvcAogICAqCiAgICogQG1lbWJlcm9mIFdvcmtmbG93CiAgICovCiAgZmluYWxpemUoKSB7CiAgICAvLyBpZiBhIHNlc3Npb24gaXMgYWxyZWFkeSBmaW5pc2hlZCBvciBub3Qgc3RhcnRlZAogICAgLy8gc2tpcCByZXBvcnRpbmcgdGhlIHNlc3Npb24gc3RhdHVzCiAgICBpZiAoIXRoaXMuY3VycmVudFNlc3Npb24uc2Vzc2lvbikgewogICAgICByZXR1cm4KICAgIH0KCiAgICBpZiAoIXRoaXMuY3VycmVudFNlc3Npb24uc2Vzc2lvbi5zZXNzaW9uR1VJRCkgewogICAgICByZXR1cm4KICAgIH0KCiAgICB0aGlzLnNlbGZFbWl0KElRQk9UX0VWRU5UUy5DTElFTlRfU0VTU0lPTl9GSU5JU0hFRCwgewogICAgICBlcnJvclR5cGU6IFRBU0tfRVJST1JTLlNUT1BQRURfQllfVVNFUgogICAgfSkKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICB0aGlzLmZvcm1EYXRhID0gewogICAgICBmb3JtSUQ6ICcnLAogICAgICBzZXNzaW9uSWQ6IC0xLAogICAgICBzZXNzaW9uTmFtZTogJycsCiAgICAgIHNlc3Npb25EaXJlY3Rpb25zOiAnJywKICAgICAgcXVlc3Rpb25OdW1iZXI6ICcnLAogICAgICBpdGVtSUQ6ICcnLAogICAgICBpdGVtTmFtZTogJycsCiAgICAgIHN0aW11bGlBY3RpdmU6IFtdCiAgICB9CiAgICAqLwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICB0aGlzLmZvcm1EYXRhID0gewogICAgICBmb3JtSUQ6ICcnLAogICAgICBzZXNzaW9uSWQ6IC0xLAogICAgICBzZXNzaW9uTmFtZTogJycsCiAgICAgIHNlc3Npb25EaXJlY3Rpb25zOiAnJywKICAgICAgcXVlc3Rpb25OdW1iZXI6ICcnLAogICAgICBpdGVtSUQ6ICcnLAogICAgICBpdGVtTmFtZTogJycsCiAgICAgIHN0aW11bGlBY3RpdmU6IFtdCiAgICB9CiAgICAqLwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYnlwYXNzID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHRoaXMuYnlwYXNzID0gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAoPGFueT50aGlzKS5jbGllbnQuZ2V0QXR0cmlidXRlKGxvY2F0b3JzLnNlc3Npb24ucHJvY01lc3NhZ2UsICdjbGFzcycpLnRoZW4oKGNsYXNzTmFtZTogYW55KSA9PiB7CiAgICAgICAgLy8gICBpZiAoIWNsYXNzTmFtZS5pbmNsdWRlcygnaW52aXNpYmxlJykpIHsKICAgICAgICAvLyAgICAgdGhpcy5lcnJvcignQ3VycmVudCBzZXNzaW9uIHByb2N0b3IgcGFzc3dvcmQgaXMgbm90IGNvcnJlY3QnKQogICAgICAgIC8vICAgfQogICAgICAgIC8vIH0pCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYnlwYXNzID0gdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvblByb2NNc2cuZ2V0QXR0cmlidXRlKCdjbGFzcycpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAoPGFueT50aGlzKS5jbGllbnQuZ2V0QXR0cmlidXRlKGxvY2F0b3JzLnNlc3Npb24ucHJvY01lc3NhZ2UsICdjbGFzcycpLnRoZW4oKGNsYXNzTmFtZTogYW55KSA9PiB7CiAgICAgICAgLy8gICBpZiAoIWNsYXNzTmFtZS5pbmNsdWRlcygnaW52aXNpYmxlJykpIHsKICAgICAgICAvLyAgICAgdGhpcy5lcnJvcignQ3VycmVudCBzZXNzaW9uIHByb2N0b3IgcGFzc3dvcmQgaXMgbm90IGNvcnJlY3QnKQogICAgICAgIC8vICAgfQogICAgICAgIC8vIH0pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgc2Vzc2lvblByb2NNc2cuZ2V0QXR0cmlidXRlKCdjbGFzcycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjbGFzc05hbWUgPSBhd2FpdCB0aGlzLmNsaWVudC4kKGxvY2F0b3JzLnNlc3Npb24ucHJvY01lc3NhZ2UpLnRoZW4oKGVsZWtrKSlnZXRBdHRyaWJ1dGUoJ2NsYXNzJykK</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvblByb2NNc2cuZ2V0QXR0cmlidXRlKCdjbGFzcycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
@@ -112,7 +139,7 @@
       <last-offset />
       <last-pattern>takepre</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
