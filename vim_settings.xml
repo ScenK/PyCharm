@@ -22,6 +22,12 @@
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/runner.ts" timestamp="1560787850101">
         <mark key="'" line="100" column="73" />
       </file>
+      <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/modules/common/excel/response-file-operator.ts" timestamp="1563380556791">
+        <mark key="[" line="47" column="2" />
+        <mark key="]" line="47" column="9" />
+        <mark key="^" line="47" column="9" />
+        <mark key="." line="47" column="9" />
+      </file>
       <file name="$USER_HOME$/Develop/iQBot-Client/src/core/utils/log-decorator.ts" timestamp="1553203505397">
         <mark key="[" line="1" column="54" />
         <mark key="]" line="1" column="54" />
@@ -38,8 +44,6 @@
         <mark key="]" line="161" column="94" />
         <mark key="." line="161" column="94" />
       </file>
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/modules/common/excel/login-file-operator.ts" timestamp="1560788555112" />
-      <file name="$USER_HOME$/Develop/iQBot-Controller/src/main/app-updater.ts" timestamp="1560788401018" />
       <file name="/JavaScript Console" timestamp="1560371403776">
         <mark key="[" line="0" column="0" />
       </file>
